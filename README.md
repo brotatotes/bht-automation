@@ -12,7 +12,7 @@ The structure of this folder is:
 commentary -> [commentator] -> [book] -> [chapter] -> [verse.txt]
 
 For example,
-`commentary/Albert Barnes/2 Peter/Chater 1/Verse 19.txt` would contain the Barnes commentary on 2 Peter 1:19. You 
+`commentary/Albert Barnes/2 Peter/Chater 1/Verse 19.txt` would contain the Barnes commentary on 2 Peter 1:19. 
 
 ## 2. Make sure you have a "gpt prompts" folder.
 The structure of this folder is:
