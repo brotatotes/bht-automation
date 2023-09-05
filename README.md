@@ -17,7 +17,7 @@ For example,
 ## 2. Make sure you have a "gpt prompts" folder.
 The structure of this folder is:
 
-gpt prompts -> bht -> bht prompt.txt
+gpt prompts -> bht -> bht prompt.\
 gpt prompts -> choicest -> choicest prompt.txt
 
 This is where the ChatGPT prompts will are used to ask ChatGPT to perform the task.

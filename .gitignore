@@ -1,5 +1,6 @@
 # Ignore Visual Studio Code settings
 .vscode/
+gpt output/
 
 # Ignore user-specific files
 *.suo
