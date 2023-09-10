@@ -181,7 +181,8 @@ def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
 
     chat_completion = openai.ChatCompletion.create(
         model="gpt-3.5-turbo", 
-        messages=messages
+        messages=messages,
+        # temperature=0
     )
 
     return chat_completion.choices[0].message["content"]
@@ -224,11 +225,12 @@ def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators):
 
 if __name__ == '__main__':
     COMMENTATORS = ["Henry Alford", "Jamieson Fausset Brown", "Albert Barnes", "Marvin Vincent", "John Calvin", "Philip Schaff", "Archibald T Robertson", "Adam Clarke", "John Nelson Darby",]
+
     # VERSES = ["2 Peter 1:19", "Ephesians 1:22"]
-    CHOICEST_PROMPTS = ["choicest prompt v1"]
-    BHT_PROMPTS = ["bht prompt v1"]
     VERSES = [f"Philemon 1:{i+1}" for i in range(25)] 
     # VERSES = ["Philemon 1:6"]
+    # VERSES = [f"Revelation 1:{i+1}" for i in range(11, 16)]
+    print(VERSES)
 
-    # record_gpt_choicest(VERSES, CHOICEST_PROMPTS, COMMENTATORS) 
-    record_gpt_bht(VERSES, CHOICEST_PROMPTS, BHT_PROMPTS, COMMENTATORS)
+    # record_gpt_choicest(VERSES, ["choicest prompt v1"], COMMENTATORS) 
+    record_gpt_bht(VERSES, ["choicest prompt v2"], ["bht prompt v3"], COMMENTATORS)

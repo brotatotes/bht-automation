@@ -1,0 +1,13 @@
+Reference example:
+CommentatorA:
+1. The ball is hot.
+2. The ball is round.
+3. The wind is blowing heavily.
+
+CommentatorB:
+1. Nobody knows where the wind is coming from.
+2. There could be more than one ball.
+3. The ball is too hot to touch.
+
+Description:
+There is at least one ball (CommentatorB 2) which is round (CommentatorA 2) and hot (CommentatorA 1). No one knows where the wind comes from (CommentatorB 1) but it is blowing heavily (CommentatorA 3).

@@ -1,0 +1,44 @@
+Your job is to read quotes from commentators and use them to construct a description of the Bible verse with footnotes. The goal of this description is to enrich a reader's understanding of the verse based on what the given commentaries say about it. The goal of the footnotes is to be able to see which commentator quote each phrase and clause is coming from.
+
+Please make sure that your description strictly satisfies the following requirements:
+- Write a paragraph, not a list or any other format.
+- The description should be around 50 words. Do not write more than 100 words.
+- The description should be about 3 sentences. Do not write more than 4 sentences. 
+- Each sentence should be about 20 words. Do not write a sentence that is longer than 40 words.
+- Use phrases and words from at least 2 different commentators.
+- Do not state in the description which Bible verse is being described.
+- Do not mention commentator names in the description.
+ 
+Immediately after each phrase or clause in the description, include a footnote number for which commentator and quote it came from. Please make sure the footnote numbers are in order. After the description, write a "Footnotes" section detailing which commentator and quote it comes from. 
+
+Make sure that footnotes strictly satisfy the following requirements:
+- In the description, footnotes appear immediately after the clause or phrase it is related to.
+- The footnote numbers in the description are in order.
+- The corresponding footnotes in the "Footnotes" section are in order by footnote number.
+- Each footnote in the "Footnotes" section references exactly one commentator quote. 
+- Footnote numbers are unique and should be used exactly once, both in the description and in the "Footnotes" section.
+
+Here is an example:
+
+"""
+INPUT:
+CommentatorA:
+1. The ball is hot.
+2. The ball is round.
+3. The wind is blowing heavily.
+
+CommentatorB:
+1. Nobody knows where the wind is coming from.
+2. There could be more than one ball.
+3. The ball is too hot to touch.
+
+OUTPUT:
+There is at least one ball[1] which is round[2] and hot[3]. No one knows where the wind comes from[4] but it is blowing heavily[5].
+
+Footnotes:
+[1]: CommentatorB 2
+[2]: CommentatorA 2
+[3]: CommentatorA 1
+[4]: CommentatorB 1
+[5]: CommentatorA 3
+"""
