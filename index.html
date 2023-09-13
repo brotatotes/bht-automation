@@ -1,1 +1,74 @@
-Test
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>bht demo</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <label for="cars">Choose verse:</label>
+
+    <select name="book" id="book">
+        <option value="Matthew">Matthew</option>
+        <option value="Mark">Mark</option>
+        <option value="Luke">Luke</option>
+        <option value="John">John</option>
+        <option value="Acts">Acts</option>
+        <option value="Romans">Romans</option>
+        <option value="1 Corinthians">1 Corinthians</option>
+        <option value="2 Corinthians">2 Corinthians</option>
+        <option value="Galatians">Galatians</option>
+        <option value="Ephesians">Ephesians</option>
+        <option value="Philippians">Philippians</option>
+        <option value="Colossians">Colossians</option>
+        <option value="1 Thessalonians">1 Thessalonians</option>
+        <option value="2 Thessalonians">2 Thessalonians</option>
+        <option value="1 Timothy">1 Timothy</option>
+        <option value="2 Timothy">2 Timothy</option>
+        <option value="Titus">Titus</option>
+        <option value="Philemon">Philemon</option>
+        <option value="Hebrews">Hebrews</option>
+        <option value="James">James</option>
+        <option value="1 Peter">1 Peter</option>
+        <option value="2 Peter">2 Peter</option>
+        <option value="1 John">1 John</option>
+        <option value="2 John">2 John</option>
+        <option value="3 John">3 John</option>
+        <option value="Jude">Jude</option>
+        <option value="Revelation">Revelation</option>
+    </select>
+    <input type="number" id="chapter" name="chapter" min="1" max="100" value="1">
+    <input type="number" id="verse" name="verse" min="1" max="1000" value="1">
+    <input type="button" value="Go" onclick="go()"/>
+
+    <div id="fileContent"></div>
+
+    <script>
+        function go() {
+            const book = document.getElementById("book").value;
+            const chapter = document.getElementById("chapter").value;
+            const verse = document.getElementById("verse").value;
+            const file_path = `bht gen 1/${book}/Chapter ${chapter}/${book} ${chapter} ${verse} bht.md`;
+            
+            const fileContentDiv = document.getElementById('fileContent');
+
+            fetch(file_path) // Specify the path to your text file
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.text();
+                })
+                .then(data => {
+                    // Display the content of the file
+                    fileContentDiv.textContent = data;
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        }
+    </script>
+  </body>
+</html>
