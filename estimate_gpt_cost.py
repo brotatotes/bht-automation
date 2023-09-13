@@ -85,28 +85,28 @@ table_book = tabulate.tabulate(data, headers, tablefmt="grid")
 print(table_book)
 
 
-headers = ["commentator", "book", "tokens", "est. $"]
+# headers = ["commentator", "book", "tokens", "est. $"]
 
-data = []
-for commentator_book, count in token_counts_by_commentator_and_book.items():
-    commentator, book = commentator_book.split(',')
-    data.append([commentator, book, count, count * 0.0015 / 1000.0])
+# data = []
+# for commentator_book, count in token_counts_by_commentator_and_book.items():
+#     commentator, book = commentator_book.split(',')
+#     data.append([commentator, book, count, count * 0.0015 / 1000.0])
 
-table_commentator_book = tabulate.tabulate(data, headers, tablefmt="grid")
+# table_commentator_book = tabulate.tabulate(data, headers, tablefmt="grid")
 
-print(table_commentator_book)
+# print(table_commentator_book)
 
 
-headers = ["book", "chapter", "tokens", "est. $"]
+# headers = ["book", "chapter", "tokens", "est. $"]
 
-data = []
-for book_chapter, count in token_counts_by_chapter.items():
-    book, chapter = book_chapter.split(',')
-    data.append([book, chapter, count, count * 0.0015 / 1000.0])
+# data = []
+# for book_chapter, count in token_counts_by_chapter.items():
+#     book, chapter = book_chapter.split(',')
+#     data.append([book, chapter, count, count * 0.0015 / 1000.0])
 
-table_book_chapter = tabulate.tabulate(data, headers, tablefmt="grid")
+# table_book_chapter = tabulate.tabulate(data, headers, tablefmt="grid")
 
-print(table_book_chapter)
+# print(table_book_chapter)
 
 
 outfilename = "cost-estimates.txt"
@@ -116,6 +116,6 @@ with open(outfilename, 'w') as outfile:
     outfile.write('\n')
     outfile.write(table_book)
     outfile.write('\n')
-    outfile.write(table_commentator_book)
-    outfile.write('\n')
-    outfile.write(table_book_chapter)
+    # outfile.write(table_commentator_book)
+    # outfile.write('\n')
+    # outfile.write(table_book_chapter)

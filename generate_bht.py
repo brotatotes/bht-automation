@@ -137,11 +137,10 @@ def ask_gpt_choicest(commentator, verse_ref, choicest_prompt):
 
     return chat_completion.choices[0].message["content"]
 
-
-def record_gpt_choicest(verse_refs, choicest_prompts, commentators):
-    for verse_ref in verse_refs:    
-        for commentator in commentators:        
+def record_gpt_choicest(verse_ref, choicest_prompts, commentators):
+    for commentator in commentators:        
             for choicest_prompt in choicest_prompts:
+
                 print(f"Asking ChatGPT to get choicest for {commentator} for {verse_ref} for {choicest_prompt}...", end='')
                 
                 book, chapter, verse = get_book_chapter_verse(verse_ref)
@@ -200,39 +199,44 @@ def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
     return chat_completion.choices[0].message["content"]
     
 
-def record_gpt_bht(verse_refs, choicest_prompts, bht_prompts, commentators):
-    for verse_ref in verse_refs:
-        for choicest_prompt in choicest_prompts:
-            for bht_prompt in bht_prompts:
-                book, chapter, verse = get_book_chapter_verse(verse_ref)
+def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
+    for choicest_prompt in choicest_prompts:
+        for bht_prompt in bht_prompts:
+            book, chapter, verse = get_book_chapter_verse(verse_ref)
 
-                out_path = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
+            out_path = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
 
-                if os.path.exists(out_path):
-                    print(f"File already exists. Skipping. {out_path}")
-                    continue
+            if os.path.exists(out_path):
+                print(f"File already exists. Skipping. {out_path}")
+                continue
 
-                print(f"Asking ChatGPT to get bht for {verse_ref} via {choicest_prompt} X {bht_prompt} for {commentators}...", end='')
+            print(f"Asking ChatGPT to get bht for {verse_ref} via {choicest_prompt} X {bht_prompt} for {commentators}...", end='')
 
+            bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
+            while len(bht.split()) > 100:
+                print(f"\n***BHT WAS OVER 100 WORDS! Regenerating {verse_ref}***\n")
                 bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
-                while len(bht.split()) > 100:
-                    print(f"\n***BHT WAS OVER 100 WORDS! Regenerating {verse_ref}***\n")
-                    bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
 
-                print(f"Done! Writing to file: {out_path}\n")
+            print(f"Done! Writing to file: {out_path}\n")
 
-                os.makedirs(os.path.dirname(out_path), exist_ok=True)
+            os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
-                with open(out_path, 'w') as out_file:
-                    out_file.write(f"# {choicest_prompt} X {bht_prompt}; {commentators}\n\n")
+            with open(out_path, 'w') as out_file:
+                out_file.write(f"# {verse_ref} Commentary Help Text\n\n")
+                out_file.write(f"## BHT:\n{bht}\n\n")
 
-                    for commentator, choicest in get_commentary_choicests(verse_ref, choicest_prompt, commentators).items():
-                        out_file.write(f"## {commentator}:\n{choicest}\n\n")
+                out_file.write(f"## Choicest Commentary Quotes:\n")
+                for commentator, choicest in get_commentary_choicests(verse_ref, choicest_prompt, commentators).items():
+                    out_file.write(f"### {commentator}:\n{choicest}\n\n")
 
-                    out_file.write("\n")
-                    out_file.write(f"# BHT:\n{bht}")
+                out_file.write("\n")
 
-                time.sleep(0.017) # follow rate limits
+                out_file.write(f"## Generation Details\n")
+                out_file.write(f"- Choicest Prompt: \"{choicest_prompt}\"\n")
+                out_file.write(f"- BHT Prompt: \"{bht_prompt}\"\n")
+                out_file.write(f"- Commentators: \"{', '.join(commentators)}\"\n")
+
+            time.sleep(0.017) # follow rate limits
 
 
 # Get all choicests and generate the bht from scratch.
@@ -243,8 +247,9 @@ def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=
         return
     
     try:
-        record_gpt_choicest(verse_refs, choicest_prompts, commentators)
-        record_gpt_bht(verse_refs, choicest_prompts, bht_prompts, commentators)
+        for verse_ref in verse_refs:
+            record_gpt_choicest(verse_ref, choicest_prompts, commentators)
+            record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators)
     except Exception as e:
         print(f"An error occurred: {e}")
         print(f"Retrying in a few seconds...")
@@ -254,22 +259,51 @@ def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=
 # MAIN
 
 if __name__ == '__main__':
-    COMMENTATORS = ["Henry Alford", "Jamieson Fausset Brown", "Albert Barnes", "Marvin Vincent", "John Calvin", "Philip Schaff", "Archibald T Robertson", "Adam Clarke",]
+    COMMENTATORS = [
+        "Henry Alford",
+        "Jamieson Fausset Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T Robertson",
+        "John Gill",
+        "John Wesley"
+        ]
+    
+    # books = [
+    #     BibleRange("Romans 8:1-11")
+    # ]
 
-    # VERSES = ["2 Peter 1:19", "Ephesians 1:22"]
-    # VERSES = BibleRange("Philemon")
-    # VERSES = BibleRange("Romans")
+    books = [BibleRange(b) for b in [
+        # "Matthew",
+        # "Mark",
+        # "Luke",
+        # "John",
+        # "Acts",
+        # "Romans",
+        # "1 Corinthians",
+        # "2 Corinthians",
+        # "Galatians",
+        # "Ephesians",
+        # "Philippians",
+        # "Colossians",
+        # "1 Thessalonians",
+        # "2 Thessalonians",
+        # "1 Timothy",
+        # "2 Timothy",
+        # "Titus",
+        # "Philemon",
+        # "Hebrews",
+        # "James",
+        # "1 Peter",
+        # "2 Peter",
+        # "1 John",
+        "2 John",
+        "3 John",
+        "Jude",
+        # "Revelation",
+        ]]
 
-    books = [
-        BibleRange("Philemon"),
-        BibleRange("1 Peter"),
-        BibleRange("2 John"),
-        BibleRange("3 John"),
-        BibleRange("Jude"),
-        BibleRange("Ephesians"),
-        BibleRange("1 John"),
-        BibleRange("Titus"),
-        BibleRange("Romans"),
-        BibleRange("Mark")]
     for book in books:
         generate_bht(book, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
