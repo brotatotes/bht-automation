@@ -259,6 +259,6 @@ if __name__ == '__main__':
     # VERSES = BibleRange("Philemon")
     # VERSES = BibleRange("Romans")
 
-    books = [BibleRange("Philemon"), BibleRange("1 Peter"), BibleRange("2 John"), BibleRange("3 John"), BibleRange("Romans")]
+    books = [BibleRange("Philemon"), BibleRange("1 Peter"), BibleRange("2 John"), BibleRange("3 John"), BibleRange("Jude"), BibleRange("Romans")]
     for book in books:
         generate_bht(book, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
