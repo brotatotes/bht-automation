@@ -12,33 +12,33 @@
     <label for="Verse">Choose verse:</label>
 
     <select name="book" id="book">
-        <option value="Matthew">Matthew</option>
-        <option value="Mark">Mark</option>
-        <option value="Luke">Luke</option>
-        <option value="John">John</option>
-        <option value="Acts">Acts</option>
-        <option value="Romans">Romans</option>
-        <option value="1 Corinthians">1 Corinthians</option>
-        <option value="2 Corinthians">2 Corinthians</option>
-        <option value="Galatians">Galatians</option>
-        <option value="Ephesians">Ephesians</option>
-        <option value="Philippians">Philippians</option>
-        <option value="Colossians">Colossians</option>
-        <option value="1 Thessalonians">1 Thessalonians</option>
-        <option value="2 Thessalonians">2 Thessalonians</option>
-        <option value="1 Timothy">1 Timothy</option>
-        <option value="2 Timothy">2 Timothy</option>
-        <option value="Titus">Titus</option>
+        <!-- <option value="Matthew">Matthew</option> -->
+        <!-- <option value="Mark">Mark</option> -->
+        <!-- <option value="Luke">Luke</option> -->
+        <!-- <option value="John">John</option> -->
+        <!-- <option value="Acts">Acts</option> -->
+        <!-- <option value="Romans">Romans</option> -->
+        <!-- <option value="1 Corinthians">1 Corinthians</option> -->
+        <!-- <option value="2 Corinthians">2 Corinthians</option> -->
+        <!-- <option value="Galatians">Galatians</option> -->
+        <!-- <option value="Ephesians">Ephesians</option> -->
+        <!-- <option value="Philippians">Philippians</option> -->
+        <!-- <option value="Colossians">Colossians</option> -->
+        <!-- <option value="1 Thessalonians">1 Thessalonians</option> -->
+        <!-- <option value="2 Thessalonians">2 Thessalonians</option> -->
+        <!-- <option value="1 Timothy">1 Timothy</option> -->
+        <!-- <option value="2 Timothy">2 Timothy</option> -->
+        <!-- <option value="Titus">Titus</option> -->
         <option value="Philemon">Philemon</option>
-        <option value="Hebrews">Hebrews</option>
-        <option value="James">James</option>
+        <!-- <option value="Hebrews">Hebrews</option> -->
+        <!-- <option value="James">James</option> -->
         <option value="1 Peter">1 Peter</option>
-        <option value="2 Peter">2 Peter</option>
-        <option value="1 John">1 John</option>
-        <option value="2 John">2 John</option>
-        <option value="3 John">3 John</option>
-        <option value="Jude">Jude</option>
-        <option value="Revelation">Revelation</option>
+        <!-- <option value="2 Peter">2 Peter</option> -->
+        <!-- <option value="1 John">1 John</option> -->
+        <!-- <option value="2 John">2 John</option> -->
+        <!-- <option value="3 John">3 John</option> -->
+        <!-- <option value="Jude">Jude</option> -->
+        <!-- <option value="Revelation">Revelation</option> -->
     </select>
     <input type="number" id="chapter" name="chapter" min="1" max="100" value="1">
     <input type="number" id="verse" name="verse" min="1" max="1000" value="1">
@@ -58,7 +58,7 @@
             fetch(file_path) // Specify the path to your text file
                 .then(response => {
                     if (!response.ok) {
-                        fileContentDiv.textContent = `${book} ${chapter}:${verse} could not be found. Either you spelled something wrong or it hasn't been generated yet...`;
+                        fileContentDiv.textContent = `${book} ${chapter}:${verse} could not be found.\nEither you entered something wrong or it hasn't been generated yet...`;
                         throw new Error('Network response was not ok');
                     }
                     return response.text();
