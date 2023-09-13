@@ -14,7 +14,7 @@ PROMPTS_FOLDER = "gpt prompts"
 OUTPUT_FOLDER = "gpt output"
 CHOICEST_FOLDER_NAME = "choicest"
 BHT_FOLDER_NAME = "bht"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = open('openai-api-key.txt', 'r').read().strip()
 
 # HELPER FUNCTIONS
 

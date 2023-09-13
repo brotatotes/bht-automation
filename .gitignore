@@ -1,6 +1,7 @@
 # Ignore Visual Studio Code settings
 .vscode/
 gpt output/
+openai-api-key.txt
 
 # Ignore user-specific files
 *.suo
