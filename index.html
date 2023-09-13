@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>bht demo</title>
-    <link rel="stylesheet" href="style.css">
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   </head>
   <body>
-    <label for="cars">Choose verse:</label>
+    <label for="Verse">Choose verse:</label>
 
     <select name="book" id="book">
         <option value="Matthew">Matthew</option>
@@ -57,13 +58,13 @@
             fetch(file_path) // Specify the path to your text file
                 .then(response => {
                     if (!response.ok) {
+                        fileContentDiv.textContent = `${book} ${chapter}:${verse} could not be found. Either you spelled something wrong or it hasn't been generated yet...`;
                         throw new Error('Network response was not ok');
                     }
                     return response.text();
                 })
                 .then(data => {
-                    // Display the content of the file
-                    fileContentDiv.textContent = data;
+                    fileContentDiv.innerHTML = marked.parse(data);
                 })
                 .catch(error => {
                     console.error('Error:', error);
