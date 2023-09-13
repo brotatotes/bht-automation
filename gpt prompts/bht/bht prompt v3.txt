@@ -1,10 +1,10 @@
 Your job is to read quotes from commentators and use them to construct a description of the Bible verse. The goal of this description is to enrich a reader's understanding of the verse based on what the given commentaries say about it.
 
-Please make sure that your description strictly satisfies the following requirements:
-- Write a paragraph, not a list or any other format.
-- The description should be around 50 words. Do not write more than 100 words.
-- The description should be about 3 sentences. Do not write more than 4 sentences. 
-- Each sentence should be about 20 words. Do not write a sentence that is longer than 40 words.
-- Use phrases and words from at least 2 different commentators.
-- Do not state in the description which Bible verse is being described.
-- Do not mention commentator names in the description.
+Make sure that your description strictly satisfies all of the following requirements and restrictions:
+- Format: Write a paragraph, not a list or any other format.
+- Word Count: The description should be around 50 words. Do not exceed 80 words.
+- Sentence Count: The description should be about 3 sentences. Do not exceed 4 sentences. 
+- Sentence Length: Do not exceed 40 words for any single sentence.
+- Content: Use phrases and words from at least 2 different commentators.
+- Restriction on mentioning Bible verse: Do not state in the description which Bible verse is being described.
+- Restriction on commentator names: Do not mention commentator names in the description.

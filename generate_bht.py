@@ -3,6 +3,8 @@
 import openai
 import os
 import tiktoken
+import time
+from bibleref import BibleRange
 
 # GLOBALS
 
@@ -17,7 +19,9 @@ OPENAI_API_KEY = "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"
 # HELPER FUNCTIONS
 
 def get_book_chapter_verse(verse_ref):
-    book, chapverse = verse_ref.rsplit(' ', 1)
+    if any([b in str(verse_ref) for b in ["Philemon", "2 John", "3 John", "Jude", "Obadiah"]]):
+        verse_ref = str(verse_ref).replace(" ", " 1:")
+    book, chapverse = str(verse_ref).rsplit(' ', 1)
     chapter, verse = chapverse.split(':')
     return book, chapter, verse
 
@@ -119,7 +123,8 @@ def ask_gpt_choicest(commentator, verse_ref, choicest_prompt):
     try:
         chat_completion = openai.ChatCompletion.create(
             model=model, 
-            messages=messages
+            messages=messages,
+            temperature=0.3
         )
     except openai.error.InvalidRequestError:
         print("*4k didn't work. Trying 16k Context.*")
@@ -147,18 +152,24 @@ def record_gpt_choicest(verse_refs, choicest_prompts, commentators):
 
                 choicest = ask_gpt_choicest(commentator, verse_ref, choicest_prompt)
 
-                print(f"Done! Writing to file: {out_path}")
+                print(f"Done! Writing to file: {out_path}\n")
 
                 os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
                 with open(out_path, 'w') as out_file:
                     out_file.write(choicest)
 
+                time.sleep(0.017) # follow rate limits
+
 
 # Generate BHT! 
 
 def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
     commentator_choicests = get_commentary_choicests(verse_ref, choicest_prompts, commentators)
+
+    if not commentator_choicests:
+        print("No commentary choicests found for {verse_ref}")
+        return ""
 
     prompt_text = get_prompt(BHT_FOLDER_NAME, bht_prompts)
 
@@ -182,7 +193,6 @@ def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
     chat_completion = openai.ChatCompletion.create(
         model="gpt-3.5-turbo", 
         messages=messages,
-        # temperature=0
     )
 
     return chat_completion.choices[0].message["content"]
@@ -192,15 +202,22 @@ def record_gpt_bht(verse_refs, choicest_prompts, bht_prompts, commentators):
     for verse_ref in verse_refs:
         for choicest_prompt in choicest_prompts:
             for bht_prompt in bht_prompts:
+                book, chapter, verse = get_book_chapter_verse(verse_ref)
+
+                out_path = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
+
+                if os.path.exists(out_path):
+                    print(f"File already exists. Skipping. {out_path}")
+                    continue
+
                 print(f"Asking ChatGPT to get bht for {verse_ref} via {choicest_prompt} X {bht_prompt} for {commentators}...", end='')
 
                 bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
+                while len(bht.split()) > 100:
+                    print(f"\n***BHT WAS OVER 100 WORDS! Regenerating {verse_ref}***\n")
+                    bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
 
-                book, chapter, verse = get_book_chapter_verse(verse_ref)
-
-                out_path = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/{book}/Chapter {chapter}/Verse {verse}/{choicest_prompt} X {bht_prompt}.md'
-
-                print(f"Done! Writing to file: {out_path}")
+                print(f"Done! Writing to file: {out_path}\n")
 
                 os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
@@ -213,24 +230,32 @@ def record_gpt_bht(verse_refs, choicest_prompts, bht_prompts, commentators):
                     out_file.write("\n")
                     out_file.write(f"# BHT:\n{bht}")
 
+                time.sleep(0.017) # follow rate limits
+
 
 # Get all choicests and generate the bht from scratch.
 
-def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators):
-    record_gpt_choicest(verse_refs, choicest_prompts, commentators)
-    record_gpt_bht(verse_refs, choicest_prompts, bht_prompts, commentators)
-
+def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=3):
+    if tries >= try_limit:
+        print(f"***Failed {try_limit} times. Quitting.***")
+        return
+    
+    try:
+        record_gpt_choicest(verse_refs, choicest_prompts, commentators)
+        record_gpt_bht(verse_refs, choicest_prompts, bht_prompts, commentators)
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        print(f"Retrying...")
+        generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries + 1)
 
 # MAIN
 
 if __name__ == '__main__':
-    COMMENTATORS = ["Henry Alford", "Jamieson Fausset Brown", "Albert Barnes", "Marvin Vincent", "John Calvin", "Philip Schaff", "Archibald T Robertson", "Adam Clarke", "John Nelson Darby",]
+    COMMENTATORS = ["Henry Alford", "Jamieson Fausset Brown", "Albert Barnes", "Marvin Vincent", "John Calvin", "Philip Schaff", "Archibald T Robertson", "Adam Clarke",]
 
     # VERSES = ["2 Peter 1:19", "Ephesians 1:22"]
-    VERSES = [f"Philemon 1:{i+1}" for i in range(25)] 
-    # VERSES = ["Philemon 1:6"]
-    # VERSES = [f"Revelation 1:{i+1}" for i in range(11, 16)]
-    print(VERSES)
-
-    # record_gpt_choicest(VERSES, ["choicest prompt v1"], COMMENTATORS) 
-    record_gpt_bht(VERSES, ["choicest prompt v2"], ["bht prompt v3"], COMMENTATORS)
+    # VERSES = BibleRange("Philemon")
+    # VERSES = BibleRange("Romans")
+    books = [BibleRange("Philemon"), BibleRange("1 Peter"), BibleRange("Romans")]
+    for book in books:
+        generate_bht(book, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
