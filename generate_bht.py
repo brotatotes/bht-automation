@@ -19,9 +19,11 @@ OPENAI_API_KEY = open('openai-api-key.txt', 'r').read().strip()
 # HELPER FUNCTIONS
 
 def get_book_chapter_verse(verse_ref):
-    if any([b in str(verse_ref) for b in ["Philemon", "2 John", "3 John", "Jude", "Obadiah"]]):
-        verse_ref = str(verse_ref).replace(" ", " 1:")
-    book, chapverse = str(verse_ref).rsplit(' ', 1)
+    verse_ref = str(verse_ref)
+    if any([b in verse_ref for b in ["Philemon", "2 John", "3 John", "Jude", "Obadiah"]]):
+        parts = verse_ref.rsplit(' ', 1)
+        verse_ref = parts[0] + " 1:" + parts[1]
+    book, chapverse = verse_ref.rsplit(' ', 1)
     chapter, verse = chapverse.split(':')
     return book, chapter, verse
 
@@ -256,6 +258,7 @@ if __name__ == '__main__':
     # VERSES = ["2 Peter 1:19", "Ephesians 1:22"]
     # VERSES = BibleRange("Philemon")
     # VERSES = BibleRange("Romans")
-    books = [BibleRange("Philemon"), BibleRange("1 Peter"), BibleRange("Romans")]
+
+    books = [BibleRange("Philemon"), BibleRange("1 Peter"), BibleRange("2 John"), BibleRange("3 John"), BibleRange("Romans")]
     for book in books:
         generate_bht(book, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
