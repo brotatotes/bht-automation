@@ -237,7 +237,7 @@ def record_gpt_bht(verse_refs, choicest_prompts, bht_prompts, commentators):
 
 # Get all choicests and generate the bht from scratch.
 
-def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=3):
+def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=10):
     if tries >= try_limit:
         print(f"***Failed {try_limit} times. Quitting.***")
         return
@@ -247,7 +247,8 @@ def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=
         record_gpt_bht(verse_refs, choicest_prompts, bht_prompts, commentators)
     except Exception as e:
         print(f"An error occurred: {e}")
-        print(f"Retrying...")
+        print(f"Retrying in a few seconds...")
+        time.sleep(5 * tries)
         generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries + 1)
 
 # MAIN
@@ -259,6 +260,16 @@ if __name__ == '__main__':
     # VERSES = BibleRange("Philemon")
     # VERSES = BibleRange("Romans")
 
-    books = [BibleRange("Philemon"), BibleRange("1 Peter"), BibleRange("2 John"), BibleRange("3 John"), BibleRange("Jude"), BibleRange("Romans")]
+    books = [
+        BibleRange("Philemon"),
+        BibleRange("1 Peter"),
+        BibleRange("2 John"),
+        BibleRange("3 John"),
+        BibleRange("Jude"),
+        BibleRange("Ephesians"),
+        BibleRange("1 John"),
+        BibleRange("Titus"),
+        BibleRange("Romans"),
+        BibleRange("Mark")]
     for book in books:
         generate_bht(book, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
