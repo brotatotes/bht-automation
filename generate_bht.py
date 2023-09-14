@@ -5,6 +5,7 @@ import os
 import tiktoken
 import time
 from bibleref import BibleRange
+from timeout_decorator import timeout
 
 # GLOBALS
 
@@ -32,14 +33,14 @@ def get_commentary(commentator, verse_ref):
     file_path = f'{WORKING_DIRECTORY}/{COMMENTARY_FOLDER}/{commentator}/{book}/Chapter {chapter}/Verse {verse}.txt'
     
     if not os.path.exists(file_path):
-        raise Exception(f'No commentary found for {verse_ref} for {commentator}. file_path: {file_path}')
+        raise Exception(f'No commentary found for {verse_ref} for {commentator}.')
     
     file_contents = ""
     with open(file_path, 'r') as file:
         file_contents = file.read()
 
     if not file_contents:
-        raise Exception(f'Commentary entry was blank for {verse_ref} for {commentator}. file_path: {file_path}')
+        raise Exception(f'Commentary entry was blank for {verse_ref} for {commentator}.')
 
     return file_contents
 
@@ -47,14 +48,14 @@ def get_prompt(prompt_folder, prompt_name):
     file_path = f'{WORKING_DIRECTORY}/{PROMPTS_FOLDER}/{prompt_folder}/{prompt_name}.txt'
 
     if not os.path.exists(file_path):
-        raise Exception(f'No prompt found called {prompt_name}. file_path: {file_path}')
+        raise Exception(f'No prompt found called {prompt_name}.')
     
     file_contents = ""
     with open(file_path, 'r') as file:
         file_contents = file.read()
 
     if not file_contents:
-        raise Exception(f'Prompt entry was blank for {prompt_name}. file_path: {file_path}')
+        raise Exception(f'Prompt entry was blank for {prompt_name}.')
 
     return file_contents
 
@@ -76,7 +77,7 @@ def get_commentary_choicests(verse_ref, choicest_prompt, commentators):
             file_contents = file.read()
 
         if not file_contents:
-            print(f'Prompt entry was blank for {commentator} for {choicest_prompt} for {verse_ref}. file path: {commentator_choicest_file}')
+            # print(f'No choicest quotes found for {commentator}.')
             continue
         
         commentator_choicests[commentator] = file_contents
@@ -90,8 +91,8 @@ openai.api_key = OPENAI_API_KEY
 ENCODING = tiktoken.encoding_for_model("gpt-3.5-turbo")
 
 # Generate Choicest Piece
-
-def ask_gpt_choicest(commentator, verse_ref, choicest_prompt):
+@timeout(10)
+def ask_gpt_choicest_timeout(commentator, verse_ref, choicest_prompt):
     try:
         commentary_text = get_commentary(commentator, verse_ref)
     except:
@@ -137,35 +138,46 @@ def ask_gpt_choicest(commentator, verse_ref, choicest_prompt):
 
     return chat_completion.choices[0].message["content"]
 
+def ask_gpt_choicest(commentator, verse_ref, choicest_prompt, tries=0, try_limit=10):
+    if tries >= try_limit:
+        raise Exception(f"***Failed {try_limit} times to get choicest. Quitting.***")
+    
+    try:
+        return ask_gpt_choicest_timeout(commentator, verse_ref, choicest_prompt)
+    except TimeoutError:
+        print(f"Attempt {tries} timed out. Trying again.")
+        return ask_gpt_choicest(commentator, verse_ref, choicest_prompt, tries + 1)
+
+
 def record_gpt_choicest(verse_ref, choicest_prompts, commentators):
     for commentator in commentators:        
             for choicest_prompt in choicest_prompts:
 
-                print(f"Asking ChatGPT to get choicest for {commentator} for {verse_ref} for {choicest_prompt}...", end='')
+                print(f"🟧 {commentator} {choicest_prompt}", end="", flush=True)
                 
                 book, chapter, verse = get_book_chapter_verse(verse_ref)
 
                 out_path = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
 
                 if os.path.exists(out_path):
-                    print(f"File already exists. Skipping. {out_path}")
+                    print(f"\r✅ {commentator} {choicest_prompt} File already exists.", flush=True)
                     continue
 
                 choicest = ask_gpt_choicest(commentator, verse_ref, choicest_prompt)
-
-                print(f"Done! Writing to file: {out_path}\n")
 
                 os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
                 with open(out_path, 'w') as out_file:
                     out_file.write(choicest)
 
-                time.sleep(0.017) # follow rate limits
+                print(f"\r✅ {commentator} {choicest_prompt} Done!", flush=True)
+
+                # time.sleep(0.017) # follow rate limits
 
 
 # Generate BHT! 
-
-def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
+@timeout(10)
+def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentators):
     commentator_choicests = get_commentary_choicests(verse_ref, choicest_prompts, commentators)
 
     if not commentator_choicests:
@@ -197,7 +209,18 @@ def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
     )
 
     return chat_completion.choices[0].message["content"]
+
+
+def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=10):
+    if tries >= try_limit:
+        raise Exception(f"***Failed {try_limit} times to get bht. Quitting.***")
     
+    try:
+        return ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentators)
+    except TimeoutError:
+        print(f"Attempt {tries} timed out. Trying again.")
+        return ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, tries + 1)
+
 
 def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
     for choicest_prompt in choicest_prompts:
@@ -206,18 +229,16 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
 
             out_path = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
 
-            if os.path.exists(out_path):
-                print(f"File already exists. Skipping. {out_path}")
-                continue
+            print(f"🟧 {bht_prompt}", end="", flush=True)
 
-            print(f"Asking ChatGPT to get bht for {verse_ref} via {choicest_prompt} X {bht_prompt} for {commentators}...", end='')
+            if os.path.exists(out_path):
+                print(f"\r✅ {bht_prompt} File already exists.", flush=True)
+                continue
 
             bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
             while len(bht.split()) > 100:
-                print(f"\n***BHT WAS OVER 100 WORDS! Regenerating {verse_ref}***\n")
+                print(f"***BHT WAS OVER 100 WORDS! Regenerating {verse_ref}***")
                 bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
-
-            print(f"Done! Writing to file: {out_path}\n")
 
             os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
@@ -235,8 +256,10 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
                 out_file.write(f"- Choicest Prompt: \"{choicest_prompt}\"\n")
                 out_file.write(f"- BHT Prompt: \"{bht_prompt}\"\n")
                 out_file.write(f"- Commentators: \"{', '.join(commentators)}\"\n")
+            
+            print(f"\r✅ {bht_prompt} Done!", flush=True)
 
-            time.sleep(0.017) # follow rate limits
+            # time.sleep(0.017) # follow rate limits
 
 
 # Get all choicests and generate the bht from scratch.
@@ -248,11 +271,14 @@ def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=
     
     try:
         for verse_ref in verse_refs:
+            print(f"Generating BHT for {verse_ref}:")
             record_gpt_choicest(verse_ref, choicest_prompts, commentators)
             record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators)
+            print(f"✅ {verse_ref} BHT Done!")
+            print()
     except Exception as e:
         print(f"An error occurred: {e}")
-        print(f"Retrying in a few seconds...")
+        print(f"Retrying in {5 * tries} seconds...")
         time.sleep(5 * tries)
         generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries + 1)
 
@@ -279,13 +305,13 @@ if __name__ == '__main__':
         # "Matthew",
         # "Mark",
         # "Luke",
-        # "John",
+        "John",
         # "Acts",
-        # "Romans",
+        "Romans",
         # "1 Corinthians",
         # "2 Corinthians",
         # "Galatians",
-        # "Ephesians",
+        "Ephesians",
         # "Philippians",
         # "Colossians",
         # "1 Thessalonians",
