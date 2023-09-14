@@ -275,7 +275,7 @@ def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=
             print(f"Generating BHT for {verse_ref}:")
             record_gpt_choicest(verse_ref, choicest_prompts, commentators)
             record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators)
-            print(f"✅ *{verse_ref} BHT Done!*")
+            print(f"{verse_ref} BHT Done!")
             print()
     except Exception as e:
         print(f"An error occurred: {e}")
