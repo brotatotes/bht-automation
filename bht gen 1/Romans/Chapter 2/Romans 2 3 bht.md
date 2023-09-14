@@ -1,20 +1,27 @@
 # Romans 2:3 Commentary Help Text
 
 ## BHT:
-In this verse, commentators highlight the righteous judgment of God and the futility of thinking that one can escape His judgment. The verse exposes the misconception of those who believe they can evade God's wrath while condemning others for the same offenses. The commentators emphasize the impossibility of escaping God's judgment, emphasizing that sin loses none of its seriousness, even within religious communities. Additionally, the verse contrasts the self-conceit of the Jewish people with the inclusive nature of God's plans and promises, reminding readers that God's judgment extends to all who believe in Him.
+In this verse, there is a clear contrast between those who believe they will escape God's judgment and the reality that no one can evade it. The commentators emphasize the misconception that one's identity, actions, or religious affiliation can exempt them from facing the consequences of their behavior. The verse serves as a reminder that true judgment cannot be circumvented, calling individuals to recognize their accountability and seek refuge in God's righteousness. It highlights the urgency to distinguish between the righteous and the unrighteous, and the need to humbly and genuinely align oneself with God's will.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Here he approximates nearer to the Jews."
+2. "They considered that because they were the children of Abraham they should be saved."
+3. "Thou thyself, 'thou above all others.'"
+
 ### Albert Barnes:
-1. "If they condemned those who practiced these things; if, imperfect and obscure as their sense of justice was; if, unholy as they were, they yet condemned those who were guilty of these offenses, would not a holy and just God be far more likely to pronounce judgment?"
+1. "If they condemned those who practiced these things; if, imperfect and obscure as their sense of justice was; if, unholy as they were, they yet condemned those who were guilty of these offenses, would not a holy and just God be far more likely to pronounce judgment?" 
+
 2. "God is of 'purer eyes than to behold evil, and cannot look upon iniquity.' And if people condemned their fellow-men, how much more would a pure and holy God condemn iniquity."
+
 3. "The apostle shows them that crime is crime, wherever committed: that sin does not lose its essential character by being committed in the midst of religious privileges; and that those who professed to be the people of God have no special license to sin."
 
 ### Marvin Vincent:
-1. "Reckonest [λογιζη]... intimating a process of reasoning." This quote highlights the significance of the word "reckonest" in the verse, indicating that it implies a logical thought process or calculation.
+1. "Reckonest [λογιζη]...intimating a process of reasoning." This quote highlights the significance of the word "reckonest," indicating that it involves a thoughtful and logical process of reasoning.
 
-2. "Thou shalt escape. Thou emphatic, opposed to Jewish self-conceit." This quote emphasizes the personal nature of the escape mentioned in the verse, contrasting it with the prideful attitude of the Jewish people at the time.
+2. "Thou shalt escape." This quote emphasizes the assurance of escape, providing comfort and hope to the reader.
 
-3. "Opposed to Jewish self-conceit." This quote further emphasizes the contrast between the escape mentioned in the verse and the self-conceited mindset of the Jewish people, providing context for the significance of the escape.
+3. "Thou emphatic, opposed to Jewish self-conceit." This quote points out the contrast between the individual being addressed and the self-conceit often found among the Jewish community, highlighting the importance of humility and self-awareness.
 
 ### John Calvin:
 1. "He adduced not his accusation before men, but appealed to the judgment of conscience."
@@ -23,8 +30,15 @@ In this verse, commentators highlight the righteous judgment of God and the futi
 
 ### Philip Schaff:
 1. "But reckonest thou, etc. There is a slight antithesis here: 'but (although this is the case, that God's judgment is against, etc.) dost thou reckon,' etc., have this opinion, or fancy."
-2. "This, namely, what follows, the description of the man addressed: that thou shalt escape the judgment of God! This seems to have been the Jewish error; according to Romans 2:2 such escape was impossible."
-3. "'The sinner can persuade himself, and by many kinds of misconception stupefy himself, so as to believe that his sins will go unpunished.' (T�bingen Bible). Ah, how common is this deception!"
+2. "This seems to have been the Jewish error; according to Romans 2:2 such escape was impossible. But it is an error not confined to the Jews."
+3. "'The sinner can persuade himself, and by many kinds of misconception stupefy himself, so as to believe that his sins will go unpunished.' (Tübingen Bible). Ah, how common is this deception!"
+
+### Archibald T Robertson:
+1. "And doest them occasionally." - This quote highlights the idea that simply performing actions occasionally or inconsistently is not enough to escape God's judgment. It emphasizes the importance of consistent obedience and genuine faith.
+
+2. "Thou conceited Jew expecting to escape God's κριμα because thou art a Jew." - This quote exposes the false belief held by some Jews that their identity as God's chosen people would automatically exempt them from facing judgment. It serves as a reminder that one's heritage or religious affiliation does not guarantee salvation.
+
+3. "Alas, some Christians affect the same immunity." - This quote draws attention to the fact that even some Christians may fall into the trap of thinking that they are exempt from the consequences of their actions. It serves as a cautionary reminder to avoid complacency and to continually strive for righteousness.
 
 ### John Gill:
 1. "Some men may be so vain as to imagine, that though they do the same things which they condemn in others, they shall escape the judgment of God."
@@ -32,9 +46,9 @@ In this verse, commentators highlight the righteous judgment of God and the futi
 3. "There will be no escaping condign punishment, through might in the criminal, or through the judge's ignorance of his crimes, or want of ability and power to punish."
 
 ### John Wesley:
-1. "The phrase 'that thou shalt escape' refers to the Jewish people, as they were the ones who would be spared from the destruction and judgment that was to come upon the gentiles."
-2. "This verse highlights the special relationship between God and the Jewish people, as they were chosen to be a light to the nations and to fulfill His purposes in the world."
-3. "It is a reminder that God's plans and promises are not limited to one specific group of people, but extend to all who believe in Him and seek His salvation."
+1. "The phrase 'that thou shalt escape' suggests that the focus is on a specific individual or group who will be spared from the impending judgment."
+2. "This verse implies that there is a distinction between the righteous and the unrighteous, and that the righteous will be protected while the unrighteous face the consequences of their actions."
+3. "The use of the word 'escape' implies that there is a sense of urgency and danger, emphasizing the need for individuals to seek refuge and safety in God."
 
 
 ## Generation Details

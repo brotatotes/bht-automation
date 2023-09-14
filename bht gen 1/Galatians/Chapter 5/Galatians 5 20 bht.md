@@ -1,34 +1,40 @@
 # Galatians 5:20 Commentary Help Text
 
 ## BHT:
-Idolatry, witchcraft, and the denial of their existence are all addressed in this Bible verse. The verse condemns the worship of devil-gods, which includes witchcraft. It also emphasizes the seriousness of idolatry, which is strictly forbidden. The verse establishes the authority of the Old and New Testaments in addressing these issues, emphasizing the significance of recognizing and avoiding these sins.
+The commentary emphasizes that the mention of idolatry is connected to the worship of devil-gods, not murder or other sins. It also points out that denying the existence of witchcraft contradicts the authority of the Bible. Additionally, the commentary distinguishes between divisions in domestic or civil matters and heresies which refer to divisions within religious communities. This helps to clarify the specific sins and divisions addressed in the Bible verse.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "εἰδωλ, in its proper meaning of idolatry: not, as Olsh., 'sins of lust,' because of the unclean orgies of idolatry."
+2. "φαρμ., either 'poisonings,' or 'sorceries.' The latter is preferable, as more frequently its sense in the LXX and N. T., and because (Mey.) Asia was particularly addicted to sorceries."
+3. "θυμοί] passionate outbreaks. θυμὸς μέν ἐστι πρόσκαιρος, ὀργὴ δὲ πολυχρόνιος μνησικακία, Ammonius. διαφέρει δὲ θυμὸς ὀργῆς, τῷ θυμὸν μὲν εἶναι ὀργὴν ἀναθυμιωμένην κ. ἔτι ἐκκαιομένην, ὀργὴν δὲ ὄρεξιν ἀντιτιμωρήσεως."
+
 ### Jamieson Fausset Brown:
-1. "witchcraft�sorcery; prevalent in Asia" - This quote highlights the presence of witchcraft and sorcery in Asia, as mentioned in Acts 19:19 and Galatians 5:21. 
-
-2. "strife; singular in the oldest manuscripts" - This quote emphasizes that the original manuscripts use the term "strife" in the singular form, indicating a sense of conflict and discord.
-
-3. "wrath�Greek, plural, 'passionate outbreaks'" - This quote explains that the Greek term for "wrath" refers to passionate outbreaks, suggesting intense anger or rage.
+1. "witchcraft—sorcery; prevalent in Asia" - This quote highlights the prevalence of witchcraft and sorcery in Asia during the time of the Bible, providing context for the mention of witchcraft in the verse.
+2. "strife; singular in the oldest manuscripts" - This quote points out that the original manuscripts use the singular form of strife, indicating that it refers to individual instances of conflict rather than a general state of discord.
+3. "heresies—as to sacred things" - This quote explains that heresies refer to disagreements or divisions specifically related to sacred matters, distinguishing them from seditions, which pertain to secular matters.
 
 ### Albert Barnes:
-1. "Seditions can be understood as divisions or factions that arise within a community, causing strife and discord. It is a warning against causing division among believers and emphasizes the importance of unity in the body of Christ." 
+1. "Seditions" refers to divisions or factions within a group, and it is important to note that this term is linked to the idea of causing discord and strife among believers. (Romans 16:17)
+2. The term "heresies" is connected to the concept of false teachings or doctrines that deviate from the truth of the Gospel. It highlights the danger of spreading beliefs that contradict the core principles of Christianity. (Acts 5:17; 1 Corinthians 11:19)
+3. These terms serve as warnings against the potential harm caused by divisions and false teachings within the community of believers, emphasizing the need for unity and adherence to the true teachings of the Bible.
 
-2. "Heresies refer to false teachings or doctrines that deviate from the fundamental truths of the Christian faith. It is a reminder to be vigilant and discerning, holding fast to the sound doctrine of the gospel and avoiding the influence of false teachings." 
-
-3. "These warnings highlight the need for believers to be rooted in the truth of God's Word, to be discerning of false teachings, and to actively pursue unity and harmony within the community of believers."
+### Marvin Vincent:
+1. "Witchcraft [φαρμακια] . Or sorcery. Elsewhere only Revelation 18:23. From farmakon a drug."
+2. "Strife [εριθιαι] . More correctly, factions. From eriqov a hired servant."
+3. "Heresies [αιρεσεις] . In Paul only here and 1 Corinthians 11:19. See on 2 Peter 2:1. Parties, into which divisions crystallize."
 
 ### John Gill:
 1. "Idolatry... means the worshipping of other gods, or of graven images."
-2. "Conjuration, soothsaying, necromancy, and all kind of magic are included and condemned hereby."
-3. "Internal hatred of any man's person, even of our very enemies, is forbidden."
+2. "Witchcraft... seeks to converse with familiar spirits, to gain unlawful knowledge, or to do hurt to fellow creatures."
+3. "Heresies... are bad principles and tenets, relating to doctrine, which are subversive of the fundamentals of the Gospel and the Christian religion."
 
-These quotes highlight the different forms of sin and wrongdoing that are condemned in the Bible verse. They provide insights into the meaning of idolatry, the condemnation of practices like witchcraft and magic, and the prohibition of hatred towards others.
+These quotes highlight the various forms of sinful behavior mentioned in the commentary, such as idolatry, witchcraft, and heresies. They provide insight into the specific actions and beliefs that are condemned in the Bible verse.
 
 ### John Wesley:
-1. "Idolatry, witchcraft - That this means witchcraft, strictly speaking, (not poisoning,) appears from its being joined with the worship of devil-gods, and not with murder."
-2. "This is frequently and solemnly forbidden in the Old Testament."
-3. "To deny therefore that there is, or ever was, any such thing, is, by plain consequence, to deny the authority both of the Old and New Testament."
+1. "Idolatry, witchcraft — That this means witchcraft, strictly speaking, (not poisoning,) appears from its being joined with the worship of devil-gods, and not with murder."
+2. "To deny therefore that there is, or ever was, any such thing, is, by plain consequence, to deny the authority both of the Old and New Testament."
+3. "Divisions — In domestic or civil matters. Heresies are divisions in religious communities."
 
 
 ## Generation Details

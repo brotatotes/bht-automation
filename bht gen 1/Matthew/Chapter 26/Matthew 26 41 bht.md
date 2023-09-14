@@ -1,25 +1,42 @@
 # Matthew 26:41 Commentary Help Text
 
 ## BHT:
-In this verse, the commentators explore the need for constant vigilance, prayer, and self-awareness in order to resist temptation. They acknowledge the inherent weakness of human nature and the struggle between the desires of the spirit and the desires of the flesh. Jesus, in his gentle rebuke, demonstrates compassion and understanding towards the disciples, despite his own sorrow. This verse reminds individuals of their personal responsibility, as well as the loving nature of Christ.
+In this verse, Jesus gives a command with both immediate and universal implications. The disciples are urged to watch and pray, recognizing that their own interests are at stake and that temptation can easily overwhelm them. They are encouraged to rely not on their own strength, but to seek help from the Lord through prayer. Jesus himself serves as the ultimate example of resistance to temptation, even in the face of great sorrow. The verse highlights the need for personal vigilance, the struggle between the flesh and the spirit, and Jesus' gracious understanding of human weakness.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The command has respect to the immediate trial which was about to try them, and also to the general duty of all disciples in all time."
+2. "εἰσελθεῖν εἰς π . is not to come into temptation merely, to be tempted: this lies not in our own power to avoid, and its happening is rather joy than sorrow to us."
+3. "I cannot doubt that this is said by our Lord in its most general meaning, and that He Himself is included in it. At that moment He was giving as high and pre-eminent an example of its truth, as the disciples were affording a low and ignoble one."
+
+### John Calvin:
+1. "Though you take no concern about me, do not fail, at least, to think of yourselves; for your own interests are involved in it, and if you do not take care, temptation will immediately swallow you up." (206)
+
+2. "The manner of resistance which is here enjoined is, not to draw courage from reliance on our own strength and perseverance, but, on the contrary, from a conviction of our weakness, to ask arms and strength from the Lord. Our watching, therefore, will be of no avail without prayer." (206)
+
+3. "We do not yet possess the power of the Spirit in such a measure as not to fall frequently through the weakness of the flesh, unless the Lord grant his assistance to raise up and uphold us. But there is no reason why we should tremble with excessive anxiety; for an undoubted remedy is held out to us, which we will neither have nor to seek nor to seek in vain; for Christ promises that all who, being earnest in prayer, shall perseveringly oppose the slothfulness of the flesh, will be victorious." (206)
+
 ### Philip Schaff:
 1. "They needed then, and, as the original implies what is habitual, always to watch, to be on their guard, as well as to pray." 
-2. "The spirit indeed is willing, but the flesh is weak." 
-3. "In Him, though weighed down by sorrow, so that the flesh almost gave way to death in its weakness (�even unto death�), the willingness of the spirit triumphed."
+2. "The human spirit (when acted upon by the Holy Spirit), is willing to do the present duty, but the flesh, the body, which is weak (and weakened through sin), hinders and often produces failure."
+3. "In Him, though weighed down by sorrow, so that the flesh almost gave way to death in its weakness (‘even unto death’), the willingness of the spirit triumphed."
+
+### Archibald T Robertson:
+1. "Jesus repeats the command of verse Matthew 26:38 with the addition of prayer and with the warning against the peril of temptation."
+2. "He himself was feeling the worst of all temptations of his earthly life just then."
+3. "Thus we are to understand the prayer in Matthew 6:13 about leading (being led) into temptation."
 
 ### John Gill:
 1. "There is, and ought to be, a watching before prayer, and 'unto' it; a watching all opportunities, the most suitable and convenient to perform it."
-2. "The reason of this exhortation follows, that ye enter not into temptation; not that they might not be tempted at all... but that they might not enter into them, throw themselves in the way of temptation, be surprised by them at an unawares, fall into them headlong, be immersed in them, fall by them, and be overcome with them."
-3. "The spirit indeed is willing, but the flesh is weak... they were but flesh and blood, very weak and infirm, and unequal to the enemy; which is a sense not to be despised, seeing it carries in it a very strong reason why they ought to watch and pray."
+2. "The reason of this exhortation follows, that ye enter not into temptation; not that they might not be tempted at all... but that they might not enter into them, throw themselves in the way of temptation, be surprised by them at an unawares, fall into them headlong, be immersed in them, fall by them, and be overcome with them, so as to forsake Christ, or to deny him."
+3. "The spirit indeed is willing, but the flesh is weak: meaning either that the evil spirit Satan was very desirous of having them in his hands... or else by 'spirit' may be meant the soul, as renewed and regenerated by the spirit of God; particularly the principle of grace in it, which is born of the Spirit, and is called by the same name."
 
 ### John Wesley:
 1. "The spirit - Your spirit: ye yourselves." This quote highlights the personal responsibility of the individuals addressed in the verse, emphasizing that they are accountable for their own actions and choices.
 
-2. "The flesh - Your nature." This quote points to the inherent human nature that often leads to temptation and sin. It acknowledges the struggle between the desires of the flesh and the desires of the spirit.
+2. "The flesh - Your nature." This quote acknowledges the inherent human tendency towards sin and imperfection, recognizing the struggle between the desires of the flesh and the desires of the spirit.
 
-3. "How gentle a rebuke was this, and how kind an apology!" This quote highlights the compassionate and forgiving nature of Jesus, who, despite his own sorrow, offers a gentle rebuke and extends kindness in his response to the disciples' weakness.
+3. "How gentle a rebuke was this, and how kind an apology!" This quote emphasizes the compassionate and understanding nature of Jesus' words, showing his willingness to forgive and guide his disciples despite their shortcomings.
 
 
 ## Generation Details

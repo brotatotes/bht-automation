@@ -1,13 +1,13 @@
 # Matthew 8:16 Commentary Help Text
 
 ## BHT:
-The verses portray Jesus as both compassionate and powerful, as he heals the sick and casts out demons. The people's faith in Jesus is evident in their actions of bringing their loved ones to him for healing. His ministry extends beyond physical ailments, addressing spiritual and emotional healing as well. This showcases Jesus' unwavering commitment to serving others and his divine authority over sickness and evil.
+In this verse, we witness a picturesque scene at the close of the Sabbath day, as a crowd gathers at the door, knowing that Jesus, who had just cast out demons, has the power to heal them. With a word, Jesus demonstrates his divine mission, healing all who were brought to him, proving his authority and benevolence. This event showcases the overwhelming response of the people to Jesus' power, and his relentless dedication to serving and restoring the broken and oppressed through his transformative ministry.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "From St. Mark we learn that the whole city was collected at the door; from St. Luke, that the dæmons cried out and said, 'Thou art Christ the Son of God.'" 
-2. "Our Lord permitted them not to speak, for they knew Him." 
-3. "They brought the sick in the evening, either because it was cool, or because the day’s work was over, and men could be found to carry them, or perhaps because it was the sabbath, which ended at sunset."
+1. "From St. Mark we learn that the whole city was collected at the door."
+2. "From St. Luke, that the dÃ¦mons cried out and said, â€˜Thou art Christ the Son of God.â€™"
+3. "And from both, that our Lord permitted them not to speak, for they knew Him."
 
 ### Albert Barnes:
 1. "All that were brought to him he healed. This was proof of two things: first, of his great benevolence; and, secondly, of his divine mission."
@@ -15,11 +15,11 @@ The verses portray Jesus as both compassionate and powerful, as he heals the sic
 3. "On the Sabbath they would not even bring their sick to be healed; but as soon as it was closed, on the evening of the same day, they came in multitudes to be cured."
 
 ### Archibald T Robertson:
-1. "A beautiful sunset scene at the close of the Sabbath day." 
-2. "Then the crowds came as Jesus stood in the door of Peter's house."
-3. "He healed them 'with a word.'"
+1. "A beautiful sunset scene at the close of the Sabbath day" - This quote highlights the picturesque setting of the event, creating a vivid image in the reader's mind.
 
-These quotes highlight the picturesque setting of the scene, the gathering of the crowds around Jesus, and the miraculous healing power of Jesus' words.
+2. "Then the crowds came as Jesus stood in the door of Peter's house" - This quote emphasizes the overwhelming response of the people, indicating the popularity and significance of Jesus' presence.
+
+3. "He healed them 'with a word'" - This quote showcases the extraordinary power and authority of Jesus, as he was able to heal the sick simply by speaking.
 
 ### John Gill:
 1. "Such possessions, through divine permission, were frequent; that Christ, who was come in the flesh, might have an opportunity of showing his power over Satan, and giving proof of his deity and Messiahship."
@@ -27,11 +27,11 @@ These quotes highlight the picturesque setting of the scene, the gathering of th
 3. "The most stubborn, inveterate, and otherwise incurable disorder, was not too hard for him, which he cured without the help of medicine, and where that could be of no use, and either by speaking, or touching, or some such like means."
 
 ### John Wesley:
-1. "These verses highlight the compassion and healing power of Jesus. Even after a long day of teaching and performing miracles, Jesus did not hesitate to heal the sick and demon-possessed. This shows his unwavering commitment to serving others and his divine authority over sickness and evil." 
+1. "These verses highlight the compassion and healing power of Jesus. He not only preached the good news but also demonstrated it through his actions. His willingness to heal the sick and cast out demons shows his deep love and concern for the suffering and oppressed." 
 
-2. "The fact that the people brought their sick and demon-possessed loved ones to Jesus demonstrates their faith in his ability to heal. It also emphasizes the desperate need for healing in their lives and their recognition of Jesus as the source of that healing." 
+2. "The fact that Jesus healed many people in the evening and early morning hours reveals his tireless dedication to serving others. He did not let fatigue or the demands of the day hinder him from ministering to those in need. It is a reminder of his selflessness and commitment to his mission." 
 
-3. "The healing ministry of Jesus was not limited to physical ailments but also extended to spiritual and emotional healing. By casting out demons, Jesus not only freed people from the bondage of evil spirits but also restored their dignity and restored them to a state of wholeness."
+3. "The healing miracles performed by Jesus were not mere displays of power, but rather acts of restoration and liberation. Through his touch and his words, he brought physical and spiritual healing to those who were afflicted. This emphasizes the transformative nature of Jesus' ministry and his desire to bring wholeness to broken lives."
 
 
 ## Generation Details

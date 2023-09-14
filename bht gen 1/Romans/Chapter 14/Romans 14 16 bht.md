@@ -1,18 +1,23 @@
 # Romans 14:16 Commentary Help Text
 
 ## BHT:
-This verse speaks to the importance of being mindful of our actions and how they may be perceived by others. It reminds us not to let our freedom or liberties be a cause for offense or harm to others, but rather to use them in a way that uplifts and builds up. By considering the impact our actions have on those around us, we can demonstrate our love and care for our neighbors, reflecting the values of the Gospel message.
+The verse being described is a cautionary reminder to believers to be mindful of how their actions and choices may impact others. It highlights the importance of not causing offense or giving occasion for criticism by exercising their freedom or liberty in a way that is insensitive or harmful to those around them. The verse emphasizes the need for believers to prioritize unity, peace, and the reputation of the gospel message over personal indulgence or preferences. It serves as a call to exercise wisdom and consideration in how one exercises their Christian freedom.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Your strength of faith is a good thing; let it not pass into bad repute."
+2. "Use it so that it may be honored."
+3. "Encourage others."
+
 ### Jamieson Fausset Brown:
 1. "Let not then your good—that is, this liberty of yours as to Jewish meats and days, well founded though it be." 
-2. "Be evil spoken of—for the evil it does to others." 
-3. "The focus is not on personal rights or freedoms, but on the impact our actions have on others."
+2. "Be evil spoken of—for the evil it does to others."
+3. "The emphasis is on the potential harm that can come from exercising one's freedom in a way that causes offense or stumbling to others."
 
 ### Albert Barnes:
-1. "You are free from the yoke of bondage. This freedom you esteem to be a good - a favor - a high privilege. And so it is; but you should not make such a use of it as to do injury to others."
-2. "Do not so use your Christian liberty as to give occasion for railing and unkind remarks from your brethren, so as to produce contention and strife, and thus to give rise to evil reports among the wicked about the tendency of the Christian religion."
-3. "In relation to dress, and rites, and ceremonies in the church, we may be conscious that we are right; but an obstinate adherence to them may only give rise to contention and angry discussions, and to evil reports among men, of the tendency of religion."
+1. "You are not bound by the ceremonial law. You are free from the yoke of bondage."
+2. "Do not so use your Christian liberty as to give occasion for railing and unkind remarks from your brethren."
+3. "In such a case we should yield our private, unimportant personal indulgence to the good of the cause of religion and of peace."
 
 ### Marvin Vincent:
 1. "Your good [υμων το αγαθον]. Referring, most probably, to the liberty of the strong."
@@ -20,21 +25,26 @@ This verse speaks to the importance of being mindful of our actions and how they
 3. "Be evil spoken of [βλασφημεισθω]. See on blasphemy, Mark 7:22. In 1 Corinthians 10:30, it is used of evil-speaking by members of the Church, which favors the reference of good to the strong."
 
 ### Philip Schaff:
-1. "Let not than your good be evil spoken of, lit, �blasphemed.�" - This verse reminds us to be mindful of how our actions may be perceived by others, as it can lead to our good being spoken of in a negative light. 
-2. "The exhortation may be applied to the strong; �good� referring accordingly to their Christian liberty, or strength of faith, which grieved the weak brethren, and would lead to censure." - The commentary suggests that the exhortation can be directed towards those who have strong faith, cautioning them not to let their freedom in Christ cause harm or offense to those who are weaker in faith.
-3. "Those who �blasphemed� would be such of the outside heathen world as noticed the discord." - The commentary highlights that the ones who would blaspheme or speak evil of the believers would likely be those outside of the Christian community who observe the discord and disagreements among believers.
+1. "Let not your good be evil spoken of." - This verse warns against actions that could lead to criticism or blasphemy, emphasizing the importance of considering the impact of our actions on others.
+2. "The exhortation may be applied to the strong...which grieved the weak brethren, and would lead to censure." - The commentary suggests that the exhortation could be directed towards those with strong faith, cautioning them against actions that may cause offense or harm to those who are weaker in their faith.
+3. "Those who 'blasphemed' would be such of the outside heathen world as noticed the discord." - The commentary suggests that the criticism or blasphemy mentioned in the verse may come from those outside the Christian community who observe discord or disagreement among believers.
+
+### Archibald T Robertson:
+1. "Your good" refers to the liberty or Christian freedom that believers possess.
+2. "Be evil spoken of" is a command for believers to endure slander or criticism.
+3. The term "be evil spoken of" is found in other biblical passages like Matthew 9:3 and Romans 3:8.
 
 ### John Gill:
-1. "The sense is the same, and to be understood either of the Gospel in general, which is good in its author, matter, effects, and consequences; is good tidings of good things, and which might be blasphemed by the men of the world."
+1. "The sense is the same, and to be understood either of the Gospel in general, which is good in its author, matter, effects, and consequences; is good tidings of good things, and which might be blasphemed by the men of the world, on account of the divisions and contentions among the professors of it."
 2. "Care should be taken, that it be not evil spoken of through such conduct."
-3. "The doctrine of Christian liberty in particular, which is a good thing; Christ has procured it, and bestows it upon his people; it is a valuable blessing in itself, and is attended and followed with many considerable privileges and immunities."
+3. "The doctrine of Christian liberty in particular, which is a good thing; Christ has procured it, and bestows it upon his people; it is a valuable blessing in itself, and is attended and followed with many considerable privileges and immunities; but may be evil spoken of by those, who do not so well understand it, through an imprudent use of it by those who do."
 
 ### John Wesley:
-1. "Let not then your good and lawful liberty be evil spoken of." This reminds us that while we have the freedom to exercise our rights, we should be mindful of how our actions may be perceived by others. It encourages us to consider the impact of our behavior on those around us.
+1. "Let not then your good and lawful liberty be evil spoken of." This quote emphasizes the importance of not causing offense to others through our actions and choices. It reminds us to consider the impact of our behavior on those around us.
 
-2. "By being offensive to others." This quote emphasizes the importance of being considerate and respectful towards others. It reminds us that our freedom should not be used as an excuse to offend or harm others, but rather to uplift and build them up.
+2. "By being offensive to others." This quote highlights the specific way in which our liberty can be spoken of evilly - by causing offense. It serves as a reminder to be mindful of how our actions may be perceived by others and to strive to live in a way that promotes harmony and understanding.
 
-3. "Being mindful of our actions and their impact on others is a reflection of our love for our neighbors." This quote highlights the connection between our actions and our love for others. It encourages us to act in a way that shows compassion and consideration for those around us, recognizing that our behavior can either build up or tear down others.
+3. "By being offensive to others." This quote reinforces the idea that our liberty can be spoken of evilly when it is used in a way that is offensive to others. It encourages us to be considerate of the feelings and sensitivities of those around us, and to exercise our freedom in a way that does not harm or belittle others.
 
 
 ## Generation Details

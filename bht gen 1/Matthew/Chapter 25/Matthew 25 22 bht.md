@@ -1,17 +1,17 @@
 # Matthew 25:22 Commentary Help Text
 
 ## BHT:
-In this verse, two servants are being praised and rewarded equally for their faithfulness and diligence. They are both commended in the same terms and granted the same reward, which is described as entering the joy of their Lord. One servant is commended for trading and gaining a lesser degree of ministerial gifts, while the other proudly presents two additional talents that he has gained. The Lord recognizes their efforts and promotes them to positions of authority, honoring their faithful service.
+The verse being described presents a scene where two individuals are celebrated and rewarded equally for their faithfulness and diligence. They are granted the joy and authority of their Lord, who commends them for their fruitful efforts. One commentator emphasizes the equal commendation and reward, while another focuses on the progression from servant to ruler and the trust placed in the faithful. The verse also speaks of the increase and gain achieved by the dedicated individuals.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "Both are commended in the same terms, and the reward of both is precisely the same."
-2. "Thou hast been faithful as a servant; now be a ruler."
-3. "Enter thou into the joy of thy lord�thy Lord's own joy."
+2. "Thou hast been faithful as a servant; now be a ruler—thou hast been entrusted with a few things; now have dominion over many things."
+3. "Enter thou into the joy of thy lord—thy Lord's own joy."
 
 ### John Gill:
-1. "A lesser degree of ministerial gifts; and who as he received next to the other, and was the next, who in proportion to what he had received, had traded and gained."
-2. "His account, abating the sum and gains, is given in, in the same form as the other."
+1. "A lesser degree of ministerial gifts."
+2. "In proportion to what he had received, had traded and gained."
 3. "Behold I have gained two other talents besides them."
 
 

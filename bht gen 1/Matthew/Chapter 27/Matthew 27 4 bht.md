@@ -1,18 +1,25 @@
 # Matthew 27:4 Commentary Help Text
 
 ## BHT:
-In this Bible verse, there is a powerful testimony to Jesus, revealing the stupidity and madness of the priests who could digest the betrayal of innocent blood. Judas makes a belated confession of his sin, highlighting his lack of true repentance. The Sanhedrin, in response, ignore the righteousness of Christ and focus on their own guilt. This verse also serves as a warning to all, showcasing the terrors of conscience and the dangerous consequences of slaying the innocent.
+In this verse, we witness the profound darkness of Judas' betrayal and the cruel indifference of the chief priests. Judas, amidst his remorse, confesses his guilt and proclaims Jesus' innocence, condemning the priests' murderous intentions. Nevertheless, these religious leaders, with skewed moral priorities, dismiss Judas' conscience and refuse to acknowledge their wickedness. Their insensitivity to innocent blood exposes the corrupt nature of their actions and reveals their distorted sense of justice.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "What a testimony this to Jesus!"
+1. "What a testimony this to Jesus! Judas had been with Him in all circumstances for three years; his post, as treasurer to Him and the Twelve, gave him peculiar opportunity of watching the spirit, disposition, and habits of his Master."
 2. "If, then, he could have fastened on one questionable feature in all that he had so long witnessed, we may be sure that no such speech as this would ever have escaped his lips."
-3. "Guilty or innocent is nothing to us: We have Him now—begone!"
+3. "Guilty or innocent is nothing to us: We have Him nowâ€”begone!" Was ever speech more hellish uttered?"
+
+### Albert Barnes:
+1. "I have sinned - I have been guilty. I have done wrong." - This quote highlights Judas' acknowledgement of his wrongdoing and his admission of guilt. It shows his remorse and the weight of his actions.
+
+2. "This confession is a remarkable proof that Jesus was innocent." - This quote emphasizes the significance of Judas' confession as evidence of Jesus' innocence. It underscores the fact that someone who had been close to Jesus for years could not find any fault or accusation against him.
+
+3. "What is that to us?" - This quote reveals the indifference of the chief priests towards Judas' remorse and belief in Jesus' innocence. It demonstrates their callousness and their sole focus on achieving their own goals, disregarding the consequences for others.
 
 ### John Calvin:
 1. "Here is described the stupidity and madness of the priests, since even after having been warned by the dreadful example of Judas, still they do not think about themselves."
-2. "Let us therefore learn, that when we see wicked persons, with whom we have anything in common, filled with alarm, those are so many excitements to repentance."
-3. "We ought also to believe, that the crime of one man can have no effect in acquitting all those who are in any way involved in it."
+2. "Judas not only confesses that he has sinned, but asserts the innocence of Christ; from which it follows, that they had meditated the death of a righteous man, and, therefore, that they were guilty of a detestable murder."
+3. "Let us therefore learn, that when we see wicked persons, with whom we have anything in common, filled with alarm, those are so many excitements to repentance, and that they who neglect such excitements aggravate their criminality."
 
 ### Philip Schaff:
 1. "Although Judas had no real conception of the sinfulness of sin, his feeling was intense."
@@ -24,7 +31,7 @@ In this Bible verse, there is a powerful testimony to Jesus, revealing the stupi
 2. "The Sanhedrin ignore the innocent or righteous blood and tell Judas to look after his own guilt himself."
 3. "The sentiment is that of Cain."
 
-Note: The commentary provided is a bit fragmented and does not provide a comprehensive analysis of the verse. However, these quotes highlight the confession of Judas, the response of the Sanhedrin, and the comparison to the story of Cain.
+Note: The commentary provided is quite brief, so I have included all the relevant quotes.
 
 ### John Gill:
 1. "Here was a confession, and yet no true repentance; for he confessed, but not to the right persons; not to God, nor Christ, but to the chief priests and elders."

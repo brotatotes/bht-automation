@@ -1,18 +1,20 @@
 # Matthew 14:17 Commentary Help Text
 
 ## BHT:
-In this Bible verse, the disciples are faced with the daunting task of feeding a multitude of people. Despite their doubts and excuses, they obeyed Jesus and gathered meager resources like barley loaves and small fishes. However, they failed to recognize the power of Christ, who was able to multiply these provisions to be sufficient for everyone present. This story reminds us of our tendency to doubt our own abilities and make excuses when faced with challenging tasks, but it also teaches us that Jesus equips us with the necessary resources to accomplish the seemingly impossible.
+In this passage, the disciples are faced with the daunting task of feeding a multitude of people. They are filled with doubt and perplexity, trying to find a solution despite their own limitations. Their lack of faith and trust in Jesus' power is evident as they question the meager supply of food, failing to recognize the limitless potential of Christ to provide for the crowd. This serves as a reminder for us to overcome our doubts and excuses, and wholeheartedly embrace the work that God has called us to do.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
 1. "The disciples, though full of perplexity and doubt, tried to obey, and sought food for the multitude."
-2. "The loaves and fishes thus obtained, of which they said 'What are they among so many,' were given by them to the people."
-3. "Five loaves (‘barley loaves’) and two fishes (‘small fishes,’ probably salt ones). Plain common food."
+2. "The loaves and fishes thus obtained, of which they said â€˜What are they among so many,â€™ were given by them to the people."
+3. "Five loaves (â€˜barley loavesâ€™) and two fishes (â€˜small fishes,â€™ probably salt ones). Plain common food."
 
 ### Archibald T Robertson:
 1. "The disciples, like us today, are quick with reasons for their inability to perform the task imposed by Jesus."
-2. "The disciples' response reflects our tendency to make excuses and doubt our own abilities when faced with challenging tasks."
-3. "This verse reminds us that Jesus often calls us to do things that seem impossible or beyond our capabilities, but He equips us with the necessary resources to accomplish them."
+
+2. "This response from the disciples reveals their lack of faith and trust in Jesus' power and authority."
+
+3. "It serves as a reminder that our own doubts and excuses can hinder us from fully embracing and carrying out the work that God has called us to do."
 
 ### John Gill:
 1. "In order to excuse themselves, and to show the impossibility of feeding such a large number of people."

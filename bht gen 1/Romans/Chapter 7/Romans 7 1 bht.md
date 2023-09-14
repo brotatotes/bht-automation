@@ -1,39 +1,57 @@
 # Romans 7:1 Commentary Help Text
 
 ## BHT:
-The Bible verse being described is one that discusses the role of the law in the life of a believer. It emphasizes that the law serves as a mirror, revealing our sin and our need for a Savior. Although the law cannot save us, it acts as a tutor, leading us to Christ and showing us our need for grace. The law is not meant to be burdensome, but rather a guide for righteous living. It reminds us of God's holiness and our need for repentance, driving us to seek forgiveness and reconciliation with Him.
+In this verse, the commentator highlights the targeted audience of the apostle's message, indicating that it is addressing individuals who are familiar with the Old Testament law. The inclusivity of the message is emphasized, reaching both Jews and Gentiles, as the law is portrayed as having dominion over a person while they are alive but ceasing to have authority once they are dead. The commentator also draws attention to the comparison between believers' former and present states, aiming to shift the focus away from the Old Testament law towards a new source of life and peace found in the gospel.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The law binds a man only so long as he lives."
+2. "The Christian, being dead with Christ and alive to Him, is freed from the law."
+3. "I am speaking (writing) to men acquainted with the law; i.e. the persons to whom I address this epistle are such as know the law."
+
 ### Jamieson Fausset Brown:
-2. The law is a mirror that reflects our sin and shows us our need for a Savior. It reveals our inability to keep God's perfect standard and points us to Jesus, who fulfilled the law on our behalf. 
+1. "I speak to them that know the law" - This verse suggests that Paul is addressing an audience who is familiar with the Old Testament and the laws of Moses. It implies that his message is directed towards those who have a deeper understanding of the scriptures. 
 
-3. The law cannot save us, but it serves as a tutor to lead us to Christ. It shows us our need for grace and points us to the One who can provide it. 
+2. "Though not themselves Jews" - This phrase indicates that the audience Paul is speaking to may not necessarily be Jewish. It highlights the inclusivity of his message, reaching out to a wider audience beyond the Jewish community. 
 
-4. The law is not meant to be a burden, but a guide for righteous living. It shows us the path of obedience and holiness, and when we walk in it, we experience the blessings and favor of God. 
+3. "The Old Testament was familiar" - This statement emphasizes that the Old Testament scriptures were well-known and understood by the audience Paul is addressing. It suggests that they have a foundation of knowledge that Paul can build upon in his teachings.
 
-5. The law is a reminder of God's holiness and our need for repentance. It convicts us of our sin and drives us to seek forgiveness and reconciliation with God.
+### Albert Barnes:
+1. "The illustration Romans 7:2-3 is designed simply to show that as when a man dies, and the connection between him and his wife is dissolved, his Law ceases to be binding on her."
+2. "They are not now to attempt to draw their life and peace from [the Law], but from that new source with which they are connected by the gospel."
+3. "The Law is here personified, and represented as setting up a lordship over a man, and exacting obedience."
 
 ### Marvin Vincent:
-1. "Brethren" refers to all Christians, both Jews and Gentiles, who are expected to have knowledge of the Old Testament.
+1. "Brethren" refers to all Christians, both Jews and Gentiles, who are assumed to have knowledge of the Old Testament.
 
-2. The term "brethren" implies a sense of unity and familial bond among Christians, emphasizing the shared faith and common heritage.
+2. The term "brethren" emphasizes the unity and familial bond among believers, regardless of their ethnic background.
 
-3. The inclusion of Gentiles in the term "brethren" highlights the universality of the Christian faith and the equal standing of all believers before God.
+3. This verse highlights the inclusivity of Christianity, as it addresses both Jews and Gentiles, inviting them to be part of the same family of believers.
+
+### John Calvin:
+1. "The law, with regard to us, is become abrogated; and then he sets forth what good is thereby done to us: for while it holds us separated from Christ and bound to itself, it can do nothing but condemn us."
+2. "Let the general proposition be that the law was given to men for no other end but to regulate the present life, and that it belongs not to those who are dead: to this he afterwards subjoins this truth â€” that we are dead to it through the body of Christ."
+3. "He declares that he took up a common principle, known to them all, of which they could by no means be ignorant, who had from their childhood been brought up in the teaching of the law."
 
 ### Philip Schaff:
-1. "In thus appealing to experience, it is implied that every believer... feels that he is in the state described in chap. Romans 6:22-23, and hence has some knowledge of his freedom from the law." 
+1. "In thus appealing to experience, it is implied that every believer... feels that he is in the state described... and hence has some knowledge of his freedom from the law." 
 2. "Not addressed to the Jewish Christians alone; for in that age, especially, the knowledge of the Old Testament on the part of all Christians was presupposed." 
 3. "The whole law is meant, not simply the law of marriage: for that has not yet come into view."
 
+### Archibald T Robertson:
+1. "To men that know the law" - The Romans, whether Jews or Gentiles, knew the principle of law.
+2. "A man" - Referring to the generic term for a person, emphasizing the universal application of the verse.
+3. "The person" - Highlighting the inclusivity of the verse, applicable to all individuals, regardless of their background.
+
 ### John Gill:
-1. "The law may be said to live, when it is in full force, and to be dead, when it is abrogated and disannulled; now whilst it lives, or is in force, it has dominion over a man; it can require and command obedience of him, and in case of disobedience can condemn him, and inflict punishment on him."
-2. "When a man is dead, he becomes free from the law, and from the commands."
-3. "This is so clear a point that none can doubt of it."
+1. "The law may be said to live, when it is in full force, and to be dead, when it is abrogated and disannulled; now whilst it lives, or is in force, it has dominion over a man." 
+2. "And this power it has also as long as the man lives who is under it, but when he is dead it has no more dominion over him."
+3. "Then 'the servant is free from his master', Job 3:19; that is, from the law of his master; and children are free from the law of their parents, the wife from the law of her husband, and subjects from the law of their prince."
 
 ### John Wesley:
 1. "The apostle continues the comparison between the former and the present state of a believer, and at the same time endeavours to wean the Jewish believers from their fondness for the Mosaic law."
-2. "I speak to them that know the law — To the Jews chiefly here."
-3. "As long — So long, and no longer. As it liveth — The law is here spoken of, by a common figure, as a person, to which, as to a husband, life and death are ascribed."
+2. "I speak to them that know the law â€” To the Jews chiefly here."
+3. "As long â€” So long, and no longer. As it liveth â€” The law is here spoken of, by a common figure, as a person, to which, as to an husband, life and death are ascribed."
 
 
 ## Generation Details
