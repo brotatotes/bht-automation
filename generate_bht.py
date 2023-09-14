@@ -96,7 +96,7 @@ def ask_gpt_choicest_timeout(commentator, verse_ref, choicest_prompt):
     try:
         commentary_text = get_commentary(commentator, verse_ref)
     except:
-        print(f"No commentary found for {commentator} for {verse_ref}.")
+        print(f" No commentary found.")
         return ""
     
     prompt_text = get_prompt(CHOICEST_FOLDER_NAME, choicest_prompt)
@@ -265,7 +265,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
 
 # Get all choicests and generate the bht from scratch.
 
-def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=10):
+def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=25):
     if tries >= try_limit:
         print(f"***Failed {try_limit} times. Quitting.***")
         return
@@ -279,7 +279,7 @@ def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=
             print()
     except Exception as e:
         print(f"An error occurred: {e}")
-        print(f"Retrying in {5 * tries} seconds...")
+        print(f"Retrying in {5 + tries} seconds...")
         time.sleep(5 * tries)
         generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries + 1)
 
@@ -308,7 +308,7 @@ if __name__ == '__main__':
         # "Luke",
         "John",
         # "Acts",
-        "Romans",
+        # "Romans",
         # "1 Corinthians",
         # "2 Corinthians",
         # "Galatians",
@@ -320,12 +320,12 @@ if __name__ == '__main__':
         # "1 Timothy",
         # "2 Timothy",
         # "Titus",
-        # "Philemon",
+        "Philemon",
         # "Hebrews",
         # "James",
-        # "1 Peter",
-        # "2 Peter",
-        # "1 John",
+        "1 Peter",
+        "2 Peter",
+        "1 John",
         "2 John",
         "3 John",
         "Jude",
