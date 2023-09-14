@@ -1,59 +1,44 @@
 # Romans 8:5 Commentary Help Text
 
 ## BHT:
-Those who are driven by their sinful desires solely focus on satisfying their own selfish desires and judge them to be good. Their thoughts, affections, and actions are set upon gratifying their corrupt nature. However, those who are led by the Spirit of God prioritize and love things that are invisible and eternal. They eagerly think of, relish, and love the things that the Spirit reveals and works in them. They strive to live according to the guidance and promises of the Holy Spirit.
+Those driven by their sinful desires solely focus on satisfying their fleshly desires, neglecting spiritual matters. However, those who are led by the Spirit prioritize and find fulfillment in the things of the Spirit. They think of, relish, and love things that are invisible and eternal, which are revealed by the Spirit. Their mindset and desires are elevated, moving beyond the temporal and materialistic.
 
 ## Choicest Commentary Quotes:
-### Henry Alford:
-1. "Those who live according to the flesh...mind the things belonging to the flesh." 
-2. "Those who live according to the Spirit...mind the things belonging to the Spirit." 
-3. "The former is the evidence of the latter, and a consequence of it."
-
 ### Jamieson Fausset Brown:
-1. "For they that are after the flesh... do mind the things of the flesh." - This quote highlights that those who are driven by their fleshly desires will focus their attention on fulfilling those desires. It emphasizes the importance of our mindset and how it influences our actions.
+1. "For they that are after the flesh... do mind the things of the flesh." - This quote highlights the contrast between those who are driven by their fleshly desires and those who are guided by spiritual principles. It emphasizes that our actions and choices are influenced by the dominant principle in our lives.
 
-2. "Men must be under the predominating influence of one or other of these two principles." - This quote emphasizes that everyone is influenced by either the flesh or the spirit. It suggests that our actions and character are shaped by which principle has the upper hand in our lives.
+2. "Men must be under the predominating influence of one or other of these two principles." - This quote emphasizes the idea that we are constantly under the influence of either the fleshly principle or the spiritual principle. It suggests that our lives are shaped by the prevailing force within us.
 
-3. "According as the one or the other has the mastery, will be the complexion of their life, the character of their actions." - This quote suggests that the dominant influence in our lives will determine the overall nature of our existence and the choices we make. It emphasizes the significance of aligning ourselves with the right principle to live a righteous and fulfilling life.
+3. "According as the one or the other has the mastery, will be the complexion of their life, the character of their actions." - This quote emphasizes that the dominant principle in our lives determines the overall direction and nature of our actions. It suggests that our choices and behaviors reflect the prevailing influence within us.
 
 ### Albert Barnes:
-1. "They that are after the flesh...mind the things of the flesh." - This quote highlights that those who are driven by their sinful desires are solely focused on satisfying their own selfish desires.
+1. "They that are after the flesh...mind the things of the flesh." - This quote highlights that those who are driven by their sinful desires are solely focused on satisfying those desires, neglecting the spiritual aspects of life.
 
 2. "They that are after the Spirit...mind the things of the Spirit." - This quote emphasizes that those who are led by the Spirit prioritize the things that the Spirit produces, such as love, joy, peace, and other virtues.
 
-3. "The tendency of religion is to produce as entire a devotedness to the service of God as people had before rendered to sin." - This quote reveals that true religion should lead individuals to be fully committed to serving God with the same level of dedication they once had for sin.
+3. "The tendency of religion is to produce as entire a devotedness to the service of God as people had before rendered to sin." - This quote suggests that true religion leads to a wholehearted commitment to serving God, surpassing the level of devotion previously given to sinful pursuits.
 
 ### Marvin Vincent:
 1. "These combinations with the genitives are not mere periphrases for a faculty or disposition of man."
 2. "By the spirit of meekness or wisdom, for instance, is not meant merely a meek or wise spirit; but that meekness, wisdom, power, etc., are gifts of the Spirit of God."
 3. "This usage is according to Old Testament analogy."
 
-### John Calvin:
-1. "He introduces this difference between the flesh and the Spirit, not only to confirm, by an argument derived from what is of an opposite character, what he has before mentioned, — that the grace of Christ belongs to none but to those who, having been regenerated by the Spirit, strive after purity."
-2. "It was therefore necessary to define what it is to be in the flesh, and to walk after the flesh. At first, indeed, Paul does not define the distinction so very precisely; but yet we shall see as we proceed, that his object is to afford good hope to the faithful, though they are bound to their flesh; only let them not give loose reins to its lusts, but give themselves up to be guided by the Holy Spirit."
-3. "But I will briefly repeat here what I have reminded you of before, — That to be in the flesh, or, after the flesh, is the same thing as to be without the gift of regeneration."
+These quotes highlight the significance of the genitives used in combination with the Spirit, emphasizing that they represent gifts and manifestations of the Spirit of God rather than just human qualities. The commentary also draws a parallel with the Old Testament, further reinforcing the understanding of the Spirit's role in bestowing these gifts.
 
 ### Philip Schaff:
-1. "The righteousness of the law is fulfilled in one class, and cannot be in the other."
+1. "The righteousness of the law is fulfilled in one class, and cannot be in the other." 
 2. "Walking according to the flesh pointing to the outward life; being according to the flesh, to the carnal state."
-3. "They think of, care for, strive to obtain, those things which belong to the ‘flesh,’ which includes all that gratifies the depraved heart."
-
-### Archibald T Robertson:
-1. "For the contrast between σαρξ and πνευμα, see Galatians 5:16-24." 
-
-2. "Present active indicative of φρονεω, to think, to put the mind (φρην) on." 
-
-3. "See Matthew 16:23; Romans 12:16."
+3. "They think of, care for, strive to obtain, those things which belong to the 'flesh,' which includes all that gratifies the depraved heart."
 
 ### John Gill:
 1. "By flesh is meant the corruption of nature; and they may be said to be 'after' it, not all that have flesh in them, for the best of saints have it in them; regenerating grace does not remove it from them."
-2. "They may be said to 'mind' [the things of the flesh], since they judge them to be good; the bent and application of their minds are to them; their affections are set upon them; they are solicitously careful to provide for them, and savour and relish them."
-3. "It is entirely owing to mighty grace, that any mind the things of the Spirit: but they that are after the Spirit; not such who follow the dictates of their own spirits; or are outwardly reformed; nor all that have spiritual gifts; or profess themselves to have the grace and Spirit of God; but such who are born again, are renewed in the spirit of their minds, in whom grace is the governing principle."
+2. "They that are after the Spirit... are born again, are renewed in the spirit of their minds, in whom grace is the governing principle."
+3. "These have some understanding of, can discern the difference between them and carnal things, judge and approve of them as right; have a great esteem and affection for them, and taste a sweetness in them."
 
 ### John Wesley:
-1. "They that are after the flesh... have their thoughts and affections fixed on such things as gratify corrupt nature."
-2. "But they who are after the Spirit... think of, relish, love things invisible, eternal."
-3. "The things which the Spirit hath revealed, which he works in us, moves us to, and promises to give us."
+1. "They that are after the flesh...mind the things of the flesh." 
+2. "But they who are after the Spirit...mind the things of the Spirit." 
+3. "Think of, relish, love things invisible, eternal; the things which the Spirit hath revealed."
 
 
 ## Generation Details

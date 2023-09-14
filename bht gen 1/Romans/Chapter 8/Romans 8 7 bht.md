@@ -1,61 +1,32 @@
 # Romans 8:7 Commentary Help Text
 
 ## BHT:
-The Bible verse described here emphasizes the inherent opposition and hostility of the carnal mind towards God. It highlights the rebellious nature of the fleshly mindset, which refuses to align with God's law and commands, resulting in enmity against Him. This enmity is not simply a passive indifference or ignorance, but an active rebellion and defiance marked by a deep-seated resistance to God's authority. However, there is hope for reconciliation and transformation through the work of the Holy Spirit and a personal relationship with Jesus Christ, which offer the path to true peace, love, and harmony with God.
+The Bible verse being described in these commentaries addresses the concept of enmity against God. It speaks of a state of hostility and opposition towards God, stemming from the fallen nature of humanity. This enmity is not a passive indifference but an active rejection of God's authority and truth. It leads to spiritual emptiness and separation from God. However, through the redemptive work of Jesus Christ, this enmity can be overcome, and reconciliation with God is made possible. This transformation requires humility, surrender, and a reliance on the power of the Holy Spirit.
 
 ## Choicest Commentary Quotes:
-### Henry Alford:
-1. "The mind of the flesh is enmity against God." This highlights the inherent opposition between the mindset driven by worldly desires and the will of God. 
-
-2. "For it does not submit itself to the law of God." This emphasizes the rebellious nature of the fleshly mind, which refuses to align with God's commands and principles. 
-
-3. "Neither can it." This phrase underscores the inability of the fleshly mind to conform to God's law, as demonstrated in the previous chapter.
-
 ### Jamieson Fausset Brown:
 1. "The desire and pursuit of carnal ends is a state of enmity to God, wholly incompatible with true life and peace in the soul."
 2. "In such a state of mind there neither is nor can be the least subjection to the law of God."
 3. "Many things may be done which the law requires, but nothing either is or can be done because God's law requires it, or purely to please God."
-
-### Albert Barnes:
-1. "The carnal mind...means that the minding of the things of the flesh, giving to them supreme attention, is hostility against God; and involves the sinner in a controversy with him, and hence, leads to death and woe."
-2. "The minding of the things of the flesh also leads to the hatred of God himself, because he is opposed to it, and has expressed his abhorrence of it."
-3. "The supreme regard to the flesh, the minding of that, is utterly irreconcilable with the Law of God. They are different things, and can never be made to harmonize; just as adultery cannot be chastity; falsehood cannot be truth; dishonesty cannot be honesty; hatred cannot be love."
 
 ### Marvin Vincent:
 1. "Spirit is found contrasted with letter, Romans 2:29; Romans 7:6; 2 Corinthians 3:6."
 2. "It is the common possession of the Church and its members; not an occasional gift, but an essential element and mark of the christian life."
 3. "It leads believers: they serve in newness of the Spirit (Romans 7:6) They walk after the Spirit (Romans 8:4, Romans 8:5; Galatians 5:16-25)."
 
-### John Calvin:
-1. "Nothing proceeds from the efforts of our flesh but death, because it contends as an enemy against the will of God."
-2. "The will of man is in all things opposed to the divine will; for, as much as what is crooked differs from what is straight, so much must be the difference between us and God."
-3. "Let every one acknowledge himself to be the servant of sin, as he is in reality, that he may be made free, being set at liberty by the grace of Christ: to glory in any other liberty is the highest folly."
-
 ### Philip Schaff:
 1. "Proof that the mind of the flesh is death (Romans 8:6); in Romans 8:10-11, it is proved that the mind of the spirit is life and peace, though that is implied here."
 2. "Enmity against God. This is equivalent to death."
 3. "Paul declares that the cause of non-submission to the law of God, which is a proof of enmity to God, is the fact that the mind of the flesh has no ability to produce this submission, being essentially antagonism to God."
 
-### Archibald T Robertson:
-1. "Present tense here means continued insubordination."
-2. "This helpless state of the unregenerate man Paul has shown above apart from Christ."
-3. "Hope lies in Christ and the Spirit of life."
-
-### John Gill:
-1. "The carnal mind, the wisdom of the flesh, is not only an enemy, but enmity itself against God: against his being; it reasons against it; it wishes he was not; it forms unworthy notions of him; thinks him such an one as itself; and endeavours to bury him in forgetfulness, and erase out of its mind all memorials of him."
-2. "This enmity is universal, it is in all men in unregeneracy, either direct or indirect, hidden or more open; it is undeserved; it is natural and deeply rooted in the mind, and irreconcilable without the power and grace of God."
-3. "The carnal mind is so far from an obedient subjection to the law, that it is far off from the law, and the law from that; it hates and despises it, thwarts and contradicts it in every instance, and, as much as in it lies, makes it void; which fully proves the enmity of the carnal mind against God."
-
 ### John Wesley:
-1. "Enmity against God" refers to the deep-seated hostility and opposition that humans have towards God. It encompasses the denial of His existence, the rejection of His power, and the resistance to His providential care.
+1. "Enmity against God" refers to a deep-seated hostility towards God and everything related to Him. It encompasses a denial of His existence, a rejection of His power, and a resistance to His providence. This enmity is rooted in the fallen nature of humanity and is manifested in various ways, such as atheism, idolatry, and rebellion against His moral laws.
 
-2. This enmity is rooted in the fallen nature of humanity, which rebels against the authority and sovereignty of God. It is a manifestation of our sinful inclinations and desires that seek to assert our own autonomy and control.
+2. This enmity is not merely a passive indifference towards God but an active opposition to His authority and sovereignty. It is a deliberate choice to distance oneself from God and to live in rebellion against His will. It is a rejection of the truth and a preference for darkness over light.
 
-3. The enmity against God is not merely a passive indifference or ignorance, but an active rebellion and defiance. It is a deliberate choice to reject God and His truth, often driven by pride, self-centeredness, and a desire to pursue our own selfish desires.
+3. The enmity against God is ultimately self-destructive, as it separates us from the source of life and love. It leads to spiritual emptiness, moral decay, and eternal separation from God. However, through the redemptive work of Jesus Christ, this enmity can be overcome, and reconciliation with God is made possible.
 
-4. Overcoming this enmity requires a transformation of the heart and mind through the work of the Holy Spirit. It involves a surrendering of our will to God, a recognition of our need for His grace and forgiveness, and a submission to His authority and lordship.
-
-5. Ultimately, the enmity against God can only be fully overcome through a personal relationship with Jesus Christ. He is the bridge that reconciles us to God, offering forgiveness for our sins and restoring us to a right relationship with Him. In Christ, we can experience true peace, love, and harmony with God.
+4. Overcoming enmity against God requires a humble recognition of our own sinfulness and a willingness to submit to His authority. It involves a surrender of our own desires and a wholehearted acceptance of His truth and grace. Through the power of the Holy Spirit, we can be transformed from enemies of God into beloved children, experiencing the fullness of His love and purpose in our lives.
 
 
 ## Generation Details
