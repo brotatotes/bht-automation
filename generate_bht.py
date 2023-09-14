@@ -6,6 +6,7 @@ import tiktoken
 import time
 from bibleref import BibleRange
 from timeout_decorator import timeout
+import traceback
 
 # GLOBALS
 
@@ -36,7 +37,7 @@ def get_commentary(commentator, verse_ref):
         raise Exception(f'No commentary found for {verse_ref} for {commentator}.')
     
     file_contents = ""
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         file_contents = file.read()
 
     if not file_contents:
@@ -51,7 +52,7 @@ def get_prompt(prompt_folder, prompt_name):
         raise Exception(f'No prompt found called {prompt_name}.')
     
     file_contents = ""
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         file_contents = file.read()
 
     if not file_contents:
@@ -73,7 +74,7 @@ def get_commentary_choicests(verse_ref, choicest_prompt, commentators):
             raise Exception(f"No choicest file found for {commentator} for {choicest_prompt} for {verse_ref}, file path: {commentator_choicest_file}")
         
         file_contents = ""
-        with open(commentator_choicest_file, 'r') as file:
+        with open(commentator_choicest_file, 'r', encoding='utf-8') as file:
             file_contents = file.read()
 
         if not file_contents:
@@ -91,7 +92,7 @@ openai.api_key = OPENAI_API_KEY
 ENCODING = tiktoken.encoding_for_model("gpt-3.5-turbo")
 
 # Generate Choicest Piece
-@timeout(10)
+# @timeout(10)
 def ask_gpt_choicest_timeout(commentator, verse_ref, choicest_prompt):
     try:
         commentary_text = get_commentary(commentator, verse_ref)
@@ -149,7 +150,7 @@ def ask_gpt_choicest(commentator, verse_ref, choicest_prompt, tries=0, try_limit
         return ask_gpt_choicest(commentator, verse_ref, choicest_prompt, tries + 1)
 
 
-def record_gpt_choicest(verse_ref, choicest_prompts, commentators):
+def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=False):
     for commentator in commentators:        
             for choicest_prompt in choicest_prompts:
 
@@ -159,7 +160,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators):
 
                 out_path = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
 
-                if os.path.exists(out_path):
+                if not force_redo and os.path.exists(out_path):
                     print(f"\r✅ {commentator} {choicest_prompt} File already exists.", flush=True)
                     continue
 
@@ -167,7 +168,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators):
 
                 os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
-                with open(out_path, 'w') as out_file:
+                with open(out_path, 'w', encoding='utf-8') as out_file:
                     out_file.write(choicest)
 
                 if choicest:
@@ -177,7 +178,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators):
 
 
 # Generate BHT! 
-@timeout(10)
+# @timeout(10)
 def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentators):
     commentator_choicests = get_commentary_choicests(verse_ref, choicest_prompts, commentators)
 
@@ -223,7 +224,7 @@ def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, tries=0,
         return ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, tries + 1)
 
 
-def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
+def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force_redo=False):
     for choicest_prompt in choicest_prompts:
         for bht_prompt in bht_prompts:
             book, chapter, verse = get_book_chapter_verse(verse_ref)
@@ -232,7 +233,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
 
             print(f"🟧 {bht_prompt}", end="", flush=True)
 
-            if os.path.exists(out_path):
+            if not force_redo and os.path.exists(out_path):
                 print(f"\r✅ {bht_prompt} File already exists.", flush=True)
                 continue
 
@@ -243,7 +244,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
 
             os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
-            with open(out_path, 'w') as out_file:
+            with open(out_path, 'w', encoding='utf-8') as out_file:
                 out_file.write(f"# {verse_ref} Commentary Help Text\n\n")
                 out_file.write(f"## BHT:\n{bht}\n\n")
 
@@ -265,7 +266,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators):
 
 # Get all choicests and generate the bht from scratch.
 
-def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=25):
+def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=25, force_redo=False):
     if tries >= try_limit:
         print(f"***Failed {try_limit} times. Quitting.***")
         return
@@ -273,15 +274,16 @@ def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=
     try:
         for verse_ref in verse_refs:
             print(f"Generating BHT for {verse_ref}:")
-            record_gpt_choicest(verse_ref, choicest_prompts, commentators)
-            record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators)
+            record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo)
+            record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force_redo)
             print(f"{verse_ref} BHT Done!")
             print()
     except Exception as e:
         print(f"An error occurred: {e}")
+        print(traceback.format_exc())
         print(f"Retrying in {5 + tries} seconds...")
         time.sleep(5 * tries)
-        generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries + 1)
+        generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries + 1, force_redo)
 
 # MAIN
 
@@ -297,22 +299,18 @@ if __name__ == '__main__':
         "John Gill",
         "John Wesley"
         ]
-    
-    # books = [
-    #     BibleRange("Romans 8:1-11")
-    # ]
 
     books = [BibleRange(b) for b in [
         # "Matthew",
         # "Mark",
         # "Luke",
-        "John",
+        # "John",
         # "Acts",
         # "Romans",
         # "1 Corinthians",
         # "2 Corinthians",
         # "Galatians",
-        "Ephesians",
+        # "Ephesians",
         # "Philippians",
         # "Colossians",
         # "1 Thessalonians",
@@ -320,17 +318,23 @@ if __name__ == '__main__':
         # "1 Timothy",
         # "2 Timothy",
         # "Titus",
-        "Philemon",
+        # "Philemon",
         # "Hebrews",
         # "James",
-        "1 Peter",
-        "2 Peter",
-        "1 John",
-        "2 John",
-        "3 John",
-        "Jude",
+        # "1 Peter",
+        # "2 Peter",
+        # "1 John",
+        # "2 John",
+        # "3 John",
+        # "Jude",
         # "Revelation",
         ]]
 
-    for book in books:
-        generate_bht(book, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    # generate_bht(BibleRange("Matthew"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    # generate_bht(BibleRange("Romans"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    # generate_bht(BibleRange("Galatians"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    # generate_bht(BibleRange("Titus"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    # generate_bht(BibleRange("Mark"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    # generate_bht(BibleRange("Luke"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    # generate_bht(BibleRange("Galatians 1:1"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+
