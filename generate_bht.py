@@ -285,8 +285,11 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
             print(f"❌ Failed {try_limit} times. Quitting. ❌")
             return
         
+        verse_i = 0
+        
         try:
-            for verse_ref in verse_refs:
+            for i, verse_ref in enumerate(verse_refs):
+                verse_i = i
                 # print(f"Generating BHT for {verse_ref}:")
                 record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo)
                 record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force_redo)
@@ -301,7 +304,7 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
             # print(traceback.format_exc())
             print(f"Retrying in {5 + tries} seconds...")
             time.sleep(5 * tries)
-            generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=tries + 1, try_limit=try_limit, force_redo=force_redo)
+            generate_bht(verse_refs[verse_i:], choicest_prompts, bht_prompts, commentators, tries=tries + 1, try_limit=try_limit, force_redo=force_redo)
 
 
     verses_per_thread = math.ceil(len(verse_refs) / 100.0)
@@ -344,24 +347,24 @@ if __name__ == '__main__':
 
     books = [BibleRange(b) for b in [
         # "Matthew",
-        "Mark",
-        "Luke",
+        # "Mark",
+        # "Luke",
         # "John",
-        "Acts",
-        "Romans",
-        "1 Corinthians",
-        "2 Corinthians",
-        "Galatians",
+        # "Acts",
+        # "Romans",
+        # "1 Corinthians",
+        # "2 Corinthians",
+        # "Galatians",
         # "Ephesians",
-        "Philippians",
+        # "Philippians",
         "Colossians",
         "1 Thessalonians",
         "2 Thessalonians",
         "1 Timothy",
         "2 Timothy",
-        "Titus",
-        "Philemon",
-        "Hebrews",
+        # "Titus",
+        # "Philemon",
+        # "Hebrews",
         "James",
         "1 Peter",
         "2 Peter",
@@ -369,25 +372,19 @@ if __name__ == '__main__':
         # "2 John",
         # "3 John",
         # "Jude",
-        # "Revelation",
+        # "Revelation 1-22:20", # Add Revelation manually because the library is broken for this case.
         ]]
     
     verses = []
     for book in books:
         for verse in book:
             verses.append(verse)
-    
-    # Add Revelation manually because the library is broken for this case.
-    for verse in BibleRange("Revelation 1-22:20"):
-        verses.append(verse)
-
-    verses.append(BibleVerse("Revelation 22:21"))
 
     # generate_bht(verses, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
 
     start_time = time.time()
 
-    generate_bht_concurrently(BibleRange("Mark"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    generate_bht_concurrently(verses, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
 
     elapsed_time = time.time() - start_time
     print(f"That took {elapsed_time} seconds.")
