@@ -383,6 +383,12 @@ if __name__ == '__main__':
 
     verses.append(BibleVerse("Revelation 22:21"))
 
-    generate_bht_concurrently(BibleRange("Ephesians"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    # generate_bht(verses, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
 
+    start_time = time.time()
+
+    generate_bht_concurrently(BibleRange("Mark"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+
+    elapsed_time = time.time() - start_time
+    print(f"That took {elapsed_time} seconds.")
     
