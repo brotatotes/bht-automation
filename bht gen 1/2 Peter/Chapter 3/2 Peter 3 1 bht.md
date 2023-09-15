@@ -1,0 +1,57 @@
+# 2 Peter 3:1 Commentary Help Text
+
+## BHT:
+This passage addresses the urgent need to have a sincere and pure mind, free from the influence of falsehoods and impure desires. The author emphasizes the importance of remembering and holding onto important truths, as there are adversaries and false teachers who can lead believers astray. The deep love and affection for the readers is evident in the author's words, acknowledging them as chosen and beloved by God. By stirring up their minds, the author aims to reinforce their commitment to the truth and strengthen their faith in the face of opposition.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "I stir up your pure mind" - The commentary explains that the term "pure mind" refers to the aspect of the spiritual being that is turned towards the outer world, guiding one's actions. It emphasizes the importance of having a mind that is not obscured by selfish desires or worldly concerns.
+
+2. "When the will and affection being turned to God" - The commentary highlights that a pure mind is characterized by having one's will and affection directed towards God. This implies that a genuine devotion to God should be the driving force behind one's thoughts and actions.
+
+3. "It is not obscured by fleshly and selfish regards" - The commentary emphasizes that a pure mind is free from the influence of fleshly desires and selfish motives. It suggests that a sincere and selfless devotion to God is essential for maintaining a pure mind.
+
+(Note: The commentary provides additional explanations and references, but these quotes capture the essence of the commentary and provide valuable insights into the verse.)
+
+### Jamieson Fausset Brown:
+1. "The mind, will, and affection, in relation to the outer world, being turned to God [the Sun of the soul], and not obscured by fleshly and selfish regards." 
+2. "Pure when examined by sunlight"; "sincere." Adulterated with no error. 
+3. "It is only needed that I remind you."
+
+### Albert Barnes:
+1. "The main object of both epistles is the same - to call to your remembrance important truths which you have before heard, but which you are in danger of forgetting, or from which you are in danger of being turned away by prevailing errors."
+2. "The word properly refers to 'that which may be judged of in sunshine;' then it means 'clear, manifest;' and then 'sincere, pure' - as that in which there is no obscurity."
+3. "The apostle regarded them as 'disposed' to see the truth, and yet as liable to be led astray by the plausible errors of others."
+
+### Marvin Vincent:
+1. "Pure minds [ειλικρινη διανοιαν] . The latter word is singular, not plural. Hence, as Rev., mind." 
+2. "The word rendered pure is often explained tested by the sunlight; but this is very doubtful, since eilh, to which this meaning is traced, means the heat, and not the light of the sun." 
+3. "Others derive it from the root of the verb eiJlissw, to roll, and explain it as that which is separated or sifted by rolling, as in a sieve."
+
+### John Calvin:
+1. "I stir up your pure mind, he means the same as though he had said, 'I wish to awaken you to a sincerity of mind.'"
+2. "The sloth of the flesh smothers the truth once received, and renders it inefficient, except the goads of warnings come to its aid."
+3. "It is useful for us to bear in mind what Peter says, so that we may not only willingly suffer ourselves to be admonished by others, but that every one may also exercise himself in calling to mind continually the truth."
+
+### Philip Schaff:
+1. "This already second epistle, beloved, I write unto you." - The expression implies a short time had elapsed since the first epistle, showing the author's affectionate solicitude and the urgency of the subject-matter.
+
+2. "The Epistle also deepens notably in the loving urgency of its tone, as it now approaches its conclusion." - The author's repeated appeals to the readers as 'beloved' in this chapter show the deepening sense of urgency and love in his message.
+
+3. "I stir up your sincere mind in reminding (or, in the way of) reminder." - The author encourages the readers to have a pure and unmixed mind, free from double-mindedness and hypocrisy, emphasizing the ethical sense of sincerity.
+
+### Archibald T Robertson:
+1. "Peter 'turns away from the Libertines and their victims' (Mayor)."
+2. "I stir up (διεγειρω). Present active indicative, perhaps conative, 'I try to stir up.'"
+3. "Sincere (ειλικρινη). Old adjective of doubtful etymology... used it of ethical purity (ψυχη ειλικρινης) as here and Philippians 1:10."
+
+### John Gill:
+1. "The apostle having largely described false teachers, the secret enemies of the Christian religion under a profession of it, passes on to take notice of the more open adversaries and profane scoffers of it."
+2. "He addresses these saints here, as also in 2 Peter 3:8, under the character of 'beloved'; because they were the beloved of God, being chosen by him according to his foreknowledge, and regenerated by him, according to his abundant mercy."
+3. "His end in writing both this and the former epistle follows; in [both] which I stir up your pure minds by way of remembrance; that this was his view both in this and the former epistle, appears from 1 Peter 1:13."
+
+
+## Generation Details
+- Choicest Prompt: "choicest prompt v1"
+- BHT Prompt: "bht prompt v3"
+- Commentators: "Henry Alford, Jamieson Fausset Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T Robertson, John Gill, John Wesley"
