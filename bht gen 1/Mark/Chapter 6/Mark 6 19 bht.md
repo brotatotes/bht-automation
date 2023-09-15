@@ -1,20 +1,25 @@
 # Mark 6:19 Commentary Help Text
 
 ## BHT:
-The verse being described portrays a deep-seated animosity held by Herodias towards John the Baptist. Herodias carried a grudge against him, harboring anger, resentment, and hatred in her heart. She desired to eliminate him, but her efforts were hindered by Herod, ultimately prevented from carrying out her murderous intentions. Herodias' strong opposition to John the Baptist is evident, as she plotted and waited for the opportunity to silence him.
+This enigmatic verse describes a deep-seated anger and resentment harbored by Herodias towards John the Baptist. Herodias, unable to confront him directly, waited for the perfect opportunity to bring harm upon him. Despite her persistent desire to kill him, she was hindered by factors beyond her control, leaving her with a pent-up animosity that persisted over time. The verse offers a glimpse into the intricate dynamics between these two individuals, revealing the dangers faced by John the Baptist in his outspoken ministry.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Herodias had a grudge against him." - This suggests that Herodias harbored deep resentment towards John the Baptist, possibly due to his outspoken criticism of her marriage to Herod. 
+1. "Herodias had a grudge against him." - The commentary suggests that Herodias harbored deep resentment towards John the Baptist, possibly due to his outspoken criticism of her unlawful marriage to Herod. This quote highlights the personal animosity that fueled her desire to harm him.
 
-2. "Probably she was too proud to speak to him." - This implies that Herodias' pride prevented her from directly confronting John the Baptist about her grievances, leading to a festering animosity between them. 
+2. "She could not [kill him]." - This quote implies that despite Herodias' strong desire to kill John the Baptist, she was unable to carry out her plan. The commentary does not provide a specific reason for her inability, leaving room for interpretation and speculation.
 
-3. "She would have killed him, but she could not." - This statement highlights Herodias' strong desire to eliminate John the Baptist, indicating the extent of her anger and the lengths she was willing to go to silence him.
+3. "Probably she was too proud to speak to him." - This quote offers a possible explanation for Herodias' grudge against John the Baptist. It suggests that her pride prevented her from engaging in a direct confrontation with him, leading to her resentment growing over time. This insight sheds light on the dynamics of their relationship.
 
 ### Marvin Vincent:
-1. "Very literally, had within herself [εν] anger against him."
+1. "Had within herself [εν] anger against him."
 2. "Her demand for John's murder was the result of a long-cherished wish."
-3. "The rendering 'Set herself against him' suggests a strong opposition or resistance towards him."
+3. "Astyages concealing the anger [τον χολον] which he felt toward him [οι ενειχε]."
+
+### Archibald T Robertson:
+1. "Literally, had it in for him. This is modern slang, but is in exact accord with this piece of vernacular Koine."
+2. "The tense is imperfect and aptly described the feelings of Herodias towards this upstart prophet of the wilderness who had dared to denounce her private relations with Herod Antipas."
+3. "She never let up, but bided her time which, she felt sure, would come."
 
 ### John Gill:
 1. "Herodias bore him an inward grudge, and lay in wait to take the first opportunity of dispatching him." 

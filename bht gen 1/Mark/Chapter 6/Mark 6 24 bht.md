@@ -1,7 +1,7 @@
 # Mark 6:24 Commentary Help Text
 
 ## BHT:
-In this Bible verse, we witness the treacherous actions of a woman driven by vengeance. The abandon of shame and heartlessness seen in abandoned women is amplified in her calculated and deliberate desire for revenge. This opportunity to harm an innocent man was too good for her to pass up, leaving her unprepared for the ghastly response of her mother. The cunning nature of this woman is brought to light as she seeks guidance from her mother and withdraws to carefully consider her next move.
+In this Bible verse, we see the malicious and shameless nature of a woman named Herodias, who sought to get rid of a man who spoke the word of God. Herodias's desire for revenge was calculated and deliberate, as she longed for the death of this man who opposed her. Even the daughter of Herodias played a role, seeking her mother's guidance on what to ask for. This verse reveals the power of the word of God, as even in prison, the voice of this holy man wounded and tormented the minds of those who opposed him.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
@@ -9,10 +9,17 @@ In this Bible verse, we witness the treacherous actions of a woman driven by ven
 2. "The Baptist's fidelity marred the pleasures of Herodias."
 3. "This was too good an opportunity of getting rid of him to let slip."
 
+### John Calvin:
+1. "It was rather the dread of being cast off that inflamed and tormented her; as it usually happens that, when adulterers are visited with feelings of uneasiness, they become ashamed of their own lust." (367)
+
+2. "That her power might be more secure for the future, she longed for the death of that man whom she imagined to be her only opponent; and this shows us the wretched anxiety by which a bad conscience is always tormented." (367)
+
+3. "This likewise serves to show the power of the word of God, that the voice of the holy man, even when shut up in prison, wounds and tortures in the keenest manner the mind of the kingâ€™s wife." (368)
+
 ### Philip Schaff:
 1. "The studied vindictiveness of Herodias is here brought out." 
-2. "Herodias' actions reveal her calculated and deliberate desire for revenge." 
-3. "This verse highlights the cunning and malicious nature of Herodias as she seizes the opportunity to harm John the Baptist."
+2. "Herodias's actions reveal her calculated and deliberate desire for revenge." 
+3. "This verse highlights the cunning and malicious nature of Herodias."
 
 ### Archibald T Robertson:
 1. "The fact that she went and spoke to her mother proves that she had not been told beforehand what to ask."

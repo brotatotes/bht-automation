@@ -1,7 +1,7 @@
 # Mark 6:56 Commentary Help Text
 
 ## BHT:
-In this verse, we find an account of the incredible healing ministry of Jesus. As commentators note, the events described took place in various locations, including public spaces and fields. The intensity of the healing ministry is emphasized, with many individuals seeking to touch even the border of Jesus' garment, knowing that it could bring about miraculous healing. Their faith was rewarded, as all who touched Him or His garment were made whole, demonstrating the powerful and compassionate nature of Jesus' ministry.
+In various towns, cities, and fields, Jesus was sought out by the sick and desperate, hoping to be healed. They would lay in the streets or markets, beseeching him to touch even the border of his garment, firmly believing in its healing power. This demonstrates the wide reach of Jesus' healing ministry and the unwavering faith of those who sought his miraculous touch.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,24 +10,24 @@ In this verse, we find an account of the incredible healing ministry of Jesus. A
 3. "Cf. reff. and Lucian, Dial. mort. ix. 2, μακάριος ἦν αὐτῶν ὅντινα ἂν καὶ μόνον προσέβλεψα."
 
 ### Jamieson Fausset Brown:
-1. "having heard, no doubt, of what the woman with the issue of blood experienced on doing so (Mark 5:25-29), and perhaps of other unrecorded cases of the same nature."
+1. "having heard, no doubt, of what the woman with the issue of blood experienced on doing so"
 2. "All this they continued to do and to experience while our Lord was in that region."
-3. "The time corresponds to that mentioned (Mark 5:25-41.5.29- :), when He 'walked in Galilee,' instead of appearing in Jerusalem at the passover, 'because the Jews,' that is, the rulers, 'sought to kill Him'—while the people sought to enthrone Him!"
+3. "the people sought to enthrone Him!"
 
 ### Marvin Vincent:
-1. "Peculiar to Mark." This phrase highlights the unique aspect of the verse being discussed, indicating that it is found only in the Gospel of Mark. 
+1. "Peculiar to Mark." This phrase highlights the unique aspect of the verse being discussed, suggesting that it is specific to the Gospel of Mark and not found in other biblical texts.
 
-2. "In the streets [αγοραις]." The mention of "streets" or "market-places" emphasizes the public setting of the events described in the verse, suggesting that they took place in a bustling and busy environment.
+2. "In the streets [αγοραις]." This quote emphasizes the location where the events described in the verse took place, specifically referring to the streets or marketplaces.
 
-3. "Border." This term refers to a specific location or boundary, indicating that the events described in the verse occurred at a particular place or point in time.
+3. "Border." This word draws attention to the significance of the location mentioned in the verse, indicating that it is a boundary or edge of a particular area.
 
 ### Philip Schaff:
 1. "Wheresoever he entered. This implies that a journey of some kind followed."
-2. "Country, lit,' fields.'"
+2. "Country, lit,'fields.'"
 3. "Market-places, here with a wide sense. This description may refer to a period of some length, and indicates the great number of miracles performed by our Lord."
 
 ### Archibald T Robertson:
-1. "The imperfect indicative with αν used to make a general indefinite statement with the relative adverb." 
+1. "The imperfect indicative with αν used to make a general indefinite statement with the relative adverb."
 2. "One must enlarge the details here to get an idea of the richness of the healing ministry of Jesus."
 3. "We are now near the close of the Galilean ministry with its many healing mercies and excitement is at the highest pitch."
 
@@ -35,7 +35,8 @@ In this verse, we find an account of the incredible healing ministry of Jesus. A
 1. "Whether in smaller towns, or larger cities, or the fields, where were houses, here and there one."
 2. "They laid the sick in the streets; or 'markets', in any public places."
 3. "And besought him that they but might touch the border of his garment; if they might not be admitted to touch his person, or he did not choose to lay his hands on them."
-4. "And as many as touched him; or 'it', the border of his garment, as they desired: were made whole."
+
+These quotes highlight the diverse locations where Jesus went to heal the sick, the desperation of the people to be healed, and their faith in the power of even touching the border of Jesus' garment to receive healing.
 
 
 ## Generation Details

@@ -1,7 +1,7 @@
 # Mark 2:8 Commentary Help Text
 
 ## BHT:
-In this Bible verse, we are presented with a scenario where Jesus exhibits a supernatural knowledge of the thoughts and intentions of those around him. This immediate and fully aware knowledge signifies his divine nature and power to forgive sins. Jesus rebukes their evil thoughts, reminding them to align their minds with God's will. His ability to perceive their thoughts serves as a convincing evidence of his authority and ability to discern the sacred thoughts of our hearts.
+In this verse, we see a clear depiction of the immediate and supernatural knowledge possessed by Jesus. His understanding of people's thoughts and intentions is not only fully and clearly aware, but also extends to the depths of their thinking. This divine awareness of their innermost thoughts serves as powerful evidence of His ability to forgive sins. Jesus reproves those who reason in their hearts, emphasizing the importance of guarding against the first risings of evil in our hearts and striving for purity in our thoughts and desires.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,21 +10,20 @@ In this Bible verse, we are presented with a scenario where Jesus exhibits a sup
 3. "The knowledge was immediate and supernatural, as is most carefully and precisely here signified."
 
 ### Jamieson Fausset Brown:
-1. "Why reason ye these things in your hearts?" - This quote highlights the importance of examining our thoughts and intentions. It reminds us to be mindful of the motives behind our actions and to align them with God's will.
+1. "Reasoning in the heart is as truly a sin as speaking with the lips; and it is a sin which is very common, and which is often indulged in by those who would be shocked at the thought of uttering a word of blasphemy."
 
-2. "Wherefore think ye evil in your hearts?" - This quote emphasizes the need to guard against negative and harmful thoughts. It serves as a reminder to cultivate a pure and righteous mindset, free from malice and ill intentions.
+2. "The evil thought, the impure desire, the unholy purpose, the revengeful feeling, the covetous wish, the envious emotion, the proud and ambitious design, the secret indulgence of any sin, is a sin in the sight of God."
 
-3. "Think ye evil in your hearts?" - This quote prompts us to reflect on the nature of our thoughts and attitudes. It encourages us to examine whether our hearts are filled with love, kindness, and compassion or if they are tainted by negativity and harmful intentions.
+3. "It is not enough to abstain from open acts of sin; we must also guard against the first risings of evil in our hearts, and strive to keep our thoughts and desires pure and holy."
 
 ### Marvin Vincent:
-1. "He was not only immediately aware of their thought, but clearly and fully aware."
-2. "The preposition ejpi gives the force of fully."
-3. "Perceived [επιγνους] - He was fully aware."
+1. "Perceived [επιγνους]. The preposition ejpi gives the force of fully."
+2. "He was not only immediately aware of their thought, but clearly and fully aware."
+3. "He was fully cognizant of their intentions and understood the depth of their thinking."
 
 ### Philip Schaff:
 1. "An immediate and supernatural knowledge is thus indicated: itself no slight evidence of His power to forgive sins."
-2. "Why reason ye? Comp, on Matthew 9:4, where their thoughts are called 'evil.'"
-3. "Their thoughts are called 'evil.'"
+2. "Why reason ye? Comp, on Matthew 9:4, where their thoughts are called ‘evil.’"
 
 ### John Gill:
 1. "His divine nature, in and by which he knew all things, even the most sacred thoughts of men's hearts."

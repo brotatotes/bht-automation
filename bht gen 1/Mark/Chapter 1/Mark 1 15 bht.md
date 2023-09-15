@@ -1,29 +1,46 @@
 # Mark 1:15 Commentary Help Text
 
 ## BHT:
-The time has come for the long-awaited fulfillment of God's promise and prophecy. Jesus is announcing the arrival of his divine authority and the establishment of his kingdom, bringing hope and salvation to a world longing for redemption. This momentous event, foretold by the prophets, marks a definitive and transformative shift in history, signaling the completeness of God's plan for humanity.
+The verse being described depicts a pivotal moment in history where the long-awaited fulfillment of God's promises is announced. It signifies the arrival of the Messiah and the establishment of God's kingdom on earth. The verse acknowledges the divinely appointed timing and calls for repentance and faith in response to the Gospel. This moment brings together the anticipation of the people, the fulfillment of prophecy, and the invitation to participate in the transformative work of God's kingdom.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The end of the old covenant is at hand; ... the Son is born, grown up, anointed (in his baptism), tempted, gone forth, the testimony of his witness is given, and now He witnesses Himself." - Stier, R. J. i. 57.
+2. "These words are in Mark only. They furnish us an interesting characteristic of the difference between the preaching of John, which was that of repentance, and of our Lord, which was repentance and faith." 
+3. "The object of the faith is conceived as that on which the faith lays hold." - Meyer.
+
+### Albert Barnes:
+1. "The time is fulfilled - That is, the time for the appearance of the Messiah, the time so long foretold, has come."
+2. "Repent ye - Exercise sorrow for sins, and turn from them."
+3. "And believe the gospel - Literally, trust in the gospel, or believe the good tidings - to wit, respecting salvation."
+
+### Marvin Vincent:
+1. "The time (ὁ καιρὸς) refers to a specific period or season that is appointed by God. It is not just any random moment, but a divinely ordained opportunity for God to work in a particular way."
+
+2. "This verse reminds us that God is in control of time and has a perfect plan for every season of our lives. It encourages us to trust in His timing and to be patient as we wait for His purposes to unfold."
+
+3. "The phrase 'the time is fulfilled' suggests that there is a divine timetable for the fulfillment of God's promises. It implies that God has been working behind the scenes, orchestrating events and preparing the way for His purposes to come to pass."
+
+4. "Jesus' statement 'the kingdom of God is at hand' indicates that with His arrival, the long-awaited reign of God was breaking into human history. It was a momentous occasion, signaling the beginning of a new era where God's rule and reign would be established on earth."
+
+5. "This verse challenges us to recognize and respond to the divine opportunities that God presents to us. It calls us to be attentive to the signs of His kingdom breaking in and to actively participate in the work that He is doing in our midst."
+
 ### Philip Schaff:
-1. "The time is fulfilled. The right time, already predicted, has come in fulfilment of prophecy."
-2. "The kingdom of God is at hand. The reign of the Messiah, which is the kingdom of God, has approached."
-3. "Believe in the gospel. The message of John the Baptist did not include this. As yet our Lord does not preach faith in Himself; that must come later. Yet even here is the germ of faith in a Personal Redeemer."
+1. "The time is fulfilled... The right time, already predicted, has come in fulfilment of prophecy."
+2. "The kingdom of God is at hand... The reign of the Messiah, which is the kingdom of God, has approached."
+3. "Believe in the gospel... The Jews all hoped for the kingdom of God. Jesus proclaims it, but adds something they do not seem to have expected: repentance and faith in order to enter it."
 
 ### John Gill:
-1. "The time is fulfilled... the fulness of time for the Messiah's appearance in the world."
-2. "The kingdom of God is at hand... repent ye, and believe the Gospel."
-3. "He called them to repent... and to relinquish them, and give into the Gospel scheme."
+1. "The time is fulfilled...the fulness of time for the Messiah's appearance in the world." 
+2. "The kingdom of God is at hand...the kingdom of heaven." 
+3. "Repent ye, and believe the Gospel...exhorts them to change their sentiments about, and to relinquish them, and give into the Gospel scheme."
 
 ### John Wesley:
-1. "The time is fulfilled" - This phrase emphasizes the fulfillment of a long-awaited promise or prophecy, indicating that the moment has finally arrived for God's plan to be realized.
+1. "The time is fulfilled" - This phrase indicates that the long-awaited time of fulfillment has arrived, signaling the establishment of God's kingdom on earth.
 
-2. "The time of my kingdom" - This phrase suggests that Jesus is referring to the establishment of his divine rule and authority, indicating a significant shift in the spiritual landscape.
+2. "The time of my kingdom" - Jesus refers to the coming of his kingdom, which had been prophesied by Daniel and eagerly anticipated by the people.
 
-3. "Expected by you" - This phrase acknowledges the anticipation and longing of the people for the coming of the Messiah, highlighting their hope and desire for salvation.
-
-4. "Is fully come" - This phrase signifies the completeness and totality of the arrival of God's kingdom, indicating that it is not a partial or temporary event, but a definitive and transformative moment in history.
-
-5. "Foretold by Daniel" - This phrase alludes to the prophetic nature of Jesus' coming, connecting it to the Old Testament prophecies and affirming its divine origin and significance.
+3. "Expected by you" - Jesus acknowledges the people's anticipation and longing for the fulfillment of God's promises, recognizing their hope and desire for the arrival of his kingdom.
 
 
 ## Generation Details

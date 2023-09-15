@@ -1,29 +1,25 @@
 # Mark 5:11 Commentary Help Text
 
 ## BHT:
-In this verse, the detailed accuracy of the narrative is evident, as expressed by Jamieson Faussett Brown. The mention of "the mountain" adds a dramatic and symbolic element to the story, representing both the challenging physical landscape and the spiritual journey of the possessed man, according to Philip Schaff. The location near the mountains, as emphasized by John Gill, hints at a possible significance or connection to the area, complemented by the presence of a great herd of swine nearby. This rich description immerses the reader in the context and enhances their understanding of the verse.
+In this verse, the narrative displays a minute accuracy in describing the location and distance of the mountains, highlighting the significance of their presence. The encounter takes place on a mountain, emphasizing the isolation and desolation of the possessed man. The mention of a herd of swine owned by likely Jewish owners accentuates the events that follow and sheds light on the subsequent happenings. The reader is encouraged to explore parallel accounts to gain a more comprehensive understanding of the story and draw additional insights from the context and geographical details mentioned in the verse.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "These expressions, far from being inconsistent, only confirm, by their precision, the minute accuracy of the narrative."
-2. "There can hardly be any doubt that the owners of these were Jews, since to them our Lord had now come to proffer His services."
-3. "This will explain what follows."
+1. "The minute accuracy of the narrative" is confirmed by the precise descriptions of the location and distance of the mountains. 
+
+2. The presence of a herd of swine indicates that the owners were likely Jews, which helps to explain the events that follow. 
+
+3. "This will explain what follows," suggesting that the ownership of the swine by Jews is significant in understanding the subsequent events.
 
 ### Philip Schaff:
-1. "The mountain" refers to the region of the Gadarenes, which was known for its steep hills and cliffs. This detail adds to the dramatic setting of the story and emphasizes the isolation and desolation of the possessed man.
-
-2. The mention of "the mountain" also symbolizes the spiritual journey that the man will undergo. It represents the obstacles and challenges he must overcome in order to find healing and restoration.
-
-3. The phrase "the better established reading" suggests that the account in Mark aligns more closely with Luke's version of the story. This highlights the importance of comparing different accounts of the same event to gain a more comprehensive understanding of the biblical narrative.
+1. "The mountain" refers to the location where Jesus encountered a man possessed by demons. This detail is significant because it highlights the isolation and desolation of the man's condition, as well as the power and authority of Jesus to confront and overcome evil forces.
+2. The phrase "the better established reading" suggests that the version of the text that mentions the mountain is more reliable and accurate. This implies that the mountain played a crucial role in the narrative and should be given due attention in understanding the context and significance of the events that unfolded.
+3. The mention of Luke's account indicates that there is a parallel passage in Luke's Gospel that provides additional insights or details about the event on the mountain. This encourages readers to explore and compare different Gospel accounts to gain a more comprehensive understanding of the story.
 
 ### John Gill:
-1. "Where this man often was" - This quote suggests that the man in the verse had a habit of being near the mountains, indicating a possible significance or connection to the location.
-
-2. "The mountains of Galaad, which ran through that country" - This quote provides a geographical context, mentioning the specific mountains that were present in the area.
-
-3. "A great herd of swine feeding; on one side of the mountain" - This quote highlights the presence of a large group of pigs in the vicinity, emphasizing the abundance of animals in the area.
-
-These quotes help to paint a picture of the setting and provide additional details that enhance the reader's understanding of the verse.
+1. "Where this man often was" - This quote suggests that the man in the verse had a habit of being near the mountains, implying a familiarity with the area and possibly a reason for his presence there.
+2. "The mountains of Galaad, which ran through that country" - This quote provides geographical context, mentioning the specific mountains that were likely in the vicinity. It helps the reader visualize the setting of the verse.
+3. "A great herd of swine feeding; on one side of the mountain" - This quote highlights the presence of a large group of pigs near the mountains, indicating that the man was not alone in that area. It adds to the overall scene and atmosphere described in the verse.
 
 
 ## Generation Details

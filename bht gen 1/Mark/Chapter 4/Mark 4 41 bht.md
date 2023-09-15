@@ -1,20 +1,33 @@
 # Mark 4:41 Commentary Help Text
 
 ## BHT:
-The disciples find themselves both struck with awe and fearing greatly, as they contemplate the power and authority of Jesus over the wind and sea. They recognize that Jesus possesses the same power that God does, as prophesied in the Old Testament. Despite being physically exhausted and asleep, Jesus effortlessly commands the storm to be calm, showcasing his divine power and control over nature. This demonstration of his deity leaves the disciples amazed and further solidifies their belief in Jesus as more than just a mere man.
+The disciples, witnessing Jesus command the wind and sea, were filled with awe and wonder, questioning the identity and power of this person. The intensity of their fear was emphasized, showing their recognition of the magnitude of the event. As they realized the extent of Jesus' authority over nature, their understanding of his divine nature deepened, leaving them astonished and curious about who he truly was. This display of power opened their eyes to the majesty of Jesus and established their belief in his deity.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The ἄρα expresses the inference from the event which they had witnessed." 
+2. "Who then is this?" 
+3. "The disciples were left in awe and wonder, questioning the identity and power of Jesus."
+
 ### Jamieson Fausset Brown:
-1. "What manner of man is this, that even the wind and the sea obey him?" - The disciples are struck with deep awe and wonder at the power and authority of Jesus over the elements. This question reflects their astonishment and recognition of Jesus' divine nature.
+1. "What is this? Israel has all along been singing of JEHOVAH, 'Thou rulest the raging of the sea: when the waves thereof arise, Thou stillest them!' 'The Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea!' But, lo, in this very boat of ours is One of our own flesh and blood, who with His word of command hath done the same!"
+2. "Exhausted with the fatigues of the day, He was but a moment ago in a deep sleep, undisturbed by the howling tempest, and we had to waken Him with the cry of our terror; but rising at our call, His majesty was felt by the raging elements, for they were instantly hushed."
+3. "WHAT MANNER OF MAN IS THIS?"
 
-2. "Israel has all along been singing of JEHOVAH, 'Thou rulest the raging of the sea...'" - The disciples realize that Jesus, in calming the storm, has demonstrated the same power and authority that God possesses. They see Jesus as the fulfillment of the prophecies and songs of the Old Testament.
-
-3. "Exhausted with the fatigues of the day, He was but a moment ago in a deep sleep, undisturbed by the howling tempest..." - The disciples are amazed that Jesus, despite being physically tired and asleep, is able to effortlessly calm the storm with a single command. This highlights Jesus' divine power and control over nature.
+### Marvin Vincent:
+1. "They feared exceedingly [εφοβηθησαν φοβον μεγαν]. Lit., they feared a great fear."
+2. "What manner of man is this? [τις αρα ουτος εστιν]. The Rev. gives it rightly: Who then is this?"
+3. "The then [αρα] is argumentative. Since these things are so, who then is this?"
 
 ### Philip Schaff:
-1. "Feared exceedingly, lit., 'feared a great fear.' And said one to another. This seems to have been the language of all in the boat."
-2. "Who then is this? Mark and Luke have a different expression from that given by Matthew: 'What manner of man.' 'Who then,' i.e., in view of all we have seen."
-3. "This command over the wind and sea was a new revelation of Christ even to his disciples."
+1. "Feared exceedingly, lit., ‘feared a great fear.’" - This emphasizes the intensity of the disciples' fear, highlighting the magnitude of the event that took place.
+2. "This command over the wind and sea was a new revelation of Christ even to his disciples." - It suggests that the disciples were witnessing a powerful display of Jesus' authority, which deepened their understanding of his divine nature.
+3. "‘Who then is this?’" - This question reflects the disciples' astonishment and curiosity about the identity of Jesus, as they were witnessing something beyond their comprehension.
+
+### Archibald T Robertson:
+1. "They feared a great fear." 
+2. "No wonder that they feared if this One could command the wind and the waves at will as well as demons and drive out all diseases and speak such mysteries in parables."
+3. "This incident opened the eyes and minds of the disciples to the majesty of Jesus."
 
 ### John Gill:
 1. "Surely this person must not be a mere man; he must be more than a man; he must be truly God, that has such power over the wind and sea."

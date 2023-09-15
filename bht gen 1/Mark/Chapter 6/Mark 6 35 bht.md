@@ -1,29 +1,36 @@
 # Mark 6:35 Commentary Help Text
 
 ## BHT:
-In this Bible verse, there is a sense of urgency as the Passover approaches, which explains the movement of the crowd. The time of day adds to this urgency, highlighting the need for a quick solution. The mention of multiple perspectives reminds us to consider different Gospel accounts, shedding light on different aspects of the event. Jesus' ministry is seen as dedicated and impactful, even in challenging and isolated locations. Ultimately, the verse conveys the importance of recognizing God's work happening at any moment, fulfilling needs and displaying His power.
+As the Passover was near and the day was coming to an end, a multitude had gathered in a desert place where resources were scarce. Jesus, who had been ministering diligently throughout the day, was aware of the timing and the challenging circumstances. With the anticipation of sunset and the passing of time, there was a sense of urgency and concern among the disciples. Yet, in the midst of these constraints, a miraculous event was about to unfold, demonstrating Jesus' compassion and divine power.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The Passover was near, which would account for the multitude being on the move." This highlights the significance of the Passover in relation to the crowd's movement and sets the context for the events that follow.
+1. "The Passover was near, which would account for the multitude being on the move." This highlights the significance of the timing of the event, as the Passover was a major Jewish festival. 
 
-2. "See notes on John 6:3-7." This suggests that there is additional information in the commentary about the parallel passage in the Gospel of John, which could provide further insights into the verse.
+2. "See notes on John 6:3-7." This suggests that there is additional information or context provided in the notes on John 6:3-7, which could further enhance the understanding of the verse.
 
-3. "See notes on Matthew 14:15-17." This indicates that there are additional notes on the parallel passage in the Gospel of Matthew, which could provide further understanding of the verse.
+3. "See notes on Matthew 14:15-17." Similarly, this indicates that there are additional insights in the notes on Matthew 14:15-17 that could provide further understanding of the verse.
 
 ### Jamieson Fausset Brown:
-1. "The mention of the time of day in this verse adds a sense of urgency to the situation, as it indicates that the day was already far spent. This highlights the disciples' need to find a solution quickly." 
+1. "The mention of the time of day in this verse provides important context for understanding the events that follow. It indicates that the day was coming to an end, and sets the stage for the miracle that Jesus is about to perform." 
 
-2. "The different descriptions of the time of day in the various Gospel accounts remind us of the importance of considering multiple perspectives when studying the Bible. Each Gospel writer may have had a specific purpose or emphasis in mind when recording the events." 
+2. "The use of different time references in the various Gospel accounts highlights the accuracy and attention to detail in the biblical narrative. It shows that the authors were aware of the different cultural understandings of time and were careful to provide accurate information for their readers." 
 
-3. "The mention of the two different evenings in Mark's account suggests that there were significant events happening throughout the day. This serves as a reminder that God's work is not confined to a specific time or place, but can happen at any moment and in various ways."
+3. "The distinction between the earlier evening and the latter evening emphasizes the passing of time and creates a sense of anticipation for what is to come. It also serves to emphasize the miraculous nature of the feeding of the five thousand, as it takes place during a time when resources would typically be scarce."
+
+### Archibald T Robertson:
+1. "When the day was now far spent" - The phrase indicates that a significant portion of the day had already passed, setting the stage for the events to come.
+
+2. "Hωρα used here for day-time" - This clarifies that the term "hour" in this context refers to the daytime hours, rather than a specific time on the clock.
+
+3. "The turn of the afternoon had come and sunset was approaching" - This description helps to create a vivid picture of the timing of the events, highlighting the urgency and impending darkness.
 
 ### John Gill:
-1. "And when the day was now far spent... much time was gone": This highlights the length of Jesus' ministry and the dedication he had in teaching and healing the people. 
+1. "And when the day was now far spent" - This phrase indicates that Jesus had been busy teaching and healing the people for a significant amount of time. It highlights his dedication and tireless efforts in ministering to others.
 
-2. "This is a desert place": This phrase emphasizes the challenging and isolated location where Jesus and his disciples found themselves, setting the stage for a miracle to come.
+2. "This is a desert place" - The disciples' observation about the location emphasizes the lack of resources and provisions in the area. It highlights the challenging circumstances they were facing, which adds to the significance of the miracle that follows.
 
-3. "Now the time is far passed": This phrase indicates the lateness of the hour, creating a sense of urgency and setting the stage for the disciples' concern about the people's need for food.
+3. "Now the time is far passed" - This statement by the disciples indicates that it was getting late in the day, and they were concerned about the practical implications of the situation. It shows their awareness of the limitations and their need for a solution.
 
 
 ## Generation Details

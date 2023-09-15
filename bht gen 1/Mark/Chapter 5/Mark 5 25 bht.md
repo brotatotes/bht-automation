@@ -1,22 +1,20 @@
 # Mark 5:25 Commentary Help Text
 
 ## BHT:
-In Capernaum, a woman, who had been suffering with a debilitating and defiling disease for twelve long years, bravely sought healing from Jesus amidst a crowded street. Exhausting all her efforts, she clung to hope, believing that a mere touch of His garment would restore her. Displaying the power of faith, her touch not only resulted in physical healing but also brought about social and emotional restoration. This powerful encounter serves as a poignant reminder that no matter how dire our circumstances may seem, there is unwavering hope in Jesus to bring about miraculous transformation and wholeness.
+In this verse, a woman with an incurable illness symbolizes the natural state of a sinner, defiled and unfit for the company of others according to the law. Sin, like her disease, pollutes every aspect of our being, making us unclean in the eyes of God. Yet, this story also highlights the power of faith and persistence, as the woman's touch represents her unwavering belief in Jesus' divine power and her desperate desire for healing. In response, Jesus shows compassion and disregards societal norms, demonstrating his willingness to meet us in the depths of our needs.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
-1. "This woman was in the crowd that thronged Jesus, as he passed through the streets of Capernaum."
-2. "The disease of sin, with which all are infected, is a pollution itself, and of a defiling nature."
-3. "Such is the disease of sin, and indeed it is much worse; it is what is brought into the world with men, and is as old as themselves; is natural to them, and cannot be removed by any ordinary and natural methods, but requires supernatural power and grace."
+1. "This profluvious woman is an emblem of a sinner in a state of nature: as her disease was in itself an uncleanness, and rendered her unclean by the law, whereby she was unfit for the company and society of others; so the disease of sin, with which all are infected, is a pollution itself, and of a defiling nature."
+2. "All the members of the body, and all the powers and faculties of the soul are polluted with it, and the whole man is filthy in the sight of God, and is pronounced unclean by the law of God; and such persons are very unfit for the society of saints on earth, and much less to be with those in heaven."
+3. "The disease of sin, and indeed it is much worse; it is what is brought into the world with men, and is as old as themselves; is natural to them, and cannot be removed by any ordinary and natural methods, but requires supernatural power and grace."
 
 ### John Wesley:
-1. "This woman had suffered for twelve years, and her condition had left her isolated, desperate, and destitute. She had exhausted all her resources seeking a cure, but to no avail. Yet, in the midst of her pain and despair, she clung to hope and took a step of faith." 
+1. "The woman with the issue of blood teaches us the power of faith and persistence in seeking healing and restoration." 
 
-2. "Her touch was not merely a physical act; it was an act of faith. She believed that even a touch of Jesus' garment would be enough to heal her. This demonstrates the power of faith, that even the smallest gesture can bring about miraculous results."
+2. "Her touch of Jesus' garment signifies her belief in his divine power and her desperate desire for healing." 
 
-3. "Jesus not only healed her physically but also restored her socially and emotionally. He called her 'daughter' and affirmed her faith, providing her with the assurance that she was not only healed but also accepted and loved."
-
-4. "This woman's story reminds us that no matter how desperate or hopeless our situation may seem, there is always hope in Jesus. It encourages us to approach Him with faith, knowing that He is able to bring healing, restoration, and wholeness to our lives."
+3. "Jesus' response to her demonstrates his compassion and willingness to meet us in our deepest needs, regardless of societal norms or expectations."
 
 
 ## Generation Details

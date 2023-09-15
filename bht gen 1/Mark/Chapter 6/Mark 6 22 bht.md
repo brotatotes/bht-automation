@@ -1,18 +1,30 @@
 # Mark 6:22 Commentary Help Text
 
 ## BHT:
-In this particular Bible verse, a manipulative and seductive young woman named Salome captivates Herod and his guests through a dance. Herod's offer to grant her any request exposes his weakness and lack of discernment, as he is easily swayed by his own pleasure. The passage emphasizes the dangerous consequences that arise when our desires and lusts control our actions, leading to the downfall of both Herod and John the Baptist. It is also worth noting that Salome is identified as the daughter of Herodias, not Herod, suggesting a familial connection that contributes to Herod's sinful actions.
+In a captivating and manipulative dance, the daughter of Herodias, Salome, caught the attention and desire of Herod, leading him to make a rash promise. Herod's infatuation was so intense that he offered Salome anything she desired, up to half his kingdom. This cunning request, instigated by Salome's mother, Herodias, reveals her manipulative nature and her desire to use her daughter as a pawn to achieve her own ambitions. The licentious and almost unprecedented nature of the dance pleased Herod and led him down a path he did not wish to go.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The daughter of Herodias, named Salome, is presented as a symbol of seduction and manipulation, using her dance to captivate and please Herod and his guests." 
-2. "Herod's offer to grant Salome any request reveals his weakness and lack of discernment, as he is willing to give away his power and authority for the sake of his own pleasure." 
-3. "This passage highlights the dangerous consequences of allowing our desires and lusts to control our actions, leading to the downfall of both Herod and John the Baptist."
+1. "The daughter of Herodias, Salome, danced before Herod and pleased him and his guests. This was not just any dance, but a dance that captivated the attention and desire of Herod. It was a performance that stirred up his emotions and led him to make a rash promise." 
+
+2. "Herod, in his desire to please Salome, offers her anything she wants, up to half of his kingdom. This shows the extent of his infatuation and the power that Salome held over him in that moment."
+
+3. "The request that Salome makes is not something she comes up with on her own, but rather something that her mother, Herodias, had instructed her to ask for. It is a request that reveals the cunning and manipulative nature of Herodias, as she seeks to use her daughter as a pawn to achieve her own desires."
+
+### Marvin Vincent:
+1. "The object being not to particularize the Herodias just referred to, but to emphasize the fact that Herodias' own daughter was put forward instead of a professional dancer."
+2. "Hence Rev., correctly, 'the daughter of Herodias herself.'"
+3. "Damsel [κορασιω] . See on Mark 5:41."
 
 ### Philip Schaff:
 1. "Not a common dancing girl, but her own daughter was put to this degrading task, for the accomplishment of her malignant purpose."
 2. "She was now, in law, his daughter, and thus a member of his own family is made to arouse feelings, which, while sinful in themselves, led him into a crime he did not wish to commit."
 3. "The main thought is: she pleased Herod."
+
+### Archibald T Robertson:
+1. "Such dancing was an almost unprecedented thing for women of rank, or even respectability. It was mimetic and licentious, and performed by professionals" (Gould).
+2. Herodias stooped thus low to degrade her own daughter like a common εταιρα in order to carry out her set purpose against John.
+3. The maudlin group lounging on the divans were thrilled by the licentious dance of the half-naked princess.
 
 ### John Gill:
 1. "She is called the daughter of Herodias, and not of Herod; she having had her not by him, but by his brother Philip." 

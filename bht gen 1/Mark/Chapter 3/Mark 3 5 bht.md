@@ -1,9 +1,19 @@
 # Mark 3:5 Commentary Help Text
 
 ## BHT:
-In this Bible verse, we witness a profound display of emotions by Jesus. His anger is not driven by a desire for revenge, but rather by his grief over the spiritual blindness of those around him. This anger is a result of his purity and holiness, expressing God's character of holy love. Despite his anger, he also feels pity and compassion for those he rebukes, demonstrating the delicate balance between righteous anger at sin and a desire for the sinner's repentance. Ultimately, this verse exemplifies the power and compassion that only a true believer in Christ can embody.
+In this verse, the speaker's anger is a sign of moral health, for it is directed at the sin, not the sinner. The eyes of the speaker, filled with anger and grief, condemn the hypocrites who were plotting evil against him, displaying a holy indignation. Despite their sin, the speaker's compassion and love for them remain, for he is grieved by the hardness of their hearts. This passage reminds us that righteous anger can coexist with love and pity, revealing the character of God as Holy Love.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "συνλ. probably implies sympathy with their (spiritually) miserable state of hard-heartedness." 
+2. "On πώρωσις, see note, Ephesians 4:18." 
+3. "Fritzsche on Romans 11:7."
+
+### Marvin Vincent:
+1. "The sun therefore implies Christ's condolence with the moral misfortune of these hardhearted ones."
+2. "Pwrwsiv is originally the process by which the extremities of fractured bones are united by a callus. Hence of callousness, or hardness in general."
+3. "The Rev. in all the passages rightly gives hardening, which is better than hardness, because it hints at the process going on."
+
 ### John Calvin:
 1. "To convince us that this was a just and holy anger, Mark explains the reason of it to be, that he was grieved on account of the blindness of their hearts."
 2. "This is the true moderation of zeal, to be distressed about the destruction of wicked men, and, at the same time, to be filled with wrath at their ungodliness."
@@ -12,7 +22,14 @@ In this Bible verse, we witness a profound display of emotions by Jesus. His ang
 ### Philip Schaff:
 1. "A holy indignation, mentioned by Mark alone, and no doubt expressed in His look."
 2. "In this, Christ manifests the character of God as Holy Love, His anger was the result of holiness, His compassion of love."
-3. "This character is revealed in the Bible alone. Of themselves men discover either God�s anger, forgetting His love, or His mercy, forgetting His holiness."
+3. "‘Hardening’ is preferable to ‘hardness,’ since the original suggests a process as well as a result."
+
+### Archibald T Robertson:
+1. "The eyes of Jesus swept the room all round and each rabbinical hypocrite felt the cut of that condemnatory glance."
+2. "This indignant anger was not inconsistent with the love and pity of Jesus. Murder was in their hearts and Jesus knew it."
+3. "Anger against wrong as wrong is a sign of moral health."
+4. "The anger was tempered by grief. Jesus is the Man of Sorrows and this present participle brings out the continuous state of grief."
+5. "Their own heart or attitude was in a state of moral ossification like hardened hands or feet."
 
 ### John Gill:
 1. "His look upon them was with anger, with a stern countenance, which showed indignation at them, though without sin, or any desire of revenge, for the evil they were meditating against him."

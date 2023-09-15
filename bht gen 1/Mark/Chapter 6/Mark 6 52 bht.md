@@ -1,23 +1,23 @@
 # Mark 6:52 Commentary Help Text
 
 ## BHT:
-The Bible verse being described portrays a scene where the disciples fail to comprehend the significance of a miracle that Jesus performed. They did not grasp the power and glory of Christ displayed in the miracle of the loaves and fishes, showing a lack of intelligent comprehension. Their hearts were hardened, resistant to understanding the truth, yet they were not completely rejected. Rather, they were slow and dull in their apprehension, but with the possibility of growth and enlightenment.
+The commentators discuss a Bible verse where the people fail to comprehend the significance of a miracle involving loaves of bread. They did not grasp the power of the Lord over nature and their reasoning processes were hardened. Their failure to fully understand the miracle demonstrated a lack of comprehension and slowness in apprehension. Their hardened hearts prevented them from fully embracing the truth and appreciating the glory of Christ.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "They did not, from the miracle which they had seen, infer the power of the Lord over nature."
 2. "There was no intelligent comprehension founded on the miracle of the loaves."
-3. "The disciples failed to grasp the significance of the miracle."
+3. "They did not understand the significance of the miracle."
 
 ### Jamieson Fausset Brown:
-1. "If they had but 'considered [reflected upon] the miracle of the loaves,' wrought but a few hours before, they would have wondered at nothing which He might do within the whole circle of power and grace."
-2. "The meaning seems to be that if they had but 'considered [reflected upon] the miracle of the loaves,' they would have wondered at nothing which He might do within the whole circle of power and grace."
-3. "The details here are given with a rich vividness quite peculiar to this charming Gospel."
+1. "If they had but 'considered [reflected upon] the miracle of the loaves,' they would have wondered at nothing which He might do within the whole circle of power and grace."
+2. "The details here are given with a rich vividness quite peculiar to this charming Gospel."
+3. "The meaning seems to be that if they had but 'considered [reflected upon] the miracle of the loaves,' they would have wondered at nothing which He might do within the whole circle of power and grace."
 
 ### Marvin Vincent:
-1. "The miracle of the loaves [επι τοις αρτοις] . Rev., concerning the loaves. Lit., upon; in the matter of." 
-2. "They did not reason from the multiplying of the loaves to the stilling of the sea." 
-3. "The miracle of the loaves is a powerful reminder of God's provision and abundance."
+1. "The miracle of the loaves [επι τοις αρτοις] . Rev., concerning the loaves." 
+2. "Lit., upon; in the matter of." 
+3. "They did not reason from the multiplying of the loaves to the stilling of the sea."
 
 ### Philip Schaff:
 1. "There was no intelligent comprehension founded on the miracle of the loaves."
@@ -35,9 +35,9 @@ The Bible verse being described portrays a scene where the disciples fail to com
 3. "They stood in need of divine illuminations, that the darkness of their minds being removed, they might behold the glory of Christ, as the glory of the only begotten of the Father."
 
 ### John Wesley:
-1. "Their heart was hardened" - This phrase indicates a resistance to understanding or accepting the truth. It suggests a stubbornness or unwillingness to change one's perspective or beliefs.
-2. "And yet they were not reprobates" - Despite their hardened hearts, they were not completely rejected or condemned. This implies that there was still hope for them to soften their hearts and open themselves to the truth.
-3. "It means only, they were slow and dull of apprehension" - The hardening of their hearts was not a permanent state, but rather a temporary condition of being slow and dull in their understanding. This suggests that with time and effort, they could overcome their hardness and gain a deeper understanding.
+1. "Their heart was hardened - And yet they were not reprobates." 
+2. "It means only, they were slow and dull of apprehension." 
+3. "Their hardened hearts prevented them from fully understanding and embracing the truth."
 
 
 ## Generation Details

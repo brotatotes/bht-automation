@@ -1,22 +1,22 @@
 # Mark 4:9 Commentary Help Text
 
 ## BHT:
-In a rich and diverse audience, Jesus delivers a message that calls for active engagement and discernment. He invites those who truly have the capacity to understand to deeply listen and internalize his teachings. This parable, presented to a multitude, prompts the audience to reflect on the significance of the message and seek further elucidation for a comprehensive understanding. By emphasizing the importance of attentive listening and deep reflection, Jesus underscores the invitation for individuals to actively respond and incorporate his teachings into their lives.
+In this verse, Jesus emphasizes the importance of active listening and understanding, urging those with receptive hearts and open minds to truly comprehend his teachings. He highlights the spiritual aspect of understanding, indicating that it goes beyond the physical act of hearing. True understanding requires not only hearing the words, but also having an open heart and applying the teachings in one's life. This message was delivered in the midst of a large audience, emphasizing its significance and encouraging attentive observation. For deeper insight, additional resources are available to explore the parable and its implications.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "He that hath ears to hear, let him hear." - This statement by Jesus emphasizes the importance of truly listening and understanding his teachings. It implies that not everyone is receptive to his message, but those who are should pay close attention and take it to heart.
+1. "He that hath ears to hear, let him hear." This statement by Jesus emphasizes the importance of active listening and understanding. It implies that not everyone will grasp the deeper meaning of his teachings, but those who are receptive and open-minded will truly comprehend his message.
 
-2. "The phrase 'he that hath ears to hear' implies that there is a deeper level of understanding that requires spiritual discernment." - This commentary highlights that Jesus is not just speaking to the physical act of hearing, but to the ability to comprehend and grasp the spiritual truths he is conveying.
+2. "The phrase 'he that hath ears to hear' implies that there is a spiritual dimension to understanding Jesus' teachings." This commentary suggests that Jesus is not simply referring to physical ears, but rather to a spiritual receptiveness and willingness to engage with his teachings on a deeper level.
 
-3. "Jesus is calling for a response from his listeners, urging them to actively engage with his teachings and apply them to their lives." - This quote emphasizes the invitation Jesus extends to his audience to not only passively hear his words, but to actively respond and incorporate his teachings into their daily lives.
+3. "This statement serves as a reminder that true understanding requires more than just hearing the words; it requires an open heart and a willingness to apply the teachings in one's life." This quote highlights the transformative power of Jesus' teachings and the need for personal reflection and application in order to fully grasp their significance.
 
 ### John Gill:
 1. "To the multitude of hearers that were on the sea shore attending to the word preached...": This quote highlights the setting of the verse and emphasizes the importance of the message being delivered to a large audience.
 
-2. "He that hath ears to hear, let him hear: observe, and take notice of what has been said...": This quote emphasizes the need for active listening and attentiveness to the message being conveyed, urging the listeners to pay close attention and reflect on its significance.
+2. "He that hath ears to hear, let him hear: observe, and take notice of what has been said...": This quote emphasizes the need for active listening and attentiveness to the message being conveyed. It encourages the reader to not only hear the words but also to truly understand and internalize them.
 
-3. "For a larger explanation and illustration of this parable, see the notes on Matthew 13:3.": This quote directs readers to seek further understanding of the parable by referring to additional explanations and illustrations in the notes on Matthew 13:3. It encourages a deeper exploration of the meaning behind the verse.
+3. "For a larger explanation and illustration of this parable, see the notes on Matthew 13:3.": This quote directs the reader to further resources for a deeper understanding of the parable, indicating that there is more to be learned and explored beyond the immediate context of the verse.
 
 
 ## Generation Details

@@ -1,17 +1,17 @@
 # Mark 1:37 Commentary Help Text
 
 ## BHT:
-In a desert and solitary place, after some search, Jesus was found by the disciples, as the multitudes sought Him and urged His return. The disciples wanted Him to come back, and the crowd beseeched Him to stay, thinking that all seek Him. However, Jesus knew that the will of the multitude did not govern Him, as there was a greater purpose behind His actions.
+In a secluded place where He had been praying, Jesus was found by those who actively sought after Him. The crowd, driven by their own desires, implored Him to return. Even though the disciples were hesitant to leave, they knew the immense potential for good that was present in that moment. Jesus's response in the subsequent verse revealed that He would not be ruled by the will of the people.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "And when they had found him—evidently after some search."
-2. "All men seek for thee—By this time, 'the multitudes' who, according to Luke, 'sought after Him'—and who, on going to Peter's house, and there learning that Peter and a few more were gone in search of Him, had set out on the same errand—would have arrived."
+1. "And when they had found himâ€”evidently after some search."
+2. "All men seek for theeâ€”By this time, 'the multitudes' who, according to Luke (Luke 4:42), 'sought after Him'â€”and who, on going to Peter's house, and there learning that Peter and a few more were gone in search of Him, had set out on the same errandâ€”would have arrived."
 3. "All now urging His return to their impatient townsmen."
 
 ### Marvin Vincent:
-1. "The continuous present tense." 
-2. "The all is peculiar to Mark." 
+1. "The all is peculiar to Mark." 
+2. "The continuous present tense." 
 3. "The all is seeking thee."
 
 ### Philip Schaff:

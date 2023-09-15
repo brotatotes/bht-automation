@@ -1,13 +1,13 @@
 # Mark 4:6 Commentary Help Text
 
 ## BHT:
-A verse in the Bible describes a situation where persecution arises due to the strength and power of the Word. This persecution becomes intense, testing the superficial knowledge of the Word which cannot withstand such heat. The Word is merely a mental concept, lacking any deep connection to the heart, causing the profession of faith to quickly fade away. Ultimately, the Word withers and fades due to its lack of a firm foundation in times of trial and persecution.
+In this verse, the word of God is depicted as a source of intense persecution that challenges and exposes the true depth of one's faith. The commentator highlights how the shallow knowledge of the word can easily falter when faced with the fiery trials of persecution. It emphasizes that true faith goes beyond mere intellectual understanding, penetrating the heart and resulting in a genuine relationship with God. The trials believers face serve as a testing ground, revealing the authenticity of their commitment and faith.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
 1. "Persecution arose because of the word, and that became very hot and vehement, it tried and pierced through this thin speculative knowledge of the word, which could not stand before it, and bear the heat of it."
 2. "The word had only a place in the head, and not in the heart; wherefore the profession of it was soon dropped, and came to nothing."
-3. "It withered away; the word had no root, no deep foundation to sustain it in times of trial and persecution."
+3. "The sun represents the trials and tribulations that believers face when they stand firm in their faith. It tests the depth of their commitment and reveals whether their faith is rooted in a genuine relationship with God or merely superficial knowledge."
 
 
 ## Generation Details

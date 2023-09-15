@@ -1,13 +1,28 @@
 # Mark 1:43 Commentary Help Text
 
 ## BHT:
-A man, charged with strong emotion, approached Jesus, who immediately sent him away. The healing took place outside the city and not in a house. This act seemed to have stirred grief in Jesus, yet it carried a message - leprosy often stemmed from sin and the man was to avoid sin in the future. This miraculous act of healing placed the man under an obligation to shun sin and its seven manifestations.
+In this verse, a healing takes place, but the exact location is unspecified. The charge given by the Lord to the healed individual indicates a strong sense of urgency, possibly stemming from a desire to protect His ministry from the premature opposition of His enemies. Jesus's command to report to the priests aligns with the Mosaic regulations, while the prohibition against sharing the miracle aims to prevent unnecessary resistance. This encounter with leprosy, a symbol of sin and its consequences, highlights the profound spiritual and physical impact of Jesus's healing power.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "ἐξέβαλεν need not necessarily imply that the healing was in a house (Meyer)." 
+2. "It might have been in a city, as in Luke." 
+3. The location of the healing is not specified in the verse.
+
+### Marvin Vincent:
+1. "The word is originally to snort, as of mettlesome horses. Hence, to fret, or chafe, or be otherwise strongly moved; and then, as a result of this feeling, to admonish or rebuke urgently." 
+2. "The Lord evidently spoke to him peremptorily." 
+3. "The reason for this charge and dismissal lay in the desire of Jesus not to thwart his ministry by awaking the premature violence of his enemies."
+
 ### Philip Schaff:
-1. "Solemnly charged him. This implies strong emotion. Our Lord perceived the man�s disobedient spirit." 
-2. "Straightway sent him away. Not out of the house, for there is no evidence that the miracle was performed in a house." 
-3. "Possibly out of the city into which the leper had come (Luke 4:12); but away from Himself, for despite our Lord�s compassion, feelings of grief seem to have been awakened by the man."
+1. "Solemnly charged him. This implies strong emotion." 
+2. "Our Lord perceived the man’s disobedient spirit." 
+3. "Straightway sent him away. Not out of the house, for there is no evidence that the miracle was performed in a house."
+
+### Archibald T Robertson:
+1. "The command to report to the priests was in accord with the Mosaic regulations." 
+2. "The prohibition against talking about it was to allay excitement and to avoid needless opposition to Christ." 
+3. "Jesus stood here face to face with leprosy, itself a symbol of sin and all its train of evils."
 
 ### John Gill:
 1. "Sin was usually the cause of leprosy, as the cases of Miriam, Gehazi, and Uzziah show."

@@ -1,13 +1,13 @@
 # Mark 2:17 Commentary Help Text
 
 ## BHT:
-Jesus affirms that he came not for the self-righteous, but for the sinners and those aware of their need for a savior. He acknowledges that true righteousness cannot be achieved through human effort alone, emphasizing the need for humility and recognition of one's own sinfulness. This highlights the transformative power of God's grace, as Jesus declares his desire to save even those considered lost or unworthy. These statements of Jesus reveal his compassion and the all-encompassing nature of his salvation.
+These commentaries on the Bible verse highlight the message that Jesus came not for the self-righteous, but for those who acknowledge their sinfulness and recognize their need for salvation. The verse exposes the danger of self-righteousness and emphasizes the importance of humility and repentance. It invites individuals to turn to Jesus as the ultimate source of healing, forgiveness, and salvation, offering redemption to all who seek Him.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "No need have they that are strong of a physician." 
+1. "No need have they that are strong of a physician."
 2. "Whole men have no need to a leech, but they that have evil."
-3. "They that are whole have no need for a physician."
+3. "They that are strong have no need for a physician."
 
 ### Archibald T Robertson:
 1. "Jesus for the sake of argument accepts the claim of the Pharisees to be righteous, though, as a matter of fact, they fell very far short of it."
@@ -15,18 +15,20 @@ Jesus affirms that he came not for the self-righteous, but for the sinners and t
 3. "The well or the strong are not those who need the physician in an epidemic."
 
 ### John Gill:
-1. "They that are whole, have no need of the physician, but they that are sick; which seems to be a proverbial expression, signifying that he was a physician; that these publicans and sinners were sick persons, and needed his company and assistance; but that they, the Scribes and Pharisees, were whole, and in good health, in their own esteem, and so wanted no relief." 
+1. "They that are whole, have no need of the physician, but they that are sick." - This proverbial expression highlights the different perspectives people have of themselves and of Christ. It emphasizes that those who think they are righteous and in good health do not see the need for Christ, while those who recognize their sinfulness and brokenness are the ones who seek Him as the ultimate physician.
 
-2. "There are some that cry up the power of man's freewill, and plead for the strength and purity of human nature, and extol its excellencies and abilities; and it is no wonder that these see no need of Christ, either for themselves or others."
+2. "There are some that cry up the power of man's freewill... and it is no wonder that these see no need of Christ." - This quote exposes the danger of relying on human abilities and righteousness, which leads to a disregard for the need of Christ. It warns against the tendency to trust in one's own works and neglect the salvation offered through Christ.
 
-3. "There are others that are sick, and are quite sick of themselves; they see the impurity of their nature, how unsound and unhealthful they are; that from the crown of the head to the sole of the foot, there is no soundness in them, nothing but wounds, bruises, and putrefying sores."
+3. "There are others that are sick, and are quite sick of themselves... they apply to him, whose blood is a balm for every wound." - This statement highlights the humility and self-awareness of those who recognize their sinfulness and brokenness. It emphasizes the importance of turning to Christ, who offers healing and forgiveness through His sacrificial death.
+
+Overall, these quotes emphasize the contrast between those who think they are righteous and have no need for Christ, and those who acknowledge their sinfulness and seek Him as the ultimate physician. They highlight the danger of self-righteousness and the importance of recognizing our need for Christ's healing and forgiveness.
 
 ### John Wesley:
-1. "I came not to call the righteous" - Jesus acknowledges that he did not come to call those who consider themselves righteous or self-sufficient. This highlights the need for humility and recognition of one's own sinfulness.
+1. "I came not to call the righteous" - Jesus acknowledges that those who consider themselves righteous may not see a need for his calling. 
 
-2. "If these were righteous I should not call them" - This statement emphasizes that true righteousness cannot be attained by human effort alone. It is a reminder that salvation is not based on our own merit, but on God's grace and the redemptive work of Jesus.
+2. "If these were righteous I should not call them" - Jesus implies that true righteousness is not self-righteousness, but rather recognizing one's need for salvation. 
 
-3. "They are the very persons I came to save" - Jesus affirms his purpose to seek and save the lost. This shows his compassion and willingness to reach out to those who are in need of salvation, regardless of their past or present state. It reminds us that no one is beyond the reach of God's love and forgiveness.
+3. "They are the very persons I came to save" - Jesus emphasizes his mission to reach out to those who recognize their own sinfulness and are in need of his saving grace.
 
 
 ## Generation Details

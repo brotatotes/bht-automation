@@ -1,36 +1,48 @@
 # Mark 1:7 Commentary Help Text
 
 ## BHT:
-This verse showcases the deep humility, respect, and reverence of the speaker towards the person being referred to. It emphasizes their unworthiness and their willingness to serve in the most menial of ways. The profound sense of awe and recognition of the other's greatness is evident, highlighting the speaker's willingness to stoop down and be of service without any expectation of recognition or reward. It serves as a powerful reminder of the humility and sacrificial love we should strive to embody in our own lives.
+The verse being described showcases a scene of deep humility and reverence. The speaker acknowledges their own unworthiness and expresses profound respect for the person being referred to. They emphasize their willingness to perform even the lowliest tasks and highlight the specific part of the shoes they consider themselves unworthy to touch. This description portrays a powerful image of humility and the elevated status of the person being spoken about.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The expression is common to Mark, Luke, and John. It amounts to the same as bearing the shoes for he who did the last would necessarily be also employed in loosing and taking off the sandal." 
+
+2. "But the variety is itself indicative of the independence of Matt. and Mark of one another." 
+
+3. "John used the two expressions at different times, and our witnesses have reported both."
+
 ### Marvin Vincent:
-1. "To stoop down" signifies humility and servanthood, reminding us that Jesus came to serve and not to be served. It emphasizes his willingness to lower himself and meet people where they are, showing compassion and understanding.
+1. "To stoop down" implies humility and servitude, reminding us that true greatness is found in serving others rather than seeking to be served.
 
-2. This phrase also highlights the contrast between the greatness of Jesus and the lowliness of humanity. It demonstrates his willingness to leave his exalted position in heaven and enter into the brokenness of our world, offering salvation and redemption to all.
+2. This phrase suggests that Jesus is willing to lower Himself to our level, meeting us in our brokenness and need, in order to lift us up and bring us into a relationship with Him.
 
-3. "To stoop down" also conveys the idea of Jesus reaching out to the marginalized and the outcasts of society. It shows his desire to lift up the oppressed, heal the brokenhearted, and bring hope to those who are in despair.
+3. Just as a parent stoops down to care for their child, Jesus stoops down to care for us, showing His deep love and compassion for humanity.
 
-4. In Matthew 3:11, the comparison to "bear" suggests that Jesus not only stoops down to meet us in our brokenness but also carries our burdens and sins. It reveals his sacrificial love and his ultimate mission to take upon himself the weight of our sins on the cross.
-
-5. Overall, this phrase reminds us of the incredible humility, compassion, and sacrificial love of Jesus, inviting us to follow his example and serve others with the same selflessness and grace.
+4. This act of stooping down also highlights Jesus' willingness to get involved in the messy and difficult aspects of our lives, demonstrating His desire to bring healing and restoration to all who come to Him.
 
 ### Philip Schaff:
 1. "The denunciation and warning recorded by Matthew and Luke are omitted by Mark, who merely gives the sum of John's preaching as a forerunner of the Messiah."
-2. "It is [Mark's] peculiarity to mention gestures."
+2. "It is his peculiarity to mention gestures. The perfect independence of the Evangelists thus appears."
 3. "Nothing could more vividly depict to an eastern audience the inferiority of John the Baptist to the Messiah, than these words."
+
+### Archibald T Robertson:
+1. "Mightier than I (ο ισχυροτερος μου). In each of the Synoptics. Gould calls it a skeptical depreciation of himself by John. But it was sincere on John's part and he gives a reason for it." 
+
+2. "The Latchet (τον ιμαντα). The thong of the sandal which held it together." 
+
+3. "When the guest comes into the house, performed by a slave before one enters the bath. Mark alone gives this touch."
 
 ### John Gill:
 1. "John was a preacher of Jesus Christ; of the dignity of his person, the excellency of his office, and the nature and importance of his work."
-2. "Expressing the great veneration he had for him, and the great sense he had of his own unworthiness."
+2. "Expressing the great veneration he had for him, and the great sense he had of his own unworthiness, to be concerned in the lowest and meanest service of life for him."
 3. "He was far from being worthy of the high honour done him, to be his messenger and forerunner."
 
 ### John Wesley:
-1. "The latchet of whose shoes I am not worthy to unloose" - This phrase emphasizes the humility and reverence of the speaker towards the person being referred to. It highlights the deep respect and recognition of one's own unworthiness in comparison to the greatness of the other.
+1. "The latchet of whose shoes I am not worthy to unloose" - This phrase emphasizes the humility and unworthiness of the speaker in comparison to the one being referred to. It highlights the deep reverence and respect the speaker has for the other person.
 
-2. "To do him the very meanest service" - This statement underscores the willingness to perform even the most menial and insignificant tasks for the person being talked about. It reflects a profound sense of humility and a desire to serve without any expectation of recognition or reward.
+2. "To do him the very meanest service" - This quote underscores the willingness of the speaker to perform even the most menial tasks for the person being discussed. It demonstrates a profound sense of humility and a recognition of the other person's superiority.
 
-3. "The very meanest service" - This phrase further emphasizes the speaker's understanding of their own insignificance in comparison to the person being discussed. It conveys a sense of awe and reverence towards the greatness and importance of the other, acknowledging that even the most lowly tasks would be an honor to perform for them.
+3. "The latchet of whose shoes" - This phrase draws attention to the specific part of the shoes that the speaker considers themselves unworthy to touch. It emphasizes the speaker's deep sense of unworthiness and their acknowledgment of the other person's exalted status.
 
 
 ## Generation Details

@@ -1,31 +1,39 @@
 # Mark 2:14 Commentary Help Text
 
 ## BHT:
-In this Bible verse, Jesus extends his grace to Matthew, a tax collector, challenging societal norms and demonstrating his radical inclusivity. By choosing to dine with tax collectors and sinners, Jesus highlights his desire for healing and redemption for those deemed unworthy by society. Matthew's immediate obedience and willingness to leave everything behind exemplify true discipleship and the complete surrender of personal plans for a life following Christ. This verse reminds us that Jesus came for sinners like us, calling us to recognize our need for forgiveness and extend that same grace to others, regardless of their past or status.
+In this Bible verse, Jesus approaches Matthew, also known as Levi, a tax collector, and calls him to be one of his disciples. This action by Jesus reflects his desire to extend his grace and love to those who may have been considered outcasts or sinners in society. Jesus challenges societal norms by choosing to dine with tax collectors and sinners, emphasizing his message of love, acceptance, and forgiveness. Through this call, Jesus shows that he values the hearts and intentions of individuals over their societal status or reputation.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "Levi, the son of Alpheus - The same, undoubtedly, as 'Matthew,' the writer of the gospel which bears his name." 
+
+2. "It was not uncommon among the Jews to have two names." 
+
+3. "The receipt of custom - See the notes at Matthew 9:9."
+
 ### Marvin Vincent:
-1. "Jesus' call to Matthew is a powerful reminder that God's grace extends to all, regardless of their past or their societal status. It challenges us to look beyond outward appearances and see the potential for transformation in every person."
+1. "Jesus' call to Matthew is a powerful reminder that God's grace is available to all, regardless of their past or their reputation. It is a call to leave behind our old ways and embrace a new life in Christ."
 
-2. "The fact that Jesus chose to dine with tax collectors and sinners speaks to his radical inclusivity and his desire to bring healing and redemption to those who are considered outcasts or unworthy."
+2. "Matthew's response to Jesus' call is a beautiful example of immediate obedience and surrender. He didn't hesitate or make excuses, but simply got up and followed Jesus. It teaches us the importance of being responsive to God's call and being willing to leave everything behind for the sake of following Him."
 
-3. "Matthew's response to Jesus' call is a beautiful example of immediate obedience and a willingness to leave everything behind to follow Christ. It reminds us that true discipleship requires a complete surrender of our own plans and desires."
+3. "In calling Matthew, Jesus demonstrates His love for the outcasts and sinners of society. He doesn't shy away from those who are considered unworthy or undesirable by society's standards. This challenges us to extend the same love and acceptance to those who are often marginalized or rejected by the world."
 
-4. "This verse also serves as a reminder that Jesus came not for the righteous, but for sinners. It is a call for us to recognize our own need for forgiveness and to extend that same grace to others."
+4. "Matthew's transformation from a tax collector to a disciple and apostle is a powerful testimony of the transformative power of encountering Jesus. It reminds us that no one is beyond the reach of God's grace and that He can radically change our lives when we respond to His call."
 
-5. "In calling Matthew, Jesus demonstrates his power to transform lives and his desire to use even the most unlikely individuals for his purposes. It is a reminder that no one is beyond the reach of God's love and mercy."
+### Archibald T Robertson:
+1. "Jesus was constantly on the alert for opportunities to do good."
+2. "The challenge of Jesus was sudden and sharp, but Levi (Matthew) was ready to respond at once."
+3. "Levi is a fine object lesson for business men who put off service to Christ to carry on their business."
 
 ### John Gill:
 1. "Christ, the great shepherd of the sheep, who came to seek, in order to save that which was lost, was now locking up his lost sheep; and Matthew, or Levi, being one of them, he finds him, and calls him by his grace." 
-
 2. "Christ is always first with his people; he first seeks them, and then they seek him; he first finds them, and then they find him; yea, he is found of them that sought him not." 
-
-3. "Levi took no notice of him, inquired not about him, and had no thought of leaving his employ; and going after him, but Christ knew him: his eye was upon him as he passed by him, and his time was a time of love, and so a time of life; he looked upon him, and said unto him, live; quickening power went along with his words, and he arose, and left all, and followed him."
+3. "Levi took no notice of him, inquired not about him, and had no thought of leaving his employ; and going after him, but Christ knew him: his eye was upon him as he passed by him, and his time was a time of love, and so a time of life; he looked upon him, and said unto him, live."
 
 ### John Wesley:
 1. "Jesus calls Matthew, a tax collector, to be one of his disciples, demonstrating his willingness to reach out to those who are considered outcasts or sinners in society."
-2. "The fact that Jesus dines with tax collectors and sinners challenges the religious norms of the time and highlights his mission to bring salvation to all people, regardless of their social status or reputation."
-3. "By choosing Matthew as one of his disciples, Jesus shows that he values repentance and transformation over a person's past mistakes or occupation."
+2. "The fact that Jesus dines with tax collectors and sinners challenges the religious and social norms of the time, emphasizing his message of love, acceptance, and forgiveness."
+3. "By choosing Matthew, Jesus shows that he values the hearts and intentions of individuals over their societal status or reputation."
 
 
 ## Generation Details

@@ -1,20 +1,27 @@
 # Mark 2:25 Commentary Help Text
 
 ## BHT:
-In this verse, Jesus references the story of David, who was in need and hungry, along with his companions. This specific example is used by Jesus to emphasize the significance of understanding the Scriptures. By drawing a parallel between David's situation and that of the disciples, it becomes clear that their actions were justified and appropriate given their hunger and need. The relevance of this example to their current circumstances is underscored, illustrating the valid reasons behind the disciples' behavior.
+In this verse, Jesus references the story of David to highlight his active involvement in defending and supporting his disciples, not leaving their defense to themselves. The analogy of David's actions emphasizes the necessity and justifiability of the disciples' actions, as they were in a situation of great necessity and hunger. Jesus takes up the cause of his disciples, advocating for them and fighting on their behalf, showing his care and support.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Himself, taking up the cause of his disciples" - This quote highlights the active involvement of Jesus in defending his disciples, showing his care and support for them.
+
+2. "Not leaving their defence to themselves" - This quote emphasizes that Jesus does not expect his disciples to fend for themselves, but rather takes responsibility for their protection and well-being.
+
+3. "Taking up the cause" - This phrase suggests that Jesus is not only defending his disciples, but also advocating for them, fighting on their behalf.
+
 ### Marvin Vincent:
-1. "The had need is generic; the was hungry is specific, describing the peculiar character of the need."
-2. "The analogy lay in the necessity."
-3. "Mark adds this to the was an hungered, which is in both Matthew and Luke."
+1. "The analogy lay in the necessity."
+2. "The had need is generic; the was hungry is specific, describing the peculiar character of the need."
+3. "The had need emphasizes the general condition of lacking, while the was hungry highlights the specific physical hunger experienced by the person."
 
 ### John Gill:
-1. "Have ye never read what David did... when he had need... and was an hungered, he, and they that were with him?" - This quote highlights Jesus' reference to the story of David in 1 Samuel 21:1, emphasizing the importance of knowing and understanding the Scriptures.
+1. "Have ye never read what David did... when he had need... and was an hungered, he, and they that were with him?" - This quote highlights Jesus' reference to the story of David in 1 Samuel 21:1, emphasizing the importance of knowing and understanding the scriptures.
 
-2. "Which was a justifiable reason for what he and his company did; as it was for the action of the disciples; being in a like case, and therefore very appropriate to the purpose." - This quote explains the parallel between David's situation and that of the disciples, emphasizing the validity of their actions in light of their hunger and need.
+2. "Being in a like case, and therefore very appropriate to the purpose." - This quote suggests that the actions of the disciples, similar to David's, were justified because they were in a situation of great necessity and hunger.
 
-3. "Being in a like case, and therefore very appropriate to the purpose." - This quote underscores the relevance of the disciples' actions to the situation at hand, highlighting the appropriateness of their behavior in response to their circumstances.
+3. "A justifiable reason for what he and his company did." - This quote implies that the disciples' actions were justified, just as David's were, because they were driven by genuine need and distress.
 
 
 ## Generation Details

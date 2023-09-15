@@ -1,13 +1,13 @@
 # Mark 3:25 Commentary Help Text
 
 ## BHT:
-In this verse, the commentator emphasizes the significance of unity within a family or household. He warns that a house, regardless of its size or status, cannot remain stable if it is filled with strife and conflict. According to him, the internal divisions and discord within a household will inevitably lead to its downfall and suffering. Therefore, the commentator asserts that unity is essential for the strength and endurance of a family or any group living together.
+A wise commentator warns that a family, regardless of its size or status, cannot withstand internal divisions. The commentator cautions that the disagreements and conflicts within a household have the power to destabilize it, ultimately leading to a state of distress and hardship. It is evident that a house divided against itself is not only weakened but also at risk of collapsing under the weight of its internal strife.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
 1. "Any family, small or great, that house cannot stand." 
 2. "Its contentions and discords will soon bring it down from a comfortable and flourishing situation, to a very distressed one." 
-3. "A divided house is a vulnerable house, susceptible to collapse."
+3. "A divided house is a vulnerable house, susceptible to collapse under the weight of internal strife."
 
 
 ## Generation Details

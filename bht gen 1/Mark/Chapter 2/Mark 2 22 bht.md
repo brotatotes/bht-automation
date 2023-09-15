@@ -1,20 +1,20 @@
 # Mark 2:22 Commentary Help Text
 
 ## BHT:
-In this verse, we see a call for a fresh perspective to fully embrace the teachings of Jesus. The phrase "new wine into fresh wineskins" implies the need for openness and flexibility, as the old ways may not be able to contain the new revelation. It challenges us to let go of preconceived notions and traditional practices, allowing the transformative power of Jesus' teachings to renew and transform our hearts. The verse also highlights that those who cling to rigid traditions may reject this new message, leading to their own spiritual downfall.
+This verse speaks of the need for openness and receptiveness to new teachings and experiences. It emphasizes the importance of letting go of old ways and embracing the transformative power of God's Spirit. Like fresh wineskins, our hearts should be pliable and ready to receive the teachings and blessings of God. Conversely, those who resist change, like the scribes and Pharisees, will despise and reject the Gospel, leading to their own misery and spiritual stagnation. Therefore, we are called to continually seek renewal and embrace the new wine of God's Word.
 
 ## Choicest Commentary Quotes:
 ### Archibald T Robertson:
-1. "New wine into fresh wineskins" signifies the need for a new approach or mindset to receive and understand the teachings of Jesus. It suggests that the old religious traditions and practices may not be able to contain the new revelation that Jesus brings.
+1. "New wine into fresh wineskins" - This phrase signifies the need for flexibility and openness to receive new teachings and experiences. It emphasizes the importance of being willing to let go of old ways and embrace the new, in order to grow and expand spiritually.
 
-2. The phrase highlights the importance of flexibility and openness to change. Just as new wine needs room to expand and ferment, believers should be willing to let go of rigid traditions and embrace the transformative power of Jesus' teachings.
+2. "Fresh wineskins" - This term symbolizes a receptive and pliable heart that is ready to receive the teachings and blessings of God. It implies a state of readiness and openness to change, allowing God to work in and through us.
 
-3. This verse challenges us to examine our own hearts and ask if we are willing to let go of our preconceived notions and embrace the newness and freshness that Jesus offers. It calls us to be open to the work of the Holy Spirit, allowing Him to renew and transform us from the inside out.
+3. "New wine" - This phrase represents the fresh and transformative power of God's Spirit. It suggests the idea of renewal, growth, and the infusion of divine life into our being. It reminds us of the need to continually seek the presence and guidance of the Holy Spirit in our lives.
 
 ### John Gill:
 1. "By 'old bottles' are meant, the Scribes and Pharisees, the whole, which needed not a physician, and the righteous, Christ came not to call."
 2. "The Gospel will only fill them with rage and fury, and they will despise it, and let it go; which will be an aggravation of their sin and misery."
-3. "New wine must be put into new bottles; into the hearts of sinners, who are called to repentance, and are renewed in the Spirit of their minds."
+3. "New wine must be put into new bottles; into the hearts of sinners, who are called to repentance, and are renewed in the Spirit of their minds; are newborn babes, that desire the sincere milk of the word, and wine of the Gospel."
 
 
 ## Generation Details

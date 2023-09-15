@@ -1,20 +1,20 @@
 # Mark 6:4 Commentary Help Text
 
 ## BHT:
-In this Bible verse, Jesus is depicted as being rejected not only by the people of his hometown but even by his own family members. The commentators highlight the extent of disbelief, lack of acceptance, and opposition that Jesus faced in his ministry. This rejection serves as a reminder that sometimes those closest to us may not understand or support our calling or mission. It underscores the challenges Jesus faced and the importance of remaining faithful to our purpose, even in the face of opposition from those we love.
+In this verse, we see Jesus facing rejection and a lack of recognition from his own hometown and relatives. Despite being a prophet, Jesus was not honored in his own country, which is a common experience for prophets. This rejection is further highlighted by the phrase "among his own kindred," emphasizing that familiarity can sometimes breed contempt and lead to underestimating one's true potential. The underlying motive behind this rejection seems to be envy and jealousy, as some of those who rejected Jesus may have envied his gifts and accomplishments.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
-1. "This phrase suggests that Jesus was not only rejected by the people of his hometown, but even by his own family members. It highlights the extent of the disbelief and lack of acceptance that Jesus faced in his ministry." 
-
-2. "The rejection of Jesus by his own kindred serves as a reminder that sometimes those closest to us may not understand or support our calling or mission. It challenges us to remain faithful to our purpose, even in the face of opposition from those we love."
-
-3. "The fact that this detail is unique to Mark's Gospel emphasizes the personal and intimate nature of Jesus' rejection. It shows that even within his own community, Jesus was met with resistance and disbelief, which adds depth to the narrative and underscores the challenges he faced in his ministry."
+1. "The phrase 'among his own kindred' emphasizes the rejection that Jesus faced from those who were closest to him, highlighting the irony that the people who should have known him the best were the ones who failed to recognize his true identity and mission."
+2. "This verse serves as a reminder that even Jesus, the Son of God, faced rejection and disbelief from those who were familiar with him, showing that rejection is not uncommon for those who follow him."
+3. "The phrase 'among his own kindred' also suggests that familiarity can sometimes breed contempt, as people may struggle to see the extraordinary in someone they have known for a long time, underestimating their true potential."
 
 ### John Gill:
-1. "A prophet is not without honor, but in his own country, and among his own kin, and in his own house." - This proverb highlights the lack of recognition and respect that Jesus faced in his hometown and among his own family members.
-2. "Very probably some of those that made these reflections were some distant relations of Joseph or Mary." - This suggests that even Jesus' distant relatives were among those who doubted and criticized him.
-3. "They envied his gifts and attainments and objected to him his rise from that branch of their family, which was the most mean and abject." - The commentary emphasizes that Jesus' own kin were envious of his abilities and success, possibly due to their own feelings of inferiority.
+1. "A prophet is not without honor, but in his own country." - This quote highlights the challenge that Jesus faced in being recognized and accepted in his hometown. It emphasizes the common experience of prophets being undervalued and unappreciated in their own familiar surroundings.
+
+2. "Among his own kin." - This phrase emphasizes the added difficulty Jesus faced in being rejected by his own relatives and family members. It suggests that familiarity can sometimes breed contempt, leading to a lack of recognition and respect for one's abilities and calling.
+
+3. "Those that made these reflections...envied his gifts and attainments." - This quote reveals the underlying motive behind the rejection of Jesus by his own people. It suggests that envy and jealousy played a role in their inability to acknowledge and honor his divine gifts and accomplishments.
 
 
 ## Generation Details

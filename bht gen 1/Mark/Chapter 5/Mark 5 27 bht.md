@@ -1,19 +1,27 @@
 # Mark 5:27 Commentary Help Text
 
 ## BHT:
-A woman, having heard of Jesus and His ability to heal, approached Him with a firm confidence that He could relieve her desperate condition. In the midst of a crowd, she stealthily touched the hem of His garment, knowing that His touch had the power to heal. This act demonstrated her faith that Jesus was above any ceremonial laws and that His healing was accessible even in the smallest, trembling gesture. Her determination and knowledge of His miraculous works drove her to seek Him as her last and only hope for relief.
+With firm faith and determination, a woman, having heard about Jesus, embarked on a journey to seek His healing touch. She had listened to the marvellous cures He had performed on others, igniting a deep confidence in her heart. Her instinct led her to press through challenges and obstacles, believing that Jesus, the wondrous Healer, was above all earthly laws. Mark alone noted her presence in the crowd, illustrating his keen attention to detail. This woman's unwavering faith in Jesus as the ultimate savior exemplifies the belief that in Him lies righteousness, strength, and justification, surpassing all futile human efforts.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "ἀκούσασα is subordinated to ἐλθοῦσα" - This quote highlights the subordination of the verb "ἀκούσασα" to "ἐλθοῦσα," indicating that the action of hearing is the reason for the action of coming.
+
+2. "giving a reason for it" - This quote emphasizes that the act of hearing serves as a justification or explanation for the action of coming.
+
+3. "owing to having heard ... came" - This quote succinctly summarizes the cause-and-effect relationship between hearing and coming, suggesting that the woman came because she had heard something.
+
 ### Jamieson Fausset Brown:
 1. "What had she 'heard of Jesus?' No doubt it was His marvellous cures she had heard of; and the hearing of these, in connection with her bitter experience of the vanity of applying to any other, had been blessed to the kindling in her soul of a firm confidence that He who had so willingly wrought such cures on others was able and would not refuse to heal her also."
-2. "According to the ceremonial law, the touch of anyone having the disease which this woman had would have defiled the person touched. Some think that the recollection of this may account for her stealthily approaching Him in the crowd behind, and touching but the hem of His garment."
+2. "shrinking, yet seeking."
 3. "But there was an instinct in the faith which brought her to Jesus, which taught her, that if that touch could set her free from the defiling disease itself, it was impossible to communicate defilement to Him, and that this wondrous Healer must be above such laws."
 
 ### Philip Schaff:
-1. "She came because she had heard." - This emphasizes the woman's faith and determination to seek Jesus based on what she had heard about Him.
-2. "She had heard of His doings, as well as His name." - This highlights that the woman's knowledge of Jesus extended beyond just His name; she was aware of His miraculous deeds.
-3. "Mark alone mentions this." - This points out a unique detail in Mark's account, highlighting his attention to specific details such as the presence of a crowd during this event.
-4. "Matthew and Luke are more particular: 'the hem of His garment.'" - This shows that Matthew and Luke provide additional details about the woman's specific action of touching the hem of Jesus' garment, providing a more vivid picture of the event.
+1. "She came because she had heard." - This highlights the woman's faith and determination to seek healing based on what she had heard about Jesus. 
+
+2. "She had heard of His doings, as well as His name." - This emphasizes that the woman had not only heard about Jesus' reputation, but also about the miracles and acts of compassion He had performed. 
+
+3. "Mark alone mentions this." - This points out that Mark is the only Gospel writer who mentions the detail of the woman being in the crowd, highlighting his attention to specific details in his account.
 
 ### John Gill:
 1. "Christ is the sinner's last shift; he tries every one first before he comes to him; he spends all his money, strength, and time, with others, to no purpose; and finding them all to be useless and unserviceable, he applies to him, who is the only physician that can give relief in this case."

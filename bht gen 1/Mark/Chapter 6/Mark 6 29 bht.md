@@ -1,7 +1,7 @@
 # Mark 6:29 Commentary Help Text
 
 ## BHT:
-Upon hearing the news of John the Baptist's execution, his disciples, filled with deep emotion, conveyed the barbaric act to Jesus. Recognizing the need to honor their beloved teacher's body, they carefully retrieved his corpse and laid it in a tomb. This solemn act of burial, a token of the last resurrection, revealed both the disciples' devotion to John and their trust in Jesus' authority.
+In this Bible verse, we see the disciples of John the Baptist sharing the heartbreaking news of his brutal execution with Jesus. The disciples were deeply affected by the loss of their master and sought solace in Jesus. Despite the danger and opposition they faced, they felt compelled to honor John's body by properly burying it. Their actions reflect their loyalty, courage, and commitment to their teacher, even in the face of profound grief and hostility.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
@@ -22,21 +22,21 @@ Upon hearing the news of John the Baptist's execution, his disciples, filled wit
 3. "This confession was therefore worthy of praise, more especially as it was not without danger; for they could not do honor to a man who had been put to death by the executioner without exciting against themselves the rage of the tyrant."
 
 ### Philip Schaff:
-1. "His disciples, i.e., those of John." - This quote clarifies that the disciples mentioned in the verse are specifically the followers of John the Baptist, highlighting the connection between John's ministry and Jesus' disciples.
+1. "His disciples, i.e., those of John." - This quote highlights that the disciples mentioned in the verse are specifically referring to the followers of John the Baptist. It suggests that these disciples were loyal to John and continued to carry out his teachings even after his death.
 
-2. "They 'came and told Jesus' (Matthew 14:12)." - This quote emphasizes the disciples' action of reporting to Jesus, indicating their loyalty and obedience to Him as their teacher and leader.
+2. "They ‘came and told Jesus’ (Matthew 14:12)." - This quote emphasizes the action of the disciples in reporting the death of John the Baptist to Jesus. It implies that they had a close relationship with Jesus and felt the need to inform him of this significant event.
 
-3. "Came and told Jesus" - This simple phrase underscores the disciples' role as messengers, conveying important information to Jesus. It highlights their trust in Jesus' authority and their willingness to seek His guidance and direction.
+3. "Came and told Jesus." - This simple phrase underscores the disciples' trust and reliance on Jesus. It suggests that they sought comfort, guidance, and support from him in times of distress or tragedy. It highlights the disciples' recognition of Jesus as their leader and their willingness to share both good and bad news with him.
 
 ### Archibald T Robertson:
-1. "His corpse (Ï„Î¿ Ï€Ï„Ï‰Î¼Î± Î±Ï…Ï„Î¿Ï…). See on Matthew 24:28." 
+1. "His corpse (το πτωμα αυτου). See on Matthew 24:28." 
 2. "It was a mournful time for the disciples of John." 
 3. "They went and told Jesus" (Matthew 14:12). What else could they do?
 
 ### John Gill:
 1. "The disciples of John heard of this barbarous execution of their master."
-2. "They came to the prison in the castle of Machaerus and took up his corpse."
-3. "Laid it in a tomb."
+2. "His head was carried away, to glut the revenge of Herodias."
+3. "They...laid it in a tomb."
 
 
 ## Generation Details

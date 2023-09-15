@@ -1,38 +1,45 @@
 # Mark 6:26 Commentary Help Text
 
 ## BHT:
-In this Bible verse, the subject, Herod, is described as being deeply remorseful for his actions, as Mark's language intensifies his sorrow and regrets. The commentary emphasizes Mark's unique style, highlighting the emotional impact of the events. It also suggests that Herod faced a moral dilemma, torn between his own conscience and societal expectations. Additionally, the verse indicates that Herod's environment influenced his actions and stifled his conscience. Overall, the verse portrays Herod's sorrow, moral struggle, and the factors that shaped his decisions.
+In this Bible verse, we see a story of Herod's conflicted conscience, driven by personal ambition and the fear of others' opinions. Herod is deeply remorseful, but his sorrow is fueled not by genuine religious conviction, but rather by the consequences that John's preaching had on his conscience. This account portrays the tension between societal pressures and personal morality, the danger of prioritizing power over principles, and the tragic consequences that can arise when one's conscience is stifled by one's environment.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "With his feelings regarding John, and the truths which so told upon his conscience from that preacher's lips."
 2. "See how men of no principle, but troublesome conscience, will stick at breaking a rash oath, while yielding to the commission of the worst crimes!"
-3. "Under the influence of that false shame, which could not brook being thought to be troubled with religious or moral scruples."
+3. "Under the influence of that false shame, which could not brook being thought to be troubled with religious or moral scruples. To how many has this proved a fatal snare!"
 
 ### Marvin Vincent:
-I apologize for the confusion. Please provide the commentary for the Bible verse in the following message.
+No problem! Please provide the commentary for Matthew.
+
+### John Calvin:
+1. "No inward feelings of religion constrained Herod to do this, but the mere love of power drove him headlong."
+2. "Thus it frequently happens that ungodly men fail to perform their duty, because they do not look to God, but are only intent on this object, that they may not incur the reproaches of men."
+3. "But though Herod had kept before his eyes the sacredness of an oath alone, and not the dread of the opinion of men, he committed a more heinous offense in fulfilling a foolish promise than if he had violated his oath."
 
 ### Philip Schaff:
-1. "Exceeding sorry." - Mark's use of language in describing Herod's reaction to John the Baptist's beheading is more intense than Matthew's account. This phrase highlights the depth of Herod's remorse and sorrow for his actions.
+1. "Exceeding sorry." - Mark's language emphasizes the intensity of Herod's sorrow, going beyond Matthew's account. This highlights the depth of Herod's regret and remorse for his actions.
 
-2. "Mark's language is stronger than that of Matthew." - This statement emphasizes the distinctiveness of Mark's writing style compared to Matthew's. Mark's choice of words and phrasing in this verse conveys a heightened emotional response, providing a unique perspective on the events surrounding John the Baptist's death.
+2. "Mark’s language is stronger than that of Matthew." - The comparison between Mark and Matthew's accounts reveals Mark's use of more vivid and powerful language. This suggests that Mark wanted to convey a stronger emotional impact and emphasize the gravity of the situation.
 
-3. "Mark's language is stronger." - The commentary underscores the significance of Mark's choice of words, suggesting that his intention was to emphasize the intensity of Herod's sorrow. This distinction in language adds depth and richness to the narrative, allowing readers to better understand the emotional impact of the events described in the verse.
+3. "Mark's language emphasizes the intensity of Herod's sorrow." - Mark's choice of words underscores the depth of Herod's remorse, indicating that he was truly devastated by his decision. This insight into Herod's emotional state adds a layer of complexity to the narrative and invites reflection on the consequences of our actions.
 
 ### Archibald T Robertson:
-1. "He would not reject her" - This quote highlights the compassionate nature of the subject, indicating that he refused to turn away from someone in need.
-2. "He was caught once again between his conscience and his environment" - This quote suggests that the subject faced a moral dilemma, torn between following his own beliefs and conforming to societal expectations.
-3. "Like many since his day the environment stifled his conscience" - This quote implies that the subject's surroundings had a negative influence on his moral compass, suppressing his ability to act according to his conscience.
+1. "He would not reject her" - This quote highlights the refusal of the person in question to reject the woman, indicating a sense of compassion or empathy towards her.
+2. "He was caught once again between his conscience and his environment" - This quote suggests a conflict between personal beliefs and societal pressures, emphasizing the internal struggle faced by the individual.
+3. "Like many since his day the environment stifled his conscience" - This quote implies that societal influences can suppress one's moral compass, suggesting that external factors can have a powerful impact on individual decision-making.
 
 ### John Gill:
 1. "The king was exceeding sorry... for their sakes which sat with him." 
-2. "He would not reject her... without grieving her, and treating her with contempt." 
-3. "Defrauding her of the promise."
+2. "He would not reject her; deny her her request, or send her away without granting it."
+3. "Grieving her, treating her with contempt, and defrauding her of the promise."
 
 ### John Wesley:
-1. "Herod's honour was like the conscience of the chief priests" - This quote highlights the lack of moral integrity in both Herod and the chief priests, emphasizing their disregard for innocent life.
-2. "To shed innocent blood wounded neither one nor the other" - This quote further emphasizes the indifference of Herod and the chief priests towards the value of innocent life, highlighting their callousness and lack of compassion.
-3. "For his oath's sake, and for the sake of his guests" - This quote sheds light on the motivations behind Herod's decision, showing that his concern for his own reputation and the opinions of others outweighed his concern for justice and righteousness.
+1. "Herod's honour was like the conscience of the chief priests" - This quote highlights the parallel between Herod's lack of integrity and the moral indifference of the chief priests. It suggests that both parties were more concerned with preserving their own reputation and power than with doing what was right.
+
+2. "To shed innocent blood wounded neither one nor the other" - This quote emphasizes the callousness of Herod and the chief priests, who were willing to sacrifice an innocent life for their own gain. It reveals the extent of their moral corruption and disregard for human life.
+
+3. "For his oath's sake, and for the sake of his guests" - This quote sheds light on the reasons behind Herod's decision to execute John the Baptist. It suggests that Herod's concern for his own reputation and the opinions of others outweighed his sense of justice and compassion.
 
 
 ## Generation Details

@@ -1,13 +1,15 @@
 # Mark 1:42 Commentary Help Text
 
 ## BHT:
-In this verse, we witness the incredible effect of Jesus' words as he miraculously cleanses a man from leprosy. The commentator emphasizes the immediate and supernatural nature of the healing, highlighting Jesus' authority over sickness and disease. The power of Jesus' words is emphasized, suggesting that his spoken word alone has the ability to bring about such a profound transformation.
+In this verse, we witness a remarkable healing as Jesus utters words that swiftly drive away a leprosy-afflicted individual's illness. The immediacy and miraculous nature of this restoration highlight the tremendous power and authority inherent in Jesus' spoken words. The rapidity with which the healing occurs further underscores Jesus' ability to bring about transformative change. It is clear that the potency and supernatural character of Jesus' words are key factors in this profound act of healing.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
-1. "The leprosy departed from him, and he was cleansed." - This quote highlights the immediate and miraculous healing power of Jesus' words, demonstrating his authority over sickness and disease.
-2. "The cure in an instant." - This quote emphasizes the swift and instantaneous nature of the healing, showcasing the supernatural nature of Jesus' power.
-3. "Words spoken, which were accompanied with such power." - This quote underscores the potency and authority of Jesus' words, suggesting that his spoken word alone was enough to bring about the healing.
+1. "The leprosy departed from him, and he was cleansed." - This quote highlights the immediate and miraculous healing that took place after Jesus spoke. It emphasizes the power and authority of Jesus' words in bringing about transformation.
+
+2. "The cure in an instant." - This quote emphasizes the speed and efficiency of Jesus' healing. It underscores the instantaneous nature of the miracle, further showcasing Jesus' divine power.
+
+3. "Words spoken, which were accompanied with such power." - This quote emphasizes the potency of Jesus' words. It suggests that it was not merely the act of speaking, but the power and authority behind the words that brought about the healing. It highlights the supernatural aspect of Jesus' ministry.
 
 
 ## Generation Details

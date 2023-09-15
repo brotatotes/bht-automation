@@ -1,25 +1,43 @@
 # Mark 2:27 Commentary Help Text
 
 ## BHT:
-The Bible verse being described is one that emphasizes the purpose and significance of the Sabbath. It highlights that the Sabbath was made for the benefit and well-being of humanity, emphasizing the idea that it is a gift from God. The verse also underscores the importance of balancing the observance of the Sabbath with the needs and necessities of individuals, recognizing that human needs should take precedence over strict rituals. Overall, the verse communicates that the Sabbath is meant to be a source of rest, rejuvenation, and blessing for mankind.
+The commentators collectively shed light on a Bible verse that discusses the purpose and significance of the Sabbath. They emphasize that the Sabbath was instituted for the benefit of humanity, providing rest and promoting physical and spiritual well-being. While some commentators argue that the Sabbath was primarily intended for the Jewish people, others highlight its universal importance, extending its application beyond any specific group. The verse also conveys the message that the Sabbath should not be burdensome or restrictive, but rather adaptable and conducive to human flourishing.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The Sabbath was an ordinance for man; for man’s rest, both actually and typically, as setting forth the rest which remains for God’s people." 
+2. "He who is now speaking has taken on Himself Manhood, the whole nature of Man; and is rightful lord over creation as granted to man, and of all that is made for man, and therefore of the Sabbath." 
+3. "The whole dispensation of time is created for man, for Christ as He is man, and is in his absolute power."
+
 ### Marvin Vincent:
-1. "For man [δια] . On account of, or for the sake of." - This phrase highlights the purpose behind Jesus' sacrifice, emphasizing that it was done for the benefit of humanity.
-2. "This saying is given by Mark only." - This comment points out that Mark is the only Gospel writer to record this particular saying of Jesus, highlighting the uniqueness and significance of the verse.
-3. "The verse emphasizes the selfless nature of Jesus' sacrifice and his willingness to give his life for the salvation of mankind." - This statement underscores the profound message of the verse, emphasizing Jesus' selflessness and the ultimate purpose of his sacrifice.
+1. "The phrase 'for man' suggests that Jesus' death was not just for a select few, but for all of humanity."
+2. "By using the preposition 'on account of' or 'for the sake of,' Mark emphasizes the sacrificial nature of Jesus' death."
+3. "Mark's exclusive inclusion of this saying highlights the universal significance of Jesus' sacrifice, demonstrating that it was not limited to a specific group or ethnicity."
+
+### John Calvin:
+1. "The general meaning is, that those persons judge amiss who turn to man’s destruction, the Sabbath which God appointed for his benefit."
+2. "Is not this a foolish attempt to overturn the purpose of God, when they demand to the injury of men that observation of the Sabbath which he intended to be advantageous?"
+3. "Christ simply informs us what is the proper use of it. Though he asserted, a little before, that he is Lord of the Sabbath, yet the full time for its abolition was not yet come."
 
 ### Philip Schaff:
-1. "The Sabbath is a means to an end; it was instituted by God... for the moral and physical benefit of man."
+1. "The Sabbath is a means to an end; it was instituted by God...for the moral and physical benefit of man."
 2. "To observe the Christian Sabbath in such a way that our temporal and spiritual welfare is thereby furthered is in one aspect a far more difficult duty than to conform to Pharisaical external rules on the subject."
 3. "While the State cannot make men religious, or secure a Christian observance of the Sabbath, it can and ought to prevent its open desecration, and to protect Christian citizens in their right to a day of rest, which is also necessary for the welfare of the state itself."
 
+### Archibald T Robertson:
+1. "Mark alone has this profound saying which subordinates the sabbath to man's real welfare."
+2. "Man was not made for the sabbath as the rabbis seemed to think with all their petty rules."
+3. "The church itself is for man, not man for the church."
+
+### John Gill:
+1. "The sabbath was made for man; for his good, and not for his hurt; both for the good of his soul, that he might have an opportunity of attending divine worship, both in public and private; and for the good of his body, that he might have rest from his labour."
+2. "By 'man', is not meant all mankind; for the sabbath was never appointed for all mankind, nor binding upon all; only the Jews, who are emphatically called 'man', or 'men'."
+3. "And that the observation of the seventh day was only designed for the children of Israel, seems manifest from Exodus 31:16, 'wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant it is a sign between me and the children of Israel'; and not between him and the rest of the world."
+
 ### John Wesley:
-1. "The Sabbath was made for man" - This quote emphasizes the purpose of the Sabbath, which is to benefit and serve humanity. It highlights the idea that the Sabbath is not meant to be a burden or a rigid set of rules, but rather a gift from God for the well-being and rest of mankind.
-
-2. "And therefore must give way to man's necessity" - This quote suggests that while the Sabbath is important, it should not be observed in a way that disregards the needs and well-being of individuals. It implies that there may be situations where the strict observance of the Sabbath may need to be adjusted or suspended in order to address urgent human needs.
-
-3. "The Sabbath was made for man" - This quote reiterates the primary purpose of the Sabbath, emphasizing that it is meant to be a blessing and a source of refreshment for humanity. It reminds us that the Sabbath is not just a religious obligation, but a divine provision for our physical, mental, and spiritual rejuvenation.
+1. "The Sabbath was made for man" emphasizes the purpose of the Sabbath, which is to benefit and serve humanity.
+2. "And therefore must give way to man's necessity" highlights the flexibility of the Sabbath, suggesting that it should not be a burden or hindrance when urgent needs arise.
+3. This quote implies that the Sabbath is not meant to be a rigid rule, but rather a tool to enhance human well-being and spiritual connection.
 
 
 ## Generation Details

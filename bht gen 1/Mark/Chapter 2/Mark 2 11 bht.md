@@ -1,25 +1,25 @@
 # Mark 2:11 Commentary Help Text
 
 ## BHT:
-In this passage, a paralytic is commanded to rise from his bed and take up his mat. This act signifies not only physical healing, but also a call to a new life and restoration of dignity and purpose. Jesus challenges societal norms and expectations by redefining what is possible and acceptable. The emphasis on going to one's own house highlights the personal and intimate nature of the healing, as it allows the man to show his wholeness to his loved ones and return to his everyday life.
+In this passage, Jesus speaks with authority, commanding a paralyzed man to arise from his bed. The miraculous healing is demonstrated not only by the man's ability to walk, but also by his carrying of the portable couch he was initially lying on. This public display showcases the power of Jesus for all to witness. Furthermore, Jesus instructs the man to return to his house, emphasizing the importance of reconnecting with his community and resuming his daily responsibilities. Overall, this verse exemplifies the transformative impact of Jesus' healing and his authority over physical ailments.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "The stress is on σοί." 
-2. "The words are precisely those used, as so often in Mark, and denote the turning to the paralytic and addressing him." 
+2. "The words are precisely those used, as so often in Mark, and denote the turning to the paralytic and addressing him."
 3. "There may have been something in his state, which required the emphatic address."
 
 ### Jamieson Fausset Brown:
-1. "The command to 'arise' signifies not only physical healing but also a call to new life and a restoration of dignity and purpose." 
-
-2. "By instructing the man to 'take up his bed,' Jesus is challenging societal norms and expectations, showing that he has the power to redefine what is possible and acceptable." 
-
-3. "The act of 'going thy way into thine house' emphasizes the personal and intimate nature of the healing, as Jesus restores not only physical health but also the man's place within his community."
+1. "This taking up the portable couch, and walking home with it, was designed to prove the completeness of the cure." 
+2. "The command to 'arise' signifies not only physical healing but also a call to a new life, a new beginning." 
+3. "By instructing the man to 'go thy way into thine house,' Jesus emphasizes the importance of returning to one's own community and fulfilling one's responsibilities."
 
 ### John Gill:
-1. "He bid him, in an authoritative way to arise from his bed." 
-2. "Take it up upon his shoulders, directly, and in the face of all the people, carry it away." 
-3. "To show himself whole to his family and friends, and go about his business."
+1. "He bid him, in an authoritative way to arise from his bed." This quote highlights the commanding nature of Jesus' words, emphasizing his power and authority.
+
+2. "Take it up upon his shoulders, directly, and in the face of all the people, carry it away." This quote emphasizes the public display of the man's healing, showcasing the miraculous power of Jesus for all to witness.
+
+3. "To show himself whole to his family and friends, and go about his business." This quote highlights the restoration of the man's health and his ability to resume his normal life, illustrating the transformative impact of Jesus' healing.
 
 
 ## Generation Details

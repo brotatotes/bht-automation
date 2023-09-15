@@ -1,18 +1,25 @@
 # Mark 2:9 Commentary Help Text
 
 ## BHT:
-In this verse, commentators reflect on the power and significance of both healing diseases and forgiving sins. They question whether it is easier to command physical healing or to pardon spiritual wrongdoings. While both actions are possible for God, they emphasize that the ability to forgive sins may be the greatest evidence of divine power and goodness. Additionally, they note that the miraculous healing of a paralyzed man provides a powerful demonstration of Christ's deity to skeptics. Through these reflections, the verse illuminates the profound impact of both physical healing and spiritual forgiveness.
+This verse reminds us that sin and disease are both within the realm of God's power. Just as Jesus demonstrated His authority to heal the physical body, He also showed His ability to forgive sins and heal the soul. The concept of "walking" suggests intentional and purposeful movement, reflecting a continuous way of life. It encourages us to actively seek and explore the truths of God's Word, while being mindful of the choices we make along the way. Ultimately, this verse highlights the remarkable and transformative power of God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "Is it easier to command away disease than to bid away sin?"
 2. "If, then, I do the one which you can see, know thus that I have done the other, which you cannot see."
-3. "Is it easier to say to the sick of the palsy, Thy sins be forgiven thee—or 'are forgiven thee'; or to say, Arise, and take up thy bed and walk?"
+3. "If Jesus can heal the physical body, it is a demonstration of His authority to forgive sins and heal the soul."
+
+### Marvin Vincent:
+1. "The word 'walk' implies a continuous action, a way of life. It suggests a deliberate and intentional movement, not aimless wandering. It speaks of purpose and direction in our daily conduct."
+
+2. "To 'walk about' also implies exploration and discovery. It encourages us to actively seek out the truths and principles of God's Word, to delve deeper into its teachings, and to apply them to our lives."
+
+3. "Walking about requires attentiveness and awareness of our surroundings. It reminds us to be vigilant and discerning, to carefully navigate the paths and choices we encounter, and to stay on the narrow road that leads to life."
 
 ### John Gill:
-1. "Both of them were easy to say, but not with power and effect: they were both instances of divine power, and proofs of deity."
-2. "Perhaps forgiveness of sin may be the greatest evidence of divine power and goodness."
-3. "Curing of a palsy, in the manner in which Christ did it, was a more sensible proof of his deity to the Scribes and Pharisees, than pronouncing a man's sins forgiven."
+1. "Both of them were easy to say, but not with power and effect."
+2. "They were both instances of divine power, and proofs of deity."
+3. "Perhaps forgiveness of sin may be the greatest evidence of divine power and goodness."
 
 
 ## Generation Details

@@ -1,27 +1,25 @@
 # Mark 5:16 Commentary Help Text
 
 ## BHT:
-The witnesses shared a vivid and detailed account of what happened, describing how the possessed man was miraculously freed from a legion of demons by Jesus' powerful command. The testimony also included the unfortunate fate of the swine, as they became frenzied and tragically perished by falling into the sea. This comprehensive report from the eyewitnesses highlights the extent and impact of the miraculous events that unfolded, leaving no doubt about the supernatural nature of the occurrence.
+Eyewitnesses of the whole affair, who lived in houses hard by, or were working in the fields, gave a particular account of how, upon first sight of Christ, the possessed man ran to meet him, fell down and worshipped him. These witnesses provided a comprehensive understanding of the events that took place, highlighting the immediate recognition and reverence the man had for Jesus and the incredible power displayed by Christ in dispossessing a legion of devils with just a word.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The double testimony of the herdsmen and their own senses" - This emphasizes the credibility and reliability of the witnesses, reinforcing the truth of what had happened to the demonized person and the swine.
+1. "The double testimony of the herdsmen and their own senses" - This quote highlights the importance of multiple witnesses and personal observation in confirming the events that took place. It emphasizes the reliability of the accounts and adds credibility to the story.
 
-2. "They that saw it told them how it befell" - This highlights the importance of sharing and spreading the news of what had occurred, ensuring that others were informed about the miraculous event.
+2. "Told them how it befell to him that was possessed with the devil" - This quote emphasizes the communication of the details of the incident, specifically regarding the person who was possessed by a demon. It suggests that the witnesses shared the story to provide a comprehensive understanding of what had occurred.
 
-3. "Concerning the swine" - This phrase indicates that not only was the focus on the demonized person, but also on the impact and consequences of the incident on the swine, further emphasizing the magnitude of the event.
+3. "Concerning the swine" - This quote indicates that the witnesses also shared information about the fate of the swine. It suggests that the herdsmen and others informed the people about the impact of the demon's expulsion on the herd of swine, providing additional context to the event.
 
 ### Philip Schaff:
-1. "And they that saw it." - This verse refers to the witnesses of the miraculous event, possibly the swine herds or those who were with Jesus in the boat. It highlights the importance of eyewitness testimony in validating the occurrence of the miracle.
-
-2. "Probably the swine herds who had returned." - This commentary suggests that the witnesses were likely the swine herds who had come back after the incident. It provides context and helps us understand who the observers were.
-
-3. "The way in which the cure had occurred." - This phrase emphasizes not only the fact of the healing but also the manner in which it took place. It invites us to consider the method or process by which the miracle happened, deepening our understanding of the event.
+1. "And they that saw it." - This refers to the swine herds who witnessed the miraculous healing and restoration of the demon-possessed man. It highlights the impact and significance of the event.
+2. "Probably the swine herds who had returned." - This suggests that those who witnessed the miracle were likely the ones who had previously tended to the swine and were now amazed by the transformation they had witnessed.
+3. "The way in which the cure had occurred." - This phrase emphasizes the manner in which the healing took place, indicating that the people were not only astonished by the result but also intrigued by the method used by Jesus to bring about the man's deliverance.
 
 ### John Gill:
-1. "They that saw it...told them how it befell to him that was possessed with the devil." 
-2. "Gave a particular account...how he was dispossessed of a legion of devils by a word speaking."
-3. "And also concerning the swine; how...they ran mad; and betaking themselves to the rocks by the sea side, fell down the precipice, and were suffocated in the sea."
+1. "Eyewitnesses of the whole affair, who lived in houses hard by, or were working in the fields" - These individuals were able to provide a firsthand account of what had happened, adding credibility to the events that took place.
+2. "Gave a particular account, how, upon first sight of Christ, he ran to meet him, and fell down and worshipped him" - This highlights the immediate recognition and reverence the possessed man had for Jesus, emphasizing the power and authority that Christ possessed.
+3. "How he was dispossessed of a legion of devils by a word speaking" - The mention of a "legion" of devils emphasizes the magnitude of the possession and the incredible power of Jesus to cast them out with just a word.
 
 
 ## Generation Details

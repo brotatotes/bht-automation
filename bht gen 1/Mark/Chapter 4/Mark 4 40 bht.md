@@ -1,7 +1,7 @@
 # Mark 4:40 Commentary Help Text
 
 ## BHT:
-The disciples, despite witnessing Jesus' teachings and miracles, displayed a lack of faith when faced with danger. Even though Jesus was with them in the midst of the storm, their fear overshadowed their trust in him as the Master of nature. The disciples' struggle with faith, as depicted in the Bible verse, serves as a relatable reminder of our own human frailty and the need to fully trust in God's power and providence.
+Though the disciples had witnessed Jesus' teachings and miracles, they still struggled with fear and a lack of faith. Jesus questioned their fear and emphasized his authority over the storm, reminding them of the need to trust in his presence and power. The disciples' faith, though present, was small and wavering, leading to their perception of a hopeless situation. This passage highlights the disciples' relatability in their struggles, serving as a reminder to readers of the importance of placing our trust in Jesus, even in the midst of storms.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
@@ -10,23 +10,21 @@ The disciples, despite witnessing Jesus' teachings and miracles, displayed a lac
 3. "Faith dispels fear, but only in proportion to its strength."
 
 ### Philip Schaff:
-1. "Have ye not yet faith." - This phrase emphasizes the disciples' lack of faith despite witnessing Jesus' teachings and miracles. It highlights the ongoing struggle of the disciples to fully trust and believe in Jesus.
-2. "Mark, in many instances, brings out the weakness of the disciples most prominently." - This statement highlights Mark's focus on portraying the disciples' shortcomings and human frailty. It reminds readers that even those closest to Jesus had their moments of doubt and weakness.
-3. "A significant fact, if we remember that Peter was his authority." - This comment draws attention to the fact that Peter, who was considered a prominent figure among the disciples, was the source of Mark's gospel. It suggests that even the disciples with leadership roles were not exempt from doubt and uncertainty.
+1. "Have ye not yet faith." - This phrase highlights the disciples' lack of faith despite witnessing Jesus' teachings and miracles. It emphasizes the need for them to trust in Him more fully.
+2. "Mark, in many instances, brings out the weakness of the disciples most prominently." - This statement points out Mark's tendency to highlight the disciples' shortcomings, indicating the significance of their growth and development throughout the Gospel.
+3. "A significant fact, if we remember that Peter was his authority." - This comment draws attention to the fact that Peter, one of the disciples, was the source of Mark's Gospel, underscoring the importance of his perspective on their weaknesses and growth.
 
 ### Archibald T Robertson:
 1. "They had the Lord of the wind and the waves with them in the boat. He was still Master even if asleep in the storm."
-2. "Have ye not yet faith? Not yet had they come to feel that Jesus was really Lord of nature."
+2. "Not yet had they come to feel that Jesus was really Lord of nature."
 3. "How like us in our troubles they were!"
 
-Note: The commentary seems to be discussing the disciples' lack of faith and understanding of Jesus' power over nature.
-
 ### John Gill:
-1. "Why are ye so fearful?...how is it that ye have no faith?" - This quote highlights Jesus' questioning of his disciples' fear and lack of faith. It emphasizes the contrast between their fear and the presence of Jesus, reminding readers of the power and trustworthiness of Christ.
+1. "Why are ye so fearful?...how is it that ye have no faith?" - This quote highlights Jesus' questioning of his disciples' fear and lack of faith. It emphasizes the contrast between their fear and the presence of Jesus, reminding readers of the disciples' need to trust in his power and protection.
 
-2. "Faith they had, but it was very small, and scarcely to be called faith" - This quote acknowledges the disciples' limited faith, indicating that while they had some belief in Jesus, it was not strong or substantial. It reflects the human struggle to fully trust in God's power and providence.
+2. "Faith they had, but it was very small, and scarcely to be called faith" - This quote acknowledges the disciples' limited faith, indicating that while they had some belief in Jesus, it was not strong or fully developed. It suggests that their fear was a result of their wavering faith rather than a lack of faith altogether.
 
-3. "They feared it was too late, and that they were past all hope, and were just perishing" - This quote reveals the disciples' mindset of despair and hopelessness. It captures their belief that their situation was beyond salvation, highlighting the importance of having faith even in the face of seemingly impossible circumstances.
+3. "They feared it was too late, and that they were past all hope, and were just perishing" - This quote reveals the disciples' mindset of hopelessness and despair. It highlights their perception of the situation as dire and their belief that they were on the brink of perishing. It adds depth to the disciples' fear and lack of faith, emphasizing the urgency of Jesus' question.
 
 
 ## Generation Details

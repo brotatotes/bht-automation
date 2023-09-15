@@ -1,7 +1,7 @@
 # Mark 2:24 Commentary Help Text
 
 ## BHT:
-The verse being described here emphasizes the true purpose of the Sabbath and challenges the legalistic interpretations of the Pharisees. It highlights the need for true and spiritual worship, as well as the freedom from worldly occupations to attend holy assemblies. The verse also addresses the Pharisees' strict adherence to man-made rules and Jesus' emphasis on mercy and compassion over rigid observance. Overall, it showcases the tension between religious traditions and the true intent of the Sabbath as a time of rest, healing, and renewal.
+The Bible verse being described is about the Sabbath and Jesus' actions and teachings on this day. Commentators like John Calvin emphasize the purpose of the Sabbath, which is to engage in true worship and have freedom from worldly occupations. Philip Schaff highlights Jesus challenging the strict and legalistic interpretation of the Sabbath by bringing rest, healing, and compassion to people's lives. John Gill adds that Jesus' actions demonstrate his authority over the law and the importance of prioritizing human well-being over rigid observance. This verse provides an understanding of the Sabbath as a day of worship, rest, and compassion.
 
 ## Choicest Commentary Quotes:
 ### John Calvin:
@@ -12,16 +12,16 @@ The verse being described here emphasizes the true purpose of the Sabbath and ch
 ### Philip Schaff:
 1. "The Pharisees had developed a strict set of rules and regulations regarding the observance of the Sabbath, and they were quick to accuse Jesus and his disciples of breaking these rules." 
 
-2. "Jesus, however, challenges their legalistic interpretation of the Sabbath and emphasizes the true purpose of the Sabbath, which is to bring rest, healing, and restoration to people's lives."
+2. "Jesus challenges the Pharisees' legalistic interpretation of the Sabbath by reminding them of the true purpose of the Sabbath - to bring rest, healing, and restoration to people's lives."
 
-3. "This verse serves as a reminder that the Sabbath was not meant to be a burden or a legalistic obligation, but rather a gift from God to be enjoyed and a time to focus on worship and renewal."
+3. "Through his actions, Jesus demonstrates that the Sabbath is not meant to be a burden or a day of strict adherence to rules, but rather a day of freedom, joy, and compassion."
 
 ### John Gill:
-1. "The Pharisees questioned Jesus about his disciples' actions on the Sabbath, accusing them of doing what was not lawful. This highlights the Pharisees' strict adherence to the letter of the law, rather than understanding the spirit of the law." 
+1. "The Pharisees questioned Jesus about the actions of his disciples on the Sabbath, accusing them of doing what was not lawful. This highlights the Pharisees' strict adherence to the letter of the law, even to the point of criticizing acts of compassion and necessity." 
 
-2. "The act of plucking and rubbing the ears of corn was considered work according to the traditions of the elders. Jesus' disciples were challenging these man-made rules by prioritizing their physical needs over legalistic observance." 
+2. "The act of plucking and eating the ears of corn on the Sabbath challenged the traditional interpretation of the law. Jesus' response to the Pharisees' accusation reveals his understanding of the Sabbath as a day of rest and refreshment, not a burden or a hindrance to meeting human needs." 
 
-3. "This incident serves as a reminder that Jesus came to fulfill the law and bring a new understanding of Sabbath rest. He emphasized the importance of mercy and compassion over rigid adherence to religious rules."
+3. "Jesus' actions and teachings on the Sabbath demonstrate his authority over the law and his emphasis on mercy and compassion. He reminds the Pharisees that the Sabbath was made for man, not man for the Sabbath, emphasizing the importance of prioritizing human well-being over legalistic observance."
 
 
 ## Generation Details

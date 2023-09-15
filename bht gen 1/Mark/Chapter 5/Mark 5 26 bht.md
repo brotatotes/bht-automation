@@ -1,7 +1,7 @@
 # Mark 5:26 Commentary Help Text
 
 ## BHT:
-In this verse, a woman is described who had suffered greatly under various forms of treatment and had exhausted all her resources in seeking healing. This highlights the futility of human efforts to address spiritual maladies, symbolizing the fallen state of humanity. The woman's desperate pursuit of a cure through physicians emphasizes the failure of worldly remedies. However, Jesus' healing of her serves as a powerful protest against such futile attempts and demonstrates His authority over both physical and spiritual ailments, offering hope and liberation from the bondage of self-reliance and legalistic practices.
+In this passage, a woman is depicted who has suffered greatly, enduring various treatments that have failed to heal her. She represents our fallen state as humans, highlighting the futility of human remedies for spiritual ailments. The vivid account by Mark emphasizes her worsening condition, contrasting with the hopeful response of Jesus. Despite her financial and physical struggles, her encounter with Jesus becomes her one chance for healing. This story serves as both a protest against mistreatment and a reminder that true healing is found in the tender care of Jesus, rather than in human efforts.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
@@ -15,14 +15,19 @@ In this verse, a woman is described who had suffered greatly under various forms
 3. "Luke's professional pride as a physician kept him from such a statement."
 
 ### Philip Schaff:
-1. "Suffered many things of many physicians." - This highlights the woman's desperate and futile attempts to find healing through medical professionals, emphasizing the failure of human efforts to provide a cure.
-2. "She had spent all her living on physicians." - This reveals the financial strain the woman endured in her pursuit of healing, further emphasizing the disappointment and lack of results from her previous attempts.
-3. "Our Lord's conduct was a protest against both these." - This suggests that Jesus' actions in healing the woman were not only a demonstration of his power but also a statement against the mistreatment and neglect of women, particularly in matters of health.
+1. "Mark emphasizes the fact that she ‘suffered ‘at their hands, and grew worse instead of better." 
+2. "Our Lord’s conduct was a protest against both these [Levitical uncleanness and mistreatment of women]."
+3. "Just in proportion as His influence permeates society, is woman not only elevated, but tenderly dealt with, especially in the matter of delicate diseases."
+
+### Archibald T Robertson:
+1. "A pathetic picture of a woman with a chronic case who had tried doctor after doctor." 
+2. "The tragedy of it was that she 'was nothing bettered, but rather grew worse.'"
+3. "Her money was gone, her disease was gaining on her, her one chance came now with Jesus."
 
 ### John Gill:
-1. "This is often the case of persons who are, in some measure, sensible of the disease of sin, but are ignorant of the proper methods to be taken for the cure of it."
-2. "They apply to their own works of righteousness, moral and civil, to the duties of religion, private and public, to a legal repentance, external humiliation and tears, and an outward reformation of life, hoping hereby, in process of time, to be rid of their disorder, and be in good health."
-3. "For such a course of action, such conduct and methods as these bring them into a spirit of bondage; for when they fail in their duties, do not come up to the rules prescribed them, what terror of mind possesses them! what horror and wrath does the law work in their consciences!"
+1. "She had wasted her substance, and brought herself to poverty, by pursuing the directions given her; so that she was not in circumstances now to employ a physician." 
+2. "The several medicines she had taken had done her no good, had not, in the least, restrained and checked the disorder, but it was rather increased thereby." 
+3. "They apply to their own works of righteousness, moral and civil, to the duties of religion, private and public, to a legal repentance, external humiliation and tears, and an outward reformation of life, hoping hereby, in process of time, to be rid of their disorder, and be in good health; whereas these are physicians of no value, and of no real service in their case."
 
 
 ## Generation Details

@@ -1,17 +1,19 @@
 # Mark 6:47 Commentary Help Text
 
 ## BHT:
-In the midst of a stormy night, the disciples found themselves in distress out at sea, with their Master yet to join them. The wind blew fiercely, causing the sea to rise, making their situation even more precarious. As darkness set in, Jesus had not yet come to them, and it seemed impossible for Him to reach the ship. However, this darkness and the disciples' despair would serve as a backdrop for the great miracle that was about to unfold – Jesus walking upon the water towards them.
+In the midst of a stormy night on a turbulent sea, the disciples found themselves battling against the wind, filled with distress as their Master was not with them. Despite their initial hope that Jesus would join them, he remained alone on the land after praying on the mountains. With no humanly possible way for Jesus to reach them, the stage was set for the forthcoming miracle of Jesus walking on water, demonstrating his authority and power over the forces of nature.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Perhaps they made no great effort to push across at first, having a lingering hope that their Master would yet join them, and so allowed the darkness to come on."
-2. "And the sea arose, by reason of a great wind that blew."
-3. "It was now dark, and Jesus was not come to them."
+1. "It had come even when the disciples embarked."
+2. "Perhaps they made no great effort to push across at first, having a lingering hope that their Master would yet join them."
+3. "And the sea arose, by reason of a great wind that blew."
 
 ### Archibald T Robertson:
 1. "When even was come (οψιας γενομενης). The second or late evening, six P.M. at this season, or sunset on." 
-2. "He alone on the land (κα αυτος μονος ηπ της γης). Another Markan touch."
+
+2. "He alone on the land (κα αυτος μονος ηπ της γης). Another Markan touch. Jesus had come down out of the mountain where he had prayed to the Father."
+
 3. "Apparently Jesus remained quite a while, some hours, on the beach. 'It was now dark and Jesus had not yet come to them' (John 6:17)."
 
 ### John Gill:

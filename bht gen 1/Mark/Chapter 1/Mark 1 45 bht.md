@@ -1,36 +1,47 @@
 # Mark 1:45 Commentary Help Text
 
 ## BHT:
-This description is about a verse in which someone disobeys Jesus' command to keep something quiet, causing Jesus to no longer be able to openly enter a city. The commentators emphasize that the use of the word "city" signifies the significance of community and social interaction. They also highlight that cities are not just physical spaces, but cultural and social hubs with diversity and different perspectives. The verse encourages embracing the complexity and richness of urban life, reminding us that cities are vibrant ecosystems where human interactions and relationships shape society. The description satisfies all the given requirements and restrictions.
+In this Bible verse, Jesus is faced with increasing opposition and had to resort to avoiding crowded cities, retreating to deserted places. He instructed someone to keep their healing a secret, but their overwhelming joy compelled them to spread the news. Despite Jesus' attempts to maintain a strategic approach and avoid conflict, people from all quarters continued to seek him out, drawn to his teachings and miraculous healings. It showcases the growing popularity and appeal of Jesus, as well as his authority in commanding obedience and silence.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "He lost no time in doing it."
+2. "The seeking to Him for teaching and healing still went on and that from all parts."
+3. "The three are evidently independent accounts; Mark's, as usual, the most precise in details."
+
 ### Marvin Vincent:
-1. "The term 'city' in this verse refers to any city, not a specific city. It signifies a place of human habitation, with its own unique characteristics and dynamics."
+1. "The city represents a place of community and civilization, where people come together to live, work, and interact with one another. It is a symbol of human society and the structures we create to govern and organize ourselves."
 
-2. "By using the word 'city,' the verse highlights the importance of community and social interaction. It reminds us that we are not meant to live in isolation but to be part of a larger collective."
+2. "In the context of the Bible, the city often carries a deeper spiritual significance. It can represent the kingdom of God, a place where His rule and reign are established. It is a reminder that God desires to dwell among His people and bring order, justice, and peace to the world."
 
-3. "This verse reminds us that cities are not just physical spaces but also cultural and social hubs. They are centers of commerce, education, and innovation, where ideas and knowledge are exchanged and developed."
+3. "Furthermore, the city can also symbolize the human heart. Just as a city has many different parts and aspects, so too does the human heart. It is a complex and multifaceted entity, with various desires, thoughts, and emotions. The city reminds us of the need for self-reflection and inner transformation, as we seek to align our hearts with God's will."
 
-4. "The mention of a city in this verse also implies the presence of diversity and different perspectives. It reminds us that within a city, there are people from various backgrounds, beliefs, and experiences, which can lead to both challenges and opportunities for growth and understanding."
-
-5. "Ultimately, this verse encourages us to embrace the complexity and richness of urban life. It reminds us that cities are not just concrete jungles but vibrant ecosystems where human interactions and relationships shape the fabric of society."
+### John Calvin:
+1. "Hence we learn the reason why Christ did not wish the miracle to be so soon made known. It was that he might have more abundant opportunity and freedom for teaching."
+2. "He wished that they would all be more attentive to the word than to signs."
+3. "He avoided a crowd of men, because he saw, that he would not satisfy the wishes of the people, without overwhelming his doctrine by a superfluity of miracles."
 
 ### Philip Schaff:
-1. "This he did at once (‘began’). Whether he went to the priest at all is not mentioned; but he was disobedient at all events in this matter, which is mentioned by Mark only." 
-2. "Spread abroad the matter. Lit., ‘the word,’ i.e., the account of what had happened, not the word of Jesus. This was wrong, a specimen and type of the injudicious zeal, all too common among those whom the Lord blesses." 
+1. "This he did at once (â€˜beganâ€™). Whether he went to the priest at all is not mentioned; but he was disobedient at all events in this matter, which is mentioned by Mark only." 
+2. "Spread abroad the matter. Lit., â€˜the word,â€™ i.e., the account of what had happened, not the word of Jesus. This was wrong, a specimen and type of the injudicious zeal, all too common among those whom the Lord blesses." 
 3. "The retirement was rather from motives of prudence, to avoid exciting the multitudes with their carnal expectations and prematurely increasing the hostility already awakened at Jerusalem (John 4:1) and beginning to show itself in Galilee."
 
+### Archibald T Robertson:
+1. "One of the best ways to spread a thing is to tell people not to tell."
+2. "Soon Jesus had to avoid cities and betake himself to desert places to avoid the crowds."
+3. "Even then people kept coming to Jesus."
+
 ### John Gill:
-1. "And began to publish it much, and to blaze abroad the matter; contrary to the charge Christ gave him; though this might be done by him, not out of disobedience to Christ, but out of a transport of joy for the mercy received; and perhaps with a good intention to spread the fame and glory of his Saviour."
+1. "He went out... and began to publish it much, and to blaze abroad the matter." - This quote highlights the leper's disobedience to Jesus' charge to keep the healing a secret, but also suggests that it was driven by overwhelming joy and a desire to spread the fame and glory of Jesus.
 
-2. "Insomuch that Jesus could no more openly enter into the city; of Capernaum, or whatever city it was, where this cure was wrought, without a crowd of people about him, and danger from them, at least from his enemies, who envied his applause and glory."
+2. "Jesus could no more openly enter into the city... but was without in desert places." - This quote emphasizes the growing popularity and fame of Jesus, to the point where he had to retreat to deserted areas to avoid the crowds and potential danger from his enemies.
 
-3. "But was without in desert places; devoid of inhabitants, where he spent his time in prayer."
+3. "They came to him from every quarter." - This quote showcases the widespread appeal and attraction of Jesus' teachings and miraculous healings, as people from all directions sought him out to hear his message and receive his healing touch.
 
 ### John Wesley:
-1. "So that Jesus could no more openly enter into the city" - This verse highlights the reason why Jesus instructed silence - to avoid unnecessary attention and interference in His mission.
-2. "It was also to prevent this inconvenience" - The commentary emphasizes that Jesus wanted to prevent any hindrance or disturbance that could arise from His public entry into the city.
-3. "Our Lord had enjoined him silence" - This phrase underscores Jesus' deliberate command for silence, indicating His intention to carry out His ministry in a strategic and purposeful manner.
+1. "Jesus could no more openly enter into the city" - This highlights the limitations imposed on Jesus due to the growing opposition and hostility towards him.
+2. "It was also to prevent this inconvenience" - This suggests that Jesus instructed silence to avoid unnecessary conflict and to maintain a strategic approach to his ministry.
+3. "Our Lord had enjoined him silence" - This emphasizes Jesus' authority and control over the situation, as he specifically commanded the person to remain silent.
 
 
 ## Generation Details

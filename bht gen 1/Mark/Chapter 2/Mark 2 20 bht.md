@@ -1,22 +1,20 @@
 # Mark 2:20 Commentary Help Text
 
 ## BHT:
-In that day, a future event of sorrow and fasting will occur, as the disciples mourn the crucifixion of Jesus and the imprisonment of John the Baptist. The disciples' anticipation and grief are highlighted, with one commentator mentioning the specific circumstances of John's imprisonment and another describing the overall mourning atmosphere. The disciples were about to face a time of great loss, mirrored in their sorrowful state of mind.
+In that day, the disciples will experience a great loss when the bridegroom, referring to Jesus, is taken away from them. This event will bring about sorrow and fasting, as they mourn the absence of their master. The disciples have already experienced a similar loss with John the Baptist being taken away, setting the stage for their understanding of the impending sorrow. The sufferings and death of Christ will be a sorrowful season for his disciples, shaping their faith and marking a significant moment in their journey with him.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "The proper reading is 'in that day.'"
-2. "Another of Mark's double expressions."
-3. "Then - in that day."
+1. "The proper reading is 'in that day'." 
+2. "Another of Mark's double expressions: then - in that day."
+3. "Rev."
 
 ### John Gill:
-1. "The days will come... when the bridegroom shall be taken away from them." - This quote highlights the future event of Jesus' crucifixion and the resulting sorrow and fasting of his disciples. It foreshadows the impending suffering and loss that would be experienced by the followers of Jesus.
+1. "The days will come...when the bridegroom shall be taken away from them." - This quote highlights the future event of Jesus' crucifixion and the resulting sorrow and fasting of his disciples. It emphasizes the impending loss and the impact it will have on their lives.
 
-2. "Their master being taken up by Herod, and confined in prison." - This quote emphasizes the specific circumstances surrounding John the Baptist's imprisonment, which contributed to a period of mourning for his disciples. It adds context to the overall atmosphere of sadness and anticipation mentioned in the verse.
+2. "Their master being taken up by Herod, and confined in prison." - This quote provides context for the disciples' mourning, explaining that John the Baptist, their teacher, had already been taken away from them. It sets the stage for the disciples' understanding of what it means for the bridegroom (Jesus) to be taken away.
 
-3. "It was a mourning time with them." - This quote succinctly captures the emotional state of John's disciples during his imprisonment. It conveys the sense of grief and longing that would later be experienced by Jesus' disciples when he would be taken away from them.
-
-Overall, these quotes shed light on the impending suffering and loss that Jesus' disciples would face, as well as the emotional state of mourning and fasting that would accompany these events.
+3. "Referring to the time of the sufferings and death of Christ, which would be, and was a sorrowful season to his disciples." - This quote connects the future event of Jesus' crucifixion to the disciples' experience of sorrow. It highlights the significance of Christ's suffering and death and the impact it had on his followers.
 
 
 ## Generation Details

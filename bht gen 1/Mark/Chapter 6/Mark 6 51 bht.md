@@ -1,36 +1,37 @@
 # Mark 6:51 Commentary Help Text
 
 ## BHT:
-The disciples found themselves in a state of overwhelming astonishment as they witnessed Jesus walking on water. Their initial fear turned into wonder and delight, while their amazement was intensified by the fact that the wind instantly ceased upon Jesus entering the ship. Despite their astonishment, their hearts were filled with gladness and relief as Christ stretched out His hand to save Peter from sinking. The disciples' profound amazement at the miraculous events that unfolded before them is expressed through their surprise and astonishment.
+In this verse, the disciples are portrayed as being in a state of shock and amazement, as they receive Jesus into their ship. Their astonishment is depicted through phrases such as "[being] sore amazed," their worshipful acknowledgement of Jesus as the Son of God, and their disbelief at witnessing Jesus walking on water. The sudden calming of the wind upon Jesus' entry into the ship adds to the disciples' overwhelming astonishment. Ultimately, this verse illustrates the disciples' transition from fear to wonder and their growing recognition of Jesus' divine power.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "Then were they willing to receive Him" - implying a glad welcome, their first fears now converted into wonder and delight.
 2. "The little bark...glided through the now unruffled waters, and...was found at port, to their still further surprise."
-3. "Then are they glad, because at rest and quiet now they be; So to the haven He them brings which they desired to see."
-4. "The Evangelist seems hardly to find language strong enough to express their astonishment."
+3. "They that were in the ship came...and worshipped him, saying, Of a truth Thou art the Son of God."
 
 ### Marvin Vincent:
-1. "Ceased." (referring to Mark 4:38) 
-2. "Sore amazed [λιαν εκ περισσου εξισταντο]. Lit., exceedingly beyond measure." 
-3. "A strong expression peculiar to Mark."
+1. "Ceased." (referring to Mark 4:38) - This quote suggests that the action of ceasing was significant in the context of the verse, possibly indicating a sudden and dramatic change in the situation.
+
+2. "Sore amazed [λιαν εκ περισσου εξισταντο]." - This quote highlights the intensity of the amazement experienced, emphasizing that it was beyond measure and exceeding expectations.
+
+3. "A strong expression peculiar to Mark." - This quote suggests that the phrase used in the verse is unique to the Gospel of Mark, indicating a distinctive style or emphasis in his writing.
 
 ### Philip Schaff:
-1. "Were sore amazed in themselves." - This phrase suggests that the disciples were deeply astonished and overwhelmed by what they had witnessed. It highlights the intensity of their emotions and the impact of the miraculous event.
+1. "Were sore amazed in themselves." - This phrase suggests that the disciples were deeply astonished and bewildered by what they had witnessed. It highlights the intensity of their emotions and the impact of the miraculous event.
 
-2. "Too much so, as the next verse indicates." - This comment implies that the disciples' amazement may have been excessive or beyond what was expected. It sets the stage for the subsequent verse, which reveals Jesus' response to their astonishment.
+2. "Too much so, as the next verse indicates." - This statement implies that the disciples' amazement went beyond what was expected or reasonable. It suggests that their astonishment may have been excessive or overwhelming.
 
-3. "Hence 'beyond measure' has been inserted." - The addition of the phrase 'beyond measure' emphasizes the magnitude of the disciples' amazement. It signifies that their astonishment was immeasurable and goes beyond what words can fully express.
+3. "Hence 'beyond measure' has been inserted." - The addition of the phrase 'beyond measure' emphasizes the magnitude of the disciples' amazement. It underscores the idea that their astonishment was immeasurable and beyond what words can fully express.
 
 ### Archibald T Robertson:
-1. "They were sore amazed in themselves" - The disciples' astonishment at what they witnessed is vividly portrayed in the imperfect tense, emphasizing their excitement and disbelief.
-2. "Mark does not give the incident of Peter's walking on the water and beginning to sink" - This commentary highlights an omission in Mark's account, suggesting that Peter may have been reluctant to share the story of his momentary doubt and subsequent rescue by Jesus.
-3. "Perhaps Peter was not fond of telling that story" - This speculation offers a possible explanation for the absence of Peter's experience in Mark's narrative, implying that Peter may have been hesitant to share a moment of weakness.
+1. "They were sore amazed in themselves" - The disciples' astonishment is vividly portrayed by the use of the imperfect tense, emphasizing their intense excitement.
+2. "Mark does not give the incident of Peter's walking on the water and beginning to sink" - This omission suggests that Peter may have been reluctant to share this particular story, possibly due to feelings of embarrassment or humility.
+3. "Perhaps Peter was not fond of telling that story" - This speculation offers insight into Peter's character and suggests that he may have been hesitant to recount an experience that showcased his momentary lack of faith.
 
 ### John Gill:
 1. "Christ stretched out his hand, and saved him."
 2. "The wind ceased; from blowing; it was laid at once, as soon as ever Christ entered the ship."
-3. "They were astonished when they found it was Christ, and not a spirit; and they were more amazed at his walking upon the sea."
+3. "They were astonished, when they found it was Christ, and not a spirit; and they were more amazed at his walking upon the sea; and they marvelled still more abundantly, when they observed that the wind ceased upon his coming into the ship."
 
 
 ## Generation Details

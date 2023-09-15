@@ -1,19 +1,19 @@
 # Mark 1:40 Commentary Help Text
 
 ## BHT:
-A man full of leprosy, deemed incurable, kneels down to Jesus in submission and reverence, saying, "Lord, if you are willing, you can make me clean," revealing his faith and recognition of Jesus' authority. Jesus, filled with compassion, reaches out and touches the leper, not only willing to heal him, but also entering into his brokenness and isolation. This physical and spiritual restoration demonstrates Jesus' authority over sickness, sin, and social barriers, bringing about a transformation that goes beyond the physical healing of the leper.
+A man, deemed incurable and full of leprosy, approaches Jesus with an act of faith - kneeling down in submission, respect, and reverence. His plea for healing reflects his recognition of Jesus' authority and power. Jesus' compassionate response defies social norms, reaching out to the marginalized and demonstrating divine power. This healing serves as a symbol of Jesus' mission to bring restoration to the broken, rejected, and desperate, revealing God's boundless love and grace.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
 1. "A leper. See on Matthew 8:2." 
-2. "The variations from that account are only in the choice of words and the omission of 'Lord' here."
+2. "The variations from that account are only in the choice of words and the omission of ‘Lord’ here."
 
 ### Archibald T Robertson:
-1. "Kneeling down to him" - This picturesque detail emphasizes the humility and reverence of the person towards whom the action is directed. It suggests a deep sense of respect and submission.
+1. "Kneeling down to him" - This detail adds a picturesque element to the scene, highlighting the humility and reverence of the person towards whom the action is directed.
 
-2. "Picturesque detail omitted by some MSS" - The omission of this detail in some manuscripts highlights the importance of considering multiple sources and versions of the text to gain a comprehensive understanding. It reminds us of the need for careful analysis and comparison in biblical interpretation.
+2. "Picturesque detail omitted by some MSS" - The omission of this detail in some manuscripts suggests that it may have been intentionally left out or overlooked. This raises questions about the significance of the action and invites further exploration.
 
-3. "Luke 5:12 has 'fell on his face'" - The parallel verse in Luke provides an alternative depiction of the same event, emphasizing the intense emotions and overwhelming response of the person involved. This variation adds depth and richness to the narrative, revealing different aspects of the encounter.
+3. "Luke 5:12 has 'fell on his face'" - The parallel account in Luke provides an alternative perspective, emphasizing the intensity of the encounter and the person's deep sense of awe and submission. This variation adds depth to the understanding of the scene.
 
 ### John Gill:
 1. "This man was full of leprosy, deemed incurable." 
@@ -21,11 +21,9 @@ A man full of leprosy, deemed incurable, kneels down to Jesus in submission and 
 3. "Saying unto him, if thou wilt thou canst make me clean."
 
 ### John Wesley:
-1. "The leper's plea for healing reveals his faith in Jesus' ability to heal him. He recognizes Jesus as the source of healing and acknowledges his authority by saying, 'Lord, if you are willing, you can make me clean.' This demonstrates the leper's understanding of Jesus' power and his humble submission to Jesus' will."
-
-2. "Jesus' response to the leper's plea is filled with compassion. He reaches out and touches the leper, a gesture that would have been considered highly unusual and even taboo in that culture. This physical touch not only demonstrates Jesus' willingness to heal, but also his willingness to enter into the brokenness and isolation of the leper's condition."
-
-3. "The healing of the leper is not just a physical restoration, but also a social and spiritual restoration. By healing the leper, Jesus is not only removing the physical disease, but also restoring him to the community and to a relationship with God. This healing is a powerful demonstration of Jesus' authority over sickness, sin, and social barriers."
+1. "The leper’s approach to Jesus is an act of faith, as he recognizes Jesus’ authority and power to heal him. It is a humble and desperate plea for mercy and restoration."
+2. "Jesus’ response to the leper is not only compassionate but also demonstrates his divine power. By touching the leper, Jesus defies the social and religious norms of the time, showing his willingness to reach out to the outcasts and marginalized."
+3. "The healing of the leper serves as a powerful symbol of Jesus’ mission on earth - to bring healing and restoration to those who are broken, rejected, and in need. It is a reminder of God’s love and grace, which knows no boundaries and extends to all who come to him in faith."
 
 
 ## Generation Details

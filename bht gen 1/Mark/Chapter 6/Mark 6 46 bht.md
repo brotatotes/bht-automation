@@ -1,43 +1,37 @@
 # Mark 6:46 Commentary Help Text
 
 ## BHT:
-In a moment of unrest, Jesus sought solace in a mountain, exemplifying the significance of finding quiet communion with God. He later appeared to His disciples amidst a storm, displaying His dominion over challenges in life. Peter's audacious act of stepping out in faith echoes the importance of trusting in the midst of fear. Jesus' provision of food speaks not only to physical needs but also to His ability to satisfy the deepest spiritual hunger. Refusing an earthly kingdom, He steadfastly pursued His divine mission, bringing eternal salvation beyond worldly powers.
+In a moment of solitude, Jesus withdrew to a mountain to pray, seeking communion with God and emphasizing the need for a quiet place for prayer. As his disciples sailed on a stormy sea, Jesus walked on water, revealing his power and urging us to have faith in the midst of challenging circumstances. Despite the crowd's attempt to make him king, Jesus remained steadfast in his mission, showing us the importance of staying focused on God's will and not being swayed by worldly ambitions.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "ἀποταξάμ. in this sense belongs to later Greek: Phrynichus says, ed. Lob. p. 24, ἀποτάσσομαί σοι, ἔκφυλον πάνυ." 
-2. "χρὴ γὰρ λέγειν, ἀσπάζομαί σε." 
-3. "See Lobeck’s note."
+1. "ἀποταξάμ . in this sense belongs to later Greek: Phrynichus says, ed. Lob. p. 24, ἀποτάσσομαί σοι , ἔκφυλον πάνυ." 
+2. "ἀποτάσσομαί σοι , ἔκφυλον πάνυ." 
+3. "χρὴ γὰρ λέγειν , ἀσπάζομαί σε."
 
 ### Jamieson Fausset Brown:
-1. "He departed into a mountain to pray—thus at length getting that privacy and rest which He had vainly sought during the earlier part of the day."
-2. "Opportunity also to pour out His soul in connection with the extraordinary excitement in His favor that evening—which appears to have marked the zenith of His reputation."
+1. "He departed into a mountain to pray—thus at length getting that privacy and rest which He had vainly sought during the earlier part of the day." 
+2. "Opportunity also to pour out His soul in connection with the extraordinary excitement in His favor that evening." 
 3. "A place whence He might watch the disciples on the lake, pray for them in their extremity, and observe the right time for coming to them, in a new manifestation of His glory, on the sea."
 
 ### Marvin Vincent:
-1. "After he had taken leave" - This phrase provides a more accurate understanding of the Greek term "αποταξαμενος" used in the verse. It highlights the act of bidding farewell, emphasizing the emotional aspect of the disciples' departure.
-
-2. "Unclassical, and used in this sense only in later Greek" - This comment sheds light on the rarity of the term's usage in the Greek language. It suggests that the author of the commentary has done thorough research to provide a deeper understanding of the word's significance in this context.
-
-3. "So in Luke 9:61; Acts 18:18; 2 Corinthians 2:13" - By referencing other biblical passages where the same term is used, this quote highlights the consistency of its meaning throughout the Bible. It implies a connection between these verses and provides a broader perspective on the usage of the term.
+1. "More correctly, after he had taken leave." 
+2. "Unclassical, and used in this sense only in later Greek." 
+3. "So in Luke 9:61; Acts 18:18; 2 Corinthians 2:13."
 
 ### John Gill:
-1. "And when he had sent them away...he departed into a mountain to pray." This shows Jesus' desire for solitude and communion with God, setting an example for us to prioritize prayer and seek moments of solitude in our own lives.
+1. "He departed into a mountain to pray." - This shows Jesus' commitment to seeking solitude and communion with God through prayer. It highlights the importance of finding a quiet place to connect with God and seek His guidance.
 
-2. "He went from the desert...being a retired place." The choice of a secluded mountain as a place of prayer highlights the importance of finding a quiet and peaceful environment to connect with God, away from distractions and noise.
+2. "Being a retired place, to spend some time in private prayer to God." - This emphasizes the need for privacy and seclusion in our prayer life. It reminds us that we should carve out intentional time to be alone with God, away from distractions and noise.
 
-3. "To spend some time in private prayer to God." Jesus' intentional act of setting aside time for private prayer emphasizes the significance of personal, intimate communication with God, reminding us to prioritize this practice in our own spiritual lives.
+3. "After his disciples were gone, and he had dismissed the people." - This indicates that Jesus prioritized spending time with His Father in prayer even after ministering to the needs of others. It teaches us the value of setting aside time for prayer, even amidst our busy schedules and responsibilities.
 
 ### John Wesley:
-1. "Jesus often withdrew to solitary places to pray, demonstrating the importance of finding solitude and communion with God in the midst of busyness and ministry." 
+1. "Jesus often withdrew to solitary places to pray, showing us the importance of finding solitude and communing with God in our own lives." 
 
-2. "The disciples were caught in a storm, symbolizing the challenges and trials we face in life. Jesus came to them, walking on water, showing His power and authority over all circumstances."
+2. "The disciples' reaction to Jesus walking on water reveals their lack of understanding and faith. It serves as a reminder for us to trust in God's power and not be overwhelmed by our circumstances." 
 
-3. "Peter's boldness to step out of the boat and walk towards Jesus teaches us the importance of stepping out in faith, even when faced with fear and uncertainty."
-
-4. "The feeding of the five thousand revealed Jesus' compassion and provision for the physical needs of the people, but also pointed to His ability to satisfy the deepest spiritual hunger."
-
-5. "Jesus' refusal to be made king by force demonstrated His commitment to His mission as the Savior, not a political leader. He came to establish a kingdom that transcends earthly kingdoms and brings eternal salvation."
+3. "Jesus' response to the crowd seeking to make him king shows his commitment to his mission and his refusal to be swayed by worldly ambitions. It teaches us the importance of staying focused on God's will and not being distracted by the desires of others."
 
 
 ## Generation Details

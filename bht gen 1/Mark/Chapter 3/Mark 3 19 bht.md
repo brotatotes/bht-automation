@@ -1,18 +1,25 @@
 # Mark 3:19 Commentary Help Text
 
 ## BHT:
-This cautionary tale warns us about the dangers of greed and the consequences of turning away from God's path, as seen through the infamous betrayal of Jesus by Judas Iscariot. It serves as a reminder of the importance of loyalty and trustworthiness in our own lives, highlighting the complex nature of human choices and the capacity for evil that resides within each of us. The events that unfold in Capernaum, specifically in Simon and Andrew's house, bring significance to the story and its connection to the overall purpose of God and the fulfillment of prophecies.
+In this verse, the cautionary tale of Judas Iscariot's betrayal serves as a solemn reminder of the dangers of greed and misplaced loyalty, showing how worldly desires can overshadow one's commitment to righteousness and faith. As Judas's actions unfold, we witness the depths of human frailty and the need for discernment in choosing our companions and associates. The events take place in Capernaum, likely in the house of Simon and Andrew, highlighting the significance of location in Mark's Gospel, which focuses on action and the selective nature of Jesus's teachings and deeds.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "Judas Iscariot, the infamous betrayer of Jesus, serves as a cautionary tale of the dangers of greed and the consequences of turning away from God's path."
-2. "His name has become synonymous with treachery, reminding us of the importance of loyalty and trustworthiness in our own lives."
-3. "Judas' actions highlight the complex nature of human choices and the capacity for evil that resides within each of us, urging us to examine our own hearts and motivations."
+1. "Judas Iscariot, the infamous betrayer of Jesus, serves as a cautionary tale of the dangers of greed and misplaced loyalty." 
+
+2. "His actions highlight the tragic consequences of allowing worldly desires to overshadow one's commitment to righteousness and faith."
+
+3. "Judas's betrayal not only reveals the depths of human frailty but also emphasizes the importance of discernment and vigilance in choosing our companions and associates."
 
 ### Philip Schaff:
 1. "This indicates a return to Capernaum; as the succeeding events probably took place there."
 2. "In the interval a number of important events took place."
 3. "If a particular house is meant, there is an undesigned coincidence."
+
+### Archibald T Robertson:
+1. "He comes home from the mountain, probably the house of Simon as in Mark 1:29." 
+2. "Mark passes by the Sermon on the Mount given by Matthew and Luke on the mountain."
+3. "Mark's Gospel is full of action and does not undertake to tell all that Jesus did and said."
 
 ### John Gill:
 1. "This man, with the rest, our Lord chose to be an apostle of his, though he knew he would betray him; in order to fulfill the purposes of God, the prophecies of the Old Testament, and bring on the work of man's redemption he came into the world to perform."

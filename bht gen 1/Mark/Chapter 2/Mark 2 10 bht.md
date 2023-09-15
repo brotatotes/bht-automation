@@ -1,18 +1,18 @@
 # Mark 2:10 Commentary Help Text
 
 ## BHT:
-The Bible verse being described is one that emphasizes the unique authority and power of Jesus as the Son of man to forgive sins. It highlights that this authority is not limited to heaven, but is actively exercised on earth. Jesus' forgiveness is personal and tangible, dwelling within his person. It is a combination of right and might, representing his divine nature and deity. His act of forgiving sins demonstrates his power and prerogative as both God and man. It is a power that extends from his earthly ministry to his current exalted state in heaven.
+This verse highlights the divine authority and power of Jesus Christ, the Son of man. As a man, Jesus possesses the ability to forgive sins, demonstrating his compassion and willingness to extend forgiveness to those in need. This forgiving power resides within him, highlighting the indwelling nature of forgiveness. Jesus' authority to forgive sins is not hindered by his human nature, but rather, his humility and incarnation as a man only serve to magnify the grandeur of his divine power. This authority extends beyond his earthly ministry, even into his heavenly exaltation.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The Son of man hath power on earth to forgive sins" - This quote emphasizes that the authority to forgive sins resides in Jesus as the Son of man, and that this power is not limited to heaven but is exercised on earth. It highlights Jesus' unique role as the one who can offer forgiveness and redemption to humanity.
+1. "The Son of man hath power on earth to forgive sins" - This quote emphasizes that Jesus, as the Son of man, possesses the authority to forgive sins. It highlights the divine power that resides within Jesus and his ability to offer forgiveness to those in need.
 
-2. "That forgiving power dwells in the Person of this Man" - This quote highlights the personal nature of Jesus' forgiving power. It suggests that forgiveness is not just an abstract concept, but a tangible reality embodied in Jesus himself. It underscores the intimate connection between Jesus and the act of forgiveness.
+2. "That forgiving power dwells in the Person of this Man" - This quote points to the indwelling nature of the forgiving power within Jesus. It suggests that Jesus himself is the embodiment of forgiveness, and it is through his person that this power is manifested.
 
-3. "Exercised by Him while on this earth and going out and in with you" - This quote emphasizes that Jesus actively exercises his power to forgive sins during his earthly ministry. It suggests that Jesus is present with his followers, accompanying them in their journey of faith, and extending his forgiveness to them. It highlights the ongoing nature of Jesus' forgiving work.
+3. "Exercised by Him while on this earth and going out and in with you" - This quote highlights the active role of Jesus in exercising the power to forgive sins. It emphasizes that Jesus not only possesses this power but also actively uses it during his time on earth, demonstrating his compassion and willingness to extend forgiveness to all who seek it.
 
 ### Marvin Vincent:
-1. "Power [exousian]; or better, authority, as Rev., in margin."
+1. "Power [εξουσιαν] ; or better, authority, as Rev., in margin."
 2. "The word is derived from exesti, it is permitted or lawful."
 3. "It combines the ideas of right and might. Authority or right is the dominant meaning in the New Testament."
 

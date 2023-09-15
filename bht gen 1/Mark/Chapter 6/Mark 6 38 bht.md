@@ -1,22 +1,25 @@
 # Mark 6:38 Commentary Help Text
 
 ## BHT:
-The exchange between Andrew and Jesus reveals the limited provisions available - a young boy's five barley loaves and two small fishes - in the face of a large crowd. The commentators highlight the meagerness of these resources compared to the multitude of people. Jesus' instruction to bring the provisions to Him indicates His intention to work a miracle. The disciples' inquiry and Andrew's report demonstrate their awareness of the scarcity of food and their doubts about the sufficiency of the young boy's meal.
+In this Bible verse, Jesus is faced with a scarcity of food among the disciples. Andrew informs Jesus about a boy who has five barley loaves and two small fishes, but wonders what significance such a small amount could have for the large crowd. Jesus instructs the disciples to gather all the available provisions, highlighting his desire to test their faith and display a remarkable miracle. This event is mentioned in different Gospels, emphasizing the importance and impact of the incident.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "One of His disciples, Andrew, Simon Peter's brother, saith unto Him, There is a lad here which hath five barley loaves and two small fishes: but what are they among so many?" (John 6:8; John 6:9) - John provides more details about the available provisions, highlighting the meagerness of the resources compared to the multitude of people present.
+1. "John is more precise and full: 'One of His disciples, Andrew, Simon Peter's brother, saith unto Him, There is a lad here which hath five barley loaves and two small fishes: but what are they among so many?'" (John 6:8; John 6:9)."
 
-2. "Probably this was the whole stock of provisions then at the command of the disciplesâ€”no more than enough for one meal to themâ€”and entrusted for the time to this lad." - The commentary suggests that the disciples only had enough food for themselves, and it was the young boy who had the five loaves and two fishes.
+2. "Probably this was the whole stock of provisions then at the command of the disciples—no more than enough for one meal to them—and entrusted for the time to this lad."
 
-3. "He said, Bring them hither to me" - Jesus instructs the disciples to bring the meager provisions to Him, indicating that He intends to use them in a miraculous way.
-
-These quotes provide insights into the limited resources available and Jesus' response to the situation, setting the stage for the miracle that is about to take place.
+3. "'He said, Bring them hither to me' (John 6:9- :)."
 
 ### Philip Schaff:
-1. "Go and see, lit., 'go, see.' Peculiar to Mark." 
-2. "When they knew. By finding a lad with these provisions; see John 6:8-9."
+1. "Go and see, lit., ‘go, see.’ Peculiar to Mark." 
+2. "When they knew. By finding a lad with these provisions; see John 6:8-9." 
 3. "The answer was given by Andrew."
+
+### Archibald T Robertson:
+1. "John says that Jesus asked Philip to find out what food they had... Jesus said 'Go see' how many loaves you can get hold of." 
+2. "Andrew reports the fact of the lad with five barley loaves and two fishes." 
+3. "John's Gospel alone tells of the lad with his lunch which his mother had given him."
 
 ### John Gill:
 1. "This he said, not as ignorant, but as willing to try their faith yet more, and that the after miracle might be more manifest and illustrious."

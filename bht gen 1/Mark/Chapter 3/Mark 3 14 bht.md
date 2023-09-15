@@ -1,32 +1,48 @@
 # Mark 3:14 Commentary Help Text
 
 ## BHT:
-In this verse, Jesus chose and appointed twelve individuals as his apostles. They were not only made for a specific purpose but also sent forth as messengers or ambassadors, similar to being with Christ and being his familiars. The significance of the twelve apostles lies in their role in spreading the message of the Gospel to all, symbolizing the inclusion of the entire nation. Their selection was not based on social status or qualifications, but rather on their willingness to follow Jesus, highlighting that God often uses ordinary individuals to achieve extraordinary things.
+In a deliberate and purposeful act, Jesus selected twelve apostles to be his closest companions and carry on his mission. Symbolically representing the twelve tribes of Israel, their selection signaled the renewal of God's covenant. The apostles were chosen based on their willingness to follow Jesus and their faith, not their social status. Active participants in his ministry, they were sent out to preach, heal, and cast out demons, embodying his power. This diverse group exemplified the importance of community and collaboration in advancing God's kingdom.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "ἐποίησεν" - nominated, set apart: see reff. (referring to the verse being commented on). 
+
+2. "We have here the most distinct intimation of any" - indicating that this verse provides a clear explanation or insight.
+
+3. "of the reason of this appointment" - referring to the purpose or motive behind the action mentioned in the verse.
+
 ### Marvin Vincent:
-1. "Ordained [εποιησεν] . Lit., made." - This quote highlights the meaning of the word "ordained" in the verse, emphasizing that it refers to being made or appointed for a specific purpose.
+1. "Ordained [εποιησεν] . Lit., made. Rev., appointed." - This quote highlights the meaning of the Greek word "εποιησεν" used in the verse, emphasizing that it refers to the act of appointing or making someone into a specific role.
 
-2. "Might send them forth [αποστελλη] . As apostles." - This quote explains that the purpose of ordaining or appointing these individuals was to send them forth as apostles, emphasizing their role as messengers or ambassadors.
+2. "Might send them forth [αποστελλη] . As apostles." - This quote explains the significance of the Greek word "αποστελλη" used in the verse, indicating that Jesus intended to send out the disciples as apostles, with a specific mission and authority.
 
-3. "Compare the kindred noun ajpostoloi, apostles." - This quote suggests that the readers should make a connection between the verb "ordained" and the noun "apostles," indicating that those who were ordained were being designated as apostles, further emphasizing their role as messengers or representatives.
+3. "Compare the kindred noun ajpostoloi, apostles." - This quote suggests that the readers should consider the related noun "ajpostoloi" (apostles) to better understand the role and purpose of the disciples being sent out by Jesus.
 
 ### Philip Schaff:
-1. "The best preparation for doing Christ's work is being with Christ."
-2. "The discipleship was the main point while Christ lived."
-3. "Only through the direct choice of the Master to the most intimate discipleship, did they become Apostles."
+1. "The best preparation for doing Christ’s work is being with Christ."
+2. "The discipleship was the main point while Christ lived, and only through the direct choice of the Master to the most intimate discipleship, did they become Apostles."
+3. "The word Mark uses implies that they were ‘Apostles,’ a title now given them (Luke 6:13), yet rarely applied by the other Evangelists."
+
+### Archibald T Robertson:
+1. "They were to be princes in the new Israel."
+2. "The meaning is that Jesus himself gave the name apostle or missionary to this group of twelve."
+3. "Two purposes of Jesus are mentioned by Mark in the choice of these twelve, that they might be with him, and that he might send them forth."
 
 ### John Gill:
-1. "And he ordained twelve,.... Or made, constituted, and appointed twelve men, out of those he called to him."
-2. "That they should be with him; constantly, in private and in public; be taken into his family, and reckoned such; be his familiars, and privy to all his affairs; hear all his discourses, and see his miracles."
-3. "And that he might send them forth to preach; the Gospel in Judea first, and then in all the world: for he did not at this time send them to preach, only chose; called, and appointed them; and after they had been with him some time, and were better qualified for such service, he sent them forth."
+1. "That they should be with him; constantly, in private and in public; be taken into his family, and reckoned such; be his familiars, and privy to all his affairs; hear all his discourses, and see his miracles; that so they might be trained up and fitted for the great work he designed them for."
+2. "And that he might send them forth to preach; the Gospel in Judea first, and then in all the world."
+3. "For he did not at this time send them to preach, only chose; called, and appointed them; and after they had been with him some time, and were better qualified for such service, he sent them forth."
 
 ### John Wesley:
-1. "These verses highlight the significance of the twelve apostles in the ministry of Jesus and the early church. They were chosen by Jesus himself and played a crucial role in spreading the message of the Gospel." 
+1. "The selection of the twelve apostles was a deliberate and purposeful act by Jesus. He chose them to be his closest companions and to carry on his mission after his departure." 
 
-2. "The fact that Jesus specifically selected twelve apostles reflects the symbolic importance of this number in Jewish tradition. It represents the twelve tribes of Israel, signifying that the message of salvation was not only for a select few, but for the entire nation."
+2. "The number twelve holds significant symbolic meaning in the Bible, representing the twelve tribes of Israel. By selecting twelve apostles, Jesus was signaling the restoration and renewal of God's covenant with his people."
 
-3. "The apostles were not chosen based on their social status or qualifications, but rather on their willingness to follow Jesus and their faith in him. This reminds us that God often uses ordinary individuals to accomplish extraordinary things, as long as they are willing to surrender to his will."
+3. "The apostles were not chosen based on their social status or qualifications, but rather on their willingness to follow Jesus and their faith in him. This demonstrates that God's call is not limited by human standards, but is based on his grace and purpose."
+
+4. "The apostles were not just passive recipients of Jesus' teachings, but active participants in his ministry. They were sent out to preach, heal, and cast out demons, embodying the power and authority of Jesus."
+
+5. "The selection of the apostles also highlights the importance of community and collaboration in the Christian faith. Jesus intentionally chose a diverse group of individuals, each with their own unique strengths and weaknesses, to work together for the advancement of God's kingdom."
 
 
 ## Generation Details

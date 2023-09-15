@@ -1,13 +1,13 @@
 # Mark 2:7 Commentary Help Text
 
 ## BHT:
-In this verse, the commentators emphasize the tension between understanding Jesus' words as either an exaggeration or a blasphemy. The scribes accuse Jesus of blasphemy, believing that only God can forgive sins. However, the commentators highlight that Jesus' claim to forgive sins challenges their understanding of him as merely a man. They note that Jesus' true identity is key to interpreting his words, as no mere creature can possess the power to forgive sins. This passage invites further exploration of the delicate balance between Jesus' humanity and divinity.
+The verse in question confronts the accusation of blasphemy against Jesus for claiming to forgive sins. The commentators note the strong reaction from the scribes, emphasizing the contrast between Jesus' divine authority and their perception of Him as just a man. The incident serves as evidence to challenge the scribes' flawed understanding of Jesus and His power to forgive sins, ultimately leading to the revelation of His true nature and the uniqueness of God's prerogative in forgiving sin.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "The first word depreciates: the second exaggerates." 
-2. "The contrast between the two words highlights the tension between understatement and overstatement." 
-3. "This juxtaposition emphasizes the delicate balance between expressing the truth without diminishing its significance or inflating it beyond its true meaning."
+2. "The contrast between the two words highlights the author's intention to emphasize the extreme nature of the subject." 
+3. "This juxtaposition of words serves to create a powerful rhetorical effect, drawing the reader's attention to the significance of what is being described."
 
 ### Jamieson Fausset Brown:
 1. "In this second question they expressed a great truth."
@@ -15,21 +15,22 @@ In this verse, the commentators emphasize the tension between understanding Jesu
 3. "Our Lord deals with them as men entitled to such evidence, and supplies it; at the same time chiding them for rashness, in drawing harsh conclusions regarding Himself."
 
 ### Philip Schaff:
-1. "Why doth this man thus speak? He blasphemeth!" - This quote highlights the reaction of the scribes to Jesus' words, showing their accusation of blasphemy. It reveals their misunderstanding of Jesus' true identity and mission.
+1. "He blasphemeth!" - This quote highlights the reaction of the scribes to Jesus' words, emphasizing their accusation of blasphemy. It reveals the intensity of their disbelief and opposition to Jesus' claims.
 
-2. "If our Lord were what the scribes deemed Him, their judgment was correct." - This quote emphasizes the commentary's perspective that if Jesus were merely a man, the scribes' accusation of blasphemy would be valid. It underscores the importance of recognizing Jesus' divinity.
+2. "If our Lord were what the scribes deemed Him, their judgment was correct." - This quote suggests that if Jesus was merely a man, the scribes' accusation of blasphemy would be valid. It underscores the significance of Jesus' divine nature and challenges the scribes' understanding of who Jesus truly is.
 
-3. "This occurrence is to prove the incorrectness of their estimate of Him." - This quote suggests that the incident serves as evidence to challenge the scribes' mistaken perception of Jesus. It implies that their judgment is flawed and that Jesus is more than what they believe him to be.
+3. "This occurrence is to prove the incorrectness of their estimate of Him." - This quote implies that the incident described in the verse serves as evidence to refute the scribes' mistaken perception of Jesus. It highlights the purpose of the event in revealing the truth about Jesus' identity.
 
 ### Archibald T Robertson:
-1. "He blasphemeth... The correct text here has this verb. They justify the charge with the conviction that God alone has the power to forgive sins." 
-2. "The word βλασφημεω means injurious speech or slander. It was, they held, blasphemy for Jesus to assume this divine prerogative." 
-3. "Their logic was correct. The only flaw in it was the possibility that Jesus held a peculiar relation to God which justified his claim."
+1. "He blasphemeth (βλασφημε). This is the unspoken charge in their hearts which Jesus read like an open book."
+2. "The only flaw in it was the possibility that Jesus held a peculiar relation to God which justified his claim."
+3. "Knowing full well that he had exercised the prerogative of God in forgiving the man's sins he proceeds to justify his claim by healing the man."
 
 ### John Gill:
 1. "They took Christ to be a mere man, and reasoned with themselves, that he must be a blasphemer, in assuming that to himself, which was peculiar to God."
 2. "They were right in saying, that none but God could forgive sin, against whom it is committed; but wrong in charging Christ with blasphemy on this account; because he is truly God, as well as man."
-3. "That no mere creature can forgive sin, is certain... Nor can any man procure the forgiveness of his sins by any thing he has, or can do; not by his riches, nor by his repentance, nor by his faith, nor by good works."
+3. "That no mere creature can forgive sin, is certain... Nor can any man procure the forgiveness of his sins by anything he has, or can do; not by his riches, repentance, faith, or good works."
+4. "That God only can forgive sin, is evident, because it is against him, and him only, that men sin... This is a prerogative peculiar to him, which he challenges to himself: 'I even I am he that blotteth out thy transgressions.'"
 
 
 ## Generation Details

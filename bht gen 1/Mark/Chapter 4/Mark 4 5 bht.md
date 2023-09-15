@@ -1,12 +1,14 @@
 # Mark 4:5 Commentary Help Text
 
 ## BHT:
-In this passage, the commentators suggest that the verse refers to a specific type of ground. It is ground that has a thin surface of earth covering a rock, signifying a lack of depth. They argue that the word or message being preached is received by individuals with hardened hearts or those who make a quick profession without truly experiencing its power. If this ground had more depth, it would have taken more time for the message to take root and result in genuine transformation.
+In this verse, the ground being described is not one with a deep layer of soil but rather a thin surface covering a rock. The commentator suggests that the intention is to convey the idea of a superficial faith. Another commentator adds that the message was preached to those with hardened hearts, which prevented the seed from taking root. These individuals made a quick and shallow profession of the word, lacking a genuine and transformative experience.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The thing intended is, not ground with stones in it which would not prevent the roots striking downward, but ground where a quite thin surface of earth covers a rock."
-2. "What means this? See on Matthew 13:5- :."
+1. "The thing intended is, not ground with stones in it which would not prevent the roots striking downward, but ground where a quite thin surface of earth covers a rock." 
+
+2. "What means this? See on Matthew 13:5- :." 
+
 3. "Third Case: THE THORNY GROUND."
 
 ### John Gill:

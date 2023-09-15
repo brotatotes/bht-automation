@@ -1,20 +1,22 @@
 # Mark 6:15 Commentary Help Text
 
 ## BHT:
-This verse captures the speculation and uncertainty surrounding the identity of Jesus. Some believed he was the long-awaited Prophet, while others compared him to the revered prophets of old, such as Elijah. The people were grappling with the significance of Jesus' remarkable works and teachings, trying to place him within the context of their religious expectations. Amidst the confusion, the verse emphasizes the importance and authority of this prophet, who stands on equal footing with the great prophets of the past, chosen and appointed by God to deliver His message.
+The commentators collectively suggest that the Bible verse in question pertains to the identity of Jesus as a prophet on par with the great prophets of the past. This prophet is not inferior or lesser than the ancient prophets, possessing the same authority, power, and connection with God. The diverse opinions reflect the profound impact Jesus had on people, challenging preconceived notions and revealing himself to be the Son of God. The verse also highlights the continuity and tradition of prophetic ministry throughout history.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "He is not The Prophet for whom all are waiting, but only some prophet like those who have gone before."
-2. "Where did our Evangelist get this remarkable expression, in his supposed compilation from Matt. and Luke?"
-3. "He is a prophet like one of the prophets; i.e. in their meaning."
+2. "Where did our Evangelist get this remarkable expression?"
+3. "In his supposed compilation from Matt. and Luke?"
 
 ### Jamieson Fausset Brown:
-1. "The people were speculating about the identity of Jesus, some suggesting that he was Elijah, while others believed he was a prophet or one of the prophets." 
+1. "The people were speculating about the identity of Jesus, some suggesting that he was Elijah, while others thought he might be a prophet or one of the prophets." 
 
-2. "This verse highlights the confusion and uncertainty surrounding Jesus' identity, as people tried to make sense of his miraculous works and teachings." 
+2. "This confusion and uncertainty among the people highlights the profound impact that Jesus had on those who encountered him. His teachings and miracles were so extraordinary that people struggled to fit him into preconceived categories."
 
-3. "The mention of Elijah is significant, as he was a revered prophet in Jewish tradition and was expected to return before the coming of the Messiah."
+3. "The fact that Jesus was compared to Elijah and the prophets is significant, as it shows that he was seen as a figure of great importance and authority, someone who was believed to have a special connection with God."
+
+4. "The various opinions about Jesus' identity also reflect the diversity of beliefs and expectations among the people. Some were looking for a political leader, while others were seeking a spiritual guide. Jesus, however, transcended these limited expectations and revealed himself to be the Son of God."
 
 ### Philip Schaff:
 1. "Others said, were in the habit of saying. The current popular opinions are here given." 
@@ -24,14 +26,14 @@ This verse captures the speculation and uncertainty surrounding the identity of 
 ### John Gill:
 1. "Many of the Jews...thought by the appearance and wonderful works of Jesus, that he was now come [Elias]." 
 2. "Herod's courtiers...said this to divert him from his notion of John the Baptist."
-3. "Others of them...said, that it is a prophet: or 'the prophet', that was to come, whom Moses had spoken of, and the Jews expected."
+3. "Others...said, that it is a prophet: or 'the prophet', that was to come, whom Moses had spoken of, and the Jews expected."
 
 ### John Wesley:
-1. "A prophet, as one of the prophets" - This phrase emphasizes the significance and authority of the prophet mentioned in the verse. They are not just any prophet, but one who stands on equal footing with the great prophets of the past.
+1. "A prophet, as one of the prophets" - This phrase suggests that the prophet being referred to is on par with the great prophets of the past. It implies that this prophet possesses the same authority and power to speak on behalf of God.
 
-2. "Not inferior to one of the ancient prophets" - This statement highlights the prophet's equality with the revered prophets of old. It implies that their message and role are just as important and impactful as those who came before them.
+2. "Not inferior to one of the ancient prophets" - This statement emphasizes that the prophet being mentioned is not lesser or inferior to the prophets of old. It highlights the significance and importance of the prophet's message and role in conveying God's will.
 
-3. "The prophets of old were chosen vessels through whom God spoke, and this prophet is likewise chosen and appointed by God to deliver His message." - This quote underscores the divine calling and purpose of the prophet. They are not self-appointed or self-proclaimed, but rather chosen by God to fulfill a specific role in delivering His message to the people.
+3. "One of the ancient prophets" - This phrase indicates that the prophet being discussed is part of a long lineage of prophets who have been chosen by God to deliver His messages to the people. It underscores the continuity and tradition of prophetic ministry throughout history.
 
 
 ## Generation Details

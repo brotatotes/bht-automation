@@ -1,18 +1,23 @@
 # Mark 5:22 Commentary Help Text
 
 ## BHT:
-In this passage, we encounter a ruler who approaches Jesus, possibly after eagerly waiting for Him to return. Another account suggests that the ruler approached Jesus while He was speaking about fasting. This ruler, whose name is Jairus, sought Jesus' help fervently, falling at His feet upon seeing Him. It is interesting to note that Matthew does not mention Jairus by name. The synagogue rulers, like Jairus, held positions of authority and were responsible for overseeing the affairs of the synagogue.
+In this verse, a ruler of the synagogue named Jairus approaches Jesus, seeking his help. The ruler seems desperate, as commentators describe him as anxiously awaiting Jesus's arrival and throwing himself at his feet in reverence. Despite the ruler's respect, it is noted that he may not have worshiped Jesus as God. Jairus's role as a ruler of the synagogue is essential, with commentators explaining how synagogue councils, presidents, and rulers oversaw the affairs of the synagogue.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "One would suppose from this that the ruler had been with the multitude on the shore, anxiously awaiting the return of Jesus, and immediately on His arrival had accosted Him as here related."
 2. "But Matthew tells us that the ruler came to Him while He was in the act of speaking at His own table on the subject of fasting."
-3. "Jairus by name�or 'Jaeirus.' It is the same name as Jair, in the Old Testament."
+3. "Jairus by name—or 'Jaeirus.' It is the same name as Jair, in the Old Testament."
 
 ### Philip Schaff:
 1. "Mark is fond of using the present tense." 
-2. "The original is vivid: seeing him he falleth at his feet."
+2. "The original is vivid: seeing him he falleth at his feet." 
 3. "Matthew omits the name."
+
+### John Gill:
+1. "Jairus by name; in Hebrew יאיר, 'Jair': and Jerom says n, it signifies 'enlightening', or 'enlightened': deriving it fromאור, 'to be light'." 
+2. "He threw himself at his feet; and, as Matthew says, 'worshipped him', Matthew 9:18; showed great reverence and respect unto him, gave him homage, at least in a civil way."
+3. "Though he might not adore him as God."
 
 ### John Wesley:
 1. "To regulate the affairs of every synagogue, there was a council of grave men."

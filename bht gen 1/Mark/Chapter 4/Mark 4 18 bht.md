@@ -1,22 +1,22 @@
 # Mark 4:18 Commentary Help Text
 
 ## BHT:
-This verse captures the struggle of individuals who are consumed by the worries and distractions of the world. Their hearts and minds are like thorny ground, infested with cares, desires for success, and the pursuit of wealth. These thorns hinder their ability to fully receive and understand the teachings of Jesus, preventing them from prioritizing their relationship with God. Despite attending the ministry of the word, their hearts are influenced by the customs and desires of the world, diverting them from the path of righteousness.
+In this verse, the commentators describe a scenario where the word of God is hindered and choked by the distractions and worries of the world, represented by thorns. These distractions could be anything that consumes our thoughts and energies, such as money, possessions, or relationships. When we prioritize worldly concerns over our relationship with God, we hinder our spiritual growth and prevent the fruit of the Spirit from flourishing in our lives. To truly understand and bear fruit that glorifies God, we need to recognize and remove these thorns, prioritizing our relationship with Him above all else.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The thorns represent the cares, worries, and distractions of life that can choke out the word of God in our hearts. These thorns can include the pursuit of wealth, the desire for worldly success, and the preoccupation with material possessions."
+1. "The thorns represent the cares and distractions of the world that choke out the word of God in our lives. These can be worries about money, possessions, relationships, or anything else that consumes our thoughts and energy." 
 
-2. "When we allow these thorns to take root in our hearts, they hinder our ability to fully receive and understand the word of God. They prevent us from truly hearing and applying the teachings of Jesus."
+2. "When we allow the thorns of this world to take precedence over the word of God, we hinder our spiritual growth and prevent the fruit of the Spirit from flourishing in our lives." 
 
-3. "The thorns can also symbolize the temptations and allurements of the world that pull us away from God. They entice us with temporary pleasures and lead us astray from the path of righteousness."
-
-4. "To avoid being among those sown among thorns, we must be vigilant in guarding our hearts and minds against the distractions and temptations of the world. We must prioritize our relationship with God and seek His kingdom above all else."
+3. "It is important for us to recognize and remove the thorns in our lives, to prioritize our relationship with God and His word above all else. Only then can we truly hear and understand the word, and bear fruit that glorifies Him."
 
 ### John Gill:
-1. "Such hearers of the word are designed by the thorny ground, upon which other seed fell, as it was sown." 
-2. "They are immoderately careful and anxious about the things of this life, and are bent upon acquiring earthly riches, and gratifying their carnal and sensual appetites." 
-3. "They attend upon the ministry of the word, despite being influenced by custom or the dictates of their consciences."
+1. "Such hearers of the word are designed by the thorny ground, upon which other seed fell, as it was sown, who are of worldly dispositions."
+2. "They are immoderately careful and anxious about the things of this life, and are bent upon acquiring earthly riches, and gratifying their carnal and sensual appetites."
+3. "They attend upon the ministry of the word, despite being prevailed upon through custom or the dictates of their consciences."
+
+Note: The provided commentary is a paraphrase of Mark 4:18-19, which describes the seed sown among thorns.
 
 
 ## Generation Details

@@ -1,7 +1,7 @@
 # Mark 6:44 Commentary Help Text
 
 ## BHT:
-This remarkable miracle, recorded by all Four Gospels, tells of Jesus feeding a multitude of five thousand men. The emphasis on the number of men in Mark's account highlights the magnitude of the miracle and the certainty of the number. Matthew's addition of "beside children and women" suggests that the actual number of people fed was likely much larger, emphasizing Jesus' compassion and provision for all. The fact that they all ate and there were leftovers demonstrates Jesus' abundance, power, and ability to provide beyond what is expected or needed.
+This passage recounts a remarkable miracle found in all four Gospels. It showcases Jesus' ability to provide abundantly, as everyone present partook of both the loaves and fishes. The mention of the specific number of men, around five thousand, highlights the magnitude of the miracle. Furthermore, the inclusion of women and children in Matthew's account underscores that the actual number of people fed was even greater. This miracle stands as a powerful testament to Jesus' divine power.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
@@ -15,9 +15,9 @@ This remarkable miracle, recorded by all Four Gospels, tells of Jesus feeding a 
 3. "A detail which we should have expected from Mark."
 
 ### Philip Schaff:
-1. "Mark, usually so exact, does not speak of the 'women and children' (Matthew)." 
-2. "An evidence of independence."
-3. "Mark's omission of 'women and children' highlights his focus on the number of men, emphasizing the magnitude of the miracle."
+1. "Mark, usually so exact, does not speak of the ‘women and children’ (Matthew)." 
+2. "An evidence of independence." 
+3. "Mark's omission of the 'women and children' highlights his focus on the number of men, emphasizing the magnitude of the miracle."
 
 ### Archibald T Robertson:
 1. "This remarkable miracle is recorded by all Four Gospels, a nature miracle that only God can work."
@@ -25,11 +25,9 @@ This remarkable miracle, recorded by all Four Gospels, tells of Jesus feeding a 
 3. "The evidence is overwhelming."
 
 ### John Gill:
-1. "The word 'about' is omitted in several versions, emphasizing the certainty of the number - five thousand men. This highlights the magnitude of the miracle, as it was not a small gathering that Jesus fed."
-
-2. "Matthew's addition of 'beside children and women' reminds us that the actual number of people fed was likely much larger than just the five thousand men. This demonstrates Jesus' compassion and provision for all, regardless of age or gender."
-
-3. "The fact that they all ate of both the loaves and the fishes emphasizes the abundance of the miracle. Jesus not only provided enough food for everyone present, but there was even some left over. This highlights his power to multiply and provide beyond what is expected or needed."
+1. "They all ate of both" - This emphasizes that everyone present partook of both the loaves and the fishes, highlighting the abundance and provision of God.
+2. "About five thousand men" - The mention of the specific number of men highlights the magnitude of the miracle, showcasing Jesus' ability to provide for a large crowd.
+3. "Beside children and women" - Matthew's addition of this detail reminds us that the actual number of people fed was even greater, including women and children, further emphasizing the miraculous nature of the event.
 
 
 ## Generation Details

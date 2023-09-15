@@ -1,32 +1,42 @@
 # Mark 5:32 Commentary Help Text
 
 ## BHT:
-The described verse captures a unique moment in the Gospel of Mark where Jesus consciously looks around to find the woman who had touched him and been healed. This shows Jesus' divine knowledge and understanding of the situation, as well as his intention to acknowledge and commend the woman for her faith and actions. By looking for her, Jesus wants to express his satisfaction with her faith and reveal the remarkable cure she experienced, highlighting the power and compassion of God.
+In this unique verse found only in the Gospel of Mark, Jesus is depicted as attentively searching for the woman who had touched him in faith for healing. His actions reflect his divine knowledge and deliberate intention to acknowledge her and hear her testimony. Jesus' gaze was not for the purpose of condemnation or curiosity, but rather to express his pleasure in her faith and demonstrate the power of God at work in her life. This verse conveys Jesus' personal connection with those he heals and his desire for their faith to be recognized and proclaimed.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Peculiar to Mark" - This phrase suggests that the content being described is unique to the Gospel of Mark, setting it apart from the other biblical accounts. It implies that Mark, as an eyewitness, included specific details that were not mentioned in other Gospel narratives.
+1. "Peculiar to Mark" - This phrase suggests that the content of the verse is unique to the Gospel of Mark, distinguishing it from the other biblical accounts. 
 
-2. "Indicative of an eye-witness" - This statement highlights the credibility of Mark's account, suggesting that the information provided can be trusted because it comes from someone who personally witnessed the events being described. It emphasizes the firsthand nature of the account, adding weight to its authenticity.
+2. "Indicative of an eye-witness" - This statement implies that the verse reflects the perspective of someone who personally witnessed the events described. It adds credibility to the account and highlights the firsthand nature of the narrative. 
 
-3. "Peculiar to Mark, and indicative of an eye-witness" - This phrase combines the previous two quotes, emphasizing the significance of the content as both unique to Mark and a strong indication of being based on firsthand observation. It underscores the value of Mark's Gospel as a reliable source of information about the events it portrays.
+3. "Eye-witness" - This term emphasizes the importance of direct observation and personal experience in shaping the content of the verse. It underscores the authenticity and reliability of the information conveyed.
 
 ### Jamieson Fausset Brown:
-1. "And he looked round about to see her that had done this thing" - This shows that Jesus was not interested in finding a culprit, but rather in acknowledging and recognizing the woman who had been healed. 
+1. "He looked round about to see her that had done this thing." This shows that Jesus was not just interested in the physical healing, but also in the person who had received it. He wanted to see her, to acknowledge her and to hear her testimony.
+2. "Not for the purpose of summoning forth a culprit." Jesus was not looking to blame or condemn anyone. His intention was not to shame or embarrass the woman, but rather to bring her into the spotlight and give her an opportunity to share her story.
+3. "To obtain from the healed one a testimony to what He had done for her." Jesus wanted the woman to testify about the healing she had received. He wanted her to publicly acknowledge and proclaim the miracle that had taken place in her life, giving glory to God.
 
-2. "Not for the purpose of summoning forth a culprit" - This emphasizes that Jesus' intention was not to condemn or accuse anyone, but to bring healing and restoration. 
-
-3. "To obtain from the healed one a testimony to what He had done for her" - Jesus wanted the woman to share her testimony of the miraculous healing, highlighting the power and compassion of God.
+### Marvin Vincent:
+1. "He looked round about [περιεβλεπετο]. Imperfect tense." 
+2. "He kept looking around for the woman, who had hidden herself in the crowd." 
+3. "He kept searching diligently, not giving up until he found her."
 
 ### Philip Schaff:
-1. "And he looked round about. Peculiar in this form to Mark." - This highlights the unique perspective of Mark in presenting this scene, emphasizing Jesus' awareness of his surroundings and the events taking place.
-2. "To see her. This indicates, what is implied in any fair view of the whole transaction, that He knew who had done it." - This quote suggests that Jesus intentionally looked around to identify the woman who had touched him, indicating his knowledge and understanding of the situation.
-3. "He knew who had done it." - This simple statement emphasizes Jesus' divine knowledge and awareness, reinforcing the idea that he was fully aware of the woman's actions and their significance.
+1. "And he looked round about. Peculiar in this form to Mark." - This highlights the unique aspect of Mark's account, emphasizing Jesus' deliberate observation of his surroundings.
+2. "To see her. This indicates, what is implied in any fair view of the whole transaction, that He knew who had done it." - This quote suggests that Jesus intentionally looked around to identify the woman who had touched him, indicating his awareness and knowledge of the situation.
+3. "He knew who had done it." - This concise statement emphasizes Jesus' divine understanding and recognition of the woman's act of faith.
+
+### Archibald T Robertson:
+1. "He kept looking around to find out."
+2. "The answer of Jesus to the protest of the disciples was this scrutinizing gaze."
+3. "Jesus knew the difference between touch and touch."
 
 ### John Gill:
 1. "Christ, as God, being omniscient, knew who she was, and where she was."
 2. "Christ...did not want to see her to gratify his curiosity."
-3. "His view [was] to express his well pleasedness in her faith and actions, and to observe it to others, and the cure she had."
+3. "His view was to express his well pleasedness in her faith and actions, and to observe it to others, and the cure she had."
+
+These quotes highlight the divine knowledge and intention of Jesus in seeking out the woman who had been healed. They emphasize that Jesus' purpose was not to satisfy curiosity or chide her, but rather to commend her faith and encourage others in their own faith.
 
 
 ## Generation Details

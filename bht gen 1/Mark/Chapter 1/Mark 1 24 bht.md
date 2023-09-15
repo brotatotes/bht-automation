@@ -1,29 +1,37 @@
 # Mark 1:24 Commentary Help Text
 
 ## BHT:
-In this verse, the people question their relationship with Jesus, wondering what they have in common with Him. The evil spirit recognizes Jesus as the Messiah and anticipates the destruction of its own power. Jesus is acknowledged as the Holy One of God, emphasizing His divinity, authority over evil, and role as the sinless Savior who can deliver and redeem humanity from the power of darkness.
+The verse being described emphasizes the unique nature and authority of Jesus as the Holy One of God. It highlights the contrast between Jesus and the demonic forces, showcasing Jesus' purity, righteousness, and power. The recognition of Jesus by the demons shows their awareness of His role as the Messiah and their fear of His power to destroy them and release those under their control. Acknowledging Jesus as the Holy One of God signifies faith in His ability to save, bring about transformation, and provide forgiveness and reconciliation with God.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "We may observe that this epithet often occurs under strong contrast to His Majesty and glory."
+2. "ἡμᾶς, generic: 'communem inter se causam habent dæmonia,' Bengel."
+3. "We may add, John 19:19."
+
 ### Jamieson Fausset Brown:
 1. "Thou and we have nothing in common we want not Thee; what wouldst Thou with us?"
 2. "Themselves tormentors and destroyers of their victims, they discern in Jesus their own destined tormentor and destroyer, anticipating and dreading what they know and feel to be awaiting them!"
 3. "The expression, 'Holy One of God,' seems evidently taken from that Messianic Psalm, in which He is styled 'Thine Holy One.'"
 
 ### Marvin Vincent:
-1. "This title, 'the Holy One of God,' emphasizes Jesus' divine nature and his unique role as the Son of God. It signifies his absolute purity, righteousness, and holiness, setting him apart from all other beings."
+1. "This title, 'the Holy One of God,' emphasizes the divine nature of Jesus. It signifies his purity, righteousness, and absolute holiness. It sets him apart as the one who is uniquely connected to God and embodies God's character."
 
-2. "By calling Jesus 'the Holy One of God,' the people recognized his authority and power over evil spirits. It highlights his ability to conquer and cast out demons, demonstrating his divine authority and his mission to bring deliverance and freedom to humanity."
+2. "By calling Jesus 'the Holy One of God,' the people recognized his authority and power. They understood that he had the ability to heal, deliver, and bring about spiritual transformation. It is a declaration of faith in Jesus as the source of salvation and the one who can bring about true change in their lives."
 
-3. "The title 'the Holy One of God' also points to Jesus' role as the ultimate sacrifice for the forgiveness of sins. As the perfectly holy and sinless Son of God, he alone had the power to atone for the sins of humanity and reconcile them with God."
+3. "The title 'the Holy One of God' also highlights Jesus' role as the ultimate sacrifice for sin. As the perfect and sinless Son of God, he was able to offer himself as the atoning sacrifice for humanity's sins. Through his death and resurrection, he provides forgiveness and reconciliation with God."
 
-4. "In calling Jesus 'the Holy One of God,' the people acknowledged his divine identity and the fulfillment of Old Testament prophecies. This title echoes the prophetic words of Psalm 16:10, which foretold the resurrection of the Holy One, and Isaiah 53:11, which spoke of the suffering and sacrifice of the Holy One for the salvation of many."
-
-5. "Ultimately, recognizing Jesus as 'the Holy One of God' invites us to surrender our lives to him, acknowledging his authority, purity, and sacrificial love. It calls us to follow him, to trust in his power over evil, and to find forgiveness and redemption in his holy name."
+4. "When we acknowledge Jesus as the Holy One of God, we are acknowledging his divine authority and surrendering to his lordship. It is an invitation to follow him, to trust in his teachings, and to allow him to transform our lives. It is an affirmation that he alone has the power to save and bring us into a right relationship with God."
 
 ### Philip Schaff:
-1. "What have we to do with thee. Lit., 'what to us and to thee,' what have we in common." 
-2. "The destruction referred to includes banishment to torment, and also the destruction of the empire of Satan in the world."
-3. "Already conscious of His influence, the evil spirit with supernatural sagacity recognizes Him as the Messiah."
+1. "What have we to do with thee." - This phrase signifies a lack of commonality or shared interests between the demons and Jesus, highlighting the vast difference between their natures and purposes.
+2. "The destruction referred to includes banishment to torment." - This quote reveals the ultimate fate of the demons, emphasizing their impending punishment and expulsion from the presence of God.
+3. "The evil spirit with supernatural sagacity recognizes Him as the Messiah." - This statement showcases the demonic entity's astute awareness of Jesus' identity as the Messiah, demonstrating their knowledge of His significant role in the spiritual realm.
+
+### Archibald T Robertson:
+1. "The recognition of Jesus by the demons may surprise us since the rabbis (the ecclesiastics) failed to do so."
+2. "They call Jesus 'The Holy One of God' (ο αγιος του θεου)."
+3. "The demon feared that Jesus was come to destroy him and the man in his power."
 
 ### John Gill:
 1. "They had nothing to do with Christ, as a Saviour; they had no interest in him, nor in his redemption, but he had something to do with them, to show his power over them, and to deliver men out of their hands."

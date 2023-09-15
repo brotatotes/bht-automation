@@ -1,34 +1,44 @@
 # Mark 2:13 Commentary Help Text
 
 ## BHT:
-In this verse, we see James and John, the sons of Zebedee, who were close disciples of Jesus and played important roles in his ministry. The mention of their father, Zebedee, provides insight into their background as fishermen, a profession that shaped their lives. Jesus called them from their ordinary lives to be part of something extraordinary, highlighting his transformative power. The setting by the Sea of Tiberias emphasizes the geographical and historical context, while Jesus' teaching by the sea side reflects his accessibility and inclusivity in sharing divine wisdom with all people.
+Jesus, filled with urgency and purpose, called his disciples again, emphasizing the importance of their response. He encountered them by the sea-side, a place significant in his ministry, where he continuously taught and performed miracles. This environment symbolizes the inclusivity and accessibility of Jesus' message, attracting people of diverse backgrounds. Jesus' continuous teaching portrayed his commitment to nurturing spiritual growth and his unwavering dedication to sharing the profound truths of the Gospel.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The phrase 'the sons of Zebedee' is a reference to James and John, who were disciples of Jesus. This highlights the close relationship they had with Jesus and their role in his ministry." 
+1. "πάλιν" - This Greek word means "again" and suggests that this event is a repetition or continuation of a previous action. It implies that Jesus had already called these disciples before and is now calling them again, emphasizing the importance and urgency of their response.
 
-2. "The mention of Zebedee, their father, suggests that James and John came from a family that was involved in the fishing industry. This gives us insight into their background and the type of work they were accustomed to." 
+2. "τὸν τοῦ Ἀλφαίου" - This phrase refers to the identity of one of the disciples being called, specifically the son of Alphaeus. It highlights the individuality and unique background of each disciple, showing that Jesus calls people from diverse backgrounds to follow him.
 
-3. "The fact that Jesus called James and John while they were in the midst of their work as fishermen shows that he called them from their ordinary lives to be part of something extraordinary. This emphasizes the transformative power of Jesus' call and his ability to choose and use ordinary people for his purposes."
+3. "Matthew 10:1 ff." - This reference points to a larger passage in the Gospel of Matthew where Jesus calls and sends out his twelve disciples. It suggests that the calling of these disciples in Mark 1:16 is part of a broader narrative and mission that Jesus is initiating.
 
 ### Albert Barnes:
-1. "By the sea-side" refers to the Sea of Tiberias, where Capernaum was located, highlighting the geographical context of the verse.
+1. "By the sea-side" refers to the location of Capernaum, which was situated on the shore of the Sea of Tiberias. This geographical detail helps us understand the context of the verse.
 
-2. This commentary draws attention to the connection between this verse and Matthew 4:13, emphasizing the importance of understanding the historical and geographical background.
+2. The Sea of Tiberias holds significance in the biblical narrative, as it was the place where Jesus performed many miracles and taught his disciples. This background information adds depth to our understanding of the verse.
 
-3. The mention of the Sea of Tiberias helps readers visualize the setting and better comprehend the events that unfold in the verse.
+3. The mention of the sea-side setting also highlights the accessibility and inclusivity of Jesus' ministry. He reached out to people from all walks of life, including those living near the sea. This emphasizes the universal nature of Jesus' message.
+
+### Marvin Vincent:
+1. "The imperfects are graphic - kept coming, kept teaching." This quote highlights the continuous and persistent nature of the teaching, emphasizing the dedication and commitment of the teacher.
+
+2. "Resorted - taught [ηρχετο - εδιδασκεν]." This quote succinctly summarizes the action of the teacher, indicating that they both came and taught. It captures the essence of their purpose and mission.
+
+3. "The imperfects... kept teaching." This quote emphasizes the ongoing nature of the teaching, suggesting that it was not a one-time event but a continuous process. It underscores the importance of consistent instruction for effective learning.
+
+### Archibald T Robertson:
+1. "A pretty picture of Jesus walking by the sea and a walk that Jesus loved."
+2. "It was a joy to get a whiff of fresh air by the sea."
+3. "Jesus did not run away."
 
 ### John Gill:
-1. "He went forth again by the sea side...and all the multitude resorted unto him." This highlights Jesus' popularity and the eagerness of the people to hear his teachings.
-
-2. "The sea of Galilee, where he had met with, and called Peter and Andrew, James and John." This reference to the disciples being called by the sea emphasizes the significance of this location in Jesus' ministry.
-
-3. "He taught them; the word of God, the Gospel, and the doctrines of it." This emphasizes the purpose of Jesus' teaching, which was to impart divine wisdom and knowledge to the people.
+1. "He went forth again by the sea side": This shows Jesus' continuous movement and engagement with the people, demonstrating his commitment to spreading the word of God.
+2. "All the multitude resorted unto him": This highlights the magnetic pull of Jesus' teachings, as people from all walks of life were drawn to him, seeking guidance and wisdom.
+3. "He taught them": This emphasizes Jesus' role as a teacher, sharing the profound truths of the Gospel and imparting spiritual knowledge to those who were eager to learn.
 
 ### John Wesley:
-1. "He as readily taught them there as if they had been in a synagogue." 
-2. "Jesus's willingness to teach the multitude by the sea side demonstrates his accessibility and inclusivity." 
-3. "This verse highlights Jesus's commitment to sharing his teachings with all people, regardless of their location or social status."
+1. "He as readily taught them there as if they had been in a synagogue."
+2. "Jesus' willingness to teach the multitude by the sea side shows his accessibility and inclusivity."
+3. "This verse highlights Jesus' commitment to reaching out to all people, regardless of their location or social status."
 
 
 ## Generation Details

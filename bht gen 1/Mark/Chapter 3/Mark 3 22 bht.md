@@ -1,15 +1,20 @@
 # Mark 3:22 Commentary Help Text
 
 ## BHT:
-In this verse, Jesus is being falsely accused by the scribes and Pharisees who had traveled from Jerusalem with the intention to trap and oppose Him. They accused Jesus of exercising Satanic power and being possessed by an evil spirit. The accusations were not just random, but intentional and connected, aimed at discrediting Jesus' ministry. The learned individuals who made these accusations failed to see the undeniable truth of Jesus' miracles and instead sought to undermine Him through their own reasoning.
+In this Bible verse, the Pharisees and scribes from Jerusalem purposely come down to oppose Jesus. They accuse Him of being possessed by Beelzebub, the prince of demons, suggesting a confederacy between them. The common people, influenced by these respected figures, start to doubt Jesus. Despite the undeniable proofs of His divine works, the learned men try to explain them away without acknowledging God's role. This verse highlights the deceptive tactics used against Jesus and the danger of allowing human wisdom to overshadow the work of God.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "If He was possessed by Beelzebub, the prince of the dæmons, He would thus have authority over the inferior evil spirits."
+2. "This addition is most important."
+3. "Here Matt. has οἱ Φαρις. Luke τινὲς ἐξ αὐτῶν, i.e. τῶν ὄχλ."
+
 ### Marvin Vincent:
-1. "Beelzebub. See on Matthew 10:25." This quote refers to the previous mention of Beelzebub in Matthew 10:25, indicating a connection between the two verses and suggesting a deeper understanding of the context.
+1. "Beelzebub. See on Matthew 10:25." - This quote suggests that the term "Beelzebub" should be further explored in the context of Matthew 10:25, indicating a deeper understanding of its significance.
 
-2. "Not connecting two parts of one accusation, but two accusations." This quote clarifies that the conjunction "and" in the verse is not linking two parts of one accusation, but rather introducing two separate accusations against Jesus.
+2. "Not connecting two parts of one accusation, but two accusations, as is evident from the two otiv, which are equivalent to quotation marks." - This quote highlights the importance of recognizing the distinction between two separate accusations rather than assuming they are connected. The use of "otiv" as quotation marks emphasizes the need for careful interpretation.
 
-3. "The two otiv, which are equivalent to quotation marks." This quote highlights the significance of the two otiv (Greek word for "that" or "in order that") in the verse, suggesting that they function as quotation marks, further emphasizing the distinct nature of the accusations against Jesus.
+3. "Two accusations, as is evident from the two otiv, which are equivalent to quotation marks." - This quote reiterates the significance of the two accusations and emphasizes the use of "otiv" as quotation marks, reinforcing the idea that they should be understood as distinct statements.
 
 ### Philip Schaff:
 1. "The purpose of their coming was doubtless to entrap and oppose Him." 
@@ -17,14 +22,14 @@ In this verse, Jesus is being falsely accused by the scribes and Pharisees who h
 3. "Mark thus defines the parties, while Matthew states the occasion of the accusation."
 
 ### John Gill:
-1. "These were they, who having heard much of the doctrine and miracles of Christ, came down from Jerusalem... to make their observations upon him and take every advantage they could against him." 
-2. "Sometimes they call him Beelzebub; sometimes say that he cast out devils by him; and here, that he had him, or was in him; Beelzebub possessed him, and assisted him, and there was a confederacy and familiarity between them."
-3. "For so they reckoned Beelzebub to be; the prince of devils."
+1. "These were they, who having heard much of the doctrine and miracles of Christ, came down from Jerusalem... to make their observations upon him and take every advantage they could against him."
+2. "Beelzebub is in him: sometimes they call him Beelzebub; sometimes say that he cast out devils by him; and here, that he had him, or was in him; Beelzebub possessed him, and assisted him, and there was a confederacy and familiarity between them."
+3. "And by the prince of devils casteth he out devils; for so they reckoned Beelzebub to be."
 
 ### John Wesley:
 1. "The scribes and Pharisees, who had come down from Jerusalem - Purposely on the devil's errand." 
 
-2. "The common people now began to drink in the poison, from these learned, good, honourable men!" 
+2. "The common people now began to drink in the poison, from these learned, good, honorable men!" 
 
 3. "How easily may a man of learning elude the strongest proof of a work of God! How readily can he account for every incident without ever taking God into the question."
 

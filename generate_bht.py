@@ -241,7 +241,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
 
             bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
             while len(bht.split()) > 100:
-                print(f"❌ BHT WAS OVER 100 WORDS! Regenerating {verse_ref} ❌")
+                print(f"🔄 BHT WAS OVER 100 WORDS! Regenerating {verse_ref}.")
                 bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentators)
 
             os.makedirs(os.path.dirname(out_path), exist_ok=True)
@@ -347,7 +347,7 @@ if __name__ == '__main__':
 
     books = [BibleRange(b) for b in [
         # "Matthew",
-        # "Mark",
+        "Mark",
         # "Luke",
         # "John",
         # "Acts",
@@ -357,18 +357,18 @@ if __name__ == '__main__':
         # "Galatians",
         # "Ephesians",
         # "Philippians",
-        "Colossians",
-        "1 Thessalonians",
-        "2 Thessalonians",
-        "1 Timothy",
-        "2 Timothy",
+        # "Colossians",
+        # "1 Thessalonians",
+        # "2 Thessalonians",
+        # "1 Timothy",
+        # "2 Timothy",
         # "Titus",
         # "Philemon",
         # "Hebrews",
-        "James",
-        "1 Peter",
-        "2 Peter",
-        "1 John",
+        # "James",
+        # "1 Peter",
+        # "2 Peter",
+        # "1 John",
         # "2 John",
         # "3 John",
         # "Jude",

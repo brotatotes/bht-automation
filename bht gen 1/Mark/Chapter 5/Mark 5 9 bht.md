@@ -1,36 +1,47 @@
 # Mark 5:9 Commentary Help Text
 
 ## BHT:
-This verse depicts a man under extreme spiritual oppression and bondage, as evidenced by the multitude of demons within him, referred to as a "Legion." Despite their numbers, there is a clear hierarchy and unity among the spirits, led by one commander. The possessed man serves as the spokesperson for the legion, indicating the control and influence exerted by the dominant spirit. This emphasizes the intensity and complexity of the spiritual battle being fought in this passage.
+The Bible verse being described is an account of Jesus' encounter with a demon-possessed man. The possessed man declares, "My name is Legion! for we are many," revealing the presence of multiple evil spirits within him. The commentators elaborate on the significance of the name "Legion," suggesting it represents a large group or an organized host of demons. The number and coordination of the evil spirits indicate the severity and intensity of the man's possession. Their power over the man's speech and actions further emphasizes the magnitude of his torment.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Rather are all such tracings of discrepancies to their source, most interesting and valuable."
+2. "Nor can I consent for a moment to accept here the very lame solution (repeated by Bp. Wordsw.), which supposes one of the dæmoniacs not to be mentioned by Mark and Luke."
+3. "The plural, used here and in Luke of the many dæmons in one man, is there used of the two men, and their separate dæmons."
+
 ### Jamieson Fausset Brown:
 1. "The object of this question was to extort an acknowledgment of the virulence of demoniacal power by which this victim was enthralled."
-2. "My name is Legion: for we are many."
-3. "A legion, in the Roman army, amounted, at its full complement, to six thousand; but here the word is used, as such words with us, and even this one, for an indefinitely large number."
+2. "My name is Legion: for we are many—or, as in Luke, 'because many devils [demons] were entered into him.'"
+3. "A legion, in the Roman army, amounted, at its full complement, to six thousand; but here the word is used, as such words with us, and even this one, for an indefinitely large number—large enough however to rush, as soon as permission was given, into two thousand swine and destroy them."
+
+### John Calvin:
+1. "The devil was compelled by Christ to pronounce this word, that he might more fully display the greatness and excellence of his grace."
+2. "What compassion then was it, to rescue from so many deaths a man who was more than a thousand times ruined!"
+3. "It was a magnificent display of the power of Christ., that by his voice not one devil, but a great multitude of devils, were suddenly driven out."
 
 ### Philip Schaff:
-1. "Legion is my name." - The demon's response reveals the magnitude of the possession, indicating that there are many demons within the man. This highlights the intensity of the spiritual battle taking place.
-
-2. "I am a host." - The use of the word "legion" signifies not just a collection, but an organized host. This emphasizes the powerful and coordinated nature of the demonic forces at work.
-
-3. "Legion implies...an organized host." - This comparison to Ephesians 6:12 and Colossians 2:15 further emphasizes the spiritual warfare aspect of the situation, illustrating that the deliverance of the possessed man is not merely a physical healing, but a victory over the forces of darkness.
+1. "Legion is my name." - The demon's response reveals that it is not just a single entity, but a collective of many demons. This emphasizes the magnitude of the possession and the power that Jesus will have to confront.
+2. "I am a host." - The demon's answer further emphasizes the large number of demons present, indicating the intensity and severity of the possession.
+3. "Legion implies, not a collection, but an organized host." - This statement highlights the organized and coordinated nature of the demonic forces at work, suggesting that they are united in their resistance against Jesus.
 
 ### Archibald T Robertson:
-1. "My name is Legion (Λεγιων ονομα μο)." - This statement by the possessed man in Luke 8:30 reveals the presence of multiple demons within him, emphasizing the intensity and magnitude of his affliction.
+1. "My name is Legion (Λεγιων ονομα μο)." - This statement by the possessed man in Luke 8:30 suggests that he is inhabited by multiple demons, symbolizing the extent of his torment and suffering.
 
-2. "A full Roman legion had 6,826 men." - This historical context provided by the commentary helps us understand the significance of the term "Legion" used by the possessed man. It suggests that there were numerous demons tormenting him, reinforcing the idea of a powerful and overwhelming force.
+2. "A full Roman legion had 6,826 men." - This reference to the size of a Roman legion in Matthew 26:53 helps us understand the magnitude of the demonic presence within the possessed man, emphasizing the intensity of his spiritual struggle.
 
-3. "Each hog had several demons." - This observation highlights the possibility that each of the approximately two thousand hogs mentioned in Mark 5:13 may have been possessed by multiple demons. It adds an interesting perspective to the story, emphasizing the extent of the demonic presence and the subsequent chaos that ensued.
+3. "Each hog had several demons." - While not explicitly stated in the Bible, this observation from Mark 5:13 suggests that the number of demons was so great that multiple demons possessed each of the two thousand hogs, further illustrating the overwhelming power of the evil spirits.
+
+### John Gill:
+1. "The reason of which name is given, for we are many: as a Roman legion did consist of many, though its number was not always alike... Some make a legion to consist of six thousand six hundred sixty six; and others make it much larger, even twelve thousand five hundred: however, the number in a legion was many."
+2. "From hence it appears, that the devils are very numerous; for if there was a legion of them in one man, how many must there be in all the children of disobedience, to maintain their ground, and support their interest among them?"
+3. "As there is an innumerable company of holy angels to encamp about the saints, and do them all the service they can, and are appointed to; so there is undoubtedly an innumerable company of devils, who do all the hurt they can, or are permitted to do, unto the sons of men."
 
 ### John Wesley:
-1. "My name is Legion! for we are many" - This statement reveals the presence of multiple entities within the possessed man, indicating a state of extreme spiritual oppression and bondage.
+1. "My name is Legion! for we are many" - This statement reveals the presence of multiple evil spirits possessing the man. It emphasizes the extent of the spiritual oppression he is experiencing.
 
-2. "But all these seem to have been under one commander" - Despite the multitude of spirits, there is a clear hierarchy and organization among them, suggesting a unified purpose and strategy in their attack.
+2. "But all these seem to have been under one commander" - This suggests that although there are many evil spirits, they operate under a unified leadership. It highlights the organized and coordinated nature of their attack on the man.
 
-3. "who accordingly speaks all along, both for them and himself" - The possessed man serves as the spokesperson for the legion of spirits, suggesting a level of control and influence exerted by the dominant spirit over the others.
-
-These quotes highlight the intensity and complexity of the spiritual battle depicted in the verse, shedding light on the nature of the possessed man's condition and the dynamics within the legion of spirits.
+3. "who accordingly speaks all along, both for them and himself" - This indicates that the possessed man is speaking on behalf of the entire legion of evil spirits. It demonstrates their ability to exert control over the man's speech and actions, further illustrating the depth of his possession.
 
 
 ## Generation Details

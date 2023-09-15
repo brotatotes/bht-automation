@@ -1,37 +1,35 @@
 # Mark 5:35 Commentary Help Text
 
 ## BHT:
-In this Bible passage, Jesus encounters a desperate situation where a ruler's daughter has died. The commentators emphasize that those around Jesus, including the ruler, underestimated his power. They saw death as final and beyond Jesus' capabilities, suggesting a lack of faith. The urgency and distress in the ruler's plea to Jesus highlight the gravity of the situation. Despite doubts and limitations in their understanding, Jesus is seen as a compassionate teacher and healer, with the ability to provide both physical and spiritual guidance. The lifelike elements in the storytelling also reveal Peter's firsthand experiences.
+In this powerful passage, the people around Jesus express their limited understanding of his authority and power. They question why Jesus should be bothered with a seemingly hopeless situation, failing to recognize his ability to bring life even in the face of death. The urgency and severity of the situation suggest that Jesus' healing power may be limited, leading the disciples to doubt and have a lack of faith. Despite their doubts, there is still a measure of faith in Jesus' ability to help, even in the direst circumstances.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The statement 'Thy daughter is dead' reveals the limited perspective of those around Jesus. They saw death as final and irreversible. However, Jesus operates outside the boundaries of human understanding and is not limited by death."
-2. "The question 'why troublest thou the Master any further?' reflects a lack of faith and understanding. It implies that the situation is hopeless and there is no point in seeking Jesus' help. But Jesus is always ready to respond to our needs, no matter how dire the circumstances may seem."
-3. "By addressing the father as 'the Teacher,' the commentators highlight the significance of Jesus' role as a spiritual guide. He not only has the power to heal physically, but also to teach and guide us in our spiritual journey. This reminds us that Jesus is not just a miracle-worker, but a compassionate and wise teacher who desires to lead us to a deeper understanding of God's love and grace."
+1. "This statement reveals the limited understanding of the people around Jesus. They saw death as final and irreversible, and therefore questioned why Jesus should be bothered with a hopeless situation. However, they failed to recognize the power and authority that Jesus possessed over life and death." 
+
+2. "The phrase 'troublest thou the Master any further?' implies that the people believed Jesus had already done enough by healing the sick and casting out demons. They did not understand that Jesus was not limited by their human perspective, but had the ability to bring life and restoration even in the face of death." 
+
+3. "In this moment, Jesus challenges the prevailing belief that death is the end. He demonstrates that he is not only the Master over sickness and demons, but also over death itself. This event serves as a powerful reminder of Jesus' divine nature and his ability to bring hope and life to seemingly hopeless situations."
 
 ### Marvin Vincent:
-1. "The ruler of the synagogue is addressed directly, emphasizing his personal responsibility in seeking help for his daughter. This highlights the urgency and desperation of the situation." 
-
-2. "The word 'troublest' used here carries the connotation of causing distress or agitation. It suggests that the ruler's request for help is not just a casual or polite inquiry, but a plea born out of deep concern and anguish." 
-
-3. "The use of the word 'travailest' in other translations further emphasizes the intense emotional and physical suffering that the ruler is experiencing, underscoring the gravity of the situation."
+1. "Troublest [σκυλλεις] . See on Matthew 9:36. Compare Luke 11:22, where occurs the cognate word skula, spoils, things torn or stripped from an enemy." 
+2. "Wyc., travailest. Tynd., diseasest." 
+3. "From the ruler of the synagogue. From his house; for the ruler himself is addressed."
 
 ### Philip Schaff:
-1. "Why troublest thou the master any further?" - This question implies that the situation has reached a point where Jesus' help may not be effective. It suggests that the person speaking has faith in Jesus' ability to heal, but doubts his power to raise the dead.
-
-2. "The case is now beyond the help of Jesus, who might have cured, but cannot raise her." - This statement highlights the belief that Jesus has the power to heal, but raising someone from the dead is beyond his capabilities. It suggests a limitation in Jesus' abilities, even though he is seen as a teacher and healer.
-
-3. "The language is kind, and indicates faith." - This remark emphasizes the tone of the statement, which is gentle and compassionate. It also suggests that the person speaking still has faith in Jesus, despite the belief that he may not be able to bring the girl back to life.
+1. "Why troublest thou the master any further?" - This question implies that the situation is beyond Jesus' ability to help, suggesting that the girl is already dead. It highlights the disciples' doubt and lack of faith in Jesus' power to perform miracles.
+2. "The case is now beyond the help of Jesus" - This statement emphasizes the urgency and severity of the situation, suggesting that Jesus' healing power is limited in this particular instance. It underscores the need for a greater intervention or miracle to bring the girl back to life.
+3. "The language is kind, and indicates faith" - This comment highlights the compassionate tone of the question, indicating that it is not meant to discourage or criticize Jesus. It also suggests that despite their doubts, the disciples still have a measure of faith in Jesus' ability to help, even if they believe the situation is dire.
 
 ### Archibald T Robertson:
 1. "Nowhere does Mark preserve better the lifelike traits of an eyewitness like Peter than in these incidents in chapter 5."
 2. "The arrival of the messengers from Jairus was opportune for the woman just healed of the issue of blood for it diverted attention from her."
-3. "There was no further use in troubling the Teacher about the girl."
+3. "Why troublest thou the master any further? It was all over, so they felt."
 
 ### John Gill:
 1. "The above things to the poor woman, in commendation of her faith, and for her future encouragement, peace, and comfort in soul and body."
 2. "These brought him the account that his daughter was actually dead, which he himself feared before; and therefore they thought it was in vain to give Christ any further trouble."
-3. "They looked upon [Jesus] as a very worthy person, an eminent doctor and prophet, a master in Israel, and one that had done great cures on living persons in distress; yet imagined it was wholly out of his power to raise one from the dead."
+3. "Whom they looked upon as a very worthy person, an eminent doctor and prophet, a master in Israel, and one that had done great cures on living persons in distress; yet imagined it was wholly out of his power to raise one from the dead."
 
 
 ## Generation Details

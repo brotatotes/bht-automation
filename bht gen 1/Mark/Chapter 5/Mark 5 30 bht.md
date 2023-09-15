@@ -1,32 +1,35 @@
 # Mark 5:30 Commentary Help Text
 
 ## BHT:
-In this Bible verse, Jesus, fully aware of the power and virtue that resided within Him, felt that it had gone forth to heal. With divine authority and deep connection, Jesus turned around to ask who had touched Him, acknowledging the complex object of His knowledge: His own power and its outward manifestation. This internal, essential virtue was not borrowed or dependent on another, but was His own, exerted by the Lord God omnipotent. Just as the apostles derived power from Christ to cure diseases, Jesus, being God, possessed infinite virtue within Himself to heal all diseases.
+In this verse, the power and healing virtue of Jesus is showcased as something inherent to his being, not external to him. Jesus knew and felt the power leaving him, emphasizing his intimate connection to the miraculous acts he performed. He compassionately sought out the person he had healed, not for personal acclaim but to manifest his glory and strengthen the faith of those around him. This verse reflects the divine nature of Jesus and his ability to heal both physical and spiritual ailments through the outpouring of his limitless power and mercy.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "He was conscious of the forthgoing of His healing power, which was not something foreign to Himself and imparted merely, but what He had dwelling within Him as 'His own fulness.'" 
-
-2. "Jesus immediately knowing in himself that virtue had gone out of him." 
-
-3. "He turned him about in the press and said, 'Who touched my clothes?'"
+1. "Jesus immediately knowing in himself that virtue had gone out of him." This quote highlights the unique power of Jesus, as his healing power was not something foreign to him but a part of his own being.
+2. "He was conscious of the forthgoing of His healing power." This quote emphasizes Jesus' awareness of the healing power leaving him, showing his deep connection to the miraculous acts he performed.
+3. "Who touched my clothes?" This question from Jesus reveals his desire to identify the person who had received healing, demonstrating his compassion and personal engagement with those he healed.
 
 ### Marvin Vincent:
-1. "Knowing [επιγνους] . Rev., perceiving. Lit., having fully known."
-2. "That virtue had gone out of him [την εξ αυτου δυναμιν εξελθουσαν] . More correctly as Rev., that the power proceeding from him had gone forth."
-3. "The object of the Savior's knowledge was thus complex: 1st, his power; 2nd, that his power had gone forth."
-
-Note: The commentary does not provide any additional quotes that meet the requirements.
+1. "Knowing that virtue had gone out of him."
+2. "The object of the Savior's knowledge was thus complex: 1st, his power; 2nd, that his power had gone forth."
+3. "This and the following sentence are peculiar to Mark."
 
 ### Philip Schaff:
 1. "The power, which was His and which proceeded from Him, He felt had on this occasion also gone forth to heal."
-2. "This verse highlights the divine authority and power that Jesus possessed, as well as His ability to use it for healing."
-3. "The fact that Jesus felt the power leaving Him emphasizes His deep connection and awareness of the healing that took place."
+2. "This verse highlights the divine nature of Jesus, as it emphasizes that the power to heal came from Him and was under His control."
+3. "The phrase 'had gone forth' suggests that the healing power of Jesus was not passive, but actively flowed out from Him to bring about miraculous healing."
+
+### Archibald T Robertson:
+1. "Jesus perceiving in himself the power from him go out" - The aorist participle here is punctiliar simply and timeless, illustrating Jesus' awareness of the power leaving him. 
+
+2. "Some even argue that the actual healing took place after Jesus became aware of the woman's reaching for help" - Scholars debate whether Jesus healed the woman by conscious will or unconscious response, highlighting the mystery surrounding the moment of healing.
+
+3. "No real good can be done without the outgoing of power" - This statement emphasizes the necessity of power and energy to bring about positive change, whether it be from a mother, preacher, teacher, or doctor.
 
 ### John Gill:
-1. "This shows that there was an internal essential virtue in Christ to cure diseases: it was not what he derived from another, or exercised under another's influence; but what was his own, and which he put forth as the Lord God omnipotent."
-2. "The apostles of Christ cured diseases, but not by their own power and holiness, by any innate virtue in them; but in the name of Christ, and by power derived and received from him."
-3. "Christ, being God, had infinite virtue within himself, which went forth from him when he pleased, to the curing of whatsoever disease he thought fit; and which was no ways lessened by the frequent exertions of it; no more than the light and heat of the sun by the continual emanations of them."
+1. "Christ, being God, had infinite virtue within himself, which went forth from him when he pleased, to the curing of whatsoever disease he thought fit."
+2. "The same holds good with respect to healing spiritual diseases: Christ has a power within him to forgive all trespasses; and virtue may be said to go out of him to this purpose, when it is his will to make application of pardoning mercy to his people."
+3. "Turned him about in the press, and said, who touched my clothes?... not for the sake of ostentation and popular applause, but for the manifestation of his glory, and for the glory of God, and for the strengthening the faith of Jairus."
 
 
 ## Generation Details

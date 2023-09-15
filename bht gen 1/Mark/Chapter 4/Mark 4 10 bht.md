@@ -1,37 +1,49 @@
 # Mark 4:10 Commentary Help Text
 
 ## BHT:
-The verse being described is a moment when Jesus intentionally seeks solitude and withdraws from the crowd. He separates himself to reflect, recharge, and seek guidance from God. This highlights the importance of personal reflection and communion with God, as well as the need to find moments of seclusion to nurture our own spiritual lives. It emphasizes the intimate relationship Jesus had with God and reminds us of the value of quiet moments of solace in our own lives.
+When he was alone, Jesus intentionally sought solitude and withdrew apart from the multitude, demonstrating the significance of personal reflection and communion with God. By intentionally seeking moments of stillness and silence, he emphasized the importance of finding uninterrupted moments to recharge and deepen our relationship with God. Jesus recognized the need for solitude, highlighting the value of being alone and seeking uninterrupted moments of reflection and prayer in our own lives.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The disciples, along with the twelve." This phrase highlights the close relationship between Jesus and his disciples, emphasizing their unity and companionship. It suggests that they were not just followers, but intimate companions who shared a deep bond with Jesus.
+
+2. "The twelve." This phrase specifically refers to the twelve disciples chosen by Jesus to be his closest followers and to carry out his mission. It signifies their special role and authority within the group of disciples, highlighting their unique position as leaders and representatives of Jesus.
+
+3. "His disciples." This term encompasses all those who followed Jesus and learned from him. It emphasizes the broader community of believers who were not part of the inner circle of the twelve, but still had a personal relationship with Jesus and were committed to following him. It conveys the idea that discipleship is not limited to a select few, but open to all who choose to follow Jesus.
+
 ### Jamieson Fausset Brown:
-1. "The parable of the sower was of that fundamental, comprehensive, and introductory character." 
+1. "The parable of the sower was of that fundamental, comprehensive, and introductory character."
 2. "The reply would seem to intimate that this parable of the sower was of that fundamental, comprehensive, and introductory character."
 3. "Reason for Teaching in Parables."
 
 ### Marvin Vincent:
-1. "When he was alone." - This phrase highlights the significance of Jesus seeking solitude, emphasizing the importance of personal reflection and communion with God.
-
-2. "They that were about him with the twelve." - This phrase emphasizes the close-knit community of disciples surrounding Jesus, illustrating the bond and support they provided to him during his ministry.
-
-3. "Matthew and Luke, the disciples." - This phrase acknowledges the inclusion of Matthew and Luke as disciples, reminding us that Jesus called individuals from diverse backgrounds to follow him and be part of his inner circle.
+1. "When he was alone" - This phrase highlights the significance of solitude in Jesus' ministry, emphasizing his need for personal communion with God and time for reflection and prayer.
+2. "They that were about him with the twelve" - This phrase emphasizes the close-knit community of disciples that surrounded Jesus, highlighting the importance of companionship and support in his mission.
+3. "Matthew and Luke, the disciples" - This phrase underscores the inclusion of Matthew and Luke as part of the broader group of disciples, emphasizing the diverse backgrounds and perspectives within Jesus' inner circle.
 
 ### Philip Schaff:
-1. "Alone. This refers to a temporary withdrawal, when His disciples 'came' to Him, for He evidently spoke further to the multitude." 
-2. "What follows was spoken neither to the multitude nor to the Twelve alone." 
+1. "Alone. This refers to a temporary withdrawal, when His disciples ‘came’ to Him (Matthew), for He evidently spoke further to the multitude." 
+2. "What follows was spoken neither to the multitude nor to the Twelve alone."
 3. "The answer in all three accounts is: first, a reason why He thus taught, and, secondly, the exposition of this particular parable."
+
+### Archibald T Robertson:
+1. "When he was alone" - This phrase highlights the significance of Jesus seeking solitude, emphasizing the importance of personal reflection and communion with God. It reminds us of the value of finding moments of stillness and quiet in our own lives.
+
+2. "Vivid recollection of Peter" - This phrase suggests that the account of Jesus being alone was likely based on Peter's personal memory. It adds a sense of authenticity to the narrative, reminding us that the Gospel writers relied on firsthand testimonies to convey the teachings and actions of Jesus.
+
+3. "They did not want the multitude to see that they did not understand" - This statement reveals the disciples' concern about their lack of comprehension. It humanizes them, reminding us that even those closest to Jesus struggled to fully grasp his teachings at times. It encourages us to be humble in our own pursuit of understanding and to seek guidance and clarity when faced with spiritual challenges.
 
 ### John Gill:
 1. "After the multitude was dismissed, and he either remained in the ship, or left it, and retired to some private place, it may be to Simon's house in Capernaum."
 2. "The Syriac, Persic, and Ethiopic versions read, 'when they were alone'; meaning as follows, they that were about him with the twelve."
-3. "The Vulgate Latin reads, 'the twelve that were with him'. In Beza's most ancient copy it is read, 'his disciples'; and to this agrees the Persic version; and so the other evangelists, Matthew and Luke, relate, that his disciples came and asked of him the parable."
+3. "And so the other evangelists, Matthew and Luke, relate, that his disciples came and asked of him the parable; the meaning of it, and why he chose this way of speaking to the people."
 
 ### John Wesley:
-1. "When he was alone" - This phrase indicates that Jesus intentionally separated himself from the crowd, seeking solitude and privacy. It highlights his desire for quiet reflection and communion with God.
+1. "When he was alone" - This phrase indicates that Jesus intentionally sought solitude, emphasizing the importance of personal reflection and communion with God.
 
-2. "Retired apart from the multitude" - This emphasizes Jesus' need for solitude and withdrawal from the noise and distractions of the world. It suggests that he valued moments of seclusion to recharge, pray, and seek guidance from his heavenly Father.
+2. "Retired apart from the multitude" - Jesus withdrew from the crowd, highlighting the need for uninterrupted moments of solitude to recharge and reconnect with God.
 
-3. "He was alone" - This phrase underscores the unique and intimate relationship Jesus had with God. It implies that in his solitude, Jesus was able to connect deeply with God, receiving wisdom, strength, and direction for his ministry. It reminds us of the importance of finding moments of solitude to nurture our own spiritual lives.
+3. "Jesus intentionally sought solitude" - This suggests that Jesus recognized the value of being alone, demonstrating the significance of finding moments of stillness and silence in our own lives to deepen our relationship with God.
 
 
 ## Generation Details
