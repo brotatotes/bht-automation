@@ -270,7 +270,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
 # Get all choicests and generate the bht from scratch.
 
 
-def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, commentators):
+def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=1000, force_redo=False):
     verse_refs = [verse for verse in verse_refs]
     verses_done = 0
     verses_total = len(verse_refs)
@@ -303,8 +303,8 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
         except Exception as e:
             print(f"❗An error occurred: {e}")
             # print(traceback.format_exc())
-            print(f"Retrying in {5 + tries} seconds...")
-            time.sleep(5 * tries)
+            print(f"Try # {tries} Retrying in 10 seconds...")
+            time.sleep(10)
             generate_bht(verse_refs[verse_i:], choicest_prompts, bht_prompts, commentators, tries=tries + 1, try_limit=try_limit, force_redo=force_redo)
 
 
@@ -316,7 +316,7 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
         verses = verse_refs[verse_ref_i : min(verse_ref_i + verses_per_thread, len(verse_refs))]
         verse_ref_i += verses_per_thread
         print(f"Creating thread {i} for: {verses}")
-        thread = threading.Thread(target=generate_bht, args=(verses, choicest_prompts, bht_prompts, commentators))
+        thread = threading.Thread(target=generate_bht, args=(verses, choicest_prompts, bht_prompts, commentators, tries, try_limit, force_redo))
         threads.append(thread)
         # thread.start()
     
