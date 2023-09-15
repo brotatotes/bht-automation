@@ -141,6 +141,7 @@ def ask_gpt_choicest_timeout(commentator, verse_ref, choicest_prompt):
 
     return chat_completion.choices[0].message["content"]
 
+
 def ask_gpt_choicest(commentator, verse_ref, choicest_prompt, tries=0, try_limit=10):
     if tries >= try_limit:
         raise Exception(f"❌ Failed {try_limit} times to get choicest. Quitting. ❌")
@@ -276,7 +277,7 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
 
     lock = threading.Lock()
 
-    def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=25, force_redo=False):
+    def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=50, force_redo=False):
         nonlocal verses_done
         nonlocal verses_total
         nonlocal lock
@@ -347,13 +348,13 @@ if __name__ == '__main__':
 
     books = [BibleRange(b) for b in [
         # "Matthew",
-        "Mark",
+        # "Mark",
         # "Luke",
         # "John",
-        # "Acts",
+        "Acts",
         # "Romans",
-        # "1 Corinthians",
-        # "2 Corinthians",
+        "1 Corinthians",
+        "2 Corinthians",
         # "Galatians",
         # "Ephesians",
         # "Philippians",
