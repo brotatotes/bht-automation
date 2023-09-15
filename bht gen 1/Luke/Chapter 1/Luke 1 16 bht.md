@@ -1,37 +1,37 @@
 # Luke 1:16 Commentary Help Text
 
 ## BHT:
-In this verse, commentators describe the ministry of John the Baptist as a preparation for the coming of Christ. John's work involved turning hearts towards God through repentance and calling the Jews to forsake their sins. His preaching served as an instrument of divine power, aiming to bring about the conversion and reformation of the people. The ministry of John the Baptist, characterized by belief, baptism, and the preaching of repentance, played a crucial role in preparing the way for the Messiah and leading individuals to turn to the Lord their God through faith in Christ.
+The verse being described speaks of a significant figure named John who prepares the way for Christ by turning people's hearts towards God. He is a religious reformer, calling for repentance, and is compared to Elijah. John's preaching and baptism lead to the conversion of many, as he represents the work of the law and the prophets. His ministry serves to awaken a spiritual renewal and direct people towards seeking the Lord their God, ultimately paving the way for Christ's coming.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The work of John was one of preparation and turning men's hearts towards God."
+1. "The work of John was one of preparation and turning men’s hearts towards God."
 2. "It was a concentration of the spirit of the law, whose office it was to convince of sin."
 3. "He eminently represented the law and the prophets in their work of preparing the way for Christ."
 
 ### Jamieson Fausset Brown:
 1. "A religious and moral reformer, Elijah-like, he should be."
 2. "The 'turning of the people's heart to the Lord' is borrowed from 1 Kings 18:37."
-3. "In both cases their success, though great, was partial�the nation was not gained."
+3. "In both cases their success, though great, was partial—the nation was not gained."
 
 ### Albert Barnes:
-1. "Children of Israel - Jews. Descendants of Israel or Jacob." This quote provides a clear definition of who the "Children of Israel" are, specifically referring to the Jews who are the descendants of Israel or Jacob. 
+1. "Shall he turn - By repentance." This quote highlights the idea that the turning or conversion of the children of Israel will come through repentance. It suggests that they will be called to acknowledge their sins and change their ways.
 
-2. "Shall he turn - By repentance." This quote highlights that the turning mentioned in the verse refers to repentance. It implies that God will call the Jews to repentance, urging them to acknowledge their sins and seek forgiveness from the Lord.
+2. "He shall call them from their sins." This quote emphasizes the role of God in calling the children of Israel to turn away from their sins. It implies that God will actively reach out to them and persuade them to forsake their sinful ways.
 
-3. "He shall call them from their sins, and persuade them to forsake them, and to seek the Lord their God." This quote emphasizes the transformative power of God's call. It suggests that God will not only call the Jews to repentance but also persuade them to abandon their sinful ways and actively seek a relationship with the Lord their God.
+3. "To seek the Lord their God." This quote suggests that the ultimate goal of the children of Israel's turning is to seek and find the Lord their God. It implies that their repentance and conversion will lead them to a deeper relationship with God.
 
 ### John Calvin:
-1. "For conversion to God renews men to a spiritual life, and therefore is not only God's own work, but surpasses even the creation of men."
+1. "For conversion to God renews men to a spiritual life, and therefore is not only God’s own work, but surpasses even the creation of men."
 2. "When the Lord bestows so great praise on the outward doctrine, he does not separate it from the secret influence of his Spirit."
 3. "The outward preaching, I acknowledge, can do nothing separately or by itself; but as it is an instrument of divine power for our salvation, and through the grace of the Spirit an efficacious instrument, what God hath joined together let us not put asunder."
 
 ### Philip Schaff:
-1. "To the Lord their God. Not to Christ, but to God." - This quote highlights that the ministry of John the Baptist was directed towards God, emphasizing his role as a forerunner preparing the way for the coming of Christ.
+1. "To the Lord their God. Not to Christ, but to God." - This quote highlights the distinction between God and Christ, emphasizing that John's ministry was directed towards God as a preparation for the coming of Christ.
 
-2. "A prediction of John's ministry, as preparatory and reformatory." - This quote suggests that John's ministry was not only about preparing the people for the coming of Christ but also about bringing about a reformation, urging them to repent and turn back to God.
+2. "A prediction of John’s ministry, as preparatory and reformatory, the baptism of repentance." - This quote explains that John's role was to prepare and reform the people through the baptism of repentance, setting the stage for the arrival of Christ.
 
-3. "The baptism of repentance." - This quote refers to John's baptism, which symbolized a turning away from sin and a commitment to a changed life. It emphasizes the importance of repentance as a central aspect of John's ministry.
+3. "See on Matthew 3:1." - This quote suggests that further insights and understanding can be gained by referring to the corresponding passage in Matthew 3:1.
 
 ### John Gill:
 1. "Great multitudes of them flocked unto him, attended on his ministry, believed in his doctrine, and submitted to his baptism."
@@ -39,11 +39,9 @@ In this verse, commentators describe the ministry of John the Baptist as a prepa
 3. "John was to be, and was, an instrument of the conversion of many among the Jews, by preaching the doctrine of repentance towards God, and faith in the Messiah."
 
 ### John Wesley:
-1. "None therefore need be ashamed of 'preaching like John the Baptist'." - This quote highlights the significance of John the Baptist's preaching and encourages others to follow his example without hesitation or shame.
-
-2. "To the Lord their God" - This quote emphasizes that the turning of the children of Israel is directed towards Christ, highlighting the central role of Jesus in their spiritual transformation.
-
-3. "To Christ" - This succinct quote reinforces the previous point, emphasizing that the ultimate destination of the children of Israel's turning is towards Christ, underscoring his divine authority and role in their salvation.
+1. "None therefore need be ashamed of 'preaching like John the Baptist'." 
+2. "And many of the children of Israel shall he turn." 
+3. "To the Lord their God — To Christ."
 
 
 ## Generation Details

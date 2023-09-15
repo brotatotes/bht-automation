@@ -1,18 +1,23 @@
 # Luke 6:42 Commentary Help Text
 
 ## BHT:
-In this verse, the commentator's emphasize is on the concept of self-improvement and introspection before criticizing others. They stress the importance of recognizing our own faults and working on them before attempting to correct others. It also highlights the need for sincerity and genuine affection when dealing with others, rather than pretending or putting on a façade. Overall, the verse encourages personal growth and righteousness as a foundation for guiding and reproving others.
+In this passage, the commentators paint a vivid picture of the dangers of hypocrisy and the importance of self-reflection. One commentator describes it as a powerful reminder of the dangers of blind self-complacence and incompetence, while another emphasizes the need to first reform oneself before reproving others. The verse exposes the pretense of fraternal duty and the pretentiousness of those who pretend great affection and sincerity. It serves as a cautionary tale, urging us to see clearly our own faults before attempting to cast out the faults of others.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
 1. "Expressing the pretense of fraternal duty."
 2. "To this is opposed 'Thou hypocrite!'"
-3. "Let me cast out [with a studied courtesy]: allow me to cast out."
+3. "Allow me to cast out. See clearly to cast out."
 
 ### Philip Schaff:
-1. "If thou dost not see the beam in thine own eye, thou wilt be like the corrupt tree, which cannot possibly bring forth good fruit." This quote emphasizes the importance of self-reflection and self-awareness before passing judgment on others.
-2. "The connection is with what precedes." This quote highlights the relevance of the previous verses in understanding the context and meaning of Luke 6:43-44.
-3. "Thou wilt be like the corrupt tree, which cannot possibly bring forth good fruit." This quote illustrates the consequences of not addressing one's own faults and how it can hinder personal growth and positive outcomes.
+1. "If thou dost not see the beam in thine own eye, thou wilt be like the corrupt tree, which cannot possibly bring forth good fruit." 
+2. "The connection is with what precedes: 'If thou dost not see the beam in thine own eye, thou wilt be like the corrupt tree, which cannot possibly bring forth good fruit.'"
+3. "See on Matthew 7:3-5."
+
+### Archibald T Robertson:
+1. "Powerful picture of blind self-complacence and incompetence."
+2. "Contrast to the studied politeness of 'brother' above."
+3. "A powerful reminder of the dangers of hypocrisy."
 
 ### John Gill:
 1. "Suffer me to reprove thee for thy sin."
