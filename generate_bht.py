@@ -279,6 +279,7 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
     def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=25, force_redo=False):
         nonlocal verses_done
         nonlocal verses_total
+        nonlocal lock
 
         if tries >= try_limit:
             print(f"❌ Failed {try_limit} times. Quitting. ❌")
@@ -293,7 +294,7 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
                 # print()
                 with lock:
                     verses_done += 1
-            print(f"🚧 COMPLETION: {100 * verses_done / verses_total} %")
+                print(f"🚧 COMPLETION: {verses_done} / {verses_total}")
 
         except Exception as e:
             print(f"❗An error occurred: {e}")
@@ -376,12 +377,12 @@ if __name__ == '__main__':
         for verse in book:
             verses.append(verse)
     
+    # Add Revelation manually because the library is broken for this case.
     for verse in BibleRange("Revelation 1-22:20"):
         verses.append(verse)
 
     verses.append(BibleVerse("Revelation 22:21"))
 
-    # generate_bht(verses, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
-    generate_bht_concurrently(BibleRange("Hebrews"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    generate_bht_concurrently(BibleRange("Ephesians"), ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
 
     
