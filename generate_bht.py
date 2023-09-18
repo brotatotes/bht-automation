@@ -373,7 +373,7 @@ if __name__ == '__main__':
         # "2 John",
         # "3 John",
         # "Jude",
-        # "Revelation 1-22:20", # Add Revelation manually because the library is broken for this case.
+        # "Revelation",
         ]]
     
     verses = []
