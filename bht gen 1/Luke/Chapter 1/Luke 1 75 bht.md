@@ -1,23 +1,35 @@
 # Luke 1:75 Commentary Help Text
 
 ## BHT:
-This verse speaks of a holy and righteous way of life, guided by the eternal laws and principles of God. It emphasizes the importance of consecration to God and the manifestation of this dedication through righteous actions. This service to the Lord goes beyond mere external rituals and is characterized by a genuine commitment to righteousness before both God and others. It is a continual and unwavering devotion that encompasses every aspect of life.
+The verse being described speaks to the importance of living a life characterized by holiness and righteousness. It emphasizes that true religion goes beyond mere outward observances and involves serving God with a heart dedicated to righteousness and true holiness. This service is not temporary or sporadic, but a continuous and constant devotion to God's will. It underscores the need to align our conduct not only with human expectations but also with God's eternal principles of right.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "In holiness...in piety and strict justice."
+2. "Performed as in his presence, and with the full consciousness that he sees the heart."
+3. "True religion increases and expands until death."
+
 ### Marvin Vincent:
-1. "The adjective osiov, holy, is properly what is confirmed by ancient sanction and precept."
-2. "Osia, is used in classical Greek to denote the everlasting principles of right, not constituted by the laws or customs of men, but antedating them."
-3. "Hence oJsiothv is concerned primarily with the eternal laws of God. It is 'the divine consecration and inner truth of righteousness' (Meyer)."
+1. "Osia, is used in classical Greek to denote the everlasting principles of right, not constituted by the laws or customs of men, but antedating them; such as the paying of the proper rites of sepulture."
+2. "Hence oJsiothv is concerned primarily with the eternal laws of God. It is 'the divine consecration and inner truth of righteousness' (Meyer)."
+3. "In no case is it used of moral excellence as related to men, though it is to be carefully noted that dikaiosunh, righteousness, is not restricted to rightness toward men."
+
+### John Calvin:
+1. "We serve God in a proper manner, when our life has been framed to holiness and righteousness."
+2. "It is not enough if their lives are decently regulated before the eyes of men... but they must live according to the will of God, who looks chiefly on the heart."
+3. "Men have been redeemed on the condition that they shall continue to devote themselves to the worship of God all the days of their life."
 
 ### Philip Schaff:
-1. "Holiness is consecration to God, righteousness the manifestation of it; without the former, the latter would be unreal."
-2. "Both holiness and righteousness are necessary to true piety; even righteousness has respect to God rather than to men."
-3. "Temporal prosperity is implied, but only as the result of the religious restoration just spoken of."
+1. "‘Holiness’ is consecration to God, ‘righteousness’ the manifestation of it; without the former, the latter would be unreal; both are necessary to true piety." 
+2. "Even the ‘righteousness’ has respect to God rather than to men."
+3. "This extends the thought beyond the lives of individuals, to the national existence of Israel. Temporal prosperity is implied, but only as the result of the religious restoration just spoken of."
 
 ### Archibald T Robertson:
-1. "In holiness and righteousness" - This combination of qualities is not commonly seen together, highlighting the dual aspects of conduct towards God and towards others. (Ephesians 4:24; Titus 1:8; 1 Thessalonians 2:10)
-2. "The Godward and the manward aspects of conduct" - Emphasizes the importance of living in a way that aligns with both divine principles and human standards. (Bruce)
-3. "Hοσιος, the eternal principles of right, δικαιος, the rule of conduct before men" - Describes the two dimensions of righteousness: the unchanging principles of God and the practical application of those principles in our interactions with others.
+1. "In holiness and righteousness" - This combination of words is not commonly used in the Bible, but it emphasizes both the Godward and manward aspects of conduct. It speaks to the eternal principles of right and the rule of conduct before men.
+
+2. "The Godward and the manward aspects of conduct" - This phrase highlights the dual nature of living a righteous life. It reminds us that our actions should align with both God's standards and the expectations of those around us.
+
+3. "The eternal principles of right" - This phrase suggests that holiness and righteousness are not temporary or situational, but rather rooted in timeless and unchanging principles. It implies that our conduct should be guided by these eternal truths.
 
 ### John Gill:
 1. "Not in mere outward rites and legal ceremonies but as the saints serve, from principles of righteousness and true holiness."

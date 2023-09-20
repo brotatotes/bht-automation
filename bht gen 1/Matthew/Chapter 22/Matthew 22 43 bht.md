@@ -1,27 +1,37 @@
 # Matthew 22:43 Commentary Help Text
 
 ## BHT:
-The verse in question reflects on the words of David, spoken under the inspiration of the Holy Spirit, where he refers to the Messiah as Lord. This challenges the common understanding of the Messiah as a mere descendant of David and emphasizes the divinity and authority of the Messiah. It highlights the role of the Holy Spirit in inspiring David's words and invites us to expand our understanding of the Messiah beyond human limitations.
+This weighty declaration by our Lord challenges the Pharisees' attempts to trap him with questions. It raises the question of how David, under the inspiration of the Spirit, referred to the Messiah as his Lord, suggesting that the Messiah holds a higher position than a mere human descendant of David. The phrase "in spirit" emphasizes the influence of the Spirit of God upon David's words, highlighting the divine inspiration behind his declaration. This prompts readers to delve deeper into the nature and dignity of the Messiah and invites reflection on his divine identity.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "This is a weighty declaration by our Lord of the inspiration of the prophetic Scriptures."
+2. "The expression was a Rabbinical one."
+3. "Here then end the endeavours of His adversaries to entrap Him by questions: they now betake themselves to other means."
+
+### John Calvin:
+1. "By this phrase he anticipates the sophistry by which the Jews of the present day attempt to escape."
+2. "Christ began with stating that the psalm was not composed in reference to the person of David, but was dictated by the prophetic Spirit to describe the future reign of Christ."
+3. "In short, by this title Christ is pronounced to be supreme and sole King, who holds the preeminence among all believers."
+
 ### Philip Schaff:
-1. "How then doth David in the Spirit, i.e., by the inspiration of the Holy Ghost." - This quote highlights the understanding that David's words were not merely his own, but were inspired by the Holy Spirit, emphasizing the divine nature of the scriptures.
-
-2. "Call him Lord. Solemnly designate Him thus, implying superiority." - This quote emphasizes the significance of calling Jesus "Lord" as a way to acknowledge His superiority and divine authority.
-
-3. "Comp. Mark 12:36: 'by the Holy Ghost'" - This quote references another verse that supports the idea that David's words were spoken by the Holy Spirit, further reinforcing the divine inspiration behind his words.
+1. "How then doth David in the Spirit, i.e., by the inspiration of the Holy Ghost." 
+2. "Call him Lord. Solemnly designate Him thus, implying superiority." 
+3. "By the Holy Ghost."
 
 ### John Gill:
-1. "How then doth David in spirit call him Lord?" - Jesus challenges the Pharisees to consider how David, under the inspiration of the Spirit of God, referred to the Messiah as his Lord. This implies that the Messiah is more than just a human descendant of David, but a greater person in nature and dignity.
+1. "How then doth David in spirit call him Lord?" - Jesus challenges the Pharisees to consider how David, under the inspiration of the Spirit of God, referred to the Messiah as his Lord. This implies that the Messiah is more than just a descendant of David, but a greater person in nature and dignity.
 
-2. "David, under the inspiration of the Spirit of God, by which he wrote his book of Psalms" - This highlights the role of the Holy Spirit in inspiring David to write the Psalms, including the passage where he calls the Messiah Lord. It emphasizes the divine influence behind David's words.
+2. "Which supposes him to be more than barely his son, and to be a greater person than himself, one superior in nature and dignity to him?" - Jesus emphasizes that the title "Lord" given to the Messiah by David suggests a superior nature and dignity, indicating that the Messiah is not merely a human descendant of David.
 
-3. "The phrase 'in spirit'...expressing the influence of the Spirit of God" - The phrase "in spirit" should not be understood as referring to the Messiah's divine nature, but rather to the influence of the Spirit of God under which David wrote. This clarifies the meaning of the phrase and helps unravel the mystery for the Pharisees.
+3. "The phrase 'in spirit'...expressing the influence of the Spirit of God, under which David wrote." - The phrase "in spirit" should be understood as the influence of the Spirit of God upon David when he wrote the Psalms, highlighting the divine inspiration behind David's words about the Messiah.
 
 ### John Wesley:
-1. "David's question challenges the common understanding of the Messiah as merely a descendant of David. He implies that the Messiah is more than just a human figure, but someone who holds a higher position and authority."
-2. "The use of the term 'Lord' by David suggests that the Messiah has a divine nature and is worthy of worship. It points to the Messiah's preexistence and his eternal nature."
-3. "David's question forces us to reconsider our limited understanding of the Messiah. It invites us to recognize that the Messiah is not just a human king, but a divine figure who surpasses all human limitations."
+1. "How doth David then by the Spirit — By inspiration, call him Lord?" - This quote highlights the question of how David, being the ancestor of Jesus, could refer to Jesus as his Lord. It emphasizes the role of the Spirit in inspiring David's words and suggests that Jesus holds a higher position than a mere human descendant of David.
+
+2. "If he be merely the son (or descendant) of David?" - This quote raises the question of whether Jesus is simply a human descendant of David. It implies that there is more to Jesus' identity than just being a physical descendant and invites further exploration into his divine nature.
+
+3. "If he be, as you suppose, a mere man, the son of a man?" - This quote challenges the belief that Jesus is merely a human being, emphasizing the idea that he is more than just an ordinary man. It prompts readers to consider alternative interpretations of Jesus' identity and invites deeper reflection on his divine nature.
 
 
 ## Generation Details

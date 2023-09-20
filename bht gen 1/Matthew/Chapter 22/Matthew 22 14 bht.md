@@ -1,36 +1,53 @@
 # Matthew 22:14 Commentary Help Text
 
 ## BHT:
-This verse highlights the universal call of the Gospel, inviting all people to salvation. However, it emphasizes that true commitment and faith in Christ are required to be chosen by God. The distinction is made between those who merely hear the message and those who believe and respond to it. It challenges believers to examine their own hearts and live a life of genuine faith and obedience to ensure that they are among the chosen.
+The verse being described acknowledges the wide reach of God's call to salvation, extending to all people regardless of their background or ethnicity. However, it emphasizes that only a few individuals successfully navigate the process of discernment and response to the call. It highlights the distinction between those who are called to hear the message of the Gospel and those who truly believe, embrace, and demonstrate faith in Jesus Christ. The verse underscores the importance of personal faith, genuine commitment, and inward transformation for salvation, reminding us that being part of a religious community is not enough.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "For many are called, but few are chosen." - This verse highlights the idea that although many people are invited or called to follow God, only a select few are chosen or truly committed to Him. It emphasizes the importance of genuine faith and dedication.
+1. "For many are called, but few are chosen." This verse highlights the distinction between those who are called and those who are chosen, suggesting that not everyone who is called will ultimately be chosen by God.
 
-2. "ENTANGLING QUESTIONS ABOUT TRIBUTE, THE RESURRECTION, AND THE GREAT COMMANDMENT, WITH THE REPLIES." - This passage refers to a series of challenging questions posed to Jesus by the religious leaders. It showcases Jesus' wisdom and ability to navigate complex theological discussions.
+2. "Christ baffles the Pharisees by a question about David and Messiah." This statement refers to a specific incident where Jesus poses a question to the Pharisees that they are unable to answer, showcasing his wisdom and authority.
 
-3. "CHRIST BAFFLES THE PHARISEES BY A QUESTION ABOUT DAVID AND MESSIAH." - Jesus uses a thought-provoking question about the relationship between David and the Messiah to confound the Pharisees. This demonstrates Jesus' deep understanding of Scripture and His ability to challenge and expose the religious leaders' limited understanding.
+3. "The entangling questions about tribute, the resurrection, and the great commandment, with the replies." This phrase refers to a series of questions posed to Jesus by various groups, which he skillfully answers, demonstrating his deep understanding of the scriptures and his ability to navigate complex theological issues.
+
+### Albert Barnes:
+1. "The Jews had been called, but few of them had been chosen to life. The great mass of the nation was wicked, and they showed by their lives that they were not chosen to salvation."
+2. "Nation after nation has been called; but few, few have yet showed that they were real Christians, the elect of God."
+3. "It is also true that many who are in the church may prove to be without the wedding garment, and show at last that they were not the chosen of God."
+
+### John Calvin:
+1. "But lately, Christ did not threaten that the greater part would be thrown out, but mentioned one man only; and now we learn from him, that out of a large number few will be retained."
+2. "Though in the present day a more numerous body of men is collected into the Church by the Gospel than was formerly collected by the Law, it is but a small portion of them whose faith is evinced by newness of life."
+3. "Let us not flatter ourselves with the empty title of faith, but let every man seriously examine himself, that at the final review he may be pronounced to be one of the lawful guests."
 
 ### Philip Schaff:
-1. "For many are called." - This phrase is a proverbial expression, indicating that a large number of people are invited to the kingdom of God, both Jews and Gentiles. It emphasizes the inclusivity of God's invitation to salvation.
+1. "For many are called." - This proverbial expression emphasizes the inclusivity of God's invitation to both Jews and Gentiles. It highlights the wide reach of God's call to salvation.
 
-2. "But few chosen." - This statement highlights the reality that only a few individuals successfully navigate through the process of being chosen by God. It implies that passing the test of faith is not an easy task and that only a select few are ultimately chosen by God.
+2. "The 'called' are all those invited." - This statement clarifies that the invitation extends to all people, regardless of their background or ethnicity. It reinforces the idea that God's call is not limited to a select few.
 
-3. "The guests who stand the test are 'chosen' by God." - This quote emphasizes that it is God who chooses those who pass the test of faith. It underscores the sovereignty of God in the process of selection and highlights the importance of God's role in determining who is chosen for salvation.
+3. "Few chosen." - This phrase suggests that only a small number of individuals successfully navigate the process of sifting and testing. It implies that those who are chosen by God are a select group who have demonstrated their faithfulness and commitment.
+
+### Archibald T Robertson:
+1. "For many are called, but few chosen." - This saying of Christ emphasizes that although many people are called, only a few are chosen. It highlights the distinction between those who are called and those who are chosen, indicating that being called is not enough to be chosen.
+
+2. "He evidently repeated many of his sayings many times as every teacher does." - This comment suggests that Christ often repeated his teachings, including this saying, to emphasize its importance and ensure that his message was understood by his followers.
+
+3. "There is a distinction between the called and the chosen, called out from the called." - This statement clarifies that being called is the initial step, but being chosen is a further selection from among the called. It implies that not everyone who is called will be chosen, indicating a process of discernment or selection.
 
 ### John Gill:
-1. "The call of the Gospel is general, going out to all nations and people, inviting them to come and partake of the blessings of salvation. However, the chosen are those who respond to the call with faith and obedience, demonstrating a genuine commitment to following Christ."
+1. "The call of the gospel is general, going out to all people, but the chosen are those who respond to that call with faith and obedience." 
 
-2. "The phrase 'few chosen' highlights the reality that not everyone who hears the Gospel will ultimately be saved. It emphasizes the importance of personal responsibility and the need for individuals to actively choose to follow Christ."
+2. "This verse reminds us that salvation is not based on our own merit or works, but on God's sovereign choice and grace." 
 
-3. "This verse serves as a reminder that God's grace and mercy are freely offered to all, but it is up to each individual to respond and make the choice to accept and follow Him. It challenges believers to examine their own hearts and ensure that they are among the chosen, by living a life of faith and obedience."
+3. "The phrase 'few chosen' emphasizes the reality that not everyone who hears the gospel will ultimately be saved, highlighting the importance of personal faith and repentance."
 
 ### John Wesley:
-1. "Many are called; few chosen" - This phrase highlights the distinction between those who hear the message of the Gospel and those who truly believe and respond to it. It emphasizes that not everyone who is called will be chosen, indicating that mere membership in a visible church does not guarantee salvation.
+1. "Many are called; few chosen" - This phrase highlights the distinction between those who hear the message of the Gospel and those who truly believe and respond to it. It emphasizes that not everyone who is called will be chosen, indicating that faith and genuine commitment are necessary for salvation.
 
-2. "Many hear; few believe" - This quote emphasizes the importance of genuine faith in the Christian journey. It suggests that while many may hear the teachings of Christianity, only a few will truly believe and embrace them. It underscores the significance of personal conviction and commitment to the faith.
+2. "Many hear; few believe" - This quote underscores the idea that hearing the message of the Gospel is not enough; true faith requires belief and acceptance. It suggests that while many may listen to the teachings of Jesus, only a few will truly embrace and trust in Him as their Savior.
 
-3. "Many are members of the visible, but few of the invisible Church" - This statement draws a distinction between the visible church, which includes all those who identify as Christians, and the invisible church, which comprises those who have a genuine relationship with God. It suggests that true membership in the church is not defined by external affiliation but by an inward transformation and connection with God.
+3. "Many are members of the visible, but few of the invisible Church" - This statement draws attention to the difference between those who are part of the visible Church, meaning those who outwardly identify as Christians, and those who are part of the invisible Church, meaning those who have a genuine and personal relationship with Christ. It suggests that mere membership in a religious community does not guarantee salvation; it is the inward transformation and connection with God that truly matters.
 
 
 ## Generation Details

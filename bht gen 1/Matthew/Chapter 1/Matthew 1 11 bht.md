@@ -1,12 +1,17 @@
 # Matthew 1:11 Commentary Help Text
 
 ## BHT:
-This verse reveals a complex family lineage, where Jeconiah is the grandson of Josiah and the son of Jehoiakim. Jehoiakim, however, is merely a puppet under the control of the king of Egypt. The term "brethren" refers to Jeconiah's uncles, particularly Zedekiah, who later ascended the throne. The mention of "carrying away to Babylon" respectfully alludes to the bitter memory of the Jewish exile. It is worth noting that the term "brethren" encompasses all kinsmen in Jewish culture.
+This verse discusses the lineage of a figure named Jeconiah, also known as Jehoiakim, who was a king mentioned in the genealogy of Jesus. The verse distinguishes between the generations of Jeconiah and his son Jehoiakim, rejecting the idea that they are the same person. The term "brethren" refers to Jeconiah's uncles, who were also kings. The verse mentions the time period of the captivity in Babylon, emphasizing that this occurred around the birth of Jeconiah.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The solution of the difficulty by supposing the name to apply to both Eliakim and his son, and to mean the former in Mat 1:11 and the latter in Matthew 1:12, is unsupported by example, and contrary to the usage of the genealogy."
+2. "When we notice that the ἀδελφοί of Jechonias are his uncles, and find this way of speaking sanctioned by 2 Chronicles 36:10, where Zedekiah, one of these, is called his brother, we are led to seek our solution in some recognized manner of speaking of these kings, by which Eliakim and his son were not accounted two distinct generations."
+3. "This view may perhaps be imagined to derive some support from the digest: but it seems to me that the objection to it is, the present occurrence of Ἰεχονίαν and - ας in all our copies."
+
 ### Jamieson Fausset Brown:
-1. "Jeconiah was Josiah's grandson, being the son of Jehoiakim, Josiah's second son, but Jehoiakim might well be sunk in such a catalogue, being a mere puppet in the hands of the king of Egypt."
-2. "The 'brethren' of Jechonias here evidently mean his uncles - the chief of whom, Mattaniah or Zedekiah, who came to the throne, is called 'his brother' in 2 Chronicles 36:10, as well as here."
+1. "Jehoiakim might well be sunk in such a catalogue, being a mere puppet in the hands of the king of Egypt."
+2. "The 'brethren' of Jechonias here evidently mean his uncles—the chief of whom, Mattaniah or Zedekiah, who came to the throne, is called 'his brother.'"
 3. "The Jews avoided the word 'captivity' as too bitter a recollection, and our Evangelist studiously respects the national feeling."
 
 ### Philip Schaff:
@@ -15,9 +20,11 @@ This verse reveals a complex family lineage, where Jeconiah is the grandson of J
 3. "The word used does not necessarily imply a forcible removal, the Jews being accustomed to speak of the Captivity in this mild way."
 
 ### John Gill:
-1. "Jechonias, who does not appear to have had any brethren, is mentioned to distinguish him from Jechonias in the next verse." 
-2. "These brethren were about the time they were carried away to Babylon." 
-3. "The phrase 'his brethren' can be rendered as 'which were at, or about the carrying away to Babylon'."
+1. "This Jechonias is the same with Jehoiakim, the son of Josias, called so by Pharaohnecho, when he made him king, whose name before was Eliakim." 
+
+2. "Two of them were kings, one reigned before him, viz. Shallum, who is called Jehoahaz, the other, viz. Zedekiah, called before Mattaniah, reigned after his son Jehoiakim." 
+
+3. "These were about the time they were carried away to Babylon, which is not to be connected with the word 'begat'... but with the phrase 'his brethren'."
 
 ### John Wesley:
 1. "Josiah begat Jeconiah — Mediately, Jehoiakim coming between." 

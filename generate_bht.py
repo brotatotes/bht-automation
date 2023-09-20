@@ -36,14 +36,16 @@ def get_commentary(commentator, verse_ref):
     file_path = f'{WORKING_DIRECTORY}/{COMMENTARY_FOLDER}/{commentator}/{book}/Chapter {chapter}/Verse {verse}.txt'
     
     if not os.path.exists(file_path):
-        raise Exception(f'No commentary found for {verse_ref} for {commentator}.')
+        # raise Exception(f'No commentary found for {verse_ref} for {commentator}.')
+        return None
     
     file_contents = ""
     with open(file_path, 'r', encoding='utf-8') as file:
         file_contents = file.read()
 
     if not file_contents:
-        raise Exception(f'Commentary entry was blank for {verse_ref} for {commentator}.')
+        # raise Exception(f'Commentary entry was blank for {verse_ref} for {commentator}.')
+        return None
 
     return file_contents
 
@@ -73,7 +75,8 @@ def get_commentary_choicests(verse_ref, choicest_prompt, commentators):
         commentator_choicest_file = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
 
         if not os.path.exists(commentator_choicest_file):
-            raise Exception(f"No choicest file found for {commentator} for {choicest_prompt} for {verse_ref}, file path: {commentator_choicest_file}")
+            # raise Exception(f"No choicest file found for {commentator} for {choicest_prompt} for {verse_ref}, file path: {commentator_choicest_file}")
+            continue
         
         file_contents = ""
         with open(commentator_choicest_file, 'r', encoding='utf-8') as file:
@@ -86,7 +89,13 @@ def get_commentary_choicests(verse_ref, choicest_prompt, commentators):
         commentator_choicests[commentator] = file_contents
 
     return commentator_choicests
-    
+
+
+def get_bht_output_path(choicest_prompt, bht_prompt, book, chapter, verse):
+    return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
+
+def get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator):
+    return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
 
 # SETUP
 
@@ -95,13 +104,7 @@ ENCODING = tiktoken.encoding_for_model("gpt-3.5-turbo")
 
 # Generate Choicest Piece
 # @timeout(10)
-def ask_gpt_choicest_timeout(commentator, verse_ref, choicest_prompt):
-    try:
-        commentary_text = get_commentary(commentator, verse_ref)
-    except:
-        print(f"{verse_ref} No commentary found: {commentator}")
-        return ""
-    
+def ask_gpt_choicest_timeout(commentary, verse_ref, choicest_prompt):
     prompt_text = get_prompt(CHOICEST_FOLDER_NAME, choicest_prompt)
     messages = []
 
@@ -117,7 +120,7 @@ def ask_gpt_choicest_timeout(commentator, verse_ref, choicest_prompt):
 
     messages.append({
         "role": "user",
-        "content": commentary_text
+        "content": commentary
     })
 
     model = "gpt-3.5-turbo"
@@ -142,15 +145,15 @@ def ask_gpt_choicest_timeout(commentator, verse_ref, choicest_prompt):
     return chat_completion.choices[0].message["content"]
 
 
-def ask_gpt_choicest(commentator, verse_ref, choicest_prompt, tries=0, try_limit=10):
+def ask_gpt_choicest(commentary, verse_ref, choicest_prompt, tries=0, try_limit=10):
     if tries >= try_limit:
         raise Exception(f"❌ Failed {try_limit} times to get choicest. Quitting. ❌")
     
     try:
-        return ask_gpt_choicest_timeout(commentator, verse_ref, choicest_prompt)
+        return ask_gpt_choicest_timeout(commentary, verse_ref, choicest_prompt)
     except TimeoutError:
         print(f"Attempt {tries} timed out. Trying again.")
-        return ask_gpt_choicest(commentator, verse_ref, choicest_prompt, tries + 1)
+        return ask_gpt_choicest(commentary, verse_ref, choicest_prompt, tries + 1)
 
 
 def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=False):
@@ -161,13 +164,23 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                 
                 book, chapter, verse = get_book_chapter_verse(verse_ref)
 
-                out_path = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
+                out_path = get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator)
 
-                if not force_redo and os.path.exists(out_path):
-                    print(f"✅ {verse_ref} {commentator} {choicest_prompt} File already exists.", flush=True)
+                choicest_not_empty = (os.path.exists(out_path) and not not open(out_path, 'r', encoding='utf-8').read().strip())
+                commentary = get_commentary(commentator, verse_ref)
+                no_commentary = not commentary
+
+                if not force_redo and (no_commentary or choicest_not_empty):
+                    print(f"✅ {verse_ref} {commentator} {choicest_prompt}", end='', flush=True)
+                    if no_commentary:
+                        print(f" No Commentary found. ", end='')
+                    if choicest_not_empty:
+                        print(f" Choicest already exists. ", end='')
+
+                    print()
                     continue
 
-                choicest = ask_gpt_choicest(commentator, verse_ref, choicest_prompt)
+                choicest = ask_gpt_choicest(commentary, verse_ref, choicest_prompt)
 
                 os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
@@ -232,7 +245,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
         for bht_prompt in bht_prompts:
             book, chapter, verse = get_book_chapter_verse(verse_ref)
 
-            out_path = f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
+            out_path = get_bht_output_path(choicest_prompt, bht_prompt, book, chapter, verse)
 
             # print(f"🟧 {verse_ref} {bht_prompt}", flush=True)
 
@@ -270,14 +283,14 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
 # Get all choicests and generate the bht from scratch.
 
 
-def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=1000, force_redo=False):
+def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=1000, redo_choicest=False, redo_bht=False):
     verse_refs = [verse for verse in verse_refs]
     verses_done = 0
     verses_total = len(verse_refs)
 
     lock = threading.Lock()
 
-    def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=50, force_redo=False):
+    def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=50, redo_choicest=False, redo_bht=False):
         nonlocal verses_done
         nonlocal verses_total
         nonlocal lock
@@ -292,8 +305,8 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
             for i, verse_ref in enumerate(verse_refs):
                 verse_i = i
                 # print(f"Generating BHT for {verse_ref}:")
-                record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo)
-                record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force_redo)
+                record_gpt_choicest(verse_ref, choicest_prompts, commentators, redo_choicest)
+                record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, redo_bht)
                 # print(f"{verse_ref} BHT Done!")
                 # print()
                 with lock:
@@ -303,9 +316,10 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
         except Exception as e:
             print(f"❗An error occurred: {e}")
             # print(traceback.format_exc())
-            print(f"Try # {tries} Retrying in 10 seconds...")
-            time.sleep(10)
-            generate_bht(verse_refs[verse_i:], choicest_prompts, bht_prompts, commentators, tries=tries + 1, try_limit=try_limit, force_redo=force_redo)
+            wait_time = tries * 5
+            print(f"Try # {tries} Retrying in {wait_time} seconds...")
+            time.sleep(wait_time)
+            generate_bht(verse_refs[verse_i:], choicest_prompts, bht_prompts, commentators, tries=tries + 1, try_limit=try_limit, redo_choicest=redo_choicest, redo_bht=redo_bht)
 
 
     verses_per_thread = math.ceil(len(verse_refs) / 100.0)
@@ -316,7 +330,7 @@ def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, comment
         verses = verse_refs[verse_ref_i : min(verse_ref_i + verses_per_thread, len(verse_refs))]
         verse_ref_i += verses_per_thread
         print(f"Creating thread {i} for: {verses}")
-        thread = threading.Thread(target=generate_bht, args=(verses, choicest_prompts, bht_prompts, commentators, tries, try_limit, force_redo))
+        thread = threading.Thread(target=generate_bht, args=(verses, choicest_prompts, bht_prompts, commentators, tries, try_limit, redo_choicest, redo_bht))
         threads.append(thread)
         # thread.start()
     
@@ -380,8 +394,6 @@ if __name__ == '__main__':
     for book in books:
         for verse in book:
             verses.append(verse)
-
-    # generate_bht(verses, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
 
     start_time = time.time()
 

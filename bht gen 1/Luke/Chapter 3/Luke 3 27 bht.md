@@ -1,20 +1,27 @@
 # Luke 3:27 Commentary Help Text
 
 ## BHT:
-In this passage, two commentators provide insights into the genealogy of Jesus. According to Philip Schaff, the genealogies possibly coincide, highlighting the historical connections between them. On the other hand, John Gill emphasizes that the list of names goes beyond mere lineage, reflecting the faithfulness and sovereignty of God throughout history. Each name represents a story of God's providence and redemption, demonstrating that God's plan of salvation is not limited to a specific family but encompasses all people.
+The genealogy of Jesus is a significant connection between the Old Testament prophecies and the birth of Jesus, showcasing God's faithfulness. The inclusion of Jeconiah reminds us of the consequences of disobedience and the judgment that can befall a nation. The complexities of the genealogical record, with variations in names and reigns, highlight the historical context and the importance of each individual in the lineage. It is a testament to God's ability to work through imperfect individuals to fulfill His purposes.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The mention of Jeconiah in Matthew 1:12 is significant because it highlights the connection between the Old Testament prophecies and the genealogy of Jesus." 
+
+2. "The birth of Jeconiah, who is also known as Coniah, is a reminder of the consequences of disobedience and the judgment that can come upon a nation." 
+
+3. "The inclusion of Jeconiah in the genealogy of Jesus demonstrates God's faithfulness and His ability to work through imperfect individuals to accomplish His purposes."
+
 ### Philip Schaff:
-1. "Here the two genealogies probably, but not certainly, coincide." 
-2. "We may assume a Levirate marriage, or the marriage of Salathiel with a daughter of Neri." 
+1. "The two genealogies probably, but not certainly, coincide."
+2. "We may assume a Levirate marriage, or the marriage of Salathiel with a daughter of Neri."
 3. "Just at that point of the history (the beginning of the captivity) such things would be most likely to occur."
 
 ### John Gill:
-1. "The genealogy of Jesus is not just a list of names, but a reminder of the faithfulness and sovereignty of God throughout history." 
+1. "The genealogy of Jesus is traced through various generations, highlighting the significance of each individual in the lineage." 
 
-2. "Each name in the genealogy represents a story of God's providence and redemption, reminding us that God works through imperfect people to accomplish His purposes." 
+2. "The mention of the different lengths of their reigns emphasizes the historical context and the importance of their leadership." 
 
-3. "The genealogy of Jesus shows that God's plan of salvation is not limited to a specific family or lineage, but extends to all people, regardless of their background or history."
+3. "The repetition of different names for the same person shows the variations in the records and the complexities of genealogical research."
 
 
 ## Generation Details

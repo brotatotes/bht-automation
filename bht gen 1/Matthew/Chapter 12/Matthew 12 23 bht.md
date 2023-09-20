@@ -1,20 +1,22 @@
 # Matthew 12:23 Commentary Help Text
 
 ## BHT:
-The people, though hesitant to assert it openly, secretly wondered if the person before them was the long-awaited Messiah. Their question of "Is this not the son of David?" reflected their recognition that Jesus might be the fulfillment of the prophecies. The astonishment and admiration that followed Jesus' remarkable miracle compelled the people to consider that he was more than just a man, but the Messiah. By acknowledging Jesus as the Son of David, they were recognizing his rightful claim to the throne and connecting him to the promises of God's chosen people.
+The people, with hopeful anticipation, question if Jesus is indeed the long-awaited Messiah, the son of David. They recognize the power displayed in Jesus' miracles and acknowledge the connection to the prophecies of the Old Testament. This question reveals their belief in Jesus as the chosen one of God, sent to fulfill divine promises and bring salvation. They eagerly await the fulfillment of their longings and hopes through the coming of the Messiah.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Μήτι" is a form of question that implies a doubtful denial, suggesting that the answer is actually in the affirmative.
+2. The phrase "ὁ υἱὸς Δ" can be found in Matthew 9:27, indicating a reference to a previous passage in the book of Matthew.
+
 ### Jamieson Fausset Brown:
-1. "Is not this the son of David?" - The people's question reflects their secret impression that this might be the long-awaited Messiah, but they hesitate to assert it openly to avoid the wrath of the religious leaders.
-2. "Questions put in this form suppose doubt, and expect rather a negative answer." - The interrogative form of the question suggests that the people are not fully convinced, but they are curious and intrigued by the possibility.
-3. "The people thus indicating their secret impression that this must be He." - The people's question reveals their underlying belief that this person could indeed be the Son of David, the promised Messiah.
+1. "Is not this the son of David?"—The people thus indicating their secret impression that this must be He.
+2. "Can it possibly be?"—the people expressing their doubt and expectation of a negative answer.
+3. "Saving themselves from the wrath of the ecclesiastics, which a direct assertion of it would have brought upon them."
 
 ### John Calvin:
-1. "For how came it that all admired, but because the fact compelled them to do so?"
+1. "Hence we infer, that there was a visible display of the power of God, which drew upon him the admiration of the great body of the people, who were not at all actuated by any wicked disposition."
 2. "And certainly there is not one of us, who does not see in this narrative, as in a mirror, an unwonted power of God."
-3. "Moved with admiration, those who saw it ask each other, Is not Jesus the Christ?"
-
-Note: The commentary provides additional insights and explanations, but these quotes capture the essence of the commentary and highlight the impact of the miracle on the people's perception of Jesus.
+3. "Moved with admiration, those who saw it ask each other, Is not Jesus the Christ? Acknowledging the power of God, they are led, as it were by the hand, to faith."
 
 ### Philip Schaff:
 1. "The effect of such a remarkable miracle on the people was astonishment."
@@ -23,20 +25,20 @@ Note: The commentary provides additional insights and explanations, but these qu
 
 ### Archibald T Robertson:
 1. "The form of the question expects the answer 'no,' but they put it so because of the Pharisaic hostility towards Jesus."
-2. "The multitudes 'were amazed' or 'stood out of themselves,' vividly portraying the situation."
+2. "The multitudes 'were amazed' or 'stood out of themselves' (εξισταντο), imperfect tense, vividly portraying the situation."
 3. "They were almost beside themselves with excitement."
 
 ### John Gill:
 1. "At the cure; it was such an instance of divine power, and so glaring a proof, that the person who wrought it was more than a man, and must be the Messiah."
-2. "This question they put, not as doubting of it, but as inclining, at least, to believe it, if not as expressing their certainty of it."
-3. "For from his miracles they rightly concluded who he was; though the Jews since, in order to deprive Jesus of this true characteristic of the Messiah, deny that miracles are to be performed by him."
+2. "This is to be understood of the greater part of the people, not of every individual, and of the common people only; for it had a different effect upon the Pharisees, as hereafter appears."
+3. "This question they put, not as doubting of it, but as inclining, at least, to believe it, if not as expressing their certainty of it: and is, as if they had said, who can this person be but the true Messiah, that has wrought such a miracle as this?"
 
 ### John Wesley:
-1. "This statement reflects the recognition of the people that Jesus was more than just a descendant of David; he was the long-awaited Messiah, the fulfillment of the prophecies." 
+1. "Is not this the son of David" - This question reveals the people's recognition of Jesus as the long-awaited Messiah, the descendant of David. It highlights their anticipation and hope for the fulfillment of God's promises through the coming of the Savior.
 
-2. "By acknowledging Jesus as the Son of David, the people were acknowledging his rightful claim to the throne of Israel and the fulfillment of God's promise to establish an eternal kingdom through the line of David." 
+2. "That is, the Messiah" - This clarification emphasizes the significance of Jesus' lineage as the son of David, connecting him to the messianic prophecies of the Old Testament. It underscores the belief that Jesus is the anointed one, the chosen one of God to bring salvation and establish his kingdom.
 
-3. "This declaration also highlights the significance of Jesus' lineage, connecting him to the rich history and covenantal promises of God's chosen people."
+3. "The Messiah" - This term encapsulates the people's understanding of Jesus' identity and role. It conveys the expectation that he would bring deliverance, redemption, and restoration to God's people, fulfilling the longings and hopes of generations. It signifies the belief in Jesus as the long-awaited Savior who would bring about God's kingdom on earth.
 
 
 ## Generation Details

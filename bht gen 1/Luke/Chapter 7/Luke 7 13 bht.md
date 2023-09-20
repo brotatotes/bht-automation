@@ -1,27 +1,35 @@
 # Luke 7:13 Commentary Help Text
 
 ## BHT:
-In this powerful biblical verse, the Lord demonstrates His compassion and understanding towards a grieving widow. The title "Lord" signifies His divine authority and loving care. With deep knowledge of her circumstances, He assures her not to weep, offering solace and assistance. This passage showcases the Lord's ability to empathize with human suffering and serves as a reminder of His unwavering support and comfort in times of sorrow.
+In this verse, the Lord, with His profound compassion, sees the widow's heartbreaking situation, aware of her loss and solitary state. His words, "Weep not," bring both comfort and assurance, revealing His desire to assist her. This passage showcases God's unwavering care and understanding, reminding us that even in the midst of our deepest sorrows, He is present, ready to offer solace and transform our mourning into joy.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The Lord—'This sublime appellation is more usual with Luke and John than Matthew; Mark holds the mean' [BENGEL]."
-2. "saw her, he had compassion, &c.—What consolation to thousands of the bereaved has this single verse carried from age to age!"
+1. "The Lord" - This appellation is more commonly used by Luke and John, highlighting the significance of this moment in Matthew's gospel. (BENGEL)
+2. "He had compassion" - The Lord's compassion in this verse has brought comfort to countless mourners throughout history. (BENGEL)
+3. "What consolation" - This single verse has carried immense consolation from generation to generation, offering solace to those who have experienced loss. (BENGEL)
 
 ### Marvin Vincent:
-1. "Woman, who brought death into our world, ought to lead the way in the funeral procession" - Jewish Social Life
-2. "Had compassion, from splagcna, the nobler entrails, regarded as the seat of the affections" - Matthew 21:3
-3. "See on pitiful, 1 Peter 3:8"
+1. "Had it been in Judaea, the hired mourners and musicians would have preceded the bier; in Galilee they followed."
+2. "First came the women; for, as an ancient Jewish commentary explains, woman, who brought death into our world, ought to lead the way in the funeral procession."
+3. "Had compassion [εσπλαγχνισθη]. From splagcna, the nobler entrails, regarded as the seat of the affections."
 
 ### Philip Schaff:
-1. "The title 'Lord' is peculiarly fitting here."
+1. "The title ‘Lord’ is peculiarly fitting here."
 2. "Weep not. The first sign of compassion; and a token of coming help."
-3. "Doubtless His words awakened faith... always affording to His people a ground for the command, 'weep not,' of which this miracle was only a sign."
+3. "Doubtless His words awakened faith... always affording to His people a ground for the command, ‘weep not,’ of which this miracle was only a sign."
+
+### Archibald T Robertson:
+1. "The Lord of Life confronts death." 
+2. "Love and pity are mentioned as the motives for Christ's miracles."
+3. "Cease weeping."
 
 ### John Gill:
-1. "When the Lord saw her, he had compassion on her." This quote highlights the empathy and kindness of the Lord, showing his ability to understand and feel the pain of others.
-2. "Knowing her case, that she was a widow, and had lost her only son." This quote emphasizes the Lord's awareness of the woman's situation, indicating his deep knowledge and understanding of individual circumstances.
-3. "Weep not; signifying, that he would help her." This quote reveals the Lord's desire to provide comfort and assistance, assuring the woman that her sorrow will be alleviated.
+1. "And when the Lord saw her, he had compassion on her..." - This verse highlights the deep empathy and compassion of the Lord towards the widow. It shows that God is not indifferent to our pain and suffering, but rather, He is moved with compassion and desires to bring comfort and help in our times of need.
+
+2. "Knowing her case, that she was a widow, and had lost her only son..." - This phrase emphasizes that God is aware of our individual circumstances and struggles. He sees and understands the specific challenges we face, and His compassion is rooted in His intimate knowledge of our situation.
+
+3. "Weep not; signifying, that he would help her..." - These words from the Lord reassure the widow that her sorrow will be turned into joy. It conveys the message that God is not only aware of our pain but also actively intervenes to bring comfort and support. His words of encouragement remind us that we can find solace and hope in His loving presence.
 
 
 ## Generation Details

@@ -1,22 +1,25 @@
 # Luke 4:9 Commentary Help Text
 
 ## BHT:
-In this verse, we see Jesus being led or brought to the pinnacle of the temple, challenging the forces of good and evil, as emphasized by Marvin Vincent's commentary. The reference to the previous mention of the pinnacle of the temple in Matthew 4:5 suggests a connection or similarity between these two accounts. John Gill's commentary sheds light on the temptation Jesus faces to prove his divinity and trust in God's protection, emphasizing the significance of obedience to God's will rather than seeking personal validation through miracles.
+In this verse, Jesus deliberately led or brought someone, possibly through the air, from the wilderness to the holy city, where they confronted each other. The pinnacle of the temple is mentioned, suggesting a location of significance. The wording in Matthew's account is more concise, while Luke adds to the description, indicating slight differences between the two Gospel narratives.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "He brought [ηγαγεν] . Rev., led." - This quote explains that the word "brought" in the verse can also be translated as "led," providing insight into the action of Jesus in the context of the passage.
+1. "He brought [ηγαγεν]. Rev., led." - This quote highlights the alternative translation of the word "brought" as "led," emphasizing the deliberate action of Jesus in guiding someone or something.
+2. "Pinnacle of the temple. See on Matthew 4:5." - This quote suggests that the reader refers to the commentary on Matthew 4:5 to gain a deeper understanding of the significance of the pinnacle of the temple in this context.
+3. "Down from hence. Matthew has down only." - This quote points out the difference in wording between the two Gospel accounts, indicating that Matthew's version of the event uses a more concise expression.
 
-2. "Pinnacle of the temple. See on Matthew 4:5." - This quote refers to a previous reference in Matthew 4:5, suggesting that there is a connection or similarity between the pinnacle of the temple mentioned in both verses.
-
-3. "Down from hence. Matthew has down only." - This quote highlights a difference in wording between the two Gospel accounts, indicating that Matthew's version of the event uses a simpler phrase compared to the one in the book of Luke.
+### Archibald T Robertson:
+1. "Satan does not misquote this Psalm, but he misapplies it and makes it mean presumptuous reliance on God."
+2. "It is not easy to determine precisely what it was."
+3. "Luke adds to the words in Matthew, which see."
 
 ### John Gill:
-1. "The act of bringing Jesus to Jerusalem and setting him on the pinnacle of the temple symbolizes the confrontation between good and evil, between Jesus and Satan." 
+1. "The holy city, as Matthew calls it, from the wilderness thither; where he found him, and first attacked him." 
+2. "Perhaps he brought him through the air."
+3. "From the pinnacle of the temple, on which he was set."
 
-2. "The temptation to cast himself down from the pinnacle of the temple challenges Jesus to prove his divinity and test God's protection." 
-
-3. "This temptation highlights the importance of trust and obedience to God's will, rather than seeking to prove oneself through miraculous acts."
+(Note: The quotes have been shortened for conciseness.)
 
 
 ## Generation Details

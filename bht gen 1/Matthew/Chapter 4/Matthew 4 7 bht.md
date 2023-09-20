@@ -1,13 +1,13 @@
 # Matthew 4:7 Commentary Help Text
 
 ## BHT:
-The verse in question teaches us the importance of not demanding further proof or evidence from God when He has already made His will clear to us. It warns against seeking additional signs or proofs, emphasizing the need to trust in God's word without doubting or questioning His plans. By resisting the temptation to require more evidence, we demonstrate our faith and trust in God's wisdom and guidance.
+The verse being described presents a warning against tempting or challenging God's authority or demanding further proof when His will has already been made clear. It advises believers to trust in God's wisdom and guidance, avoiding the temptation to doubt or seek unnecessary signs. The verse emphasizes the clarity and sufficiency of God's revelation, cautioning against questioning or misinterpreting His word. It serves as a reminder to have faith in God's promises and not to test or challenge His authority.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "πάλιν] not ‘contra,’ which it never simply means, not even in Galatians 5:3 ; 1 John 2:8 ; but ‘rursus’ or ‘iterum,’ as the versions rightly render it." 
-2. "The addition of a second Scripture qualifies and interprets the first; but does not refute it." 
-3. "The commentary emphasizes the importance of understanding the true meaning of πάλιν, which is not 'contra' but rather 'rursus' or 'iterum'."
+1. "πάλιν] not ‘contra,’ which it never simply means, not even in Galatians 5:3; 1 John 2:8; but ‘rursus’ or ‘iterum,’ as the versions rightly render it." 
+2. "The addition of a second Scripture qualifies and interprets the first."
+3. "But does not refute it."
 
 ### Jamieson Fausset Brown:
 1. "True, it is so written, and on that promise I implicitly rely; but in using it there is another Scripture which must not be forgotten."
@@ -34,17 +34,24 @@ The verse in question teaches us the importance of not demanding further proof o
 2. "Jesus answers: Thou shalt not tempt, turning it directly upon the tempter, for every tempting of God is caused by Satan."
 3. "By such rash confidence God would be tempted. The direct address involves another thought: that Satan in thus tempting Him was tempting the Lord his God."
 
+### Archibald T Robertson:
+1. "Thou shall not tempt": This commandment reminds us that we should not test or challenge God's power and protection. It is a reminder to trust in God's promises rather than trying to manipulate or doubt them.
+
+2. "Jesus quotes Deuteronomy again": By referencing the Old Testament, Jesus emphasizes the continuity and authority of God's word. He shows that the devil's misinterpretation of Scripture is misguided and deceptive.
+
+3. "The devil has wholly misapplied God's promise of protection": This statement highlights the devil's attempt to twist and distort God's words for his own purposes. It serves as a warning to be cautious of false interpretations and to seek a true understanding of God's promises.
+
 ### John Gill:
 1. "Christ takes no notice of the false and wrong citation of scripture made by the devil, nor of any misapplication of it; but mildly replies, by opposing another passage of scripture to him."
-2. "He thereby tacitly showing, that he had produced scripture to a very wrong purpose, since that could never contradict itself."
-3. "For a person to neglect the ordinary means of safety, and to expect, that as God can, so he will, preserve without the use of such means, is a tempting him."
+2. "He thereby tacitly shows that he had produced scripture to a very wrong purpose, since that could never contradict itself."
+3. "For a person to neglect the ordinary means of safety, and to expect that as God can, so he will preserve without the use of such means, is a tempting him."
 
 ### John Wesley:
-1. "Thou shalt not tempt the Lord thy God" - This verse reminds us not to demand further proof or evidence from God when He has already made His will clear to us. It is a call to trust in His wisdom and guidance without questioning or doubting His plans.
+1. "Thou shalt not tempt the Lord thy God" - This commandment warns against the dangerous act of demanding more evidence or proof from God, even when He has already made His will clear. It reminds us to trust in God's wisdom and guidance without constantly seeking reassurance. 
 
-2. "By requiring farther evidence of what he hath already made sufficiently plain" - This phrase emphasizes that God's revelation and instructions are already clear and sufficient. It warns against the danger of seeking additional signs or proofs, as it shows a lack of faith and trust in God's word.
+2. "By requiring farther evidence of what he hath already made sufficiently plain" - This phrase emphasizes that God's revelation and instructions are already clear and sufficient. It cautions against the temptation to doubt or question God's word, urging us to have faith in His wisdom and not to seek unnecessary signs or confirmation. 
 
-3. "By requiring farther evidence" - This phrase highlights the human tendency to doubt and question God's plans, even when He has already made His will known. It serves as a reminder to resist the temptation to demand more evidence and instead trust in God's wisdom and guidance.
+3. "Made sufficiently plain" - This phrase highlights the clarity and comprehensiveness of God's communication to His people. It suggests that God has already provided all the necessary information and guidance, leaving no room for doubt or the need for additional proof. It encourages believers to trust in the sufficiency of God's revelation and not to test or challenge His authority.
 
 
 ## Generation Details

@@ -1,9 +1,14 @@
 # Matthew 8:10 Commentary Help Text
 
 ## BHT:
-The passage describes a remarkable display of faith, highlighting the extraordinary nature of the belief shown by a Roman centurion. This faith, exceeding even that of the Israelites, is perceived as a marvel by Jesus Himself. The verse emphasizes the inclusive nature of God's kingdom, as the centurion's faith transcends nationality and challenges societal expectations. It serves as a reminder to examine our own beliefs and recognize that true faith knows no boundaries or limitations.
+The verse being described is a moment where Jesus encounters a Roman centurion with remarkable faith. Even Jesus himself is astonished by the depth of the centurion's belief, which surpasses that of the Israelites. This Gentile, a soldier no less, recognizes Jesus' authority and acknowledges his power to heal. It is a powerful testament that faith transcends cultural and religious boundaries, emphasizing the profound nature of a belief in Jesus.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "He wondered at it, or he deemed it remarkable."
+2. "The word 'faith,' here, means 'confidence' or belief that Christ had power to heal his servant."
+3. "If this was so, then he was the first Gentile convert to Christianity, and was a very early illustration of what was more clearly revealed afterward - that the pagan were to be brought to the knowledge of the truth."
+
 ### John Calvin:
 1. "Wonder cannot apply to God, for it arises out of what is new and unexpected: but it might exist in Christ, for he had clothed himself with our flesh, and with human affections."
 2. "It was no small matter to declare, in such lofty terms, the power of God, of which a few rays only were yet visible in Christ."
@@ -11,20 +16,25 @@ The passage describes a remarkable display of faith, highlighting the extraordin
 
 ### Philip Schaff:
 1. "He marvelled. Not to be explained away. Our Lord could marvel; a mystery of His humanity."
-2. "To them that followed. A multitude was probably near, all Jews."
-3. "With no man in Israel have I found so great faith. This is the sense of the correct reading, which however places last, for emphasis, the phrase, 'in Israel.' There greater faith might have been looked for, but a Gentile was the first to acknowledge Christ's power to heal at a distance."
+2. "With no man in Israel have I found so great faith. This is the sense of the correct reading, which however places last, for emphasis, the phrase, ‘in Israel.’"
+3. "There greater faith might have been looked for, but a Gentile was the first to acknowledge Christ’s power to heal at a distance."
 
 ### Archibald T Robertson:
-1. "So great faith (τοσαυτην πιστιν)." - This phrase emphasizes the exceptional nature of the faith displayed by the Roman centurion, surpassing even the faith of the Jews. It highlights the depth and strength of his belief in Jesus.
+1. "So great faith (τοσαυτην πιστιν)." - This phrase highlights the exceptional level of faith displayed by the Roman centurion, surpassing even that of the Jews. It emphasizes the remarkable nature of his belief in Jesus.
 
-2. "In like manner Jesus marvelled at the great faith of the Canaanitish woman (Matthew 15:28)." - Jesus' astonishment at the great faith of the Canaanitish woman further emphasizes the rarity and significance of such unwavering belief. It underscores the power of faith to move and impress even the Son of God.
+2. "In like manner Jesus marvelled at the great faith of the Canaanitish woman (Matthew 15:28)." - This comparison draws attention to another instance where Jesus was astonished by someone's faith, further emphasizing the significance of the centurion's faith.
 
-3. "Greater than in any of the Jews." - This statement emphasizes the contrast between the faith of the Roman centurion and that of the Jewish people. It suggests that the centurion's faith surpassed the religious leaders and followers of Jesus' own community, highlighting the unexpected source of such profound belief.
+3. "Greater than in any of the Jews." - This statement underscores the centurion's faith as being superior to that of the Jewish people, who were considered to be the chosen ones. It highlights the unexpected source of such profound belief in Jesus.
+
+### John Gill:
+1. "Which must be understood of him as man; for as God, nothing could present itself unto him at unawares, unthought of, and not known before; and so could not raise admiration in him."
+2. "Verily, I say unto you; a strong asseveration, and which Christ used, when he was about to deliver anything of considerable importance, and required attention."
+3. "And it was the more remarkable, that it came from a Gentile, and from a soldier too: but as great as it was, he did not exceed it; he did not ascribe more to Christ than was proper, and which, by the way, is a clear proof of our Lord's divinity."
 
 ### John Wesley:
-1. "The centurion's faith was remarkable because it surpassed the faith of those who were considered God's chosen people, the Israelites."
-2. "This verse highlights the inclusivity of God's kingdom, as it shows that faith is not limited to a particular nationality or religious background."
-3. "The centurion's faith challenges us to examine our own beliefs and reminds us that true faith is not bound by cultural or societal expectations."
+1. "The centurion's faith was so remarkable that even Jesus himself marveled at it, declaring that he had not found such great faith even among the people of Israel."
+2. "This statement highlights the fact that faith knows no boundaries or limitations. It transcends cultural and religious barriers, and it is the sincerity and depth of one's faith that truly matters."
+3. "The centurion's faith was characterized by humility and a recognition of Jesus' authority. He understood that Jesus had the power to heal his servant with just a word, and he believed in that power wholeheartedly."
 
 
 ## Generation Details

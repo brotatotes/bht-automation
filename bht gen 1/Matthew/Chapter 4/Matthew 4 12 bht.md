@@ -1,45 +1,57 @@
 # Matthew 4:12 Commentary Help Text
 
 ## BHT:
-This verse captures a pivotal moment in Jesus' ministry, when John the Baptist is imprisoned, leading Jesus to retreat to Galilee. This strategic decision showcases Jesus' wisdom and fulfills Old Testament prophecies. John's imprisonment serves as a reminder of the sacrifices made in proclaiming the truth, while Jesus' movement highlights the continuity and purpose in his ministry. The reasons for Jesus' withdrawal and his journey to Galilee are left open for speculation, inviting readers to consider the various factors at play. Despite the earthly circumstances, it is crucial to recognize the heavenly and divine power that Jesus embodies.
+After John the Baptist was imprisoned, Jesus embarked on a purposeful journey into Galilee. This move was not hasty, but a calculated response to the opposition from the Pharisees. It was part of Jesus' larger ministry plan, as he had previously traveled from Judea to Galilee. During this time, Jesus continued his own ministry, baptizing in Judea while John the Baptist carried out his baptisms at Enon, highlighting the parallel nature of their work.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The narrative is evidently taken up after an interval, and without any intention that it should follow closely on Matthew 4:11."
+2. "Wieseler, Chron. Synops. pp. 162 ff., sees in this a proof that St. Matthew recognized a ministry in Judæa during the interval."
+3. "Certainly he does not exclude it."
+
 ### Jamieson Fausset Brown:
-1. "Now when Jesus had heard that John was cast into prison" - This verse highlights the beginning of a significant event in Jesus' ministry, as it marks the moment when John the Baptist is imprisoned. It sets the stage for Jesus to step into a more prominent role and continue the work of proclaiming the kingdom of God.
+1. "Now when Jesus had heard that John was cast into prison—more simply, 'was delivered up,' as recorded in Matthew 14:3-5; Mark 6:17-20; Luke 3:19; Luke 3:20."
 
-2. "He departed into Galilee" - Jesus' decision to withdraw to Galilee after hearing about John's imprisonment shows his wisdom and strategic approach to his ministry. It also foreshadows the fulfillment of Old Testament prophecies that the Messiah would come from Galilee.
+2. "He departed—rather, 'withdrew.'"
 
-3. "More simply, 'was delivered up'" - This phrase emphasizes the injustice and betrayal that John the Baptist experienced. It reminds us of the cost and sacrifice that often accompany the proclamation of truth and the fulfillment of God's purposes.
+3. "Into Galilee—as recorded, in its proper place, in Luke 3:20- :."
 
 ### Albert Barnes:
-1. "John was cast into prison" - This highlights the challenging circumstances that John the Baptist faced, which adds depth to his role as a prophet and precursor to Jesus.
-2. "He departed into Galilee" - This reference to Jesus' movement into Galilee connects with his earlier experiences and actions, emphasizing the continuity and purpose in his ministry.
-3. "The reasons why Jesus then went into Galilee were probably" - This phrase indicates that there is speculation about Jesus' motivations, inviting readers to consider the various factors that may have influenced his decision.
+1. "John was cast into prison" - This highlights the challenging circumstances that John the Baptist faced, emphasizing his sacrifice and commitment to his beliefs.
+2. "For an account of the imprisonment of John see Matthew 14:1-13" - This reference directs readers to further explore the specific details of John's imprisonment, encouraging a deeper understanding of the context surrounding the verse.
+3. "He departed into Galilee" - This statement indicates Jesus' movement and journey, suggesting a purposeful action and potentially foreshadowing significant events or teachings that may occur in Galilee.
+
+### Marvin Vincent:
+1. "The verb means, first, to give, or hand over to another."
+2. "So, to surrender a city or a person, often with the accompanying notion of treachery."
+3. "The Rev., therefore, rightly renders, was delivered up."
 
 ### John Calvin:
-1. "Our three Evangelists pass over in silence that short space of time, because John's course was not yet completed, and because that course was intended to be a preparation for receiving the Gospel of Christ."
+1. "Our three Evangelists pass over in silence that short space of time, because John’s course was not yet completed, and because that course was intended to be a preparation for receiving the Gospel of Christ."
 2. "Though Christ discharged the office of teacher within that period, he did not, strictly speaking, begin to preach the Gospel, till he succeeded to John."
 3. "It is of great consequence, that we do not imagine Christ to have anything about him that is earthly or human, but that our minds be always occupied, and our feelings affected by his heavenly and divine power."
 
 ### Philip Schaff:
-1. "Delivered up, i.e., into prison by Herod the tetrarch." 
-2. "A withdrawal from prudence, hinting that He had been teaching in Judea."
-3. "The withdrawal was not through fear of him. It was due to the opposition of the Pharisees."
+1. "Delivered up, i.e., into prison by Herod the tetrarch. The common version gives an explanation, not a literal translation." 
+2. "A withdrawal from prudence, hinting that He had been teaching in Judea." 
+3. "Herod was tetrarch of Galilee, hence the withdrawal was not through fear of him. It was due to the opposition of the Pharisees."
 
 ### Archibald T Robertson:
-1. "The reason for Christ's return to Galilee is given here to be that John had been delivered up into prison." 
-2. "The Synoptic Gospels skip from the temptation of Jesus to the Galilean ministry, a whole year." 
+1. "The reason for Christ's return to Galilee is given here to be that John had been delivered up into prison."
+2. "The Synoptic Gospels skip from the temptation of Jesus to the Galilean ministry, a whole year."
 3. "John supplies items to help fill in the picture. Christ's work in Galilee began after the close of the active ministry of the Baptist who lingered on in prison for a year or more."
 
 ### John Gill:
 1. "John was cast into prison by Herod; the reason of it may be seen in Matthew 14:3."
-2. "Here he continued some time before he was put to death; for from hence he sent two disciples to Jesus, to know if he was the Messiah, Matthew 11:2."
+2. "The prison into which he was cast, according to Josephus, was the castle of Machaeras."
 3. "Now when Jesus heard of this his imprisonment, he departed into Galilee; not so much on account of safety, or for fear of Herod, but to call his disciples, who lived in that country."
 
 ### John Wesley:
-1. "He retired into Galilee" - This journey was not immediately after his temptation. He first went from Judea into Galilee, John 1:43; 2:1.
-2. "Then into Judea again, and celebrated the passover at Jerusalem" - He baptized in Judea while John was baptizing at Enon, John 3:22,23.
-3. "But the Pharisees being offended, John 4:1; and John put in prison, he then took this journey into Galilee" - Mark 1:14.
+1. "He retired into Galilee" - This journey into Galilee was not immediate after his temptation, but rather a strategic move after John the Baptist was put in prison. It was a response to the growing offense of the Pharisees (John 4:1). 
+
+2. "He first went from Judea into Galilee" - Jesus had already traveled from Judea to Galilee before, as mentioned in John 1:43 and 2:1. This indicates that his journey into Galilee was not a random decision, but a deliberate choice.
+
+3. "He baptized in Judea while John was baptizing at Enon" - During this period, Jesus was actively engaged in his ministry, baptizing in Judea while John the Baptist was baptizing at Enon (John 3:22,23). This highlights the parallel nature of their ministries and the significance of Jesus' actions.
 
 
 ## Generation Details

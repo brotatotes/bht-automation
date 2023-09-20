@@ -1,27 +1,33 @@
 # Matthew 21:15 Commentary Help Text
 
 ## BHT:
-In the midst of Jesus' triumphant entrance into the city and His subsequent actions in the temple, we see a multifaceted scene unfold. Children, caught up in the excitement, join in the joyful cries, showcasing the widespread impact of Jesus' ministry even on the youngest members of society. Meanwhile, the presence of the traders and the enemies of Christ seek to undermine His authority and gather evidence against Him. Amidst it all, Jesus performs remarkable healings, captivating the attention of not only the children but also the blind and lame who witness the miracles.
+In this Bible verse, we see the undeniable impact and significance of Jesus' entry into Jerusalem. The eager and enthusiastic participation of young children contributes to the fervor and anticipation surrounding his arrival. Despite the disapproval and animosity of the religious leaders, the resounding cries of "Hosanna" from the children cannot be silenced. Through his actions, Jesus exposes the greed and corruption of the money changers and sellers, demonstrating his unwavering authority and power, even in the face of formidable opposition.
 
 ## Choicest Commentary Quotes:
+### John Calvin:
+1. "God would rather make the stones cry out than permit the reign of His Son to be forgotten."
+2. "Their displeasure arose from ungodly malice and outrageous contempt of God."
+3. "Christ appropriately replies, that they gain nothing by endeavoring to suppress the doctrine of salvation, for it will rather break out from the stones."
+
 ### Philip Schaff:
-1. "Including all His doings, especially this driving out of the traders."
+1. "Including all His doings, especially this driving out of the traders." 
 2. "The Hosannas of the day of entry were kept up by the children, probably only by the children."
-3. "The children that were crying in the temple."
 
 ### Archibald T Robertson:
 1. "The children (τους παιδας). Masculine and probably boys who had caught the enthusiasm of the crowd."
 
-2. "These children were not mere spectators, but active participants in the excitement and fervor of the moment."
+2. "These children were not mere spectators, but active participants in the excitement and energy of the moment."
 
-3. "Their presence and involvement in the event highlights the universal appeal and impact of Jesus' ministry, even on the youngest members of society."
+3. "Their presence and involvement in the crowd added to the sense of fervor and anticipation surrounding Jesus' entry into Jerusalem."
+
+4. "The inclusion of the children in this scene highlights the universal appeal and impact of Jesus' ministry, even on the youngest members of society."
+
+5. "Their presence serves as a reminder that faith and enthusiasm for Jesus can be found in people of all ages, and that no one is too young or insignificant to be touched by his message."
 
 ### John Gill:
-1. "The inveterate enemies of Christ; who upon hearing the shouts of the people at Christ's entrance into the city, and passage through it to the temple; and understanding that it was Jesus of Nazareth that was come thither, they came also to awe the people, and pick up what they could against him." 
-
-2. "When these traders were so many, and in great power, and he a single person, and unarmed; and that the blind received their sight, and the lame were cured, and the children crying in the temple; who came from the various parts of the city, with their parents, to see the sight."
-
-3. "The form they had taken up from the people, and might be encouraged by their parents; and which they pronounced without fear of the high priests, and Scribes, being disposed, directed, and overruled hereunto by the providence of God."
+1. "The inveterate enemies of Christ... came also to awe the people, and pick up what they could against him." 
+2. "He [Jesus] overturned the tables of the money changers, and the seats of those that sold doves, without any opposition, when these traders were so many, and in great power, and he a single person, and unarmed."
+3. "The high priests and Scribes took notice of [the children crying 'Hosanna'] with great resentment: they were sore displeased."
 
 
 ## Generation Details

@@ -1,30 +1,40 @@
 # Luke 2:48 Commentary Help Text
 
 ## BHT:
-The verse describes the profound amazement of Joseph and Mary upon seeing Jesus in the company of renowned scholars. They were astonished and struck by the fact that he was highly regarded among the doctors. Addressing Jesus, Mary tenderly asked why he had caused them such concern and worried them greatly. The verse reflects the deep love, concern, and anxiety of Joseph and Mary, who were filled with overwhelming emotions upon finding Jesus.
+Amidst the confusion and amazement of Mary and Joseph, their search for Jesus led them to a moment of astonishment. Mary's plea reveals her deep concern and affection for her son, as she questions why he has caused them such distress. Their genuine astonishment highlights the special nature and power they were witnessing in Jesus, a boy who surpassed their understanding and expectations. This encounter serves as a reminder of the complexities of familial relationships and the depth of love and care parents have for their children.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "Why hast thou thus dealt with us?" - This quote highlights the confusion and frustration of Mary and Joseph as they question why they had to go through such trouble and anxiety in searching for Jesus. It reflects their human emotions and the challenges they faced in understanding God's plan.
+
+2. "Thy father" - This quote explains the cultural context of Joseph being referred to as Jesus' father, even though he was not his biological father. It sheds light on the societal norms and the way Joseph was recognized as Jesus' legal father.
+
+3. "Sorrowing" - This quote captures Mary's state of anxiety and worry as she searched for Jesus. It reveals her deep concern for his safety and well-being, providing insight into the emotional turmoil she experienced during this time.
+
 ### Marvin Vincent:
-1. "They were amazed [εξεπλαγησαν]. A very strong word; the verb meaning, literally, to strike out or drive away from; and so to drive out of one's senses. Hence in the general sense of great amazement."
-2. "Son [τεκνον]. Lit., child. See on Matthew 1:1."
+1. "They were amazed [εξεπλαγησαν] . A very strong word; the verb meaning, literally, to strike out or drive away from; and so to drive out of one's senses. Hence in the general sense of great amazement."
+2. "Amaze is to throw into a maze or labyrinth; and so is closely akin to the Greek word here, and is a faithful rendering."
 3. "Thy father. 'Up to this time Joseph had been so called by the holy child himself; but from this time never' (Alford)."
 
+### John Calvin:
+1. "Those who think that the holy virgin spake in this manner, for the purpose of showing her authority, are, in my opinion, mistaken."
+2. "The holy virgin would a thousand times rather have died, than deliberately preferred herself to God: but, in the indulgence of a mother’s grief, she falls into it through inadvertency."
+3. "This example warns us, how jealous we ought to be of all the affections of the flesh, and what care we ought to exercise, lest, by being too tenacious of our rights, and following our own desires, we defraud God of his honor."
+
 ### Philip Schaff:
-1. "This indicates that there was a special reason for her speaking rather than Joseph."
+1. "His mother said unto him. This indicates that there was a special reason for her speaking rather than Joseph."
 2. "But the answer shows that these chapters were not written to unduly exalt Mary."
-3. "This separates Him at once from all other boys."
+3. "There is a tone of reproach in the question, and also a hint that Jesus had never before grieved the mother’s heart. This separates Him at once from all other boys."
 
 ### Archibald T Robertson:
-1. "They were astonished." - The word "astonished" conveys the depth of Joseph and Mary's surprise and amazement at what they witnessed. It highlights the profound impact of the events surrounding Jesus' birth on them.
-
-2. "Joseph and Mary 'were struck out' by what they saw and heard." - This phrase emphasizes the overwhelming nature of the experience for Joseph and Mary. It suggests that they were deeply affected and moved by the extraordinary events surrounding Jesus' birth.
-
-3. "Parents often fail to perceive the wealth of nature in their children." - This statement reflects a broader truth about human nature and parenting. It suggests that Joseph and Mary, like many parents, may not have fully recognized or understood the true potential and greatness within their child, Jesus.
+1. "They were struck out by what they saw and heard."
+2. "Even they had not fully realized the power in this wonderful boy."
+3. "Parents often fail to perceive the wealth of nature in their children."
 
 ### John Gill:
 1. "When Joseph and Mary saw him amidst the doctors, they were astonished that he was admitted among them, and had in such esteem by them."
-2. "Son, why hast thou thus dealt with us? Which was said with great tenderness of affection, and in much mildness."
-3. "Behold, thy father and I have sought thee sorrowing; with great grief, anxiety, and solicitude, fearing lest some evil had befallen him."
+2. "Son, why hast thou thus dealt with us? Which was said with great tenderness of affection, and in much mildness; and may be a pattern to parents, who should not provoke their children to anger, but deal gently and tenderly with them."
+3. "Mary calls Joseph his father, though she knew he was not, in a proper sense; but because he was supposed to be so, and was his father by the law of marriage; and especially, she might call him so because of his paternal care of him in his education, and bringing him up."
 
 
 ## Generation Details

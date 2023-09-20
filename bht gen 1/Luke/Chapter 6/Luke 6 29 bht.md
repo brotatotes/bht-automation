@@ -1,20 +1,25 @@
 # Luke 6:29 Commentary Help Text
 
 ## BHT:
-In this verse, we are taught the importance of responding to mistreatment and injustice with love and grace. Jesus's command to "turn the other cheek" is not an endorsement of passivity, but an invitation to break the cycle of violence and seek reconciliation. It challenges our natural inclination for revenge, reminding us to trust in God's justice and prioritize forgiveness over retaliation. The mention of personal honor and property highlights the seriousness of the offense, urging us to embody Christian love even in the face of wrongdoing.
+In Matthew 5:39, believers are challenged to respond to violence or harm with love and forgiveness, contradicting our natural inclination for revenge. This teaching promotes non-violence and peace, resisting the cycle of violence and breaking the chain of hatred. By embodying Christ's teachings, we are called to respond to aggression with love, grace, and forgiveness rather than aggression itself. The verse reminds us not to seek private revenge but to bear injuries and affronts with patience, offering the other cheek and forgoing our cloak if necessary.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The command to turn the other cheek is not a passive acceptance of abuse or violence, but rather a call to respond with love and grace, refusing to retaliate in kind." 
+1. "The verse in Matthew 5:39 ff. challenges believers to turn the other cheek when faced with violence or harm. This teaching goes against the natural instinct of seeking revenge or retaliation, and instead promotes a response of love and forgiveness." 
 
-2. "By offering the other cheek, we demonstrate our willingness to break the cycle of violence and seek reconciliation, even in the face of injustice." 
+2. "By turning the other cheek, believers demonstrate their commitment to the principles of non-violence and peace. It is a powerful act of resistance against the cycle of violence and a way to break the chain of hatred." 
 
-3. "This command challenges our natural inclination to seek revenge and instead invites us to trust in God's justice, knowing that He will ultimately make all things right."
+3. "This verse reminds us that as followers of Christ, our response to aggression should not be one of aggression, but rather one of love, grace, and forgiveness. It is a call to embody the teachings of Jesus and to respond to evil with good."
+
+### Marvin Vincent:
+1. "The blow intended is not, therefore, a mere slap, but a heavy blow; an act of violence rather than of contempt."
+2. "Taketh away [αιροντος] . Lit., taketh up, lifteth."
+3. "Cloke - coat. See on Matthew 5:40."
 
 ### Archibald T Robertson:
-1. "Sticklers for extreme literalism find trouble with the conduct of Jesus in John 18:22 where Jesus, on receiving a slap in the face, protested against it."
-2. "Here the upper and more valuable garment (ιματιον) is first taken, the under and less valuable χιτων last."
-3. "Aorist subjunctive in prohibition against committing an act. Do not hinder him in his robbing."
+1. "It seems an act of violence rather than contempt."
+2. "Sticklers for extreme literalism find trouble with the conduct of Jesus in John 18:22 where Jesus, on receiving a slap in the face, protested against it."
+3. "Here the upper and more valuable garment (ιματιον) is first taken, the under and less valuable χιτων last."
 
 ### John Gill:
 1. "Christ teaches patience in bearing injuries and affronts, and not to seek private revenge."
@@ -22,11 +27,11 @@ In this verse, we are taught the importance of responding to mistreatment and in
 3. "Forbid not to take thy coat also."
 
 ### John Wesley:
-1. "To him that smiteth thee on the cheek...taketh away thy cloak" - These expressions highlight the violation of personal honor and property, emphasizing the depth of the offense being committed against you.
+1. "To him that smiteth thee on the cheek - Taketh away thy cloak - These seem to be proverbial expressions, to signify an invasion of the tenderest points of honour and property." 
 
-2. "Offer the other...forbid not thy coat" - This suggests that it is better to endure further mistreatment or injury than to respond with retaliation, emphasizing the importance of embodying Christian love and forgiveness.
+2. "Offer the other - Forbid not thy coat - That is, rather yield to his repeating the affront or injury, than gratify resentment in righting yourself; in any method not becoming Christian love." 
 
-3. "Rather yield to his repeating the affront or injury than gratify resentment" - This quote emphasizes the need to prioritize love and forgiveness over seeking revenge or asserting one's own rights, encouraging a response that is in line with Christian values.
+3. "Matthew 5:39."
 
 
 ## Generation Details

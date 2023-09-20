@@ -1,18 +1,23 @@
 # Matthew 24:45 Commentary Help Text
 
 ## BHT:
-This verse speaks about a servant, specifically those in prominent positions, who are called to be vigilant, sober, and diligent in their responsibilities. They are reminded that their elevated status comes with a greater burden and must not be used for self-indulgence. As stewards of God's word and entrusted with leading others, they are called to be faithful and wise, diligently carrying out their duties and continually aware that their role is one of service and accountability.
+The verse being described emphasizes the importance of being faithful and wise servants. It reminds believers to be punctual and diligent, carrying out their responsibilities promptly. It stresses the significance of timing and being attentive to the appointed time for action. The verse also highlights that those in positions of leadership, such as apostles and ministers, are called to exercise fidelity, wisdom, and proper stewardship over the things entrusted to them. Ultimately, the verse invites individuals to aspire to be faithful and wise servants, constantly mindful of their duty to fulfill God's purposes.
 
 ## Choicest Commentary Quotes:
+### Marvin Vincent:
+1. "In due season" refers to the regular hours that the Lord observes when at home, emphasizing the importance of being punctual and diligent in fulfilling one's duty.
+2. The phrase also serves as a reminder not to delay or become complacent, thinking that the Lord's coming is delayed. Instead, one should continue to faithfully carry out their responsibilities.
+3. The concept of "in due season" highlights the significance of timing and being attentive to the appointed time for action, suggesting that there is a divine order and purpose to be fulfilled.
+
 ### John Calvin:
-1. "Christ had formerly exhorted the whole family in general to watch for his coming, so now he demands extraordinary care from the principal servants, who had been appointed over others for the purpose of pointing out, by their example, the path of sobriety, watchfulness, and strict temperance."
-2. "By these words he reminds them that they were not elevated to high rank for the purpose of indulging in ease, indolence, and pleasure; but that, the higher the rank of honor which they had obtained, the heavier was the burden which was laid on them."
-3. "Let all who are called to an honorable office learn from this, that they are so much the more strongly bound, not only to bestow their labor faithfully, but to strive with their utmost zeal and industry to discharge their duty."
+1. "Christ having declared that the suddenness and uncertainty of his coming led to such danger as left no room for sloth, Peter asked, if this doctrine was general, or if it belonged to the twelve alone."
+2. "But the object of Christ’s reply is, to show that, if each of the common people ought to watch, much less ought it to be endured that the apostles should be asleep."
+3. "By these words he reminds them that they were not elevated to high rank for the purpose of indulging in ease, indolence, and pleasure; but that, the higher the rank of honor which they had obtained, the heavier was the burden which was laid on them; and therefore he declares that it is especially demanded from such persons that they exercise fidelity and wisdom."
 
 ### Philip Schaff:
 1. "Faithfulness alone is success."
-2. "Ministers of Christ are referred to, since these are elsewhere represented as 'set' by Him in the Church."
-3. "The food is God's word, which is to be rightly divided."
+2. "The food is God's word, which is to be rightly divided."
+3. "It is the 'faithful servant' whom the Lord has set over the household."
 
 ### John Gill:
 1. "The 'servant' is there called a 'steward', for such a servant is meant; and a name that is very proper for the apostles and ministers of the word, who are stewards of the mysteries of Christ, and of the manifold grace of God."

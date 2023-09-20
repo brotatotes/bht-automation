@@ -1,13 +1,20 @@
 # Matthew 2:4 Commentary Help Text
 
 ## BHT:
-The gathered religious elites, including the high priest, scribes, and chief men, formed a formidable council known as the Sanhedrin. With their vast knowledge and interpretation of the law, they held both civil and religious power, making them the ultimate authority. Herod sought their theological expertise to pinpoint the birthplace of the prophesied Messiah in a sinister plan. Their opposition to Jesus revealed their deep contempt and united front against his teachings, posing a significant challenge for him to confront established religious authority.
+The verse describes a scene where Herod assembles the Sanhedrin, seeking to confirm the birthplace of a prophesied Messiah. The chief priests, including the high priest and his predecessors, along with the scribes, experts in interpreting the Scriptures, gather together to give counsel. The account highlights the power and influence of the religious leaders, their knowledge of prophecy, and their united opposition to Jesus, revealing their fear and intent to eliminate him.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "He assembled the Sanhedrim."
+2. "The ἀρχιερεῖς are most likely the High Priest and those of his race."
+3. "The γρ . consisted of the teachers and interpreters of the Divine law."
+4. "The present tense is often used indefinitely of subjects of prophecy."
+
 ### Jamieson Fausset Brown:
-1. "The class of 'chief priests' included the high priest for the time being, together with all who had previously filled this office... The 'scribes' were at first merely transcribers of the law and synagogue readers; afterwards interpreters of the law, both civil and religious, and so both lawyers and divines."
-2. "The first of these classes, a proportion of the second, and 'the elders'... constituted the supreme council of the nation, called the Sanhedrim, the members of which, at their full complement, numbered seventy-two."
-3. "That this was the council which Herod now convened is most probable, from the solemnity of the occasion... it was all the theologians of the nation whom Herod convened, because it was a theological response that he wanted."
+1. "The class of the 'chief priests' included the high priest for the time being, together with all who had previously filled this office; for though the then head of the Aaronic family was the only rightful high priest, the Romans removed them at pleasure, to make way for creatures of their own."
+2. "The 'scribes' were at first merely transcribers of the law and synagogue readers; afterwards interpreters of the law, both civil and religious, and so both lawyers and divines."
+3. "That this was the council which Herod now convened is most probable, from the solemnity of the occasion; for though the elders are not mentioned, we find a similar omission where all three were certainly meant."
+
 
 ### Albert Barnes:
 1. "By the chief priests and scribes here mentioned is denoted the Sanhedrin or great council of the nation. This was composed of 72 men, who had the charge of the civil and religious affairs of the Jews."
@@ -16,7 +23,7 @@ The gathered religious elites, including the high priest, scribes, and chief men
 
 ### Marvin Vincent:
 1. "The office had become a lucrative one, and frequently changed hands."
-2. "The first temple had only eighteen high-priests from first to last, while the second temple had more than three hundred high-priests."
+2. "The first temple... had only eighteen high-priests from first to last; while the second temple... had more than three hundred high-priests."
 3. "Besides the high-priest in actual office, there might be others who had been his predecessors, and who continued to bear the name, and in part the dignity."
 
 ### John Calvin:
@@ -29,12 +36,22 @@ The gathered religious elites, including the high priest, scribes, and chief men
 2. "The Magi, with less knowledge but more faith, were nearer the truth."
 3. "The indifference of the former was hostility in the germ."
 
+### Archibald T Robertson:
+1. "The prophetic present (γεννατα) is given, the very words of Herod retained by Matthew's report."
+2. "The imperfect tense (epunthaneto) suggests that Herod inquired repeatedly, probably of one and another of the leaders gathered together, both Sadducees (chief priests) and Pharisees (scribes)."
+3. "Herod was desperately in earnest to learn what the Jews really expected about the coming of 'the Messiah.'"
+
+### John Gill:
+1. "Here we have an account of Herod's conduct at this juncture; he calls a council, assembles the sanhedrim, gathers together the more learned persons in the city to consult with them upon this matter." 
+2. "The chief priests, all of which he gathered together, and which seem to be many; and were not only the then present high priest and his substitutes, but all the principal persons of the priesthood."
+3. "Herod's pretence, no doubt, in putting this question was, that he might be able to satisfy the wise men of the East about this matter; though the true reason within himself was, that he might know where this new born king was, in order to destroy him."
+
 ### John Wesley:
-1. "The chief priests were not just the high priest and his deputy, but also included the chief men from each of the twenty-four divisions of priests. This shows the wide representation and authority of the religious leaders at the time." 
+1. "The chief priests were not only the high priest and his deputy, but also the chief men in each of the twenty-four courses of priests. This shows the wide-reaching influence and authority of the religious leaders at the time." 
 
-2. "The scribes, known as the doctors of the law, had the important role of explaining the Scriptures to the people. They were the public preachers and expounders of the law of Moses, providing guidance and interpretation to the community." 
+2. "The scribes were the ones responsible for explaining the Scriptures to the people. They were the public preachers and expounders of the law of Moses. Their role as doctors of the law highlights their expertise and knowledge in interpreting and teaching the sacred texts." 
 
-3. "The combination of the chief priests and the scribes in opposing Jesus highlights the unified front of religious authority against him. It underscores the significant challenge he faced in challenging the established religious order and teachings."
+3. "The presence of both the chief priests and the scribes in this verse emphasizes the collaboration between the religious and scholarly authorities in opposing Jesus. It underscores the united front against him and the extent to which they were threatened by his teachings and actions."
 
 
 ## Generation Details

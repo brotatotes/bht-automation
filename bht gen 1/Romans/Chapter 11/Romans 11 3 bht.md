@@ -1,23 +1,37 @@
 # Romans 11:3 Commentary Help Text
 
 ## BHT:
-In this verse, we find Elijah experiencing moments of doubt and weakness, reminding us that even the most faithful servants of God go through such struggles. God's question to Elijah serves as an invitation to reflect on his purpose and actions, challenging him to evaluate his motives. God's response is not a rebuke, but an affirmation of His presence and power, reminding Elijah that even in his darkest moments, God is with him. This encounter teaches us that God can speak to us in the quiet whispers of our hearts and accomplish His purposes through the seemingly insignificant.
+In the midst of his despair and isolation, Elijah cries out to God, expressing his deep frustration and exhaustion. However, God responds with a gentle reminder of His sovereignty, inviting Elijah to witness His power on the mountain. This serves as a reminder that even in our moments of doubt and weakness, God is still in control and His presence can be found in unexpected ways. As we navigate through the chaos of life, we are encouraged to actively listen for God's voice in the quiet moments, for it is in those times that He often makes His presence known.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The phrase 'I am left alone' conveys a sense of isolation and loneliness, highlighting the prophet's feelings of being the sole survivor and the weight of his responsibility."
-2. "By emphasizing that he is 'only' left, the prophet underscores his sense of being the last faithful servant of God, standing apart from the rest of the people who have turned away from Him."
-3. "This statement also reveals the prophet's deep sense of personal commitment and dedication to God, as he recognizes that he is the sole representative of God's truth and righteousness in a world that has strayed from His path."
+1. "This statement by Elijah reveals his deep sense of isolation and loneliness. Despite his great faith and courage, he felt overwhelmed by the opposition and persecution he faced. It is a reminder that even the strongest and most faithful individuals can experience moments of doubt and despair."
+
+2. "Elijah's feeling of being the only one left also highlights the importance of community and support. It serves as a reminder that we are not meant to face our struggles alone, but rather to lean on and encourage one another in times of difficulty."
+
+3. "Elijah's sense of being alone can also be seen as a reflection of the spiritual battle he was engaged in. It is a reminder that when we stand up for what is right and follow God's calling, we may face opposition and feel isolated. However, we can find comfort in knowing that God is always with us, even in our darkest moments."
 
 ### Albert Barnes:
 1. "The fact was true that they had killed the prophets, etc.; 1 Kings 18:4, 1 Kings 18:13; but the inference which Elijah seems to have drawn from it, that there were no pious people in the nation, was not well founded."
 2. "Altars, by the Law of Moses, were required to be made of earth or unhewn stones; Exodus 20:24-25. Hence, the expression to dig them down means completely to demolish or destroy them."
 3. "There could scarcely be conceived a time of greater distress and declension in religion than this. It has not often happened that so many things that were disheartening have occurred to the church at the same period of time."
 
+### Marvin Vincent:
+1. "They have killed thy prophets - and digged, etc. Paul gives the first two clauses in reverse order from both Septuagint and Hebrew."
+2. "Soul [ψυχη] , of itself, does not constitute personality, but only when it is the soul of a human being. Human personality is derived from spirit [πνευμα] , and finds expression in soul or life [ψυχη]."
+3. "Yuch soul is thus: 1. The individual life, the seat of the personality. 2. The subject of the life, the person in which it dwells. 3. The mind as the sentient principle, the seat of sensation and desire."
+
 ### Philip Schaff:
 1. "Thine altars. The plural points to the altars as the high places in the kingdom of Israel where Elijah lived. Although it was originally forbidden to erect such altars, they became the only places in Israel where Jehovah was publicly worshipped. Hence in the time of Elijah neglect of these was really neglect of worship."
-2. "I am left alone, or, 'the only one.' The latter rendering corresponds better with the LXX., but is somewhat stronger than Paul's citation. The language of Elijah meant that he was the only prophet left; while the transposition of the clauses suggests here the further notion: I am the only true worshipper of Jehovah. It is not necessary to suppose that the Apostle has departed from the original sense."
+
+2. "I am left alone, or, ‘the only one.’ The latter rendering corresponds better with the LXX., but is somewhat stronger than Paul’s citation. The language of Elijah meant that he was the only prophet left; while the transposition of the clauses suggests here the further notion: I am the only true worshipper of Jehovah. It is not necessary to suppose that the Apostle has departed from the original sense."
+
 3. "They seek my life. See 1 Kings 19:1-2."
+
+### Archibald T Robertson:
+1. "Paul has reversed the order of the LXX of 1 Kings 19:10; 1 Kings 19:14; 1 Kings 19:18."
+2. "Elijah's mood was that of utter dejection in his flight from Jezebel."
+3. "It is not possible to draw a clear distinction between ψυχη (soul) and πνευμα (spirit)."
 
 ### John Gill:
 1. "This sin of slaying the prophets of the Lord is charged upon the Jews by Christ, Matthew 23:31, and by the apostle, 1 Thessalonians 2:15."
@@ -25,15 +39,11 @@ In this verse, we find Elijah experiencing moments of doubt and weakness, remind
 3. "And I am left alone: meaning either as a prophet, not knowing that Obadiah had hid an hundred prophets by fifty in a cave, 1 Kings 18:4; or else as a worshipper of the true God, imagining that he was the only person in Israel, that had a true zeal for the Lord of hosts."
 
 ### John Wesley:
-1. "Elijah's despair and fear in this verse remind us that even the most faithful servants of God can experience moments of doubt and weakness. It is a reminder that we are all human and susceptible to the trials and tribulations of life."
+1. "Elijah's complaint to God reveals the depth of his despair and his feelings of isolation. It is a cry of frustration and exhaustion, as he laments that he is the only faithful prophet left in Israel. This quote highlights the human side of Elijah, showing that even the most faithful servants of God can experience moments of doubt and weakness."
 
-2. "The question 'What are you doing here, Elijah?' is not just a simple inquiry from God. It is a profound invitation for Elijah to reflect on his purpose and calling. It challenges him to examine his motives and reevaluate his actions."
+2. "God's response to Elijah's complaint is a gentle reminder that He is still in control. By asking Elijah to stand on the mountain, God is inviting him to witness His power and presence. This quote emphasizes the importance of seeking God's perspective in times of despair, as He often reveals Himself in unexpected ways."
 
-3. "God's response to Elijah's despair is not a rebuke, but an affirmation of His presence and power. It is a reminder that even in our darkest moments, God is with us and will provide the strength and guidance we need to carry on."
-
-4. "Elijah's encounter with God in the still small voice teaches us that sometimes, God speaks to us not in grand displays of power, but in the quiet whispers of our hearts. It is a reminder to be attentive and listen for His gentle guidance in our lives."
-
-5. "This verse serves as a reminder that God's work is not limited to the grand and spectacular. He can accomplish His purposes through the seemingly insignificant and ordinary. It encourages us to trust in His wisdom and sovereignty, even when things may not go according to our expectations."
+3. "The sound of sheer silence that follows the wind, earthquake, and fire signifies God's presence. It is a powerful reminder that God's voice is not always loud and dramatic, but can be found in the quiet moments of our lives. This quote encourages us to listen attentively for God's voice, even in the midst of chaos and turmoil."
 
 
 ## Generation Details

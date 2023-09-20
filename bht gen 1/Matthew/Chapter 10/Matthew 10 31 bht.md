@@ -1,27 +1,32 @@
 # Matthew 10:31 Commentary Help Text
 
 ## BHT:
-This verse delivers a powerful message about the inherent worth and value of every individual. It reassures believers of God's care and provision, and encourages them to have faith and not fear. By highlighting the significance of sparrows, the verse emphasizes God's attention to even the smallest and most seemingly insignificant aspects of creation. It affirms that God's providence extends to the lives of His people, assuring them of His protection and love.
+This verse contains a simple yet profound statement that emphasizes the immense value and worth of every individual in the eyes of God. Jesus' teaching carries remarkable power, as his words offer comfort and assurance to those who may feel insignificant or fearful. It reveals that God's care extends even to the humblest of creatures, highlighting the deep love and protection He has for His faithful servants. Thus, this verse assures us that we are cherished and secure under the watchful eye of our Heavenly Father.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Fear ye not therefore, ye are of more value than many sparrows." - This verse carries a profound message of reassurance and comfort, reminding us of our inherent worth and value in the eyes of God. It is a simple yet powerful statement that resonates deeply with the human heart.
+1. "Fear ye not therefore, ye are of more value than many sparrows" - This simple yet profound statement carries immense weight, highlighting the value and worth that each individual holds in the eyes of God.
 
-2. "Was ever language of such simplicity felt to carry such weight as this does?" - The commentary highlights the remarkable ability of Jesus' teachings to convey profound truths through simple and accessible language. It emphasizes the charm and power of his words, which have the capacity to touch and transform lives.
+2. "Was ever language of such simplicity felt to carry such weight as this does?" - The commentary acknowledges the remarkable power of Jesus' teaching, where his words, though simple, have a profound impact on the listener.
 
-3. "But here lies much of the charm and power of our Lord's teaching." - This quote underscores the unique and captivating nature of Jesus' teaching style. It suggests that the simplicity and depth of his words are what make them so compelling and impactful. His teachings have the ability to penetrate the heart and bring about lasting change.
+3. "But here lies much of the charm and power of our Lord's teaching" - The commentary recognizes that the charm and power of Jesus' teaching lies in its simplicity, making it accessible and relatable to all who hear it.
 
 ### John Calvin:
-1. "You are of more value." - This quote emphasizes the inherent worth and value of every individual, highlighting that humans are of greater importance than sparrows. It reminds us that our worth is not determined by our achievements or status, but by the unconditional love and grace of God.
+1. "You are of more value... This discourse relates peculiarly to the sons of God, who possess a far higher right than what they derive from creation." 
 
-2. "This discourse relates peculiarly to the sons of God." - This quote highlights that the message is specifically directed towards believers, emphasizing their special status as children of God. It reminds us that as God's children, we have a unique relationship with Him and are called to live in accordance with His will.
+2. "The rank which belongs to men arises solely from the undeserved kindness of God." 
 
-3. "The rank which belongs to men arises solely from the undeserved kindness of God." - This quote emphasizes that our position and value as humans are not earned or deserved, but are solely a result of God's grace and mercy. It reminds us of our dependence on God and the need to humbly acknowledge His goodness in our lives.
+3. "The sparrows were created for their advantage."
 
 ### Philip Schaff:
-1. "Fear ye not therefore." 
-2. "The humblest of God's creatures have their value in His sight: how much more human beings."
+1. "Ye are of more value, i.e., in the sight of God, who is ‘your Father’ (Matthew 10:29)." 
+2. "The humblest of God’s creatures have their value in His sight: how much more human beings." 
 3. "A right sense of our immortality consists in the feeling that we are perfectly safe in the keeping of our Father."
+
+### Archibald T Robertson:
+1. "The value of a human soul is immeasurable, surpassing even that of many sparrows." 
+2. "Jesus highlights the immense worth and significance of each individual, reminding us that we are not just another face in the crowd." 
+3. "This verse serves as a powerful reminder of God's deep love and care for every single person, no matter how insignificant they may feel."
 
 ### John Gill:
 1. "Fear ye not therefore,.... Neither be afraid of men, nor distrust the providence of God; for if that reaches to the meanest of creatures, sparrows, and to that which is of the least account with men, the single hair of a man's head; much more must it regard the lives of men."

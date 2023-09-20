@@ -1,15 +1,13 @@
 # Matthew 23:33 Commentary Help Text
 
 ## BHT:
-This quote depicts a passage that features Jesus delivering a strong warning to a group of religious leaders. Jesus uses harsh language, comparing them to serpents and vipers, to underscore their wickedness and imminent judgment. These leaders are portrayed as deceitful and beyond redemption, and Jesus' words are meant to strike fear and serve as a cautionary tale for others. The passage also establishes a connection between Jesus' message and the earlier teachings of John the Baptist, further emphasizing the severity of the leaders' actions.
+In a powerful and confrontational manner, Jesus addresses the religious leaders, whom he refers to as serpents and a brood of vipers. His choice of words reflects their deceitful and wicked nature, leaving no room for doubt about his disdain for their hypocritical actions. Jesus questions how they can possibly escape the severe judgment and punishment of hell, highlighting the inevitability and gravity of their impending doom. This stern warning serves as a wake-up call to the religious leaders and as a deterrent to others, aiming to expose the dangers of hypocrisy and ultimately lead to repentance.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?" - This quote highlights the strong language used by Jesus to address the religious leaders, emphasizing their wickedness and the severity of their impending judgment.
-
-2. "The only difference between their condemnation now and then was, that now they were ripe for their doom, which they were not then." - This quote suggests that the religious leaders had been given ample time and opportunities to repent, but their persistent rejection of Jesus had brought them to a point of no return.
-
-3. "Recalling the words of the Baptist at the outset of his, our Lord would seem to intimate..." - This quote points out the connection between Jesus' words and the earlier message of John the Baptist, highlighting the continuity of the message of judgment against the religious leaders.
+1. "Ye serpents, ye generation of vipers" - This strong language used by Jesus emphasizes the severity of the religious leaders' hypocrisy and deceit.
+2. "How can ye escape the damnation of hell?" - Jesus poses a rhetorical question, highlighting the inevitability of their punishment and the impossibility of escaping it.
+3. "The only difference between their condemnation now and then was, that now they were ripe for their doom" - Jesus implies that the religious leaders had been given ample time to repent and change their ways, but now their judgment was imminent and unavoidable.
 
 ### Albert Barnes:
 1. "Generation of vipers - See the notes at Matthew 12:34." 
@@ -22,23 +20,26 @@ This quote depicts a passage that features Jesus delivering a strong warning to 
 3. "He calls them serpents both in nature and in habits, and then threatens them with a punishment, which it will be in vain for them to attempt to escape, if they do not speedily repent."
 
 ### Philip Schaff:
-1. "Ye serpents, ye brood of vipers, etc." - This strong language echoes the words of John the Baptist and emphasizes the deep-rooted wickedness of the Pharisees. It highlights their deceitful and venomous nature.
-2. "How shall ye escape the judgment of hell?" - Jesus poses a rhetorical question, implying that the Pharisees' unrepentant hearts and actions will inevitably lead to condemnation and punishment in hell.
-3. "Our Lord speaks as Judge." - This statement emphasizes Jesus' authority and role as the ultimate judge. It underscores the seriousness of the Pharisees' actions and the certainty of their impending judgment.
+1. "Ye serpents, ye brood of vipers, etc." - This strong language used by Jesus towards the Pharisees highlights their deceitful and wicked nature.
+2. "How shall ye escape the judgment of hell" - Jesus questions the Pharisees about their ability to avoid the severe punishment of hell, emphasizing the seriousness of their actions and the impending judgment they will face.
+3. "Our Lord speaks as Judge" - Jesus, in addressing the Pharisees, assumes the role of a judge, indicating his authority and divine power to pronounce judgment on their actions.
 
 ### Archibald T Robertson:
-1. "Ye serpents, ye offspring of vipers" - These blistering words cut to the bone like whip-cords, reminiscent of the Baptist and the accusations against Jesus. (Matthew 3:17, Matthew 12:34)
+1. "These blistering words come as a climax and remind one of the Baptist and of the time when the Pharisees accused Jesus of being in league with Beelzebub." 
+2. "They cut to the bone like whip-cords."
+3. "There is a curse in the Talmud somewhat like this: 'Woe to the house of Annas! Woe to their serpent-like hissings.'"
 
-2. "How shall ye escape" - The deliberate subjunctive form of this question emphasizes the severity of the situation and implies the difficulty of finding a way out.
-
-3. "There is a curse in the Talmud somewhat like this" - This reference to the Talmud highlights the cultural context and echoes the condemnation of those who exhibit serpent-like hissings.
+### John Gill:
+1. "The latter of these names, John the Baptist calls the Sadducees and Pharisees by, in Matthew 3:7 and Christ, in Matthew 12:34 both express their craft and subtlety, their inward poison, and venomous nature; their fair outside, and specious pretences; their hypocrisy, malice, and wickedness; in which they were like to the old serpent, their father the devil, and to their ancestors, that murdered the prophets."
+2. "Nor could any good thing be expected, from such a viperous generation."
+3. "The phrase, 'the judgment, or damnation of hell', is a phrase often used in the Talmud and Midrashes of the Jews; and intends future torment, and the everlasting vengeance and wrath of God, the unquenchable fire prepared for the devil and his angels, and which impenitent unbelieving sinners cannot escape."
 
 ### John Wesley:
-1. "Ye serpents" - This phrase highlights the severity of the situation and the strong language used by Jesus to address those who refuse to repent. It emphasizes the dangerous and deceitful nature of their actions.
+1. "Ye serpents" - This phrase highlights the severity of the situation and the strong language used by Jesus to address the religious leaders. It emphasizes the danger and deceitfulness of their actions.
 
-2. "Our Lord having now lost all hope of reclaiming these" - This statement reveals Jesus' disappointment and realization that these individuals are beyond redemption. It underscores the importance of recognizing the limits of our efforts to change others and the need to focus on those who are receptive to the message.
+2. "Lost all hope of reclaiming these" - This statement reveals Jesus' disappointment and frustration with the religious leaders. It suggests that they have hardened their hearts to the point where there is no possibility of repentance or change.
 
-3. "Speaks so as to affright others from the like sins" - This phrase emphasizes the intention behind Jesus' strong words. He aims to warn and deter others from committing similar sins by using the example of these unrepentant individuals. It highlights the importance of learning from the consequences faced by others and making wise choices.
+3. "Speaks so as to affright others from the like sins" - This quote underscores Jesus' intention to use this confrontation as a teaching moment for others. He wants to warn and deter others from falling into the same patterns of hypocrisy and deceit.
 
 
 ## Generation Details

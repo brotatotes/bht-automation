@@ -1,22 +1,27 @@
 # Matthew 22:38 Commentary Help Text
 
 ## BHT:
-In this verse, the commentators emphasize the supreme and paramount nature of the subject under discussion. They highlight that it holds a superior position above all others and is unparalleled in its significance. The commentators also stress the unity and everlasting relevance of this subject, emphasizing that none of its parts can be disregarded or abrogated. Ultimately, they emphasize the importance of our complete surrender to this subject, acknowledging its essential perfections and making it the aim of our pursuit of holiness.
+The Bible verse being described emphasizes the preeminence and significance of a subject, highlighting its importance in relation to others. It declares the unity and absolute greatness of a commandment, reflecting the ultimate goal in our pursuit of holiness. This subject is unique and unparalleled, not to be disregarded or considered obsolete. It engrosses the whole heart, soul, and mind, requiring complete surrender to God. Its all-encompassing nature is acknowledged by both Jews and scholars.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "The phrase 'the great and first' emphasizes the preeminence and importance of the subject being discussed. It signifies that this particular thing is of utmost significance and holds a superior position above all others."
+1. "The phrase 'the great and first' emphasizes the preeminence and significance of the subject being discussed. It highlights the importance of this particular aspect in relation to others." 
 
-2. "By using the definite article 'the,' it suggests that there is no other that can compare or surpass the greatness and priority of this subject. It is unique and unparalleled in its significance."
+2. "By using the definite article, the author is indicating that this subject is unique and unparalleled. It is not just one of many, but the ultimate and primary focus of attention." 
 
-3. "This phrase serves as a powerful reminder that we should give utmost attention and importance to this subject, as it holds the highest position and is of primary importance in our lives."
+3. "This phrase suggests that there is a hierarchy or ranking in terms of importance. It implies that there are other things or beings that are lesser in significance compared to the subject being described as 'the great and first'."
 
 ### Philip Schaff:
-1. "This is the great and first Commandment." - Our Lord declares the unity and absolute greatness of the first table of the law, emphasizing that no part of it is abrogated.
+1. "This is the great and first Commandment." - Our Lord declares the unity and absolute greatness of the first table of the law, emphasizing its importance above all others.
 
-2. "Hence no part of this table can be regarded as abrogated." - The first five commandments, encompassing our relationship with God, are still relevant and should not be disregarded.
+2. "No part of this table can be regarded as abrogated." - The first five commandments are not to be disregarded or considered obsolete; they still hold significance in our lives.
 
-3. "This 'unqualified surrender of our whole being to God' is to be the aim of our strivings after holiness." - Our ultimate goal in pursuing holiness is to completely surrender ourselves to God, acknowledging His essential perfections and manifested grace.
+3. "The aim of our strivings after holiness." - Surrendering our whole being to God is the ultimate goal in our pursuit of holiness, reflecting His essential perfections and manifested grace.
+
+### John Gill:
+1. "Whether the object of it is considered, who is the first and chief good; or the manner in which it is to be observed, which requires and engrosses the whole heart, soul, and mind, and all the strength and power of man."
+2. "This is the first command in order of nature, time, dignity, and causality; God being the first cause of all things, infinitely above all creatures, and love to him being the source, spring and cause of love to the neighbour."
+3. "That this command, and these words our Lord cites, are so full and comprehensive, the Jews themselves cannot deny."
 
 
 ## Generation Details

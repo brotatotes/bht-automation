@@ -1,32 +1,45 @@
 # Matthew 21:25 Commentary Help Text
 
 ## BHT:
-The verse in question addresses the lack of faith and disbelief exhibited by the religious leaders towards John the Baptist's testimony about Jesus. The question asked by Jesus challenges their inconsistency in upholding God's law while rejecting the messenger sent to prepare the way for the Messiah. It serves as a reminder that true faith requires belief and action, emphasizing the need to trust in God's messengers and His word rather than relying on superficial religious practices.
+The verse in question addresses the authority of John the Baptist and his ministry. It emphasizes that John's baptism was not merely a ritual, but a central part of his teaching and calling to repentance. The religious leaders are challenged to acknowledge the heavenly mission of John and the authority by which Jesus acts. Their hesitation to answer reveals their conflicting interests and their refusal to fully believe in the testimony of John and Jesus. This verse serves as a reminder for introspection, questioning our own beliefs and ensuring that our actions align with our professed faith.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "τὸ βἀπτ ., meaning thereby the whole office and teaching, of which the baptism was the central point and seal."
+2. "If they had recognized the heavenly mission of John, they must have also acknowledged the authority by which Jesus did these things."
+3. "John expressly declared that he was sent to testify of him, and bore witness to having seen the Holy Spirit descend and rest upon Him."
+
 ### Jamieson Fausset Brown:
-1. "The baptism of John - meaning his whole mission and ministry, of which baptism was the proper character."
+1. "The baptism of John—meaning his whole mission and ministry, of which baptism was the proper character."
 2. "What wisdom there was in this way of meeting their question will best appear by their reply."
 3. "Why did ye not believe the testimony which he bore to Me, as the promised and expected Messiah?"
 
+### John Calvin:
+1. "For we must bear in mind why John was sent, what was his commission, and on what subject he most of all insisted. He had been sent as Christ’s herald. He was not deficient in his duty, and claims nothing more for himself than to prepare the way of the Lord."
+2. "From what source then do the scribes mean that the new authority of Christ should be proved, since it had been fully attested by the preaching of John? We now see that Christ employed no cunning stratagem in order to escape, but fully and perfectly answered the question which had been proposed."
+3. "Baptism denotes here not only the sign of washing, but the whole ministry of John; for Christ intended to draw out a reply, Was John a true and lawful prophet of God, or an impostor? Yet this mode of expression contains a useful doctrine, Is the of John from God, or from men?"
+
 ### Philip Schaff:
-1. "The baptism of John. As representing his whole ministry." This commentary suggests that John's baptism was not just a singular event, but rather a representation of his entire ministry. This implies that John's baptism held significant meaning and purpose beyond just a simple act of purification.
-
-2. "And they reasoned, consulted, so as to agree upon the answer." This quote highlights the deliberation and collaboration among the people mentioned in the verse. It suggests that they were actively engaged in discussing and seeking consensus in order to provide a unified response. This emphasizes the importance they placed on their answer and the significance of their decision-making process.
-
-3. "They reasoned, consulted, so as to agree upon the answer." This phrase emphasizes the intentionality behind their actions. It suggests that they were deliberate in their thinking and sought to reach a consensus in order to provide a well-thought-out response. This highlights the importance of thoughtful consideration and collaboration in making decisions and finding answers.
+1. "The baptism of John" refers to the entirety of his ministry, not just the act of baptism itself. It encompasses his preaching, teaching, and calling people to repentance.
+2. The phrase "reasoned, consulted" implies that the religious leaders were deliberating and strategizing in order to come up with a response that would protect their own interests and reputation.
+3. The goal of their consultation was to "agree upon the answer," indicating that they were more concerned with maintaining their authority and avoiding any potential backlash than with seeking the truth.
 
 ### Archibald T Robertson:
 1. "The baptism of John represents his relation to Jesus who was baptized by him."
 2. "At once the ecclesiastical leaders find themselves in a dilemma created by their challenge of Christ."
-3. "They reasoned with themselves - picturesque imperfect tense describing their hopeless quandary."
+3. "They reasoned with themselves - a picturesque imperfect tense describing their hopeless quandary."
+
+### John Gill:
+1. "By what authority did John administer the ordinance of water baptism, which had never been administered before by any?"
+2. "Did he receive his authority from heaven, or of men?"
+3. "If we shall say from heaven, he will say unto us, why did ye not believe him? Why did ye reject the counsel of God against yourselves?"
 
 ### John Wesley:
-1. "The question posed by Jesus to the religious leaders highlights their lack of faith in John the Baptist's testimony about Him. It reveals their refusal to accept the truth and acknowledge Jesus as the Messiah, despite the clear evidence presented to them."
+1. "The question 'Why did ye not believe him?' is a powerful reminder of the importance of faith. It challenges us to examine our own beliefs and question why we may doubt or struggle to trust in God's word."
 
-2. "By asking this question, Jesus is not only challenging the religious leaders, but He is also pointing out the inconsistency in their beliefs and actions. They claim to follow God and uphold His law, yet they reject the very messenger sent by God to prepare the way for the Messiah."
+2. "By asking this question, Jesus is highlighting the inconsistency of the religious leaders' actions. They claimed to be followers of God, yet they did not believe the one sent by God to testify about the truth."
 
-3. "Jesus' question serves as a reminder that faith requires not only hearing the message but also believing and acting upon it. It emphasizes the importance of genuine belief and trust in God's messengers and His word, rather than relying solely on outward religious practices or traditions."
+3. "This verse serves as a reminder that belief is not just a matter of intellectual understanding, but also a matter of the heart. It calls us to reflect on our own faith and to ensure that our actions align with our professed beliefs."
 
 
 ## Generation Details

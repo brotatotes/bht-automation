@@ -1,27 +1,33 @@
 # Matthew 20:13 Commentary Help Text
 
 ## BHT:
-In this verse, we see the importance of honoring agreements, not being envious of others, and fulfilling our responsibilities. It reminds us to be people of integrity, contentment, and diligence, understanding that our actions have consequences and that God holds us accountable for our choices. The parable challenges us to examine our attitudes towards others' success and blessings, emphasizing the principles of justice, fairness, and righteousness that God upholds in His dealings with His creation.
+In this passage, a fair and just master responds to a worker's complaint, emphasizing the importance of honoring agreements and contracts. The master's address of "friend" shows respect and personal connection, highlighting the significance of clear agreements and the need to fulfill obligations. It reminds individuals of their responsibility to reflect on their decisions and actions, underscoring the accountability we have for our choices. Ultimately, this verse serves as a reminder to treat others with fairness, integrity, and the recognition that our actions have consequences.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Friend, I do thee no wrong: didst not thou agree with me for a penny?" - This quote highlights the fairness and justice of the landowner's response to the complaining worker. It emphasizes the importance of honoring agreements and not expecting more than what was agreed upon.
+1. "The master's response to the complaint reveals his fairness and justice. He addresses the worker as 'friend,' showing a level of respect and personal connection. This response highlights the importance of clear agreements and the need to honor them." 
 
-2. "The landowner's response challenges the worker's sense of entitlement and reminds him of the initial agreement." - This quote emphasizes the lesson of the parable, which is to not be envious or resentful when others receive blessings or rewards. It encourages a mindset of contentment and gratitude.
+2. "By reminding the worker of their initial agreement, the master emphasizes the importance of upholding one's word. This quote serves as a reminder that agreements and contracts should not be taken lightly, and that both parties have a responsibility to fulfill their obligations." 
 
-3. "The landowner's question exposes the worker's dissatisfaction and reveals the deeper issue of envy and comparison." - This quote highlights the underlying problem of envy and comparison that the parable addresses. It encourages self-reflection and challenges readers to examine their own attitudes towards others' success or blessings.
+3. "The master's question, 'didst not thou agree with me for a penny?' challenges the worker to reflect on the terms of their agreement. This quote encourages individuals to take ownership of their decisions and actions, reminding them that they are accountable for the choices they make."
 
 ### Albert Barnes:
 1. "If Christians are just, and pay their lawful debts, and injure no one, the world has no right to complain if they give the rest of their property to the poor, or devote it to send the gospel to the pagan, or to release the prisoner or the captive."
 2. "It is their own. They have a right to do with it as they please."
 3. "They are answerable, not to people, but to God, and infidels, and worldly people, and cold professors in the church have no right to interfere."
 
+### Marvin Vincent:
+1. "Friend [εταιρε] . Lit., companion, comrade."
+
 ### Philip Schaff:
-1. "The phrase 'Didst thou not agree with me?' highlights the importance of honoring agreements and fulfilling obligations. It reminds us that our word should be our bond, and we should strive to be people of integrity." 
+1. "The phrase 'Didst thou not agree with me?' highlights the importance of honoring agreements and contracts, emphasizing the principle of fairness and justice in human interactions."
+2. "The mention of a 'legal claim' reminds us that God is a God of order and justice, and that He holds us accountable for our commitments and promises."
+3. "This verse serves as a reminder that our actions have consequences, and that we should strive to fulfill our obligations and treat others with fairness and integrity."
 
-2. "The mention of the legal claim being answered in a legal way emphasizes the principle of justice and fairness. It reminds us that God is a just God who upholds the principles of righteousness and rewards those who are faithful and obedient." 
-
-3. "This verse serves as a reminder that God holds us accountable for our commitments and expects us to fulfill our responsibilities. It encourages us to be diligent and faithful in our work, knowing that our actions have consequences and that we will be held responsible for our choices."
+### Archibald T Robertson:
+1. "To one of them (εν αυτων). Evidently the spokesman of the group."
+2. "So a kindly reply to this man in place of an address to the whole gang."
+3. "The word survives in modern Greek."
 
 ### John Gill:
 1. "And indeed the Lord does no wrong to any, by the distinction which he makes among his creatures: he is righteous in all his ways, and holy in all his works."

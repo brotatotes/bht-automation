@@ -1,22 +1,27 @@
 # Luke 7:27 Commentary Help Text
 
 ## BHT:
-This verse speaks of a messenger who fulfills a prophecy and prepares the hearts of the people for the coming of the Lord. It highlights the anticipation and longing for the Messiah's arrival, emphasizing the refining process that God undertakes in the lives of his people. The verse encourages us to embrace this purifying work and allow God to transform us, just as fire purifies gold and silver.
+In this verse, we are reminded of the imminent and unpredictable arrival of the Lord, urging us to be prepared. The messenger referred to is believed to be John the Baptist, who paved the way for Jesus' coming. The concept of refinement is also highlighted, illustrating God's transformative work in purifying His people, sanctifying them as vessels of honor. This verse encompasses themes of readiness, preparation, and the profound impact of God's refining process in our lives.
 
 ## Choicest Commentary Quotes:
+### Marvin Vincent:
+1. "Prepare" - This implies that there is a need for readiness and anticipation. It suggests that there is a task to be accomplished and that one must be prepared for it.
+2. "Least" - This emphasizes the humility and insignificance of the person being referred to. It highlights the idea that greatness can come from unexpected and seemingly insignificant places.
+3. "Comparatively little" - This phrase suggests that while the task may seem small or insignificant in the eyes of the world, it holds great importance in the eyes of God. It reminds us that even the smallest acts of obedience and faithfulness can have a significant impact.
+
 ### John Gill:
-1. "This is he of whom it is written" - This quote highlights the fulfillment of prophecy, emphasizing the significance of the person being referred to. It shows the connection between the Old Testament prophecy and the person being discussed in the verse.
+1. "This is he of whom it is written" - This quote emphasizes that the person being referred to in the verse is the fulfillment of a prophecy. It highlights the significance and importance of the individual in question.
 
-2. "In Malachi 3:1" - This quote indicates the specific source of the prophecy being fulfilled. It directs the reader to the book and verse in the Old Testament where the prophecy can be found, encouraging further study and understanding.
+2. "In Malachi 3:1" - This quote indicates that the verse being discussed is a reference to a specific passage in the book of Malachi. It suggests that the verse is part of a larger context and can be better understood by considering the entire passage.
 
-3. "Malachi 3:1" - This quote serves as a reminder of the verse being referenced, reinforcing the importance of the prophecy and its relevance to the discussion at hand. It prompts the reader to explore the context and content of the verse for a deeper understanding.
+3. "The messenger of the covenant" - This phrase from Malachi 3:1 refers to the role and identity of the person mentioned in the verse. It suggests that this individual is not only a messenger but also a representative of a covenant, implying a deeper spiritual significance to their mission.
 
 ### John Wesley:
-1. "The verse speaks of a messenger who will prepare the way for the Lord. This messenger is often understood to be John the Baptist, who came before Jesus to prepare the hearts of the people for his coming." 
+1. "The coming of the Lord is described as a sudden and unexpected event, emphasizing the need for readiness and preparation." 
 
-2. "The phrase 'the Lord whom you seek' implies that the people were longing for the coming of the Messiah, but they may not have fully understood the significance of his arrival. This verse reminds us of the anticipation and longing that should be in our hearts as we await the second coming of Christ."
+2. "The messenger mentioned here is understood to be John the Baptist, who prepared the way for Jesus' ministry." 
 
-3. "The refining process mentioned in this verse is a metaphor for the purifying work that God does in the lives of his people. Just as fire purifies gold and silver, God's refining work purges us of impurities and makes us more like him. This verse encourages us to embrace the refining process and allow God to transform us into vessels of honor."
+3. "The refining process mentioned in this verse symbolizes the purifying work of God in the lives of His people, removing impurities and refining them to be vessels of honor."
 
 
 ## Generation Details

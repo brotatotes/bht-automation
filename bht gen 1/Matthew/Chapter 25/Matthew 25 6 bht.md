@@ -1,7 +1,7 @@
 # Matthew 25:6 Commentary Help Text
 
 ## BHT:
-In a time when the Bridegroom is least expected, His arrival is likened to that of a thief in the night, catching people unaware. At midnight, a cry is made to announce His sudden arrival and prompt vigilance. This cry serves as a metaphor for the coming of Christ, a new and unexpected event that demands readiness and a spiritual awakening. As this parable reminds us, God's timing is often mysterious and His intervention brings light and hope into the darkness of our lives.
+At a time of unexpectedness, God's divine intervention breaks through the darkness. His timing is unpredictable, surpassing human understanding. This verse reminds us that God's plans are not confined by our expectations, as He brings forth deliverance and breakthroughs in the most unforeseen moments.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
@@ -10,15 +10,22 @@ In a time when the Bridegroom is least expected, His arrival is likened to that 
 3. "Go ye out to meet him."
 
 ### Albert Barnes:
-1. "At midnight - Later than was the usual custom, and hence, they had fallen asleep." This quote highlights the significance of the timing in the parable, emphasizing the unexpected nature of the bridegroom's arrival and the need for preparedness.
+1. "At midnight - Later than was the usual custom, and hence, they had fallen asleep." This quote highlights the significance of the timing, emphasizing that the delay caught the bridesmaids off guard and led them to fall asleep.
 
-2. "A cry made - Of those who were coming with the bridegroom." This quote emphasizes the sudden announcement of the bridegroom's arrival, indicating the urgency for the virgins to wake up and prepare themselves.
+2. "A cry made - Of those who were coming with the bridegroom." This quote emphasizes the suddenness and urgency of the situation, as the cry announces the arrival of the bridegroom and prompts the bridesmaids to prepare their lamps.
 
-3. "The parable serves as a reminder to be watchful and ready for the return of Christ, as we do not know the exact time of his coming." This quote provides a broader interpretation of the parable, reminding readers of the importance of being spiritually prepared for the second coming of Christ.
+3. "The wise took oil in their vessels with their lamps." This quote highlights the preparedness of the wise bridesmaids, who not only had oil in their lamps but also had extra oil in their vessels. It emphasizes the importance of being ready and having enough resources for unexpected delays or challenges.
+
+### Marvin Vincent:
+1. "A great and decisive change was the result of the cry."
+2. "No more sleeping, waiting, or silence. There is a cry, and behold the awaking, the bustle, the trimming of lamps and the running to the oil-vendors."
+3. "The translation can hardly convey the meaning of the Greek phrase, which implies a custom or familiar ceremony. Come forth unto meeting."
 
 ### John Calvin:
-1. "With respect to the cry I view it as taken metaphorically for his sudden arrival."
-2. "When any thing new and unexpected happens, men are wont to make a loud noise."
+1. "At midnight a cry arose...when any thing new and unexpected happens, men are wont to make a loud noise."
+
+2. "Our Lord cries daily, that he will come quickly, but at that time, the whole frame of the world will resound with the cry."
+
 3. "His dreadful majesty will fill heaven and earth in such a manner, as not only to awaken those who are asleep, but to bring the dead out of their graves."
 
 ### Philip Schaff:
@@ -26,15 +33,22 @@ In a time when the Bridegroom is least expected, His arrival is likened to that 
 2. "A cry is made, Behold the bridegroom! This was usual. A sign of the coming of Christ."
 3. "For the individual, that cry may come at any time."
 
+### Archibald T Robertson:
+1. "A cry has come. Dramatic use of the present perfect... emphasizes the sudden outcry which has rent the air." 
+2. "The very memory of it is preserved by this tense with all the bustle and confusion, the rushing to the oil-venders." 
+3. "Come ye forth to meet him... a ceremonial salutation neatly expressed by the Greek phrase."
+
 ### John Gill:
-1. "Which supposes that then all things will be ready for his coming: all things respecting this world; all the strange and surprising events that were to come to pass, before the coming of Christ, will now be accomplished; an end put to all the monarchies of the earth; and all the preparations in nature, for the burning of the world finished."
+1. "It also supposes, that his coming will be very nigh at hand; it was so represented long ago; it is greatly desired by the saints to be quickly; and it will be in a very short time after this notice."
 2. "And this notice is called 'a cry'; and refers not to the voice of Christ in raising the dead, for this will be before the coming of Christ, whereas that will be when he is come; and for the same reason, not to the voice of the archangel, if he can be thought to be distinct from Christ."
-3. "Rather it should intend some remarkable providence, as the earthquake in Revelation 11:13 when a tenth part of the city shall fall, seven thousand men of note be slain, and the rest affrighted; or the sounding of the seventh angel, Revelation 11:15, or, what is most likely, the voice of a great multitude, as of many waters, and of mighty thunderings, declaring, that the marriage of the Lamb was come, and the bride ready, Revelation 19:6, and will be a very loud one."
+3. "Thus, as the notice of Christ's first coming was made by the prophets, the notice of his second coming will be made by the ministers of the Gospel."
 
 ### John Wesley:
-1. "At midnight" signifies a time of unexpectedness and surprise, emphasizing that God's intervention often comes when we least expect it.
-2. This phrase suggests that God's timing is not bound by human limitations, reminding us that His plans and purposes are beyond our understanding.
-3. The mention of midnight also symbolizes a time of darkness and despair, highlighting how God's intervention brings light and hope into our darkest moments.
+1. "At midnight" signifies a time of unexpectedness, emphasizing the element of surprise and divine intervention in the unfolding of events.
+
+2. The phrase "in an hour quite unthought of" highlights the unpredictability of God's timing and His ability to work in ways that surpass human understanding.
+
+3. This verse reminds us that God's plans are not bound by human limitations or expectations, and He can bring about deliverance and breakthroughs in the most unexpected moments.
 
 
 ## Generation Details

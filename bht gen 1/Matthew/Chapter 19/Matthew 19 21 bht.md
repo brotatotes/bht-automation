@@ -1,13 +1,18 @@
 # Matthew 19:21 Commentary Help Text
 
 ## BHT:
-In this verse, we see that complete obedience to Christ requires more than just refraining from doing harm. It demands genuine love and care for others, going above and beyond to do good to them. While selling all worldly possessions may have been necessary for some in the past, it is not a universal command. However, when material possessions hinder one's devotion to Christ, they must be relinquished. Ultimately, one must be willing to let go of anything that stands in the way of following Christ wholeheartedly, even if it comes at a high price.
+In this verse, Jesus challenges a young man's willingness to fully follow Him. Commentators emphasize the idea that obedience to Christ goes beyond mere avoidance of harm to others. It requires a genuine love for others and a readiness to relinquish worldly possessions for Christ's sake. While Jesus' command to sell everything was specific to the young man, it serves as a reminder for us to examine our own hearts and prioritize our devotion to Christ above all else.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
 1. "One duty still remained to make his obedience complete, judged from his own point of view."
 2. "All we have belongs to Christ, but this command is not to be literally obeyed by every one."
-3. "Whenever property interferes with following Christ, it must be given up; and he who would be a Christian must be ready to relinquish it for Christ's sake."
+3. "Whenever property interferes with following Christ, it must be given up; and he who would be a Christian must be ready to relinquish it for Christ’s sake."
+
+### Archibald T Robertson:
+1. "Jesus assumes that the young man really desires to be perfect (a big adjective that, perfect as God is the goal, Matthew 5:48)."
+2. "The Greek neuter plural participle used like our English word 'belongings.'"
+3. "It was a huge demand, for he was rich."
 
 ### John Gill:
 1. "Our Lord signifies it was not enough to be possessed of negative holiness, and do no hurt to his neighbour, to his person, property, and estate, but he must love him, and do him good."
@@ -16,8 +21,8 @@ In this verse, we see that complete obedience to Christ requires more than just 
 
 ### John Wesley:
 1. "Sell what thou hast - He who reads the heart saw his bosom sin was love of the world; and knew he could not be saved from this, but by literally renouncing it."
-2. "To sell all was an absolute duty to him; to many of us it would be ali absolute sin."
-3. "The young man went away — Not being willing to have salvation at so high a price."
+2. "To him therefore he gave this particular direction, which he never designed for a general rule. For him that was necessary to salvation: to us it is not."
+3. "To sell all was an absolute duty to him; to many of us it would be an absolute sin."
 
 
 ## Generation Details

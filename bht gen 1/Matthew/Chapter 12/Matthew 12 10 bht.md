@@ -1,13 +1,18 @@
 # Matthew 12:10 Commentary Help Text
 
 ## BHT:
-In this Bible verse, the question being asked carries an uncertain and hesitant tone, reflecting the desire to know the legality of the action being questioned. The commentators point out that the person asking the question is unsure and implies that the answer may not easily be translated into English. The verse also highlights the excessive folly of questioning the work of God and the intention of those who asked the question in hopes of accusing Jesus.
+In this verse, we see the Pharisees watching closely as Jesus performs a healing on the Sabbath. Their motives are questioned, as they seek to accuse Jesus and find fault with his actions. Jesus, aware of their intentions, looks at them with anger and grieves over their hardened hearts. The miracle itself is extraordinary, as a man with a withered hand is healed by Jesus' touch or word, demonstrating his divine power and freedom to act beyond human limitations.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "In both these accounts, they (the Scribes and Pharisees) were watching our Lord to see whether He would heal on the Sabbath."
+2. "By Luke, it was the right hand; by Mark, our Lord looked round on them with anger, being grieved at the hardness of their hearts."
+3. "The use had been lost and the vital powers withered."
+
 ### Marvin Vincent:
 1. "The eij can hardly be rendered into English. It gives an indeterminate, hesitating character to the question."
-2. "It reflects the uncertainty and hesitation of the person asking the question."
-3. "The use of eij emphasizes the desire to know the legality of the action being questioned."
+2. "The use of ει εξεστιν in this question suggests that the Pharisees were not genuinely seeking knowledge, but rather trying to trap Jesus."
+3. "The question implies a desire to find fault with Jesus, rather than a sincere inquiry about the lawfulness of the action."
 
 ### John Calvin:
 1. "Matthew states more clearly that they also attacked him by words."
@@ -20,11 +25,14 @@ In this Bible verse, the question being asked carries an uncertain and hesitant 
 3. "This question was put that they might accuse him, might find in His teaching and then in the act of mercy they expected would follow, the basis for a formal charge before the local tribunal."
 
 ### Archibald T Robertson:
-1. "The use of ε in direct questions is really elliptical and seems an imitation of the Hebrew." 
-
-2. "It is not translated in English." 
-
+1. "The use of ε in direct questions is really elliptical and seems an imitation of the Hebrew."
+2. "It is not translated in English."
 3. "See also Matthew 19:3."
+
+### John Gill:
+1. "Such a case is mentioned in the Talmud, 'that his arm was dry, or withered.'"
+2. "This account is introduced with a 'behold!' it being remarkable that such a case should offer so opportunely, of showing his divine power in healing such a disorder."
+3. "Hence it is very clear with what view the Pharisees asked Christ this question; and that it was, as the evangelist says, that they might accuse him."
 
 
 ## Generation Details

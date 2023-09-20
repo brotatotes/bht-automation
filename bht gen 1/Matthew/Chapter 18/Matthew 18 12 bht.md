@@ -1,13 +1,13 @@
 # Matthew 18:12 Commentary Help Text
 
 ## BHT:
-The parable of the lost sheep beautifully illustrates God's relentless pursuit of those who are lost and astray. It reveals the depth of God's love and His desire to have every single one of His children back in His fold. The shepherd's determination to find the lost sheep teaches us the importance of valuing every individual and actively seeking out those who are lost, offering them hope and restoration. It reminds us of our own tendency to wander and emphasizes the need to humbly acknowledge our need for God's guidance and grace.
+This parable, disputed but pregnant in its meaning, illustrates the relentless pursuit of the Good Shepherd to recover the lost, emphasizing the value Jesus places on each individual. It reveals the duty of his disciples, teaching them to bear with imperfections and endeavor to bring back those who have wandered. The parable reflects God's unwavering love and joy upon finding the lost, highlighting His special care for even the most insignificant. It is a powerful reminder that no one is beyond redemption and that God's love knows no bounds.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "This is another of those pregnant sayings which our Lord uttered more than once."
-2. "Only the object there is to show what the good Shepherd will do, when even one of His sheep is lost, to find it."
-3. "Here the object is to show, when found, how reluctant He is to lose it."
+1. "This is another of those pregnant sayings which our Lord uttered more than once." 
+2. "The object here is to show, when found, how reluctant He is to lose it." 
+3. "The parable of the lost sheep in Matthew 18:12-14 is a delightful illustration of what the good Shepherd will do when even one of His sheep is lost."
 
 ### Marvin Vincent:
 1. "The text here is disputed."
@@ -17,23 +17,33 @@ The parable of the lost sheep beautifully illustrates God's relentless pursuit o
 ### John Calvin:
 1. "A good teacher ought not to labor less to recover those that are lost, than to preserve those which are in his possession."
 2. "We ought to bear with their imperfections, and endeavor, when they wander, to bring them back to the road."
-3. "We ought to rejoice as much, when they that are lost return to the path of duty, as a man would do who, beyond his expectation, recovered something the loss of which had grieved him."
+3. "We ought to gather those that have gone astray, and we ought to rejoice as much, when they that are lost return to the path of duty, as a man would do who, beyond his expectation, recovered something the loss of which had grieved him."
 
 ### Philip Schaff:
 1. "This parable...is a lesson for the disciples, showing them their duty." 
-2. "It is a rebuke for the Pharisees, who objected to this seeking and saving on the part of the good Shepherd." 
-3. "Here it is a lesson for the disciples (the under-shepherds), showing them their duty."
+2. "It is a rebuke for the Pharisees, who objected to this seeking and saving on the part of the good Shepherd."
+3. "The parable emphasizes the value that Jesus places on each individual, even those who may seem insignificant or lost."
+
+### Archibald T Robertson:
+1. "Leave the ninety and nine upon the mountains and going does he not seek the wandering one?" - This quote highlights the compassionate nature of the shepherd, who is willing to leave the majority of the flock to search for the one that has gone astray.
+
+2. "On the high pastures where the sheep graze at will one has wandered afield." - This quote emphasizes the freedom that the sheep have to roam and the potential for them to wander away from safety and protection.
+
+3. "Our word 'planet' is from πλαναομα, wandering (moving) stars they were called as opposed to fixed stars." - This quote provides an interesting linguistic connection, explaining that the term "planet" originated from the concept of wandering stars, highlighting the idea of movement and straying from a set path.
+
+### John Gill:
+1. "Christ here appeals to his disciples, makes them judges themselves in this matter, and illustrates it by a familiar instance of a man's seeking and finding his lost sheep, and rejoicing at it."
+2. "This parable now may be considered, either as an illustration of the Son of man's coming into this world, to seek, and to save his lost sheep, mentioned in the preceding verse; even the lost sheep of the house of Israel, the little ones that believed in him, who were despised by the Jews."
+3. "This parable...set forth the great regard God has to persons ever so mean, that believe in Christ, whom he would not have stumbled and offended, and takes special care of them, that they shall not perish."
 
 ### John Wesley:
-1. "The parable of the lost sheep in Luke 15:4 beautifully illustrates God's relentless pursuit of those who are lost and astray. It reminds us that no matter how far we may have wandered, God will leave the ninety-nine to search for the one who is lost."
+1. "The shepherd's relentless pursuit of the lost sheep demonstrates God's unwavering love and grace towards sinners." 
 
-2. "In this parable, Jesus shows us the depth of God's love and compassion. He is not content with just having a majority, but He desires to have every single one of His children back in His fold."
+2. "This verse reminds us that God values each individual and is willing to go to great lengths to bring them back into His fold."
 
-3. "The shepherd's determination to find the lost sheep teaches us the importance of valuing every individual and not giving up on anyone. It challenges us to have the same heart of compassion and to actively seek out those who are lost, offering them hope and restoration."
+3. "The shepherd's joy upon finding the lost sheep reflects the joy that fills heaven when a sinner repents and returns to God."
 
-4. "Luke 15:4 reminds us that no matter how insignificant or unworthy we may feel, God sees us as valuable and worth pursuing. He is willing to go to great lengths to bring us back into His loving embrace."
-
-5. "This verse also serves as a reminder that we are all prone to wander and get lost at times. It encourages us to humbly acknowledge our need for God's guidance and grace, and to rely on Him to lead us back to the right path."
+4. "Luke 15:4 serves as a powerful reminder that no one is beyond redemption and that God's love knows no bounds."
 
 
 ## Generation Details

@@ -1,15 +1,25 @@
 # Matthew 27:38 Commentary Help Text
 
 ## BHT:
-In this verse, the mention of "thieves" highlights the sense of unlawfulness and dishonesty, emphasizing the contrast between Jesus and those who come to steal and destroy. Being crucified between two robbers adds to the depth of Jesus' sacrifice and love for humanity, while symbolizing his role as the ultimate mediator between God and sinful humanity. The presence of the two criminals also serves as a depiction of the choices individuals face when confronted with the Gospel, reminding us that even in the darkest moments, there is still an opportunity for repentance and salvation.
+The crucifixion of Jesus, as described by commentators, is a scene of deep irony, mockery, and symbolism. Placed between two robbers, who were potentially members of Barabbas' band, Jesus faced not only the physical pain of crucifixion but also public humiliation. This placement fulfilled the prophecy and highlighted the contrast between the sinless Son of God and the guilty transgressors. Moreover, it symbolizes the choices individuals face between righteousness and sin, with Jesus serving as the ultimate example of redemption. In being crucified among criminals, Jesus identifies with the marginalized and demonstrates his boundless love and forgiveness for all.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "After the crucifixion of Jesus was accomplished."
+2. "These thieves were led out with Jesus, and crucified."
+3. "Perhaps by the same soldiers, or perhaps by another band."
+
+### Albert Barnes:
+1. "Pilate did not reside in Jerusalem. When he came there on the great feasts, or at other times, it was, in part, to hold courts for the trial of criminals." 
+
+2. "These robbers had been probably condemned at that time; and to show greater contempt for Jesus, he was crucified between men of that abandoned character."
+
+3. "On a cross that should have been occupied by their companion and leader, Barabbas."
+
 ### Marvin Vincent:
-1. "Thieves" in this verse refers to robbers, as seen in Matthew 26:55. 
-
-2. The term "thieves" implies a sense of unlawfulness and dishonesty. 
-
-3. This word choice highlights the contrast between the thieves who come to steal and destroy, and Jesus who comes to give abundant life.
+1. "Thieves" in this context refers to robbers, highlighting the criminal nature of those who come to steal, kill, and destroy.
+2. The term "thieves" also implies a sense of violence and aggression, emphasizing the harm and devastation caused by these individuals.
+3. This reference to thieves serves as a reminder of the contrasting nature of Jesus, who offers abundant life and protection against the destructive forces of the world.
 
 ### John Calvin:
 1. "It was the finishing stroke of the lowest disgrace when Christ was executed between two robbers; for they assigned him the most prominent place, as if he had been the prince of robbers."
@@ -17,23 +27,26 @@ In this verse, the mention of "thieves" highlights the sense of unlawfulness and
 3. "Here we perceive how dreadful is the weight of the wrath of God against sins, for appeasing which it became necessary that Christ, who is eternal justice, should be ranked with robbers."
 
 ### Philip Schaff:
-1. "Two robbers. Probably associates of Barabbas, and hence placed on either side of Jesus, who had taken the punishment due to Barabbas." 
-2. "This proceeding carries out the mockery implied in the title; these two representing the subjects of 'the King of the Jews.'" 
-3. "The usual punishment for robbery was crucifixion."
+1. "The two robbers were associates of Barabbas, and hence placed on either side of Jesus, who had taken the punishment due to Barabbas." This highlights the irony and mockery implied in the title "King of the Jews," as the two robbers represent the subjects of Jesus as the king.
+2. "This proceeding carries out the mockery implied in the title; these two representing the subjects of 'the King of the Jews.'" This emphasizes the intentional mockery and humiliation Jesus endured during his crucifixion.
+3. "The usual punishment for robbery was crucifixion." This provides historical context and sheds light on the severity of the punishment Jesus and the two robbers faced.
 
 ### Archibald T Robertson:
-1. "Robbers (ληιστα). Not thieves (κλεπτα) as in Authorized Version." - This commentary highlights the distinction between robbers and thieves, providing a more accurate understanding of the original Greek word used in the verse.
+1. "Robbers (ληιστα). Not thieves (κλεπτα) as in Authorized Version." 
+2. "These two robbers were probably members of the band of Barabbas on whose cross Jesus now hung." 
+3. "See Matthew 26:55."
 
-2. "These two robbers were probably members of the band of Barabbas on whose cross Jesus now hung." - This quote suggests a possible connection between the two robbers and Barabbas, adding depth to the context of the verse.
-
-3. "Matthew 26:55." - This reference to another Bible verse indicates that the commentary is drawing from multiple sources, encouraging readers to explore further connections and insights within the text.
+### John Gill:
+1. "These two thieves were led out with Jesus, to be put to death with him, according to Luke 23:32, and were crucified with him upon the same spot of ground; their death was the same, but not their crime."
+2. "If this was so ordered by Pilate, it might be done in order to cover the sin, and take off the reproach of putting an innocent person to death, suggesting hereby he was one of them."
+3. "The grand reason why it was so ordered, was, that though Christ was no transgressor, he was accounted one, and stood in the room and stead of sinners, and was numbered with them, and as such was treated by divine justice, and accordingly died for them."
 
 ### John Wesley:
-1. "The mention of the two criminals being crucified alongside Jesus serves as a powerful reminder of the contrast between Jesus, the sinless Son of God, and the guilty criminals. It highlights the depth of Jesus' sacrifice and the extent of his love for humanity."
+1. "The fact that Jesus was crucified between two criminals is significant, as it fulfills the prophecy in Isaiah 53:12 that he would be 'numbered with the transgressors.' This placement emphasizes the contrast between Jesus, the sinless Son of God, and the guilty criminals on either side of him." 
 
-2. "The fact that Jesus was crucified between two criminals also symbolizes his role as the ultimate mediator between God and humanity. Just as he was physically positioned between the two criminals, Jesus stands as the bridge between sinful humanity and a holy God, offering forgiveness and reconciliation."
+2. "The positioning of Jesus between the two criminals also serves as a powerful symbol of the choice that each person must make. Just as the two criminals represent the two paths of righteousness and sin, Jesus stands as the ultimate example of the way of redemption and salvation." 
 
-3. "The presence of the two criminals on either side of Jesus also serves as a vivid depiction of the choices that individuals face when confronted with the message of the Gospel. One criminal mocks Jesus, while the other recognizes his innocence and humbly seeks his mercy. It reminds us that even in the darkest moments, there is still an opportunity for repentance and salvation."
+3. "By being crucified alongside criminals, Jesus identifies himself with the outcasts and the marginalized. This demonstrates his deep love and compassion for all people, regardless of their past or present circumstances. It is a reminder that no one is beyond the reach of God's grace and forgiveness."
 
 
 ## Generation Details

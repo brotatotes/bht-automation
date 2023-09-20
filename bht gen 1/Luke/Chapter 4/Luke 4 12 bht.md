@@ -1,25 +1,28 @@
 # Luke 4:12 Commentary Help Text
 
 ## BHT:
-This verse emphasizes the importance of trusting in God's promises and not putting Him to the test, as it serves as a reminder to have a humble and obedient heart towards Him. It shows the power of Scripture in resisting temptation and standing firm in our faith, warning against the temptation to demand proof or evidence of God's presence and power. By trusting in His faithfulness and relying on His promises, we can overcome uncertainty and difficulty, demonstrating true faith in Him.
+This verse emphasizes the need to trust in God's power and guidance without testing or doubting Him. It serves as a warning against demanding proof or miracles, and instead encourages us to have faith in His promises. By addressing Satan and pointing out that testing God is not the same as trusting Him, this verse underscores the importance of wholeheartedly relying on God rather than seeking signs or evidence to validate our beliefs.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "This verse reminds us of the importance of trusting in God's promises and not putting Him to the test." 
+1. "The verse reminds us that we should not test or put God to the test, but rather trust in His power and guidance."
+2. "This verse serves as a warning against the temptation to doubt God's faithfulness and to demand proof or miracles."
+3. "It emphasizes the importance of having faith and relying on God's promises, rather than seeking signs or evidence to validate our beliefs."
 
-2. "Jesus' response to the devil's temptation shows us the power of Scripture in resisting temptation and standing firm in our faith."
-
-3. "By quoting Deuteronomy 6:16, Jesus emphasizes the need to have a humble and obedient heart towards God, rather than seeking to test or manipulate Him."
+### Archibald T Robertson:
+1. "Jesus quotes Deuteronomy against the devil."
+2. "The LXX is quoted."
+3. "Jesus points out to the devil that testing God is not trusting God."
 
 ### John Gill:
-1. "The second person plural, is here changed into the second person singular, to accommodate the words to Satan; whom Christ singly addresses, and makes answer to, and who was under this same general law as other rational creatures."
+1. "The second person plural, is here changed into the second person singular, to accommodate the words to Satan; whom Christ singly addresses, and makes answer to."
 2. "Jehovah may be called the Lord his God, as he is his creator and governor; by whom he is upheld in his being, and to whom he is subject, whether he will or not."
 3. "Even if our Lord Jesus Christ is intended by the Lord God, as some think; he is God over all; over all principalities and powers, good and bad, by whom all are created, and in whom all consist."
 
 ### John Wesley:
 1. "The verse reminds us that testing God is not an act of faith, but rather a lack of trust in His provision and guidance."
-2. "This verse serves as a warning against the temptation to put God to the test, to demand proof or evidence of His presence and power."
-3. "It is a call to trust in God's faithfulness and to rely on His promises, even in the face of uncertainty or difficulty."
+2. "It is a call to remember the faithfulness of God in the past and to trust in His faithfulness in the present and future."
+3. "This verse serves as a reminder that our relationship with God is not based on testing Him, but on trusting Him wholeheartedly."
 
 
 ## Generation Details

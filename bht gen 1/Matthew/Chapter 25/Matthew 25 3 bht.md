@@ -1,22 +1,29 @@
 # Matthew 25:3 Commentary Help Text
 
 ## BHT:
-In this verse, there is a cautionary tale about the foolish virgins who were unprepared for the bridegroom's arrival. Their lack of oil signifies their lack of spiritual preparation and readiness. The warning is clear that true readiness for the Lord's return requires both a genuine relationship with God and the cultivation of a deep connection with the Holy Spirit, represented by the oil. This parable serves as a reminder to believers to not just have a superficial faith, but to have a heart filled with the oil of the Holy Spirit, which empowers faith to work through love.
+This verse warns of the danger of being spiritually unprepared, lacking the necessary oil of the Holy Spirit for a lasting relationship with God. The foolish virgins had the appearance of readiness but lacked the vital oil, symbolizing spiritual vitality and readiness. It emphasizes the need for a personal and intimate connection with God, as true faith requires more than religious practices and calls us to continually seek and cultivate a deep relationship with Him. Without the oil of grace and a faith working by love, our lamp can dim and our spiritual emptiness will be exposed.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The foolish virgins took their lamps, but they did not take any oil with them. This signifies their lack of preparation and readiness for the bridegroom's arrival." 
+1. "The foolish virgins represent those who are unprepared and lack the necessary resources to sustain their faith. They may have the appearance of being ready, but they lack the essential oil of the Holy Spirit, which is necessary for a genuine and lasting relationship with God."
 
-2. "The oil in this parable represents the Holy Spirit and the spiritual preparation needed to enter into the kingdom of heaven. The foolish virgins neglected to cultivate a relationship with God and did not possess the necessary oil of faith and obedience." 
+2. "This verse serves as a reminder that it is not enough to simply have a form of godliness or go through the motions of religious practices. True faith requires a personal and intimate connection with God, symbolized by the oil in the lamps."
 
-3. "This verse serves as a warning to believers to not only have the outward appearance of faith, but to also cultivate a genuine and deep relationship with God. It reminds us that true readiness for the Lord's return requires a heart filled with the oil of the Holy Spirit."
+3. "The lack of oil signifies a lack of spiritual vitality and readiness. It is a warning against complacency and a call to continually seek and cultivate a deep relationship with God, so that we may be prepared for His coming and the challenges of life."
+
+### Marvin Vincent:
+1. "They that were foolish" - The term "foolish" is justified by the preceding verse, emphasizing the lack of wisdom or understanding of these individuals.
+
+2. "The for justifies the epithet foolish" - The word "for" serves to explain or provide a reason for the designation of being foolish, further highlighting their lack of wisdom.
+
+3. "Read aiJ gar mwrai, for the foolish" - This phrase suggests that the Greek phrase "aiJ gar mwrai" should be understood as "the foolish," reinforcing the idea that these individuals lacked wisdom or discernment.
 
 ### Archibald T Robertson:
-1. "Took no oil with them" - This phrase suggests that the foolish virgins were unprepared for the bridegroom's arrival, as they did not bring any oil for their lamps. 
+1. "Took no oil with them" - Probably none at all, not realizing their lack of oil till they lit the torches on the arrival of the bridegroom and his party.
 
-2. "Probably none at all" - This indicates that the foolish virgins may have completely overlooked the need for oil, emphasizing their lack of foresight and preparedness. 
+2. "Not realizing their lack of oil" - The foolish virgins were unaware of their own spiritual emptiness and were unprepared for the coming of the bridegroom.
 
-3. "Not realizing their lack of oil till they lit the torches" - This highlights the delayed realization of the foolish virgins, who only discovered their lack of oil when they attempted to light their lamps upon the arrival of the bridegroom.
+3. "Lit the torches on the arrival of the bridegroom" - The moment of truth revealed their unpreparedness, as they were unable to sustain the light and warmth needed to welcome the bridegroom.
 
 ### John Gill:
 1. "The grace of the Spirit being of an holy and sanctifying nature, exceeding valuable and precious, and a curious piece of workmanship, and what is only applied unto, and bestowed on the elect of God and with which all the vessels of mercy, small and great, are anointed, and are made prophets, priests, and kings, and is what is, as that was, lasting and abiding."
@@ -24,11 +31,9 @@ In this verse, there is a cautionary tale about the foolish virgins who were unp
 3. "Now these foolish virgins, though they took up a lamp of a profession, yet were unconcerned for the oil of grace, to fill, maintain, and trim this lamp: they were ignorant of the nature and use of true grace; they saw no need of it, and therefore did not ask for it, or about it; they neglected it, made light of it, and denied it as useless; and being destitute of it, took up their profession without it; and in this lay their folly."
 
 ### John Wesley:
-1. "The foolish took no oil with them" - This highlights the lack of preparation and foresight on the part of the foolish individuals. They did not have enough oil to sustain their lamps, symbolizing a lack of faith and spiritual readiness.
-
-2. "No more than kept them burning just for the present" - This emphasizes the short-sightedness of the foolish individuals. They only had enough oil to keep their lamps burning for the immediate moment, without considering the future or potential challenges that may arise.
-
-3. "A lamp and oil with it, is faith working by love" - This statement underscores the importance of both faith and love in the Christian life. The lamp represents faith, while the oil symbolizes love. True faith is not just a passive belief but is active and fueled by love for God and others.
+1. "The foolish took no oil with them — No more than kept them burning just for the present."
+2. "None to supply their future want, to recruit their lamp's decay."
+3. "The lamp is faith. A lamp and oil with it, is faith working by love."
 
 
 ## Generation Details

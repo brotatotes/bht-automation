@@ -1,15 +1,20 @@
 # Matthew 13:9 Commentary Help Text
 
 ## BHT:
-The verse described in this passage is a call to active and intentional listening. It emphasizes the need for engagement and understanding rather than mere hearing. The commentators highlight the division among listeners, with some being receptive while others remain closed off. They also note the depth and complexity of Jesus' teachings, encouraging readers to delve deeper and reflect on the hidden meaning behind his parables. Overall, this verse serves as a reminder that true comprehension is a gift from God and requires active participation on the part of the listener.
+This verse, commonly found among the Gospels, emphasizes the need for active engagement and understanding of Jesus' teachings. It reminds us that not all listeners possess the ability to comprehend spiritual truths easily. Jesus employed this phrase in moments when he wished to capture his audience's attention and kindle a desire within them to grasp the deeper meaning behind his words. The verse serves as a reminder of the significance of the message and encourages listeners to actively seek understanding.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The phrase 'is common to all three Evangelists' highlights the shared nature of this particular verse among the Gospel writers." 
+2. "The addition of 'ἀκούειν' by Mark and Luke emphasizes the act of hearing in relation to the verse." 
+3. "This verse serves as a reminder that the message contained within it is significant and worth paying attention to."
+
 ### John Calvin:
-1. "He that hath ears to hear, let him hear." - These words highlight that not everyone has the ability to truly understand and comprehend the teachings being shared. It serves as a call to the disciples to pay close attention and contemplate the deeper meaning of the doctrine being presented.
+1. "He that hath ears to hear, let him hear." - These words emphasize that not everyone has the ability to truly understand and comprehend the teachings of Jesus. It serves as a call to attentively consider the doctrine that may not be easily understood by all.
 
-2. "Indeed, he makes a distinction among the hearers, by pronouncing some to have ears, and others to be deaf." - This statement emphasizes that there is a division among the listeners, with some being receptive and open to understanding, while others remain closed off and unable to grasp the message being conveyed.
+2. "He makes a distinction among the hearers, by pronouncing some to have ears, and others to be deaf." - Jesus acknowledges that not all listeners are receptive to his message. This highlights the importance of being open and receptive to spiritual understanding.
 
-3. "Scripture testifies in other passages, that it is the Lord who pierces the ears, and that no man obtains or accomplishes this by his own industry." - This quote highlights the belief that the ability to truly hear and comprehend the teachings of Jesus is a gift from God. It emphasizes that it is not something that can be achieved through human effort alone, but rather through divine intervention and grace.
+3. "Scripture testifies in other passages, that it is the Lord who pierces the ears, and that no man obtains or accomplishes this by his own industry." - The ability to truly hear and understand the teachings of Jesus is a gift from God. It is not something that can be achieved through human effort alone. This reminds us of our dependence on God for spiritual insight and understanding.
 
 ### Philip Schaff:
 1. "He that hath, etc. Comp. chap. Matthew 11:15. A peculiarly appropriate ending to a parable."
@@ -17,16 +22,16 @@ The verse described in this passage is a call to active and intentional listenin
 3. "The former would in this case imply the latter."
 
 ### Archibald T Robertson:
-1. "He that hath ears let him hear" - This phrase reminds us that listening and understanding are not passive actions, but require active engagement and openness to receive the message being conveyed.
-2. "It is comforting to teachers and preachers to observe that even Jesus had to exhort people to listen and understand his sayings" - This highlights the universal challenge of effective communication, even for Jesus himself. It encourages teachers and preachers to persevere in their efforts to convey their message clearly and to engage their audience.
-3. "His parables will bear the closest thought and are often enigmatical" - This emphasizes the depth and complexity of Jesus' parables, which require careful reflection and contemplation to fully grasp their meaning. It encourages readers to delve deeper into the teachings of Jesus and not to dismiss them as simple or superficial.
+1. "He that hath ears let him hear" - This exhortation from Jesus reminds us that listening and understanding his teachings requires active engagement and openness. It emphasizes the importance of being receptive to his message and applying it to our lives.
+
+2. "It is comforting to teachers and preachers to observe that even Jesus had to exhort people to listen and understand his sayings" - This statement highlights the relatability of Jesus' experience as a teacher. It reminds us that even the Son of God faced challenges in effectively communicating his teachings, offering encouragement to those who may struggle in their own teaching or preaching endeavors.
+
+3. "His parables will bear the closest thought and are often enigmatical" - This insight into Jesus' use of parables suggests that they require careful reflection and contemplation. It implies that there is depth and hidden meaning within his parables, inviting us to delve deeper into their significance and uncover the spiritual truths they contain.
 
 ### John Gill:
-1. "Who hath ears to hear, let him hear." - This phrase emphasizes the need for active listening and understanding, not just hearing with our physical ears. It calls for deep reflection and attention to the message being conveyed.
-
-2. "He that has ears given him to hear, so as to understand, let him make use of them." - This quote highlights the responsibility of individuals to utilize the gift of understanding that they have been given. It encourages intentional engagement with the teachings and parables of Jesus.
-
-3. "It is a way of speaking used by Christ...to quicken the attention of his auditors." - This statement explains the purpose behind Jesus' use of this phrase. It shows that Jesus intentionally used this language to captivate his listeners and provoke their curiosity, leading them to seek a deeper understanding of his teachings.
+1. "Not externally only, but internally; he that has ears given him to hear, so as to understand, let him make use of them." 
+2. "It is a way of speaking used by Christ, when anything of moment was delivered, and not so easy to be understood, on purpose to quicken the attention of his auditors." 
+3. "...and stir up in them a desire of understanding what was said."
 
 
 ## Generation Details

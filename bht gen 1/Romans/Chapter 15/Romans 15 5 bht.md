@@ -1,25 +1,49 @@
 # Romans 15:5 Commentary Help Text
 
 ## BHT:
-In the verse described, we discover the God of patience and consolation, who inspires graces like hope and peace. The apostle seeks unity grounded in Christ Jesus, surpassing mere agreement and encompassing harmony of feeling. This unity calls us to emulate the selflessness and obedience of Christ, prioritizing God's will above our own. Through the power of Christ Jesus, believers receive divine authority and ability to overcome obstacles and experience transformation, enabling them to live a life of victory transcending human limitations. Relying on this power brings strength, hope, and courage, leading to true and lasting change.
+The verse being described is a powerful statement about the unlimited and all-encompassing power of Christ Jesus. It emphasizes that this power is not based on our own strength, but on the divine authority and ability that comes from Him. By relying on His power, believers can overcome any obstacle and experience victory in their lives. This power is meant to be shared with others, as believers are called to be vessels of His power and agents of transformation in the world.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Now the God of patience and consolation" - These beautiful names of God highlight the graces He inspires, such as hope and peace. (Romans 15:5)
+1. "The God of patience and consolation" - These beautiful names of God highlight the graces He inspires in us. Just as He is the God of hope and peace, He is also the God who patiently endures and comforts us in our trials and sorrows.
 
-2. "Grant you to be likeminded" - The apostle seeks more than mere unanimity, as unanimity in evil is to be deprecated. Instead, he desires a unity that is in accordance with Christ Jesus. (Romans 15:5)
+2. "Grant you to be likeminded" - The apostle is not merely seeking unanimity among believers, but a unity of mind that is in accordance with Christ Jesus. It is a unity that is modeled after the selfless and obedient nature of Christ, who always sought to do the will of the Father.
 
-3. "After the sublimest model of Him" - The call to be of the same mind as Christ Jesus reminds us of His selflessness and obedience to the will of God. It challenges us to follow His example and prioritize God's will above our own. (Romans 15:5)
+3. "Unanimity in evil is to be deprecated" - The apostle warns against unity in evil, emphasizing the importance of being of the same mind in Christ. It is not enough to be united in wickedness or sinful pursuits, but rather we should strive for unity in righteousness and conformity to the character of Christ.
+
+### Albert Barnes:
+1. "The God who is 'himself' long-suffering, who bears patiently with the errors and faults of his children, and who can 'give' patience, may he give you of his Spirit, that you may bear patiently the infirmities and errors of each other."
+2. "If God bears long and patiently with 'our' infirmities, 'we' ought to bear with each other."
+3. "If all Christians would imitate the example of Christ, and follow his instructions, there would be no contentions among them."
+
+### John Calvin:
+1. "God alone is doubtless the author of patience and of consolation; for he conveys both to our hearts by his Spirit: yet he employs his word as the instrument."
+2. "The sum of his prayer is, — that he would bring their minds to real unanimity, and make them united among themselves: he also shows at the same time what is the bond of unity, for he wished them to agree together according to Christ Jesus."
+3. "There is then no reason for any to boast that he will give glory to God after his own manner; for the unity of his servants is so much esteemed by God, that he will not have his glory sounded forth amidst discords and contentions."
 
 ### Philip Schaff:
-1. "He well knows that the Scripture itself is inefficacious without help of the God of the Scriptures" - Godet
-2. "To be of the same mind points to harmony of feeling in their intercourse rather than to unanimity of opinion on the disputed points of practice" 
-3. "Only the God of patience and comfort can produce these, but He produces them through the Scriptures"
+1. "He well knows that the Scripture itself is inefficacious without help of the God of the Scriptures." 
+2. "Only the God of patience and comfort can produce harmony, but He produces them through the Scriptures."
+3. "According to His example, but also according to His will as Head of the Church and according to His Spirit as the Life of the Church."
+
+### Archibald T Robertson:
+1. "The God of patience and comfort" - This phrase describes God's character and how He uses the Scriptures to reveal Himself to us. (Romans 15:4)
+
+2. "The God of hope" - Another description of God, emphasizing His role in providing hope. (Romans 15:13)
+
+3. "The God of peace" - This phrase highlights God's nature as a source of peace. (Romans 15:33)
+
+### John Gill:
+1. "The efficacy and usefulness of [the Scriptures], in producing and promoting patience and comfort, entirely depend upon God the author of them."
+2. "God is the great pattern and exemplar of patience; he is patient himself, and bears much and long with the children of men."
+3. "All true, real, solid comfort springs from [God], which he communicates by his son, the consolation of Israel; by his Spirit, the comforter; by his word, the doctrines and promises of which afford strong consolation to the heirs of promise, sensible sinners and afflicted souls."
 
 ### John Wesley:
-1. "The power of Christ Jesus refers to the divine authority and ability that comes from Him. It is through His power that believers are able to overcome obstacles, experience transformation, and live a life of victory."
-2. "This power is not limited to a specific time or place, but is available to all who believe in Him. It is a power that transcends human limitations and enables believers to do things that are beyond their natural abilities."
-3. "By relying on the power of Christ Jesus, believers can find strength in times of weakness, hope in times of despair, and courage in times of fear. It is a power that brings about true and lasting change in the lives of those who surrender to it."
+1. "The power of Christ Jesus refers to the divine authority and ability that comes from Him. It is not a power that is limited or restricted, but rather an unlimited and all-encompassing power that is available to believers. This power is not based on our own strength or abilities, but on the power of Christ Himself."
+
+2. "By relying on the power of Christ Jesus, we are able to overcome any obstacle or challenge that comes our way. It is through His power that we are able to experience victory and triumph in our lives. This power enables us to do things that are beyond our natural capabilities and accomplish great things for the glory of God."
+
+3. "The power of Christ Jesus is not just for our own benefit, but it is also meant to be shared with others. As believers, we are called to be vessels of His power and to demonstrate it in our lives. This power is not meant to be kept to ourselves, but to be used to bring about transformation and change in the lives of others."
 
 
 ## Generation Details

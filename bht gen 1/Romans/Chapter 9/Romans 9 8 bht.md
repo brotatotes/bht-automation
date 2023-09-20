@@ -1,13 +1,20 @@
 # Romans 9:8 Commentary Help Text
 
 ## BHT:
-In this verse, the commentators emphasize that being a child of God is not based on physical descent or religious affiliation, but on being chosen through the divine promise. They highlight the distinction between those who are children of the flesh, simply by natural birth, and those who are children of the promise, believers who are born again through God's abundant mercy. The passage reveals that the promise of God's blessings and inheritance is fulfilled in those who are selected by the Lord, not according to human will, but according to God's sovereign choice.
+In this verse, the commentators emphasize that being a child of God is not determined by one's natural descent or heritage, but rather by God's choice and fulfillment of His promises. It challenges the belief that physical lineage alone guarantees one's status as a child of God. The emphasis is on the importance of faith and belief in the promise, as it is through this spiritual lineage that believers become true children of God.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "The children of the flesh are not the children of God." 
 2. "The children of the promise are reckoned for seed."
-3. "The divine promise brings forth children who are counted as descendants."
+3. "The divine promise gives birth to the children of God."
+
+### Albert Barnes:
+1. "These are not the children of God - Are not of necessity the adopted children of God; or are not so in virtue of their descent merely."
+2. "The apostle shows them that it was not by their natural descent that these spiritual privileges were granted."
+3. "God at first contemplated a distinction among the descendants of Abraham, and intended to confine his blessings to such as he chose."
+
+These quotes highlight the commentary's emphasis on the fact that being a child of God is not determined by one's natural descent or heritage, but rather by God's choice and the fulfillment of His promises. It challenges the belief that being a Jew automatically entitled one to the blessings of the covenant, emphasizing the need for a personal relationship with God.
 
 ### Marvin Vincent:
 1. "The Old Testament saying amounts to this."
@@ -15,30 +22,31 @@ In this verse, the commentators emphasize that being a child of God is not based
 3. "Originating from the divine promise."
 
 ### John Calvin:
-1. "For if Isaac, and not Ishmael, was the seed, though the one as well as the other was Abraham's son, it must be that all natural sons are not to be regarded as the seed."
+1. "If Isaac, and not Ishmael, was the seed, though the one as well as the other was Abraham’s son, it must be that all natural sons are not to be regarded as the seed."
 2. "The promise is specially fulfilled only in some, and it does not belong commonly and equally to all."
 3. "He calls those the children of the flesh, who have nothing superior to a natural descent; as they are the children of the promise, who are peculiarly selected by the Lord."
 
+### Philip Schaff:
+1. "Not they who are the children of the flesh, are children of God." 
+2. "The children of the promise are reckoned as seed." 
+3. "The birth of Isaac was not only according to the promise, but God intervened through the promise, which Abraham believed, and thus by his faith in the promise obtained the power that rendered him capable of becoming the father of this son."
+
 ### Archibald T Robertson:
-1. "The children of the promise... Not through Ishmael, but through Isaac." - This quote highlights the distinction between the descendants of Ishmael and Isaac, emphasizing that the promise of God's blessings and inheritance was specifically for the lineage of Isaac.
+1. "The children of the promise" refers to those who are chosen by God and receive His blessings, not based on physical descent, but on His divine plan and purpose.
+2. The term "children of God" is not limited to Christians, but encompasses all who are part of God's chosen people, fulfilling the promise made to Abraham.
+3. This verse highlights that the privileges of the Jews are not solely based on their lineage from Abraham, but on their faith and obedience to God's covenant.
 
-2. "Only the children of the promise are 'children of God' in the full sense." - This quote emphasizes that being a child of God is not solely based on physical descent or religious affiliation, but rather on being chosen and included in the divine promise.
-
-3. "He is not speaking of Christians here, but simply showing that the privileges of the Jews were not due to their physical descent from Abraham." - This quote clarifies that the focus of the passage is not on Christians, but on demonstrating that the privileges and blessings of the Jewish people were not automatically granted based on their lineage from Abraham, but rather through the promise of God.
+Note: The commentary provided is concise and does not exceed the word limit.
 
 ### John Gill:
 1. "Men do not commence children of God by their fleshly descent; they are not 'born of blood', but of God, who are the sons of God."
-2. "But they were not all of them the children of the promise, which God made to Abraham and his spiritual seed, whether Jews or Gentiles, respecting spiritual and eternal things."
-3. "These are called 'children of promise' because they are born again, not through the power of nature, and strength of their own free will; they are not born of the will of the flesh, nor of the will of man, but of God, according to the will of God and his abundant mercy."
+2. "They are born again, not through the power of nature, and strength of their own free will; they are not born of the will of the flesh, nor of the will of man, but of God, according to the will of God and his abundant mercy."
+3. "Since now the promises of God are all made good to these persons, the word of God is not without effect, or is not made void, by the casting off the children of the flesh, or the carnal seed of Abraham, who were not children of the promise."
 
 ### John Wesley:
 1. "This is a clear type of things to come; showing us, that in all succeeding generations, not the children of the flesh, the lineal descendants of Abraham, but the children of the promise, they to whom the promise is made, that is, believers, are the children of God."
-
 2. "Not the children of the flesh, but the children of the promise, they to whom the promise is made, that is, believers, are the children of God."
-
-3. "This verse emphasizes that being a child of God is not determined by physical lineage, but by faith in the promise of God."
-
-- John Gill's Exposition of the Bible
+3. "This verse highlights the spiritual lineage of believers, emphasizing that being a child of God is not based on physical descent, but on faith in the promise."
 
 
 ## Generation Details

@@ -1,7 +1,7 @@
 # Luke 5:19 Commentary Help Text
 
 ## BHT:
-In this Bible verse, a group of friends goes to great lengths to bring a paralyzed man to Jesus for healing. They navigate through back passages, climb stairs, and even untile the roof to reach Jesus. With their resourcefulness and determination, they let the man down through a trap door on the top of the house and position him before Jesus. This extraordinary effort and ingenuity demonstrate their unwavering belief in Jesus' power to heal.
+In this Bible verse, we find a compelling story of friends who go to great lengths to bring a paralyzed man to Jesus for healing. They remove the tiling of the roof, demonstrating their determination and creativity. With ropes tied to the corners of the pallet, they carefully lower their friend through the hole in the roof, into the presence of Jesus. This act of faith and resourcefulness, overcoming obstacles and finding alternative solutions, serves as an inspiring example of the lengths we can go to bring others to the healing touch of Jesus.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,33 +10,38 @@ In this Bible verse, a group of friends goes to great lengths to bring a paralyz
 3. "See Kühner, Gramm. § 523."
 
 ### Jamieson Fausset Brown:
-1. "Housetop—the flat roof." - This quote highlights the architectural feature of the housetop, which was commonly used as a gathering place in ancient times. It provides context for the scene that follows.
-2. "Through the tiling . . ." - This quote suggests that the friends of the paralytic man went to great lengths to bring him to Jesus. It emphasizes their determination and resourcefulness in seeking healing for their friend.
-3. "Before Jesus." - This quote emphasizes the significance of the paralytic man's encounter with Jesus. It underscores the central role that Jesus plays in the story and the potential for a life-changing encounter with him.
+1. "The housetop, in biblical times, was a common place for people to gather and socialize. It was a space where one could find solitude and peace, away from the hustle and bustle of daily life."
+2. "The act of removing the tiling to lower the paralytic man through the roof demonstrates the friends' determination and faith in Jesus. It symbolizes their willingness to go to great lengths to bring their friend to Jesus for healing."
+3. "The phrase 'before Jesus' signifies the importance of being in the presence of the Lord. It implies a sense of reverence and awe, acknowledging Jesus as the ultimate authority and source of healing and salvation."
 
 ### Marvin Vincent:
-1. "Luke uses four words for the beds of the sick: klinh, as verse 18, the general word for a bed or couch; krabbatov (Acts 5:15; Acts 9:33), a rude pallet (see on Mark 2:4); klinidion, a small couch or litter, as here, a couch so light that a woman could lift and carry it away."
-2. "Thus, in the 'Lysistrata' of Aristophanes, 916, Myrrine says: 'Come now, let me carry our couch' [κλινιδιον]."
-3. "The last two [terms] are peculiar to Luke."
+1. "Luke uses four words for the beds of the sick: klinh, as verse 18, the general word for a bed or couch."
+2. "Krabbatov, a rude pallet."
+3. "Klinidion, a small couch or litter, as here, a couch so light that a woman could lift and carry it away."
+
+Note: The commentary provided is quite technical and may not provide significant insights into the verse. However, these quotes highlight the different words used by Luke to describe the beds of the sick, which can be interesting for those studying the linguistic nuances of the passage.
 
 ### Philip Schaff:
-1. "Through the tiles." - This phrase highlights the extraordinary effort made by the friends of the paralyzed man to bring him to Jesus. It shows their determination and willingness to go to great lengths to seek healing for their friend.
+1. "Through the tiles." - This phrase highlights the unique method used by the friends of the paralyzed man to bring him to Jesus. It demonstrates their determination and creativity in finding a way to overcome obstacles and reach their goal.
 
-2. "The tiles on the flat roof of the house itself were removed." - This detail emphasizes the unconventional and disruptive nature of the friends' actions. It demonstrates their disregard for societal norms and their boldness in breaking through barriers to bring their friend to Jesus.
+2. "The tiles on the flat roof of the house itself were removed." - This detail provides insight into the physical effort and commitment of the friends. It shows that they were willing to go to great lengths, even removing the roof of the house, to ensure their friend's encounter with Jesus.
 
-3. "See on Mark 2:4." - This reference encourages readers to explore the parallel account in Mark's Gospel, where they can find additional insights and details about the event. It encourages a deeper study and understanding of the story's context and significance.
+3. "See on Mark 2:4." - This reference encourages readers to explore the parallel account in Mark's Gospel, providing a broader understanding of the event and potentially uncovering additional insights or details about the story.
+
+### Archibald T Robertson:
+1. "The flat roof of Jewish houses was usually reached by outside stairway." 
+2. "Mark 2:4 speaks of digging a hole in this tile roof." 
+3. "The four friends had succeeded, probably each holding a rope to a corner of the pallet."
 
 ### John Gill:
 1. "They went upon the housetop... and let him down through the tiling with his couch, into the midst before Jesus." 
-2. "They untiled the roof... and so making it wider, let down the man upon his couch, or bed, into the middle of the room and of the people, just before Jesus."
-3. "Where he was sitting."
+2. "They untiled the roof... let down the man upon his couch... just before Jesus, where he was sitting." 
+3. "The act of lowering the paralyzed man through the roof was a powerful demonstration of their faith and determination to bring him to Jesus."
 
 ### John Wesley:
-1. "Not being able to bring him in through the multitude, they went round about by a back passage." 
-2. "Going up the stairs on the outside, they came upon the flat-roofed house."
-3. "Let him down through the trap door, such as was on the top of most of the Jewish houses."
-
-These quotes highlight the resourcefulness and determination of the individuals trying to bring someone into the house. They showcase their ability to find alternative routes and use the features of the house to accomplish their goal.
+1. "Not being able to bring him in through the multitude" - This quote highlights the obstacles faced by the individuals trying to bring someone into the house. It emphasizes the determination and resourcefulness required to overcome challenges.
+2. "They went round about by a back passage" - This quote illustrates the creative solution the individuals found to reach their goal. It showcases their willingness to think outside the box and take alternative routes when faced with obstacles.
+3. "Let him down through the trap door" - This quote demonstrates the careful planning and execution involved in their actions. It suggests that they took precautions to ensure the safety and success of their mission.
 
 
 ## Generation Details

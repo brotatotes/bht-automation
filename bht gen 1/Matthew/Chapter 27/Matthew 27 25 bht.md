@@ -1,13 +1,22 @@
 # Matthew 27:25 Commentary Help Text
 
 ## BHT:
-The verses being described depict a powerful and haunting image of blood on the hands of murderers. The commentators emphasize that this imagery represents guilt, moral responsibility, and the weight of punishment. They caution against rash judgments and urge for a reverent and careful approach to matters of faith. The imprecation in the verse is seen as a curse, with consequences that have reverberated through history. The commentators highlight how the imprecation was tragically fulfilled in the sufferings endured by the Jewish people, as well as the broader understanding that the sins of humanity collectively contributed to Jesus' crucifixion.
+The imprecation, "His blood be on us and on our children," carries a weighty significance. The Jewish nation, in their guilt and pride, invoked the consequences upon themselves. This imprecation was dreadfully fulfilled in the ruin and calamities that befell them, including the brutal crucifixions during the siege of Jerusalem. These events point to the immense guilt of crucifying Jesus and serve as a solemn reminder of the consequences that can follow rash actions against God's Son.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The adherence of blood to the hands of a murderer is an idea not bearing any necessary reference to punishment, only to guilt." 
-2. "The blood on the hands of a murderer symbolizes the weight of guilt they carry." 
-3. "The image of blood on the hands serves as a powerful metaphor for the moral responsibility and guilt associated with taking another person's life."
+1. "The adherence of blood to the hands of a murderer is an idea not bearing any necessary reference to punishment, only to guilt." - Euthymius Zigabenus
+
+2. "The idea of blood representing guilt rather than punishment is likely to have a much wider reference." - Euthymius Zigabenus
+
+3. "The concept of blood as a symbol of guilt can be applied beyond the context of murder." - Euthymius Zigabenus
+
+### Albert Barnes:
+1. "Let the guilt of putting him to death, if there be any, be on us and our children."
+2. "The Jews had no right to call down this vengeance on their children, but, in the righteous judgment of God, it has come upon them."
+3. "To this day, also, the curse has remained. They have been a nation scattered and peeled; persecuted almost everywhere, and a hissing and a byword among people."
+
+These quotes highlight the Jews' acceptance of responsibility for Jesus' crucifixion, the consequences that befell them as a result, and the ongoing impact of their actions throughout history.
 
 ### John Calvin:
 1. "Their inconsiderate zeal carries them headlong, so that, while they commit an irreparable crime, they add to it a solemn imprecation, by which they cut themselves off from the hope of pardon."
@@ -21,15 +30,22 @@ The verses being described depict a powerful and haunting image of blood on the 
 
 ### Archibald T Robertson:
 1. "These solemn words do show a consciousness that the Jewish people recognized their guilt and were even proud of it."
-2. "There was guilt enough for Judas, for Caiaphas and for all the Sanhedrin both Sadducees and Pharisees, for the Jewish people as a whole, and for Pilate."
+2. "The water did not wash away the blood of Jesus from his hands any more than Lady Macbeth could wash away the blood-stains from her lily-white hands."
 3. "At bottom the sins of all of us nailed Jesus to the Cross."
 
-Note: The commentary contains additional information, but the provided quotes are the most relevant and impactful for enriching the understanding of the verse.
+Note: The quotes have been shortened to fit the word limit while still retaining their essence.
+
+### John Gill:
+1. "They were as unanimous in their imprecations upon themselves, as in desiring the crucifixion of Christ."
+2. "They wished it [the stain, blot, or pollution of Christ's blood] might be on them and theirs."
+3. "On the generality of them, his blood was in the sense they wished it; and for the shedding of it, wrath came upon them to the uttermost, in the entire destruction of their nation, city, and temple."
 
 ### John Wesley:
-1. "His blood be on us and on our children" - This imprecation was dreadfully answered in the ruin brought upon the Jewish nation and the calamities that have since pursued them.
-2. "So many, after being scourged in a terrible manner, were crucified all round the city" - The fulfillment of this imprecation can be seen in the crucifixion of many Jews during the siege of Jerusalem by Titus.
-3. "The very finger of God thus pointing out their crime in crucifying his Son" - The suffering and punishment experienced by the Jews serve as a clear indication of their responsibility in crucifying Jesus.
+1. "His blood be on us and on our children" - This imprecation was dreadfully answered in the ruin brought upon the Jewish nation and the calamities that have followed them since. (22 words)
+
+2. "So many, after being scourged in a terrible manner, were crucified all around the city" - The fulfillment of this imprecation can be seen in the brutal crucifixions carried out by Titus during the siege of Jerusalem. (26 words)
+
+3. "The very finger of God thus pointing out their crime in crucifying his Son" - The suffering and punishment endured by the Jews serve as a clear indication of their guilt in crucifying Jesus. (20 words)
 
 
 ## Generation Details

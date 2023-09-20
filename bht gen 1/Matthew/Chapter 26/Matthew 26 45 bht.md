@@ -1,32 +1,40 @@
 # Matthew 26:45 Commentary Help Text
 
 ## BHT:
-The verse being described is one where Jesus speaks to his disciples, acknowledging their weariness and granting them permission to rest. The moment is significant and immediate, as Jesus is fully aware of the approaching betrayal. He demonstrates acute perception, aware of the visual and auditory cues around him. The speaker recognizes the value of the listener's future contributions and emphasizes the importance of rest and self-care, reminding us to prioritize our well-being even in the midst of responsibilities.
+The quote speaks of a moment when the person speaking acknowledges the weariness and exhaustion of the other person, indicating that they have already received assistance and there is no need for further help. It highlights the importance of rest and rejuvenation, recognizing the need to replenish one's energy and find solace amidst challenges.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "The hour is at hand." - This phrase emphasizes the immediacy and significance of the moment, indicating that Jesus was fully aware of the events unfolding before him.
+1. "The hour is at hand." - This phrase emphasizes the imminent arrival of a significant event, indicating that Jesus was aware of the approaching betrayal and arrest.
+2. "He probably heard the tramp." - This suggests that Jesus was not only aware of the physical presence of Judas and his band but also attuned to the sounds and movements around him, further highlighting his heightened perception.
+3. "Saw the lanterns of Judas and his band." - This detail adds a visual element to the scene, illustrating the darkness of the night and the contrast between the light of the lanterns and the spiritual darkness of the betrayal taking place.
 
-2. "He probably heard the tramp and saw the lanterns of Judas and his band." - This statement highlights Jesus' acute perception and awareness of his surroundings, suggesting that he was not caught off guard by Judas' betrayal.
-
-3. "He probably heard the tramp and saw the lanterns of Judas and his band." - This description paints a vivid picture of the scene, illustrating the visual and auditory cues that Jesus would have experienced in that moment.
+### John Calvin:
+1. "Christ, having gained nothing by warning his disciples, not only gives an indirect reproof of their indifference, but threatens, that how indolent so ever they may choose to be, no longer delay will be allowed them."
+2. "Having hitherto wasted my words on you, I shall now come to exhort you; but whatever permission I may give you to sleep, the enemies will not allow it to you, but will compel you to watch against your will."
+3. "The Lord usually chastises the indolence of men, that those who wax deaf to words may at length be compelled, by their sufferings, to arouse themselves."
 
 ### Philip Schaff:
 1. "Sleep on now, if you can. It is not ironical; the circumstances forbid that. They could not take their rest, for the betrayer was coming."
 2. "Behold, the hour is at hand. The hour of His enemies, the hour of darkness, but with special reference to the approach of the betrayer."
-3. "Our Lord had predicted that He would be delivered to the chief priests and Gentiles; 'sinners' here includes both. There is special significance in the choice of this word at such a time."
+3. "Is betrayed into the hands of sinners. 'Sinners' here includes both the chief priests and Gentiles. There is special significance in the choice of this word at such a time."
+
+### Archibald T Robertson:
+1. "Ye may sleep and rest indefinitely so far as I am concerned; I need no longer your watchful interest" (Bruce).
+2. "Are you still sleeping and taking your rest?" (Moffatt).
+3. "The Master's time of weakness is past; He is prepared to face the worst" (Bruce).
 
 ### John Gill:
-1. "The conflict was over for the present; or, as the Syriac version renders it, 'the end is come'; and so the Arabic; and to the same purpose the Persic, 'the matter is come to an end', or to an extremity."
-2. "Sleep on and take your rest, if you can: I have been exhorting you to watchfulness, but to no purpose, you will be alarmed from another quarter."
-3. "By the son of man Christ means himself, and under this diminutive title expresses his Messiahship, this being a character of the Messiah in the Old Testament; and the truth of his human nature, and the weakness and infirmities of it."
+1. "Sleep on and take your rest, if you can: I have been exhorting you to watchfulness, but to no purpose, you will be alarmed from another quarter." 
+2. "Behold the hour is at hand, and the son of man is betrayed into the hands of sinners." 
+3. "The high priest, elders, Scribes, and Pharisees, notwithstanding all their pretensions to religion, righteousness, and holiness, were very wicked persons."
 
 ### John Wesley:
-1. "Sleep on now, if you can, and take your rest" - This phrase suggests that the speaker is acknowledging the weariness of the listener and giving them permission to rest. It shows a compassionate understanding of the listener's need for rejuvenation.
+1. "Sleep on now, if you can, and take your rest" - This phrase suggests a sense of weariness and exhaustion, implying that the person speaking has been through a great deal of hardship and is in need of rest.
 
-2. "For any farther service you can be of to me" - This statement implies that the speaker recognizes the value of the listener's future contributions. It highlights the speaker's appreciation for the listener's dedication and willingness to serve.
+2. "For any farther service you can be of to me" - This statement implies that the person speaking has already received help or support from the individual they are addressing. It suggests that the person has done enough and there is no need for further assistance.
 
-3. "Sleep on now, if you can, and take your rest" - By repeating this phrase, the speaker emphasizes the importance of rest and self-care. It serves as a reminder that even in the midst of service and responsibilities, it is crucial to prioritize one's well-being.
+3. "Sleep on now" - This simple phrase emphasizes the importance of rest and rejuvenation. It acknowledges the need for sleep as a means of replenishing one's energy and finding solace in the midst of challenges.
 
 
 ## Generation Details

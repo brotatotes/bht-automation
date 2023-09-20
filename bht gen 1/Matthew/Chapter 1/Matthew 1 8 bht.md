@@ -1,9 +1,14 @@
 # Matthew 1:8 Commentary Help Text
 
 ## BHT:
-In this verse, we see a genealogy that intentionally omits three names, highlighting the consequences of unfaithfulness and emphasizing the importance of righteousness in Jesus' lineage. Jehoshaphat is described as a good prince, while the omission of certain names in the genealogy is explained as three kings who were either unworthy or descended from Jezebel. This omission, however, does not undermine the purpose of establishing Jesus' lineage from the house of David. Ultimately, this verse portrays Jesus as mediately, yet unmistakably, descended from David and Abraham.
+This verse describes the genealogy of Jehoshaphat, a good prince who ruled in Judah, but three kings were intentionally omitted - Ahaziah, Joash, and Amaziah. Some commentators suggest this was to reduce the number of generations or due to their connection with the accursed house of Ahab. Nevertheless, the purpose of this genealogy is to establish Jesus' lineage from the house of David, emphasizing that God's plan of salvation extends through many generations. By including the names of these kings, it serves as a reminder of the consequences of unfaithfulness and the importance of righteousness in the lineage of Jesus.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Some think that they were erased on account of their connection, by means of Athaliah, with the accursed house of Ahab."
+2. "But more probably such erasion, even if justifiable by that reason, was not made on account of it, but for convenience, in order to square the numbers of the different portions of the genealogies."
+3. "The text of the Codex Bezæ is a very peculiar one, deviating more from the received readings and from the principal manuscript authorities than any other."
+
 ### Philip Schaff:
 1. "Between Joram and Uzziah, three names are intentionally omitted: Ahaziah, Joash, and Amaziah, probably to reduce the number of generations." 
 
@@ -14,12 +19,14 @@ In this verse, we see a genealogy that intentionally omits three names, highligh
 ### John Gill:
 1. "He also was a very good prince." - This quote highlights the positive character of Jehoshaphat, emphasizing his goodness as a ruler.
 2. "He was not the immediate son of Joram; there were three kings between them." - This quote explains the omission of three kings in the genealogy, providing possible reasons for their exclusion.
-3. "Nor does this omission at all affect the design of the Evangelist, which is to show that Jesus, the true Messiah, is of the house of David." - This quote clarifies that the omission of certain names does not undermine the purpose of the genealogy, which is to establish Jesus' lineage from the house of David.
+3. "Nor does this omission at all affect the design of the Evangelist, which is to show that Jesus, the true Messiah, is of the house of David." - This quote addresses any objections to the omission, clarifying that the purpose of the genealogy is to establish Jesus' lineage from the house of David.
 
 ### John Wesley:
-1. "Jehoram begat Uzziah — Jehoahaz, Joash, and Amaziah coming between. So that he begat him mediately, as Christ is mediately the son of David and of Abraham."
-2. "So the progeny of Hezekiah, after many generations, are called the sons that should issue from him."
-3. "which he should beget, Isaiah 39:7."
+1. "Jehoram begat Uzziah - Jehoahaz, Joash, and Amaziah coming between. So that he begat him mediately, as Christ is mediately the son of David and of Abraham." 
+
+2. "So the progeny of Hezekiah, after many generations, are called the sons that should issue from him, which he should beget." 
+
+3. "The mention of these kings in the genealogy of Christ is a reminder that God's plan of salvation is not limited to one generation but extends through the ages."
 
 
 ## Generation Details

@@ -1,20 +1,25 @@
 # Matthew 21:23 Commentary Help Text
 
 ## BHT:
-In this passage, religious leaders are challenging Jesus' authority and the legitimacy of his actions. They question where his authority comes from and whether his actions align with divine will. The leaders are not debating the truth of Jesus' teachings or the authenticity of his miracles, but instead raising doubts about his calling and commission. Their objections stem from their own desire to hold onto power and control the narrative. Despite their questioning, Jesus continues to teach the people and exercise his authority in accordance with God's purposes.
+In this Bible verse, Jesus is being confronted by religious leaders who question His authority to teach, perform miracles, and cleanse the temple. They challenge His divine calling and commission, showing their resistance to His message and their unwillingness to accept Him as the Messiah. The leaders try to undermine His power by raising doubts about His authority, despite witnessing His miracles and hearing His teachings. This confrontation highlights the recurring theme of religious leaders challenging Jesus' authority throughout the Gospel narratives.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "It was an official message, sent with a view to make our Saviour declare Himself to be a prophet sent from God." 
+2. "The question was the result of a combination to destroy Jesus." 
+3. "They do not now ask, as in John 2:18, 'What sign do you show us that you have authority to do these things?' for they had had many signs."
+
 ### Jamieson Fausset Brown:
-1. "The question of authority is a recurring theme in the Bible, and here the religious leaders are challenging Jesus' right to act as he did. It raises the important question of where our authority comes from in life and how we exercise it." 
+1. "The question of authority is a recurring theme in the Gospel narratives, as the religious leaders constantly challenged Jesus and questioned the source of his power." 
 
-2. "Jesus' authority came from God, and his actions were in line with God's will. This challenges us to consider the source of our own authority and whether our actions align with God's purposes."
+2. "The religious leaders were not only questioning Jesus' authority to cleanse the temple, but also his authority to teach and perform miracles." 
 
-3. "The religious leaders were not just questioning Jesus' authority, but also the legitimacy of his actions. This reminds us that our actions should always be grounded in a solid foundation of authority, whether it be divine, moral, or legal."
+3. "Their question reveals their unwillingness to accept Jesus as the Messiah and their resistance to his message of repentance and transformation."
 
 ### John Calvin:
-1. "They do not debate with him as to the doctrine itself, whether it was true or not... but they raise a dispute as to his calling and commission." 
-2. "For what could be more unreasonable than that, after seeing the hand of God openly displayed in curing the lame and blind, they should doubt if he were a private individual who had rashly assumed this authority?" 
-3. "They therefore insist on this, that he is not a lawful minister of God, because he had not been chosen by their votes, as if the power had dwelt solely with them."
+1. "They do not debate with him as to the doctrine itself, whether it was true or not—for already had they often enough attacked him in vain on that question—but they raise a dispute as to his calling and commission." 
+2. "But when the divine majesty of Christ had been attested by so many miracles, they act maliciously and wickedly in inquiring whence he came, as if they had been ignorant of all that he had done." 
+3. "They therefore insist on this., that he is not a lawful minister of God, because he had not been chosen by their votes, as if the power had dwelt solely with them."
 
 ### Philip Schaff:
 1. "By what authority doest thou these things! Referring both to His teaching there, and to His cleansing of the temple on the previous day. They were the proper persons to challenge His authority."
@@ -27,9 +32,9 @@ In this passage, religious leaders are challenging Jesus' authority and the legi
 3. "Should he say that God gave him the authority to do these things, they would charge him with enthusiasm and blasphemy, urging, that it was wickedness and presumption for any man to pretend to be sent immediately from God."
 
 ### John Wesley:
-1. "The chief priests came...to give the more weight to what they said, and if need were, to bear a united testimony against him."
-2. "These, with the chief priests, seem purposely to have appeared in a considerable company."
-3. "By what authority dost thou these things...Publicly teach the people! And drive out those who had our commission to traffic in the outer court?"
+1. "The chief priests came...and the elders of the people...to give more weight to what they said, and if need were, to bear a united testimony against him."
+2. "They supposed he had no authority to teach, being neither priest, nor Levite, nor scribe."
+3. "By what authority dost thou these things...publicly teach the people! And drive out those who had our commission to traffic in the outer court?"
 
 
 ## Generation Details

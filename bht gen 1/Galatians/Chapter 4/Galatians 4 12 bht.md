@@ -1,18 +1,34 @@
 # Galatians 4:12 Commentary Help Text
 
 ## BHT:
-In this verse, the writer urges the readers to follow his example and abandon any rituals or legalistic practices in their faith. They exhort the Galatians to imitate their conversion from their former ways and embrace a simple and consistent faith in Christ. The writer mentions their previous close relationship, where the Galatians demonstrated great affection and willingness to sacrifice. Despite any disagreements or challenges, there is an unwavering commitment to guiding and supporting the believers, emphasizing the importance of mutual love and understanding.
+Description:
+The author exhorts the readers to imitate his example, casting off Jewish customs and embracing a life of simple, consistent Christianity. He reminds them of their initial warm reception and affection towards him, urging them to return to that spirit of love. Despite his fears and vulnerabilities, the author is determined to guide and support the readers in their journey of becoming like him. It is a plea for mutual love, unity, and the transformation of character in Christ.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The only rendering which seems to answer the requirements of the construction and the context, is that which understands εἰμι or γέγονα after ἐγώ , and refers it to the Apostle having in his own practice cast off Jewish habits and become as the Galatians: i.e. a Gentile."
+2. "The key to rightly understanding these words is, their apposition with ἐξουθενήσατε , … ἐξεπτύσατε … ἐδέξασθε below. To that period they refer: viz. to the time when he first preached the Gospel among them, and the first introduction of this period seems to be in the words, ὅτι κἀγὼ ὡς ὑμεῖς ."
+3. "Then I became as you: and at that time you did me no wrong, but on the contrary shewed me all sympathy and reverence. Then comes in the inference, put in the form of a question, at Galatians 4:16 , I must then have since become your enemy by telling you the truth."
+
 ### Jamieson Fausset Brown:
-1. "As I have in my life among you cast off Jewish habits, so do ye; for I am become as ye are," namely, in the non-observance of legal ordinances.
+1. "As I have in my life among you cast off Jewish habits, so do ye; for I am become as ye are," namely, in the non-observance of legal ordinances."
 2. "His observing the law among the Jews was not inconsistent with this, for he did so only in order to win them, without compromising principle."
-3. "On the other hand, the Galatian Gentiles, by adopting legal ordinances, showed that they regarded them as needful for salvation. This Paul combats."
+3. "You at that time did me no wrong; 'ye did not despise my temptation in the flesh' (Galatians 4:14): nay, you 'received me as an angel of God.'"
+
+### Albert Barnes:
+1. "Imitate my example; for I, though a Jew by birth, care no more for Jewish rites than you."
+2. "Imitate my manner of life in rejecting the Jewish rites; as I, having renounced the Jewish rites, was much like you when I preached the gospel to you."
+3. "For I have conformed to your customs in many things. I have abandoned my own peculiarities; given up my customs as far as possible; conformed to you as Gentiles as far as I could do, in order to benefit and save you."
 
 ### Marvin Vincent:
 1. "Become as I am, for I became a Gentile like you."
-2. "Ye did not injure me then, do not do so now."
-3. "The reference is to his earlier relations with the Galatians, and is explained by vv. 13, 14."
+2. "The reference is to his earlier relations with the Galatians, and is explained by vv. 13, 14."
+3. "Ye did not injure me then, do not do so now."
+
+### John Calvin:
+1. "It is the part of a wise pastor to consider, not what those who have wandered may justly deserve, but what may be the likeliest method of bringing them back to the right path."
+2. "Following the method which he had recommended to Timothy, he leaves off chiding, and begins to use entreaties."
+3. "And here again pastors are reminded of their duty to come down, as far as they can, to the people, and to study the various dispositions of those with whom they have to deal, if they wish to obtain compliance with their message."
 
 ### Philip Schaff:
 1. "Paul asks the Galatians to imitate his example, that is, to cast off their Judaizing tendency and to become simple, decided, and consistent Christians, as he had done himself when he cast off his former Judaism." 
@@ -20,11 +36,11 @@ In this verse, the writer urges the readers to follow his example and abandon an
 3. "Paul reminds the readers of the happy relation which existed between them at his first visit, where they showed him the most tender affection and were ready for any sacrifice."
 
 ### Archibald T Robertson:
-1. "Be as I am" - This imperative command encourages believers to strive to become like the writer, who is likely the apostle Paul. It implies a call to imitate his character, faith, and devotion to Christ.
+1. "Be as I am" - The imperative form of this phrase emphasizes the ongoing process of becoming like the author. It suggests a continuous transformation and growth in character and behavior.
 
-2. "Keep on becoming as I am" - This phrase emphasizes the ongoing nature of the transformation process. It suggests that believers should continually grow and develop in their faith, never ceasing to pursue a deeper likeness to Christ.
+2. "He will not give them over" - Despite his fears, the author is determined to guide and support the readers in their journey of becoming like him. He will not abandon them or leave them to their own devices.
 
-3. "He will not give them over, afraid though he is" - Despite the writer's fears and concerns, he remains committed to guiding and supporting the believers. This highlights the writer's unwavering dedication to their spiritual growth and well-being, even in the face of challenges and uncertainties.
+3. "Afraid though he is" - The author acknowledges his own fears and vulnerabilities, but he does not let them hinder his commitment to helping others. This shows his courage and dedication to the readers' spiritual development.
 
 ### John Gill:
 1. "Be as I am, and do as I do, 'because I was as you are'." 
@@ -32,9 +48,11 @@ In this verse, the writer urges the readers to follow his example and abandon an
 3. "We are both alike in Christ, chosen in him, and redeemed by him; are equally regenerated by his Spirit, and are all the children of God by faith in him, and no more servants; are all equally Christ's free men, and have a right to the same privileges and immunities."
 
 ### John Wesley:
-1. "Be as I am — Meet me in mutual love." 
-2. "I still love you as affectionately as ye once loved me."
-3. "Ye have not injured me at all - I have received no personal injury from you."
+1. "Be as I am — Meet me in mutual love." - This quote highlights the author's plea for the readers to show love towards one another, mirroring the love the author has for them. It emphasizes the importance of mutual affection and unity among brethren.
+
+2. "I still love you as affectionately as ye once loved me." - This quote reveals the author's unwavering love for the readers, despite any past differences or conflicts. It emphasizes the enduring nature of love and the author's commitment to maintaining a loving relationship.
+
+3. "Ye have not injured me at all - I have received no personal injury from you." - This quote emphasizes the absence of personal harm or offense caused by the readers. It suggests that the author's call for mutual love is not based on personal grievances but rather a genuine desire for unity and harmony among the brethren.
 
 
 ## Generation Details

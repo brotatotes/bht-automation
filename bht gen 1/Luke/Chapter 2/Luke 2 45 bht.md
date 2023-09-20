@@ -1,34 +1,38 @@
 # Luke 2:45 Commentary Help Text
 
 ## BHT:
-In their quest to find Jesus, the parents turned back to Jerusalem, searching its streets and broad places. This symbolizes the way believers look for their beloved, seeking communion and closeness with God even in challenging times. Their longing for Jesus reflects the deep desire for His presence, as depicted in the Song of Solomon. This search also serves as a reminder that true connection with God is not limited to specific physical locations, but can be found anywhere and at any time.
+The disciples actively pursued Jesus, seeking Him fervently and demonstrating their commitment to learning from Him. They continued their journey with Him, realizing that seeking Jesus was a lifelong process. Their search for Jesus reflected their recognition of His importance and their dedication to finding Him. This verse offers a glimpse into the disciples' deep desire to know Jesus and reminds us of the significance of actively seeking Him in our own lives. It calls us to wholeheartedly follow Him and not be content with a superficial or passive faith.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The phrase 'as they went back, all the way' emphasizes the disciples' active pursuit of Jesus. They were not passive bystanders, but rather actively sought after Him. This highlights their desire to be in His presence and learn from Him." 
+
+2. "The disciples' search for Jesus reflects their recognition of His importance and their commitment to following Him. It shows their willingness to go the extra mile and not give up until they found Him." 
+
+3. "This verse reminds us of the importance of seeking after Jesus in our own lives. It encourages us to actively pursue Him, to seek His presence, and to never stop searching for Him. It is a call to wholeheartedly follow Him and not be content with a superficial or passive faith."
+
 ### Jamieson Fausset Brown:
-1. "After three sorrowing days, they find Him still in Jerusalem" - This quote highlights the emotional state of the parents as they search for their missing child, emphasizing the sense of sorrow and anxiety they experienced during those days.
+1. "After three sorrowing days, they find Him still in Jerusalem, not gazing on its architecture, or surveying its forms of busy life, but in the temple." 
 
-2. "Not gazing on its architecture, or surveying its forms of busy life" - This quote suggests that Jesus was not preoccupied with worldly matters or distracted by the bustling city life. It implies that His focus was on something more profound and spiritual.
+2. "Not the 'sanctuary' (as in :-), to which only the priests had access, but in some one of the enclosures around it, where the rabbins, or 'doctors,' taught their scholars." 
 
-3. "In the temple...where the rabbins, or 'doctors,' taught their scholars" - This quote provides context about the location where Jesus was found. It indicates that Jesus was not only present in the temple but also engaged in intellectual and spiritual discussions, demonstrating His wisdom and understanding even at a young age.
+3. "In this simple incident, we have a glimpse into the early life of Jesus, His love for the Word of God, and His desire to learn and understand."
 
 ### Marvin Vincent:
-1. "Seeking him" emphasizes the active and intentional pursuit of God, suggesting a deep desire to know Him and be in His presence.
-2. "All the way as they went" implies a continuous and unwavering commitment to seeking God, not just in specific moments or circumstances.
-3. The use of "ajna" highlights the importance of diligently and persistently seeking God, indicating a sense of urgency and wholehearted devotion.
+1. "Seeking him [αναζητουντες]": This phrase emphasizes the active pursuit of Jesus by the disciples. It suggests a deep desire to find and know Him, indicating their commitment and dedication to following Him.
+
+2. "All the way as they went": This highlights the disciples' continuous journey with Jesus. It implies that their seeking was not a one-time event but a lifelong process of walking alongside Him, learning from Him, and growing in their relationship with Him.
+
+3. "Force of ajna, as above": This refers to the previous explanation of the word "ajna" and its significance in this context. It suggests that the disciples were not merely casually looking for Jesus but were earnestly and diligently searching for Him, recognizing the importance of His presence in their lives.
 
 ### Archibald T Robertson:
-1. "Seeking for him" - The present participle of the verb emphasizes the ongoing action of seeking, highlighting the urgency and determination in finding the lost boy.
-
-2. "This was all that was worth while now" - This phrase suggests that the search for the lost boy was the most important and meaningful task at that moment, indicating the value placed on rescuing and restoring the lost.
-
-3. "Finding the lost boy" - The ultimate goal of the search is not just to locate the lost boy physically, but also to bring him back to safety and reconciliation. This emphasizes the significance of redemption and restoration in the context of the verse.
+1. "Seeking for him (αναζητουντες αυτον). Present participle of the same verb." 
+2. "This was all that was worth while now, finding the lost boy."
 
 ### John Gill:
-1. "They turned back again to Jerusalem, seeking him; at Jerusalem, in the streets and broad places of it; a figure of the church and ordinances, where souls look for, and inquire after their beloved, when they have lost him." 
-
-2. "In their search for Jesus, they demonstrate a deep longing and desire to be in his presence, just as the bride in the Song of Solomon longs for her beloved."
-
-3. "Their actions reflect the human tendency to seek God in familiar places, even when he may not be found there. It is a reminder that true communion with God is not confined to physical locations, but can be experienced anywhere and at any time."
+1. "They turned back again to Jerusalem... seeking him." 
+2. "A figure of the church and ordinances, where souls look for, and inquire after their beloved." 
+3. "When they have lost him."
 
 
 ## Generation Details

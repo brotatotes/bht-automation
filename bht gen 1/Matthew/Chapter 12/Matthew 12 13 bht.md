@@ -1,7 +1,7 @@
 # Matthew 12:13 Commentary Help Text
 
 ## BHT:
-In this Bible verse, Jesus performs a miraculous healing without uttering a command, demonstrating His divine power. The man's hand, though visibly withered, still had strength in his arm, showcasing the irony of the situation and underscoring how our perception of limitations can be greater than reality. This healing act both challenged his enemies and gloriously put them to shame, as Jesus disregarded their legal grounds against Him. It showcases the transformative, comprehensive, and defiant nature of Jesus' healing touch, defying criticism while restoring both physical and spiritual well-being.
+In this verse, Jesus performs a miraculous healing by commanding a man with a withered hand to stretch it forth. Jesus' word carries authority and is accompanied by almighty power, showcasing His divine ability. This act serves as a rebuke to the Pharisees, revealing their ignorance of both Scripture and the true meaning of the Sabbath. It also exposes their lack of mercy and uncharitable nature, while affirming the lawfulness and compassion inherent in Jesus' healing ministry.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,21 +10,28 @@ In this Bible verse, Jesus performs a miraculous healing without uttering a comm
 3. "Thus his enemies were disappointed, having no legal ground against Him."
 
 ### Jamieson Fausset Brown:
-1. "The power to obey going forth with the word of command." 
-2. "The poor man, having faith in this wonderful Healer." 
-3. "Disregarded the proud and venomous Pharisees, and thus gloriously put them to shame."
+1. "The power to obey going forth with the word of command." This quote highlights the authority and effectiveness of Jesus' command to the man. It emphasizes the power behind Jesus' words and the immediate response of the man to stretch forth his hand.
+
+2. "The poor man, having faith in this wonderful Healer...disregarded the proud and venomous Pharisees." This quote emphasizes the faith of the man in Jesus as the Healer and his ability to rise above the criticism and judgment of the Pharisees. It showcases the contrast between the man's humility and the Pharisees' pride.
+
+3. "Thus gloriously put them to shame." This quote highlights the outcome of the man's healing, which not only restored his hand but also exposed the Pharisees' hypocrisy and arrogance. It emphasizes the triumph of the man's faith and the humiliation of the Pharisees.
 
 ### Marvin Vincent:
-1. "Stretch forth thy hand": This command from Jesus to the man with the withered hand is a call to action, an invitation to step out in faith and trust in God's power to heal and restore. It challenges us to overcome our limitations and reach out for the miraculous.
-
-2. "The arm was not withered": This statement highlights the irony of the situation. The man's hand may have been visibly withered, but his arm was still intact and capable of movement. It serves as a reminder that sometimes our perception of our limitations is greater than the reality, and that God can work through even the smallest remnants of strength and ability.
-
-3. "The arm was not withered": This phrase also emphasizes the power of Jesus' healing touch. By restoring the man's hand, Jesus not only healed the visible physical ailment but also renewed his entire arm. It demonstrates the transformative and comprehensive nature of God's healing, going beyond what we can see and reaching deep into our being.
+1. "Stretch forth thy hand": This command from Jesus to the man with the withered hand is a call to action, a challenge to step out in faith and trust in God's power to restore and heal. It is an invitation to overcome limitations and embrace the miraculous.
+2. "The arm was not withered": This statement highlights the irony of the situation. The man's arm appeared withered, but in reality, it was not. It symbolizes the hidden potential within us that may seem weak or inadequate, but when activated by faith, can be transformed and used for God's glory.
+3. "The arm represents our ability to work and serve": The withered arm represents more than just physical healing; it symbolizes our ability to work and serve. When Jesus restores the man's hand, it is a reminder that God can restore and empower us to fulfill our purpose and contribute to His kingdom.
 
 ### Philip Schaff:
 1. "The manner in which the healing took place gave no legal ground for a charge on account of His actions."
 2. "The act of stretching forth was both the effect and the evidence of Divine power."
 3. "His act was a defiance of them, and yet it was not a forbidden act, so that they could not accuse either the Healer or the healed."
+
+### Archibald T Robertson:
+1. "Stretch forth thy hand" - Jesus commands the man to do the impossible, to stretch out his withered hand. This shows the power and authority of Jesus, as he is able to heal and restore what is broken or damaged.
+
+2. "He stretched it forth" - The man obediently follows Jesus' command and stretches out his hand. This demonstrates the faith and trust the man has in Jesus, as he believes that Jesus can heal him and make him whole again.
+
+3. "Straight, I hope, towards the Pharisees" - The act of stretching out his hand towards the Pharisees symbolizes a challenge to their legalistic and rigid beliefs. It confronts their hypocrisy and highlights the compassionate and inclusive nature of Jesus' ministry.
 
 ### John Gill:
 1. "Being grieved for the hardness of their hearts, i.e. their unmercifulness to their fellow creatures, and the stupidity and blindness of their minds, being ignorant of the Scriptures, and of the sabbath, the nature, use, and Lord of it."

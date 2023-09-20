@@ -1,25 +1,49 @@
 # Luke 1:69 Commentary Help Text
 
 ## BHT:
-In this verse, we encounter the description of a "horn of salvation," emphasizing the power and might of the Savior himself. The horn symbolizes strength, authority, and honor, highlighting the Messiah's ability to conquer and overcome obstacles. Additionally, the mention of the "house of David" suggests a royal lineage and points to the establishment of a strong and mighty dynasty. Ultimately, this verse foreshadows not only the triumph and victory achieved by Jesus Christ but also his role as a powerful defender and the fulfillment of long-standing Messianic prophecies.
+The verse being described is filled with powerful imagery and symbolism. It refers to the "horn of salvation," a metaphor that represents strength, power, and protection. This horn, being a symbol of honor and might, signifies the glorious and mighty Savior who brings deliverance and salvation. The usage of the horn imagery highlights the authority and dominion of the Savior, emphasizing His role as both a powerful Saviour and a majestic King.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "κέρας a metaphor from horned beasts, who are weak and defenceless without, but formidable with their horns."
+2. "There does not seem to be any allusion to the horns of the altar."
+3. "The mere notion of a refuge is never connected with the Messiah’s Kingdom."
+
 ### Jamieson Fausset Brown:
-1. "Horn of salvation" refers to the Saviour Himself, emphasizing His strength and might as the source of salvation (Luke 2:30).
-2. The metaphor of the horn is derived from animals whose strength lies in their horns, highlighting the power and authority of the Savior (Psalms 18:2; Psalms 75:10; Psalms 132:17).
-3. The mention of the "house of David" indicates that Mary's royal lineage was known, separate from Joseph, and suggests that Zacharias had knowledge of Mary's ancestry (Luke 1:27).
+1. "horn of salvation—that is 'strength of salvation,' or 'mighty Salvation,' meaning the Saviour Himself" - This quote highlights that the term "horn of salvation" refers to Jesus as the source of strength and deliverance.
+
+2. "The metaphor is taken from those animals whose strength is in their horns" - This quote explains the origin of the metaphor and its association with animals known for their strength.
+
+3. "This shows that Mary must have been known to be of the royal line, independent of Joseph" - This quote suggests that Mary's lineage as a descendant of David was recognized separately from Joseph, indicating her own royal connection.
+
+### Albert Barnes:
+1. "A horn is a symbol of strength."
+2. "The word salvation, connected here with the word 'horn,' means that this 'strength,' or this mighty Redeemer, was able to save."
+3. "So the Redeemer 'may be' called the 'horn of salvation,' because those who flee to him are safe."
 
 ### Marvin Vincent:
-1. "The horn is a symbol of strength, power, and authority in biblical times. It represents the ability to conquer and overcome obstacles. In this verse, the horn is used metaphorically to describe the exaltation and honor that God gives to His chosen people."
+1. "The horn is a symbol of strength and power in the Bible. It represents the might and authority of God, as well as the strength and protection He provides to His people. In this verse, the horn is a metaphor for the Messiah, who will come from the line of David and establish His eternal kingdom."
 
-2. "The mention of the horn in Psalms 132:17 signifies the establishment of a strong and mighty dynasty. It is a promise of God's faithfulness to His covenant with David, ensuring that his descendants will continue to reign and rule with authority."
+2. "The mention of the horn in Psalms 132:17 is a reminder of God's faithfulness to His covenant with David. It signifies the fulfillment of God's promise to raise up a descendant of David who will reign forever. This promise finds its ultimate fulfillment in Jesus Christ, the true King who will establish His kingdom and bring salvation to all."
 
-3. "The horn also points to the coming of the Messiah, who would be a descendant of David. It foreshadows the ultimate triumph and victory that Jesus Christ would achieve through His sacrificial death and resurrection, bringing salvation and redemption to all who believe in Him."
+3. "The horn also symbolizes victory and triumph over enemies. It represents the overthrow of the wicked and the establishment of God's righteous rule. Through the Messiah, God will bring justice and righteousness to the world, and His kingdom will endure forever."
+
+4. "The horn is a powerful image that reminds us of God's sovereignty and His ability to bring about His purposes. It is a call to trust in God's faithfulness and to hope in His promises. Just as the horn of the Messiah will be exalted, so too will God's people be lifted up and vindicated in the end."
+
+### John Calvin:
+1. "Zacharias alludes to the predictions of the prophets, which hold out that a sudden revival would take place, when the state of affairs should have become melancholy and desperate."
+2. "If it is only in Christ that God has put forth his power to save us, we are not at liberty to depart from that method, if we desire to obtain salvation from God."
+3. "Though there remained among the Jews, at that time, no trace of a kingdom, Zacharias, resting on the promises of God, does not hesitate to call David the servant of God, in whom God gave an example of the salvation which was to come."
 
 ### Philip Schaff:
-1. "A horn of salvation for us." - This phrase alludes to the Old Testament concept of horns as a symbol of strength and defense. It emphasizes the idea of Jesus as a powerful defender who will rise in the lineage of David, highlighting his role as the Savior.
-2. "By the mouth of his holy prophets." - This phrase echoes Mary's belief in the fulfillment of Messianic prophecies. It suggests that the promises regarding the coming of Christ were not mere additions to the original meaning of the prophecies, but rather their true intention from the beginning.
-3. "Of old." - This expression emphasizes the long-standing nature of the promise of the Messiah, indicating that it was made from the very beginning. It underscores the significance and divine intention behind the coming of Jesus.
+1. "A horn of salvation for us." - This phrase alludes to the Old Testament imagery of horns being a formidable weapon of defense. It emphasizes the idea of a strong and powerful defender rising up in the house of David.
+2. "By the mouth of his holy prophets." - This highlights the belief that the prophecies about the coming of Christ were not just additional interpretations, but the true meaning of the prophecies themselves. It underscores the significance of the prophets in proclaiming God's promises.
+3. "Of old." - This phrase emphasizes that the promise of the Messiah was not a recent development, but something that was established from the very beginning. It highlights the long-standing nature of God's plan for salvation.
+
+### Archibald T Robertson:
+1. "Horn of salvation" is a powerful metaphor used in the Old Testament to represent strength, similar to the horns of bulls. (κερας σωτηριας)
+2. This metaphor signifies the saving power and deliverance that comes from God. (1 Samuel 2:10; 2 Samuel 23:3)
+3. The reference to Luke 1:32-33 further emphasizes the significance of the "horn of salvation" as a symbol of the strength and authority of Jesus Christ.
 
 ### John Gill:
 1. "He is called 'an horn of salvation', because he is a powerful Saviour. 'Horn' denotes power; it being that to a beast, as the arm is to a man, by which it defends itself, and pushes down its enemies."
@@ -27,9 +51,9 @@ In this verse, we encounter the description of a "horn of salvation," emphasizin
 3. "Moreover, the word 'horn' signifies regal power, honour, and dignity; see Daniel 7:24 and so may not only denote the work of Christ as a Saviour, but his office also as a King, who in the discharge of that is likewise a Saviour."
 
 ### John Wesley:
-1. "A horn signifies honour, plenty, and strength."
-2. "A horn of salvation - that is, a glorious and mighty Saviour."
-3. "The horn of salvation refers to the power and authority of the Messiah to deliver and save his people."
+1. "A horn signifies honor, plenty, and strength."
+2. "A horn of salvation signifies a glorious and mighty Savior."
+3. "This imagery of a horn emphasizes the power and authority of the Savior."
 
 
 ## Generation Details

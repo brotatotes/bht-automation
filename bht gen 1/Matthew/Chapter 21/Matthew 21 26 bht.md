@@ -1,20 +1,25 @@
 # Matthew 21:26 Commentary Help Text
 
 ## BHT:
-In this verse, we see individuals who are motivated by fear and the influence of the crowd. They are afraid of the people's reaction and potential violence if they speak against the popular belief that John the Baptist was a prophet sent from God. These individuals prioritize the opinions and reactions of the crowd over speaking the truth, reflecting a lack of courage and integrity. The religious leaders, in particular, were afraid of losing their control over the masses, as they feared affirming that John's authority was merely human would lead to a violent uprising against them.
+The religious leaders found themselves in a predicament. On one hand, they acknowledged that John the Baptist was seen as a prophet by the people and feared the consequences of denying his authority. On the other hand, they were wary of acknowledging it themselves, as it would expose their hypocrisy and invite further reproof. Their fear of the multitude led them to engage in deceptive reasoning, unsure of how to navigate the delicate balance between maintaining their own popularity and perceived authority.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "These 'blind leaders of the blind' had so far made an insincere concession to the people's persuasion as to allow John to pass for a prophet." 
+2. "They shrunk from the reproof which was sure to follow their acknowledging it now." 
+3. "The intelligence of it may have been originally derived from Nicodemus or Joseph of Arimathea."
+
 ### Jamieson Fausset Brown:
-1. "We fear the people." - This quote highlights the fear and lack of courage of the individuals speaking. It shows how they prioritize the opinions and reactions of the crowd over speaking the truth.
-2. "All the people will stone us." - This quote emphasizes the potential consequences of speaking against popular opinion. It reveals the fear of retaliation and violence from the crowd, further illustrating the pressure these individuals feel.
-3. "Crooked, cringing hypocrites!" - This quote exposes the commentator's strong disapproval and condemnation of the individuals' behavior. It suggests that their actions are deceitful and insincere, lacking integrity and genuine belief.
+1. "We fear the people—rather, 'the multitude.'"
+2. "All the people will stone us—to death."
+3. "Crooked, cringing hypocrites! No wonder Jesus gave you no answer."
 
 ### Philip Schaff:
-1. "From men. This they evidently believed." - The commentary highlights the belief of the religious leaders that John the Baptist was a prophet sent from God, as they were afraid of the people's reaction if they openly denied it.
+1. "From men. This they evidently believed." - The commentary highlights the belief of the religious leaders that John the Baptist was a prophet sent by God, as they feared the reaction of the people if they openly denied his authority.
 
-2. "We fear the multitude." - The commentary suggests that the religious leaders were more concerned about the opinion and influence of the crowd than they were about seeking the truth or doing what was right.
+2. "We fear the multitude." - This quote emphasizes the fear of the religious leaders towards the power and influence of the crowd. It suggests that their actions and decisions were often influenced by the desire to maintain their own popularity and avoid any backlash from the people.
 
-3. "Demagogues who lead 'the multitude' astray 'fear the multitude.'" - This quote emphasizes the tendency of manipulative leaders to exploit the fears and desires of the masses, while also being afraid of losing their control over them.
+3. "Demagogues who lead ‘the multitude’ astray ‘fear the multitude.’" - The commentary points out the tendency of manipulative leaders to exploit and deceive the masses for their own gain. It suggests that these leaders are driven by fear, as they understand the potential consequences of losing the support and trust of the people.
 
 ### John Gill:
 1. "They reasoned with themselves, that should they give their answer in this form, and say, that the ministry and baptism of John, were merely human, and what he took up of himself, or which he performed by an authority derived from men, we fear the people."

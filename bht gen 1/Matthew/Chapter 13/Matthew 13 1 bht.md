@@ -1,20 +1,30 @@
 # Matthew 13:1 Commentary Help Text
 
 ## BHT:
-By the seaside, Jesus finds a place of peace and tranquility, away from the noise of daily life. He actively goes out to engage with people, teaching us the importance of meeting others where they are. This transition in Jesus' ministry sets the stage for delivering important teachings and parables. Shortly after casting out a demon, Jesus seeks both refreshment and an opportunity to preach near the Lake of Galilee, addressing the blasphemy of the religious leaders.
+On a day filled with stress and strain, Jesus left a stuffy house and chose to sit by the picturesque shore of the Lake of Galilee. This decision was significant, as Jesus desired to connect with people in their everyday lives, regardless of their social status or background. By going to the seaside, Jesus displayed his accessibility and willingness to meet people where they were, engaging with them in their own environment. This choice also holds important consequences since it was made on the same day as a miraculous healing and a confrontation with the religious leaders.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The words certainly do bear that meaning in Mark 4:35, and important consequences follow."
+2. "The instances of their occurrence in John (John 14:20; John 16:23; Joh 16:26) are not to the point, their use there being prophetical."
+3. "ἀπὸ τῆς οἰκ . perhaps implies that the foregoing discourse was delivered in a house, as some have thought."
+
 ### Jamieson Fausset Brown:
-1. "Jesus often sought solitude by the seaside, away from the crowds and the noise of daily life. This act of going to the seaside can be seen as a metaphor for finding a place of peace and tranquility in our own lives." 
-
-2. "By sitting by the seaside, Jesus demonstrates his willingness to meet people where they are. He doesn't wait for them to come to him, but actively goes out to engage with them. This teaches us the importance of reaching out to others and meeting them in their own contexts." 
-
-3. "The seaside is a place of transition, where the land meets the water. In a similar way, Jesus' presence by the seaside signifies a transition in his ministry, as he prepares to deliver important teachings and parables to the people gathered there."
+1. "Jesus's choice to sit by the seaside demonstrates his desire to connect with people in their everyday lives, rather than confining his ministry to the religious spaces of the time."
+2. "By going out of the house and sitting by the seaside, Jesus shows his willingness to meet people where they are, to engage with them in their own environment."
+3. "This simple act of sitting by the seaside reveals Jesus's accessibility and his desire to reach out to all people, regardless of their social status or background."
 
 ### Philip Schaff:
 1. "On that day. Probably, but not certainly, the same day. The interval was brief in any case." 
-2. "Out of the house. If a particular house is meant, that in which 'his mother and brethren' sought Him." 
+
+2. "If a particular house is meant, that in which ‘his mother and brethren’ sought Him." 
+
 3. "The sea-side, the shore of the Lake of Galilee."
+
+### Archibald T Robertson:
+1. "This group of parables is placed by Matthew on the same day as the blasphemous accusation and the visit of the mother of Jesus." 
+2. "It is called 'the Busy Day,' not because it was the only one, but simply that so much is told of this day that it serves as a specimen of many others filled to the full with stress and strain."
+3. "Jesus came out of the stuffy house and took his seat along the shore with the crowds stretched up and down, a picturesque scene."
 
 ### John Gill:
 1. "The reason of his going out of the house was, either to converse with his mother and brethren, as they desired; or to withdraw himself from company, and take some refreshment by the sea side; or because it would not hold the people, and therefore he quitted it for a more convenient place."

@@ -1,29 +1,41 @@
 # Matthew 20:14 Commentary Help Text
 
 ## BHT:
-In this verse, we are reminded of the principle of justice and fairness, as well as the importance of self-advocacy. It emphasizes claiming what is rightfully ours and not allowing others to take advantage of us. The commentary also highlights that God's grace is not limited by time or circumstance and is available to all, regardless of their background or journey. It teaches us that in God's eyes, there is no distinction between those who come late and those who have followed Him faithfully from the beginning.
+This verse encourages us to assert our rights and claim what is rightfully ours, as it reflects justice and fairness. We have a responsibility to recognize and take ownership of what belongs to us, not allowing it to be unjustly taken or withheld. God's generosity knows no bounds, extending His love and mercy to all, whether they come early or late, Jew or Gentile. His grace is not limited by time or circumstance, but is freely given to all who turn to Him.
 
 ## Choicest Commentary Quotes:
 ### Albert Barnes:
-1. "Take that thine is" emphasizes the importance of claiming what is rightfully yours, highlighting the principle of justice and fairness in this verse.
+1. "Take that thine is" emphasizes the importance of claiming what is rightfully yours, not being afraid to assert your rights and receive what you deserve.
 
-2. This phrase encourages individuals to assert their rights and not allow others to take advantage of them, promoting self-advocacy and self-respect.
+2. "Take what is justly due to you" highlights the idea that we should not shy away from claiming what we have earned or what is rightfully ours, as it is a reflection of justice and fairness.
 
-3. By urging people to take what is rightfully theirs, this commentary emphasizes the importance of standing up for oneself and not allowing others to infringe upon one's rights or possessions.
+3. "Take what is properly your own" reminds us that we have a responsibility to recognize and take ownership of what rightfully belongs to us, rather than allowing it to be taken or withheld unjustly.
+
+### Marvin Vincent:
+1. "Take up, as if the money had been laid down for him on a table or counter."
+2. "It is my will to give."
+3. "As in other cases in the A. V., this may be mistaken for the simple future of the verb; whereas there are two verbs."
 
 ### Philip Schaff:
 1. "Go thy way. This does not necessarily imply that the first were finally rejected, receiving only the temporal good they bargained for."
 2. "I will give 'it is my will or pleasure to give.' The ground is the wish of the householder."
 
+### Archibald T Robertson:
+1. "Pick up, as if he had saucily refused to take it from the table or had contemptuously thrown the denarius on the ground." 
+2. "If the first had been paid first and sent away, there would probably have been no murmuring, but 'the murmuring is needed to bring out the lesson' (Plummer)." 
+3. "This is the point of the parable, the will of the householder."
+
 ### John Gill:
 1. "Take that thine is,.... By agreement, and go thy way; out of my sight, give me no more trouble on this head; which looks like a dismissal from his service, and after privileges." 
-2. "which was true of many among the Jews, who were only nominal professors, and from whom the Gospel and ordinances of it were taken." 
+
+2. "which was true of many among the Jews, who were only nominal professors, and from whom the Gospel and ordinances of it were taken."
+
 3. "I will give unto this last man that was called, and sent into the vineyard, even as unto thee; the same outward privileges, besides special grace, and eternal glory, which it looks as if the other had not."
 
 ### John Wesley:
 1. "God's grace is not limited by time or circumstance, but extends to all who are called, whether they be the first or the last, the Jew or the Gentile."
-2. "In God's eyes, there is no distinction between the late converted and those who have been called for a long time. His love and generosity are available to all who turn to Him."
-3. "The Lord's will is to shower His blessings upon all, regardless of their past sins or social status. He offers the same grace and forgiveness to the publicans and sinners as He does to those who have followed Him faithfully from the beginning."
+2. "In God's eyes, there is no distinction between the late converted and those who have been called long before. His love and mercy are available to all who turn to Him."
+3. "This verse reminds us that God's generosity knows no bounds, and He desires to bless and pour out His grace upon all who come to Him, regardless of their past or present circumstances."
 
 
 ## Generation Details

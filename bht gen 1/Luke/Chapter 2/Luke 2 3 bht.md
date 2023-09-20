@@ -1,25 +1,39 @@
 # Luke 2:3 Commentary Help Text
 
 ## BHT:
-The verse being described emphasizes the importance of lineage, heritage, and cultural customs. It depicts a universal event, highlighting that Jesus' birth carries significance for all people. The mention of everyone going to their own city showcases the connection between individuals and their ancestral roots. The verse also highlights the obedience, faithfulness, and submission of Joseph and Mary to the governing authorities, despite the inconvenience and hardship they faced in their journey. Additionally, it sheds light on the accuracy of the historical context through the mixing of Roman and Jewish customs.
+In this passage, individuals are seen traveling to their ancestral cities in order to be taxed. This showcases the wide-reaching impact of this event, emphasizing the significance of Jesus' birth for all humanity. The requirement for each person to return to their own city underscores the importance of lineage and fulfills Old Testament prophecies regarding the Messiah's birthplace. It also highlights the obedience and faithfulness of Joseph and Mary to the governing authorities.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "went . . . to his own city" - This phrase highlights the Jewish custom of returning to one's ancestral city for a census, rather than the Roman method of going to one's place of residence. It emphasizes the importance of lineage and heritage in the Jewish culture.
+1. "The city of his extraction, according to the Jewish custom, not of his abode." 
 
-2. "city of his extraction" - This phrase further emphasizes the significance of one's ancestral city, suggesting that it is the place from which one's family originates. It underscores the connection between individuals and their roots, reinforcing the idea of identity and belonging.
+2. "The Jewish custom of returning to one's ancestral city during a census was in contrast to the Roman method of staying in one's place of residence." 
 
-3. "according to the Jewish custom" - This statement highlights the cultural and religious practices that governed the actions of the people during that time. It emphasizes the adherence to traditions and customs, providing insight into the religious and social context in which the events of the verse take place.
+3. "This detail highlights the cultural and religious practices of the time, emphasizing the significance of lineage and ancestral ties in Jewish society."
+
+### Marvin Vincent:
+1. "The A. V. and Rev., alike miss the graphic force of the imperfect tense, were going."
+2. "The preparation and bustle and travel were in progress."
+3. "The town to which the village or place of their birth belonged, and where the house and lineage of each were registered."
 
 ### Philip Schaff:
 1. "Every one into his own city, i.e., to the city of his extraction." 
-2. "This mixture of Roman and Jewish usage, so likely to occur in an enrolment, made under a Jewish king yet by order of the Roman Emperor, is a strong proof of the accuracy of Luke's account." 
+2. "This mixture of Roman and Jewish usage, so likely to occur in an enrolment, made under a Jewish king yet by order of the Roman Emperor, is a strong proof of the accuracy of Luke’s account." 
 3. "Roman usage required the enrolment of women, and possibly their actual presence at the place of enrolment."
 
+### Archibald T Robertson:
+1. "Each to his own city" - This phrase emphasizes the individual responsibility and connection to one's ancestral home, highlighting the importance of family and lineage in the context of the census. 
+
+2. "Enrolment by household" - This phrase suggests that the registration process was organized according to family units, reinforcing the idea of tracing one's lineage and ancestral ties. 
+
+3. "Each man went to the town where his family register was kept" - This statement underscores the significance of maintaining accurate records and the adherence to ancestral traditions, as individuals were required to return to their ancestral town for the census.
+
 ### John Gill:
-1. "The act of everyone going to be taxed highlights the universal nature of this event. It shows that Jesus' birth was not just a local event, but one that had significance for all people."
-2. "The mention of 'every one into his own city' emphasizes the importance of lineage and ancestry in Jewish culture. It reminds us that Jesus was born into a specific family and had a specific heritage."
-3. "This verse also highlights the obedience of Joseph and Mary. Despite the inconvenience and hardship of traveling while Mary was pregnant, they willingly complied with the Roman census. It demonstrates their faithfulness and submission to the governing authorities."
+1. "The act of everyone going to be taxed highlights the universal impact of this event, as people from different regions and backgrounds were all affected by the decree. It emphasizes the significance of Jesus' birth, which would have far-reaching implications for all humanity."
+
+2. "The requirement for each person to return to their own city speaks to the importance of lineage and ancestry in Jewish culture. It underscores the fulfillment of Old Testament prophecies regarding the Messiah being born in Bethlehem, the city of David."
+
+3. "This verse also highlights the obedience and submission of Joseph and Mary to the governing authorities. Despite the inconvenience and hardships of the journey, they willingly complied with the Roman decree, demonstrating their faithfulness and trust in God's plan."
 
 
 ## Generation Details

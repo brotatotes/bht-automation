@@ -1,20 +1,30 @@
 # Matthew 6:28 Commentary Help Text
 
 ## BHT:
-Consider the beauty and simplicity of nature, as illustrated by the lilies of the field. They do not toil or labor, yet they grow with abundant beauty and variety. This challenges our excessive concern for material possessions and worldly cares, urging us to find contentment in the present moment and trust in God's provision. Let go of unnecessary worries and instead focus on cultivating our spiritual well-being.
+Consider the beauty of the wild flowers, such as lilies, anemones, poppies, gladioli, and irises, that grow in the fields without any human care. They serve as a symbol of God's provision and care for His creation, reminding us to trust in His providence. Just as these flowers grow so beautifully and thrive without worrying about their needs, we too should not be anxious about our material needs, but instead rely on God's care and provision.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The birds fly by, and we can but look upon them: the flowers are ever with us, and we can watch their growth."
+2. "These lilies have been supposed to be the crown imperial, which grows wild in Palestine, or the amaryllis lutea, whose golden liliaceous flowers cover the autumnal fields of the Levant."
+3. "Probably, however, the word here may be taken in a wider import, as signifying all wild flowers."
+
 ### Jamieson Fausset Brown:
-1. "Consider the lilies of the field, how they grow: they toil not." This quote highlights the simplicity and beauty of nature, reminding us to trust in God's provision rather than worrying about material possessions or worldly concerns. 
-
-2. "Neither do they spin." This quote emphasizes the idea that the lilies of the field do not engage in unnecessary labor or worry about their appearance, yet they are still adorned with beauty. It encourages us to let go of our anxieties and find contentment in the present moment. 
-
-3. "Why take ye thought for raiment?" This question challenges our preoccupation with material possessions and urges us to prioritize our spiritual well-being over worldly concerns. It reminds us that God will provide for our needs if we trust in Him.
+1. "Consider—observe well. the lilies of the field, how they grow: they toil not—as men, planting and preparing the flax." 
+2. "neither do they spin—as women." 
+3. "This verse reminds us of the beauty and simplicity of nature, and how it can teach us valuable lessons about trust and faith."
 
 ### Philip Schaff:
 1. "Consider, i.e., study, observe closely; more readily done in the case of the plants than in that of the birds."
 2. "The lilies of the field, i.e., wild lilies, growing without human care."
 3. "How they grow. So beautifully, luxuriantly, without human care."
+
+### Archibald T Robertson:
+1. "The lilies of the field" refers to a variety of wild flowers, not just lilies, such as anemones, poppies, gladioli, and irises. 
+
+2. These wild flowers are a symbol of God's provision and care for His creation. 
+
+3. The mention of the lilies of the field reminds us to trust in God's providence and not to worry about our material needs.
 
 ### John Gill:
 1. "Having exposed the folly of an anxious and immoderate care and thought, for food to support and prolong life, our Lord proceeds to show the vanity of an over concern for raiment."

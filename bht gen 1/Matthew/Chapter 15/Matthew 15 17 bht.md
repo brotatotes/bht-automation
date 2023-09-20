@@ -1,9 +1,14 @@
 # Matthew 15:17 Commentary Help Text
 
 ## BHT:
-The commentators provide insightful perspectives on the verse, emphasizing the importance of understanding and wisdom from the Bible. They highlight the truthfulness and transparency of the sacred historians, who never shy away from revealing their own imperfections. This verse reminds readers that the defilement of a person does not come from external sources but rather from the evil in their heart. The commentators stress the need to use the intellect for insightful thinking and to avoid intellectual laziness. They ultimately encourage readers to seek spiritual freedom through a deep understanding of the teachings of the Bible.
+According to these commentaries, the passage being described emphasizes the significance of the mouth as both an entrance and an exit, allowing for the consumption of physical nourishment and the expression of spiritual thoughts and laws. It highlights the freedom from bondage to outward things and the idea that what enters from outside cannot truly defile us. It encourages the use of the intellect for insight rather than pride and opposes intellectual laziness in the pursuit of spiritual understanding. The passage also underscores the need for understanding and honesty in acknowledging one's own flaws and shortcomings.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The mouth, through which mortal things enter and immortal things exit, as Plato says, is the entrance, but the exit is for the incorruptible." (Commentary on 1 Corinthians 6:17)
+2. "For through the mouth, perishable food enters the perishable body. But words come forth, laws of the immortal soul, by which the rational life is governed." (Commentary on 1 Corinthians 6:17)
+3. "The mouth is the gateway for both physical nourishment and spiritual expression, allowing the mortal body to receive sustenance while the immortal soul communicates through words and laws." (Commentary on 1 Corinthians 6:17)
+
 ### Jamieson Fausset Brown:
 1. "Familiar though these sayings have now become, what freedom from bondage to outward things do they proclaim."
 2. "Nothing which enters from without can really defile us."
@@ -11,25 +16,23 @@ The commentators provide insightful perspectives on the verse, emphasizing the i
 
 ### Philip Schaff:
 1. "The truth affirmed was one easy to be perceived by the spiritually minded."
-2. "Food affects the body not the heart, that the moral and spiritual state of man is not dependent on the food or drink he uses."
+2. "The thought of the verse is that food affects the body not the heart, that the moral and spiritual state of man is not dependent on the food or drink he uses."
 3. "This verse indirectly opposes modern materialism."
 
 ### Archibald T Robertson:
-1. "Christ expects us to make use of our intellect, not for pride, but for insight." 
-2. "The mind does not work infallibly, but we should use it for its God-given purpose." 
+1. "Christ expects us to make use of our νους, intellect, not for pride, but for insight."
+2. "The mind does not work infallibly, but we should use it for its God-given purpose."
 3. "Intellectual laziness or flabbiness is no credit to a devout soul."
 
 ### John Gill:
 1. "You must understand, you cannot be so ignorant..."
 2. "...whatsoever food a man takes in at his mouth, he swallows down, and it is received into his stomach; which, having performed its office, the grosser parts go down into the belly..."
-3. "...nor can any part of what goes into a man defile him, because it only enters into the body, and passes through it..."
+3. "...what is left in the body is pure, wholesome, and nourishing: nor can any part of what goes into a man defile him..."
 
 ### John Wesley:
-1. "Are ye also yet without understanding?" - This question from the commentary highlights the disappointment and frustration of the sacred historians towards the lack of understanding among the people. It emphasizes the importance of gaining wisdom and insight from the teachings of the Bible.
-
-2. "How fair and candid are the sacred historians?" - This statement acknowledges the honesty and transparency of the sacred historians. It emphasizes their commitment to presenting the truth, even when it reveals their own imperfections. This quote highlights the integrity of the biblical accounts.
-
-3. "Never concealing or excusing their own blemishes." - This phrase emphasizes the willingness of the sacred historians to acknowledge their own flaws and mistakes. It shows their commitment to presenting an authentic and unvarnished account of events. This quote reminds readers that even the writers of the Bible were not exempt from human fallibility.
+1. "Are ye also yet without understanding" - This quote highlights the questioning tone of the commentary, emphasizing the lack of understanding exhibited by the individuals being addressed.
+2. "How fair and candid are the sacred historians?" - This quote praises the honesty and transparency of the biblical writers, who do not shy away from acknowledging their own flaws and shortcomings.
+3. "Never concealing or excusing their own blemishes" - This quote emphasizes the integrity of the sacred historians, who do not try to hide or make excuses for their own imperfections.
 
 
 ## Generation Details

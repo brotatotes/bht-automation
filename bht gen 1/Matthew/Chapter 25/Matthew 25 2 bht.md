@@ -1,7 +1,7 @@
 # Matthew 25:2 Commentary Help Text
 
 ## BHT:
-In this verse, the distinction is not between good and bad but between the wise and the foolish, according to Jamieson, Fausset, and Brown. John Calvin emphasizes the importance of wisdom for those entrusted with important responsibilities, while Philip Schaff explains that the foolish virgins symbolize those who are unprepared and lacking in wisdom. The verse also highlights the need for wisdom among all believers to guard against the schemes of Satan and to navigate the course of their lives.
+This verse contrasts the wise and foolish, without distinguishing between good and bad. It warns against those who resemble believers but will be disowned by Jesus. God requires wisdom from all His children, especially stewards, to avoid being prey to Satan. The wise virgins, representing the prepared and faithful, trust in Jesus for salvation, while the foolish rely on temporary and unreliable foundations. This equal division carries significance, as it emphasizes the need for wisdom and steadfast faith in Christ for eternal life.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
@@ -10,14 +10,19 @@ In this verse, the distinction is not between good and bad but between the wise 
 3. "Save to warn us how large a portion of those who, up to the last, so nearly resemble those that love Christ's appearing will be disowned by Him when He comes."
 
 ### John Calvin:
-1. "Our Lord specially required steward to be wise, for it is reasonable, that the heavier the charge which any man sustains, and the more important the matters in which he is employed, the wisdom with which he conducts himself should be the greater."
+1. "Our Lord specially required steward to be wise...the wisdom with which he conducts himself should be the greater."
 2. "He demands wisdom from all the children of God in general, that they may not, through inconsiderate rashness, expose themselves to be the prey of Satan."
-3. "This kind of wisdom he describes by saying, that they are to provide themselves with the supplies necessary for completing the course of their life."
+3. "They are to provide themselves with the supplies necessary for completing the course of their life...we need supplies for every hour."
 
 ### Philip Schaff:
 1. "This equal division may have a meaning." 
 2. "The correct order is transposed in the common version." 
-3. "The foolish virgins represent those who are unprepared and lack wisdom."
+3. "The foolish virgins represent those who are unprepared and lack the necessary oil of faith and obedience."
+
+### John Gill:
+1. "The wise virgins are such, who are wise unto salvation; who not only know the scheme of it, but are sensible of their need of it; apply to Christ for it; venture their souls on him, and commit them to him."
+2. "They trust in his righteousness for justification; in his blood for pardon; in his sacrifice for atonement; in his fulness for daily supplies; in his grace and strength to perform every duty; and expect eternal life in, and from him."
+3. "The foolish virgins...build their hopes of salvation on birth privileges; on a carnal descent from good men; on a religious education; on their own righteousness; or on the absolute mercy of God; and not on Christ, the one only, and sure foundation."
 
 
 ## Generation Details

@@ -1,18 +1,35 @@
 # Matthew 10:12 Commentary Help Text
 
 ## BHT:
-In this Bible verse, the commentators highlight the significance of greeting a house and its inhabitants, emphasizing the discernment process in determining the worthiness of receiving hospitality. They emphasize the importance of conforming to social customs and extending customary greetings and respect to a house, irrespective of its worthiness. The verse also explores the customary Jewish greeting of offering peace and blessings to a household, signifying a desire for well-being and prosperity. Ultimately, the verse underscores the importance of peace as a foundational element in a home, fostering harmony and tranquility among its inhabitants.
+In this Bible verse, Jesus instructs his disciples on how to enter and greet households. They are to show respect and kindness by saluting the inhabitants of the house, regardless of their worthiness. This salutation serves as an opening to conversation and conveys blessings and well-wishes upon the home. The disciples are encouraged to discern whether the household is open and receptive to their message before fully engaging with them. Overall, this verse emphasizes the importance of hospitality, social customs, and extending God's peace to others.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Not the house of the ἄξιος, for this would be sure to be worthy; but any house, as is necessary from the subsequent ἐὰν ᾖ ἡ οἰκ. ἀξ., which on the other supposition (Meyer, &c.) would have been ascertained already."
+2. "The full command as to their conduct, from arriving to departing, is given in Matthew 10:11."
+3. "When they enter into an house, they are to salute it: and if on enquiry it prove worthy, then &c."
+
 ### Jamieson Fausset Brown:
-1. "The house ye first enter, to try if it be worthy." - This phrase suggests that not every house is worthy of receiving a greeting. It implies that there is a discernment process in determining the worthiness of a house to receive hospitality.
-2. "Salute it - show it the usual civilities." - This quote emphasizes the importance of showing customary greetings and respect to the house. It implies that hospitality is not just about providing physical shelter but also about acknowledging and honoring the place.
-3. "Salute it - show it the usual civilities." - This phrase implies that there are established social norms and customs for greeting and showing respect to a house. It suggests that these gestures of civility are expected and should be extended to every house, regardless of its worthiness.
+1. "When ye come into a house, salute it—show it the usual civilities." This quote highlights the importance of showing respect and kindness when entering someone's home.
+
+2. "It means not the worthy house, but the house ye first enter, to try if it be worthy." This quote clarifies that the verse is not referring to a specific "worthy" house, but rather the initial house one enters as a way to assess its worthiness.
+
+3. "The house ye first enter, to try if it be worthy." This quote emphasizes the idea of discernment and the need to evaluate the character and nature of a place before fully engaging with it.
+
+### Marvin Vincent:
+1. "The Greek indicates more distinctly the simultaneousness of the entrance and the salutation."
+2. "Rev., as ye enter."
+3. "So of the departure, as ye are going forth."
+
+### John Calvin:
+1. "He enjoins them to address in a friendly manner any family which they may have occasion to meet."
+2. "The act of saluting is a kind of opening to a conversation."
+3. "Make trial, when you first enter, whether your entertainers will cheerfully submit to hear you."
 
 ### Philip Schaff:
-1. "The house they might enter, whether it was the house of one really worthy was to be tested." 
-2. "Conformity to proper social customs, without official pride, with an immediate and friendly recognition of the expected hospitality."
-3. "Irrespective of the worthiness or unworthiness of the host."
+1. "The house' they might enter, whether it was the house of one really worthy was to be tested."
+2. "Conformity to proper social customs, without official pride."
+3. "Immediate and friendly recognition of the expected hospitality, irrespective of the worthiness or unworthiness of the host."
 
 ### John Gill:
 1. "Salute it; meaning the inhabitants of it; or, as the Persic version reads, those of the household, especially the master of the family."
@@ -20,11 +37,9 @@ In this Bible verse, the commentators highlight the significance of greeting a h
 3. "For the usual form of salutation among the Jews was in such words; of which Luke 10:5- : by which is meant all kind of happiness, and prosperity, temporal, spiritual, and eternal."
 
 ### John Wesley:
-1. "Salute it" - This phrase refers to the customary Jewish greeting of offering peace and blessings to a household. It signifies a desire for well-being and prosperity for those residing in the house.
-
-2. "Peace (that is, all blessings) be to this house" - This expanded explanation of the greeting emphasizes that it encompasses not only peace but also all other blessings that one could hope for. It reflects the intention to bestow abundant goodness upon the household.
-
-3. "Peace be to this house" - This simple yet profound statement encapsulates the essence of the greeting. It highlights the importance of peace as a foundational element in a home, fostering harmony, tranquility, and a sense of well-being among its inhabitants.
+1. "Salute it" - In the usual Jewish form, "Peace (that is, all blessings) be to this house."
+2. "The act of salutation was a customary way of showing respect and honor to the host."
+3. "By offering peace to the house, Jesus was not only extending a greeting but also invoking God's blessings upon the household."
 
 
 ## Generation Details

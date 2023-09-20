@@ -1,20 +1,40 @@
 # Romans 15:18 Commentary Help Text
 
 ## BHT:
-In this verse, the commentator quotes highlight the humble acknowledgment of Paul, recognizing the power and authority of Christ in his ministry. They emphasize Paul's dependence on Christ and the effectiveness of his work due to the active involvement of Christ. It is mentioned that Paul's ministry encompasses both preaching and action, demonstrating the holistic nature of his service. The commentators also emphasize that Paul attributes all the success of his labors to the activity of Christ and describes the extraordinary signs and wonders performed by the disciples as a demonstration of God's power.
+This verse depicts a profound acknowledgment of the power and authority of Christ working through the apostle Paul. Paul humbly recognizes that his success in ministry and the obedience of the Gentiles are solely attributed to the work of the living Redeemer. He attributes this success to both his preaching, empowered by the Spirit, and his miraculous deeds, which served as tangible evidence of divine authority. This passage emphasizes the supernatural aspect of Paul's ministry and underscores the importance of both proclaiming the message and demonstrating it through signs and wonders.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "I have real ground for glorying (in a legitimate and Christian manner)."
+2. "I will only boast of what Christ has veritably done by me towards the obedience of the Gentiles."
+3. "By word and deed."
+
 ### Jamieson Fausset Brown:
-1. "I will not dare to go beyond what Christ hath wrought by me" - Paul humbly acknowledges that he will not speak of anything that Christ has not accomplished through him. This shows his recognition of the power and authority of Christ in his ministry.
+1. "I will not dare to speak of any 'to speak aught' of those things which Christ hath not wrought by me" - Paul humbly acknowledges that he will not go beyond what Christ has accomplished through him, recognizing that his success in ministry is solely attributed to the work of the living Redeemer.
 
-2. "Paul ascribes all the success of his labors to the activity of the living Redeemer" - Paul attributes the effectiveness of his work to the active involvement of Christ. This highlights his dependence on Christ and emphasizes the role of Christ in bringing about transformation and impact.
+2. "Observe here how Paul ascribes all the success of his labors to the activity of the living Redeemer, working in and by him" - This highlights Paul's recognition that his effectiveness in preaching and working is a result of Christ's active involvement in his ministry.
 
-3. "By word and deed" - Paul describes his ministry as a combination of preaching and action. This demonstrates the holistic nature of his service, where his words and actions align to reflect the message of Christ.
+3. "by word and deed—by preaching and working; which latter he explains in the next clause" - Paul emphasizes that his ministry encompasses both preaching and practical demonstration, illustrating the importance of both proclaiming the message and living it out in action.
+
+### Albert Barnes:
+1. "I should be restrained; I should be afraid to speak, if the thing were not as I have stated."
+2. "I do not arrogate to myself what Christ has done by others."
+3. "The 'deeds,' that is, the 'lives' of Christian ministers are often as efficacious in bringing people to Christ as their public ministry."
+
+### John Calvin:
+1. "He proves then by evidences that God by the presence of his power had given a testimony to his preaching, and in a manner sealed his apostleship, so that no one ought to have doubted, but, that he was appointed and sent by the Lord."
+2. "He declares that with regard to his teaching as well as his doing, he had such strength and energy in preaching Christ, that it was evidently the wonderful power of God, and that miracles were also added, which were seals to render the evidence more certain."
+3. "This is a striking passage respecting the benefit of miracles: they are designed to prepare men to reverence and to obey God."
 
 ### Philip Schaff:
 1. "The emphasis rests not on the word Christ, but on the phrase did not work through me; the contrast being, not with what he did of himself, or strictly with what others did, but more exactly with what Christ had wrought through him."
 2. "I will speak boldly, have my ground of glorying, only in such things as Christ wrought through me."
-3. "By word and deed. This phrase qualifies 'did work through me,' etc. 'Word' refers to his preaching; 'deed' includes all the other labors of his apostolic activity."
+3. "By word and deed. This phrase qualifies ‘did work through me,’ etc. ‘Word’ refers to his preaching; ‘deed’ includes all the other labors of his apostolic activity."
+
+### Archibald T Robertson:
+1. "Any one of those things which Christ did not work through me."
+2. "By word and deed."
+3. "By preaching and life."
 
 ### John Gill:
 1. "He suggests that the false teachers did speak of things which were not done by them at all, and much less were what Christ had done by them; and signifies that he was a conscientious man, and could speak nothing but what was truth."
@@ -24,9 +44,9 @@ In this verse, the commentator quotes highlight the humble acknowledgment of Pau
 ### John Wesley:
 1. "By word — By the power of the Spirit." This quote highlights the role of the Holy Spirit in empowering the disciples to proclaim the message of the Gospel effectively. It emphasizes the supernatural aspect of their preaching and the divine enablement they received.
 
-2. "By deed — Namely, through 'mighty signs and wonders.'" This quote emphasizes the miraculous works performed by the disciples as a demonstration of the power of God. It underscores the significance of these signs and wonders in validating the message they proclaimed.
+2. "By deed — Namely, through 'mighty signs and wonders.'" This quote emphasizes the significance of the disciples' actions in validating their message. It suggests that their miraculous deeds served as evidence of the power and authority behind their words, reinforcing the credibility of their message.
 
-3. "Through 'mighty signs and wonders.'" This quote emphasizes the extraordinary nature of the signs and wonders performed by the disciples. It suggests that these acts were not ordinary or commonplace, but rather remarkable displays of God's power and authority.
+3. "Through 'mighty signs and wonders.'" This quote underscores the extraordinary nature of the miracles performed by the disciples. It implies that these signs and wonders were not ordinary or commonplace but rather extraordinary displays of divine power, further emphasizing the supernatural dimension of their ministry.
 
 
 ## Generation Details

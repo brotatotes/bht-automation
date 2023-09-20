@@ -1,34 +1,39 @@
 # Matthew 6:17 Commentary Help Text
 
 ## BHT:
-The verse described in these commentaries emphasizes the need for humility, sincerity, and private devotion in fasting. It instructs practitioners to maintain a normal appearance and not draw attention to themselves during fasting. The act of anointing the head and washing the face is seen as a way to ensure that one's fasting remains unnoticed by others. Overall, this verse emphasizes the personal, private nature of fasting and discourages showing off or seeking recognition for one's spiritual practices.
+In this verse, the Bible provides guidance on the attitude and appearance one should maintain during fasting. Commentators stress the importance of humility, sincerity, and private devotion when practicing fasting. They emphasize that fasting should not be done for show or seeking recognition from others. Instead, it is a personal act of devotion to God, requiring a joyful and content heart. The verse also highlights the significance of anointing the head, which symbolizes refreshment, honor, and preparation for important tasks. It reminds us to approach our responsibilities with reverence and readiness while maintaining a sense of normalcy and routine.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Appear as usual: seem to men the same as if thou wert not fasting." - This quote highlights the importance of not drawing attention to oneself while fasting, emphasizing the need for humility and sincerity in one's spiritual practices.
+1. "Appear as usual: seem to men the same as if thou wert not fasting." - This quote highlights the importance of maintaining a humble and discreet attitude when fasting. It reminds us that fasting is a personal and spiritual practice, not meant for show or seeking recognition from others.
 
-2. "This precept applies only to voluntary and private fasts, not to public and enjoined ones." - This quote clarifies that the instruction to appear as usual during fasting applies specifically to personal and voluntary fasts, suggesting that public or obligatory fasts may have different considerations.
+2. "This precept applies only to voluntary and private fasts." - This quote clarifies that the instruction to appear as usual during fasting specifically applies to voluntary and private fasts. It suggests that public and obligatory fasts may have different considerations.
 
-3. "The one might afford just as much occasion for ostentation as the other." - This quote challenges the notion that public or enjoined fasts are exempt from the need for humility, suggesting that even in such contexts, one should guard against the temptation to show off or seek recognition.
+3. "The one might afford just as much occasion for ostentation as the other." - This quote challenges the notion that public and enjoined fasts are exempt from the need to appear as usual. It suggests that even in public fasts, one should guard against the temptation to display their piety for the sake of recognition.
 
 ### Jamieson Fausset Brown:
-1. "Anoint thine head, and wash thy face" - The act of anointing the head and washing the face was a common practice among the Jews during fasting, except in times of mourning. This instruction emphasizes the importance of maintaining a normal appearance, so as not to draw attention to one's fasting.
-
-2. "Appear as usual" - The commentary highlights the need to appear as usual during fasting. This implies that fasting is not meant to be a public display of piety, but rather a personal and private act of devotion.
-
-3. "Appear so as to attract no notice" - The purpose of anointing the head and washing the face is to ensure that one's fasting remains unnoticed by others. This quote emphasizes the humility and sincerity of fasting, as it is not done for the praise or recognition of others.
+1. "Anoint thine head, and wash thy face" - This instruction is not about physical appearance, but about the inner attitude of the heart. It reminds us to maintain a sense of joy and contentment even in times of fasting and self-denial.
+2. "Appear as usual" - The purpose of fasting is not to draw attention to ourselves or to appear pious. It is a personal and private act of devotion to God. We should not seek recognition or praise from others, but rather focus on our relationship with God.
+3. "Attract no notice" - Fasting is not about seeking approval or admiration from others. It is a spiritual discipline that should be done with humility and sincerity. Our fasting should be directed towards God, not towards gaining the approval or attention of others.
 
 ### Philip Schaff:
 1. "He assumes that His disciples would practise private fasting."
 2. "Perform the cleansing usual and proper before meals even when fasting."
 3. "Hypocrisy and false asceticism reverse the maxim."
 
+### John Gill:
+1. "Christ allows of fasting, but what is of a quite different kind from that of the Jews; which lay not in an outward abstinence from food, and other conveniences of life, and refreshments of nature; but in an abstinence from sin, in acknowledgment and confession of it; and in the exercise of faith and hope in God, as a God pardoning iniquity, transgression and sin."
+2. "Anoint thine head, and wash thy face; directly contrary to the Jewish canons, which forbid these things, with others, on fast days."
+3. "Anointing and washing were signs of cheerfulness and joy."
+
+Note: The commentary provided is not a direct quote from a specific source.
+
 ### John Wesley:
-1. "Anoint thy head" - This act of anointing the head was a common practice among the Jews, symbolizing refreshment and preparation for a special occasion or event. It signifies a time of consecration and setting oneself apart for a specific purpose.
+1. "Anoint thy head" - This act of anointing the head was a common practice among the Jews, symbolizing refreshment and preparation for a special occasion or important task. It signifies a sense of honor and dignity, reminding us to approach our responsibilities with a mindset of reverence and readiness.
 
-2. "So the Jews frequently did" - This commentary highlights the cultural significance of anointing the head among the Jewish people. It suggests that this act was not uncommon or out of the ordinary, but rather a customary practice that held deep meaning and tradition.
+2. "So the Jews frequently did" - Understanding the cultural context of this practice helps us grasp the significance of the verse. It reveals that anointing the head was not an unusual or extraordinary act, but rather a customary practice that carried symbolic meaning and conveyed a sense of importance.
 
-3. "Dress thyself as usual" - This phrase emphasizes the importance of presenting oneself in a dignified manner, even in times of mourning or distress. It suggests that despite the challenges or hardships one may face, it is essential to maintain one's dignity and composure, both in appearance and attitude.
+3. "Dress thyself as usual" - This instruction emphasizes the importance of maintaining a sense of normalcy and routine while preparing for a significant event or task. It encourages us to approach our responsibilities with a balanced mindset, not neglecting our daily duties or routines in the process. It reminds us that even in times of preparation or anticipation, we should remain grounded and focused on our regular responsibilities.
 
 
 ## Generation Details

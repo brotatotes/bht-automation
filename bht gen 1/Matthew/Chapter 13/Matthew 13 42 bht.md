@@ -1,12 +1,12 @@
 # Matthew 13:42 Commentary Help Text
 
 ## BHT:
-In this Bible verse, the vivid imagery and strong language convey a sense of righteous indignation and contempt towards evildoers. The punishment awaiting them is described as a fierce torment, a metaphorical "furnace of fire" that signifies its incomprehensibility. The despair of the reprobate is expressed through the graphic imagery of "gnashing of teeth." This punishment is not simply a consequence of their circumstances but a result of their character, and it is undeniably a positive and punitive reality, accompanied by weeping.
+In this verse, the Bible uses powerful and vivid language to depict the consequences that await the wicked. Commentators describe this as a metaphorical expression of God's indignation and fierce torment. It is a punishment characterized by unbearable suffering, the gnashing of teeth, and the weeping of the reprobate. The verse conveys the incomprehensibility of both the glorious reward for the righteous and the punitive nature of the punishment for the wicked. It emphasizes the intensity of divine wrath and the despair, remorse, and inexpressible pain that the wicked shall endure for eternity.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "What terrific strength of language—the 'casting' or 'flinging' expressive of indignation, abhorrence, contempt."
-2. "'The furnace of fire' denoting the fierceness of the torment."
+2. "The 'furnace of fire' denoting the fierceness of the torment."
 3. "The 'gnashing of teeth' is a graphic way of expressing the despair in which its remedilessness issues."
 
 ### John Calvin:
@@ -15,9 +15,14 @@ In this Bible verse, the vivid imagery and strong language convey a sense of rig
 3. "If we put a question to those who are so delighted with matters of curiosity, how it comes about that, while Christ is asleep, and unacquainted with the affair, the devil sows tares among the good seed, they will have nothing to reply."
 
 ### Philip Schaff:
-1. "It undoubtedly refers to intolerable suffering, resulting not simply from the circumstances of the evildoers in a future state but from their character."
+1. "As the tares were burned, this may be figurative, but it undoubtedly refers to intolerable suffering, resulting not simply from the circumstances of the evildoers in a future state but from their character."
 2. "There shall be the weeping."
 3. "These awful words must mean something positive and punitive."
+
+### John Gill:
+1. "Not a material, but a metaphorical one; denoting the wrath of God, which shall fall upon wicked men, and abide upon them to all eternity."
+2. "Expressing the vehemency and intenseness of divine wrath, which will be intolerable."
+3. "Declaring the remorse of conscience, the tortures of mind, the sense of inexpressible pain, and punishment, the wicked shall feel; also their furious rage and black despair."
 
 
 ## Generation Details

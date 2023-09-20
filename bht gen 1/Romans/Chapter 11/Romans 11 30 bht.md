@@ -1,15 +1,20 @@
 # Romans 11:30 Commentary Help Text
 
 ## BHT:
-In the Bible verse being described, it is highlighted that the Gentiles were once disobedient to God in their idolatrous and sinful state. However, they have now obtained mercy and have been pardoned by God, experiencing a transformation through His grace. The disobedience being referred to is that of the unbelieving Jews, whose rejection allowed the Gentiles to receive the blessings of mercy. The verse encourages readers to reflect on their previous disobedience and acknowledge the role of God's mercy in their salvation.
+In the Bible verse being described, it speaks of the transformation from a state of disobedience to receiving mercy. The Gentiles, who were once disobedient to God, have now obtained mercy through the disobedience of the Jews. This mercy is a result of the unbelief and rejection of the Jews, allowing the Gentiles to be grafted into the favor of God. These blessings of mercy come through the application of pardoning grace, granting them the opportunity to believe and know the true God.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "For as you in times past were disobedient to God, but now have received mercy through the disobedience of these, so these also have now disobeyed, in order that through the mercy shown to you they also may have mercy shown them." 
+2. "The breaking off of the natural branches giving opportunity for the grafting in of you."
+3. "They have become disobedient to the mercy shown to you."
+
 ### Jamieson Fausset Brown:
-1. "For as ye in times past have not believed—or, 'obeyed' God—that is, yielded not to God 'the obedience of faith,' while strangers to Christ." This quote highlights the importance of obedience to God and the transformation that occurs when one becomes a believer in Christ.
+1. "For as ye in times past have not believed—or, 'obeyed' God—that is, yielded not to God 'the obedience of faith,' while strangers to Christ." 
 
-2. "Yet now have obtained mercy through—by occasion of their unbelief." This quote emphasizes the concept of God's mercy and how it is extended to those who were once unbelievers. It highlights the transformative power of God's grace.
+2. "yet now have obtained mercy through—by occasion of their unbelief." 
 
-3. "See on Romans 11:1; Romans 11:1- :; Romans 11:1." This quote refers to other verses in the book of Romans that provide further context and explanation for the concept being discussed. It encourages readers to explore the broader context of the passage for a deeper understanding.
+3. "(See on Romans 11:1; Romans 11:1- :; Romans 11:1)."
 
 ### Albert Barnes:
 1. "This refers to the former idolatrous and sinful state of the pagan world."
@@ -17,9 +22,9 @@ In the Bible verse being described, it is highlighted that the Gentiles were onc
 3. "By means of the unbelief and rejection of the Jews."
 
 ### Philip Schaff:
-1. "Ye, Gentiles, were once disobedient to God." - This highlights the previous state of the Gentiles before their conversion, emphasizing their disobedience to God.
-2. "Obtained mercy; all their blessings as Christians are summed up as the result of the mercy of Him to whom they had been disobedient." - This quote emphasizes that the Gentiles' blessings and salvation are a result of God's mercy despite their previous disobedience.
-3. "By the disobedience of these, i.e., the unbelieving Jews." - This quote clarifies that the disobedience being referred to is that of the unbelieving Jews, highlighting their role in the Gentiles obtaining mercy.
+1. "Ye, Gentiles, were once disobedient to God." 
+2. "Now, since they became Christians." 
+3. "Obtained mercy; all their blessings as Christians are summed up as the result of the mercy of Him to whom they had been disobedient."
 
 ### Archibald T Robertson:
 1. "Ye once upon a time disobeyed God."

@@ -1,37 +1,47 @@
 # Romans 15:31 Commentary Help Text
 
 ## BHT:
-This verse highlights the Apostle Paul's deep concern for his ministry being accepted by both the Jewish and Gentile believers. He faced intense animosity from the Jews, lacked fellow-feeling with the Gentile churches, and feared his message might not be well-received. Paul fervently prayed for deliverance from those who did not believe, understanding the significance of his life to the church. Despite the challenges, he desired unity and love among all believers, Jewish and Gentile alike.
+In this verse, we see the Apostle Paul expressing his fear and concern about the reception of his ministry. He faced intense animosity and a lack of empathy from the unbelieving Jews and the disobedient. Paul desired acceptance and believed that his service would be more impactful if it was embraced by both Jews and Gentiles. Despite the hardships and opposition he faced, Paul continued to prioritize the unity and love among all believers.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The exceeding hatred in which the Apostle was held by the Jews" - This quote highlights the intense animosity that Paul faced from the Jewish community, which helps explain his fear of his ministry being rejected by them.
+1. "The exceeding hatred in which the Apostle was held by the Jews" - This quote highlights the intense animosity that Paul faced from the Jewish community, which helps explain his fear and concern about the reception of his ministry.
 
-2. "Their want of fellow-feeling with the Gentile churches" - This quote emphasizes the lack of empathy or understanding that the Jews had towards the Gentile churches, further contributing to Paul's concern about his ministry being received by them.
+2. "Their want of fellow-feeling with the Gentile churches" - This quote emphasizes the lack of empathy and understanding that the Jews had towards the Gentile believers, further contributing to Paul's apprehension about his ministry being accepted.
 
-3. "Made him fear lest even the ministration with which he was charged might not prove acceptable to them" - This quote reveals Paul's apprehension that his mission and the message he carried might not be well-received by the Jews, given their hostility and lack of connection with the Gentile churches.
+3. "Made him fear lest even the ministration with which he was charged might not prove acceptable to them" - This quote reveals Paul's concern that his role as a minister might not be well-received by the Jews, indicating his desire for his message to be accepted and embraced by all.
 
 ### Jamieson Fausset Brown:
-1. "That I may be delivered from them that do not believe—"that do not obey," that is, the truth, by believing it." 
-2. "He saw the storm that was gathering over him in Judea, which, if at all, would certainly burst upon his head when he reached the capital."
-3. "He would have the Romans therefore to join him in wrestling with God that this gift might be gratefully received, and prove a cement between the two parties."
+1. "That I may be delivered from them that do not believe... by believing it." 
+2. "He saw the storm that was gathering over him in Judea... the event too clearly showed the correctness of these apprehensions." 
+3. "And that my service which I have for Jerusalem... may be accepted of the saints."
+
+### Albert Barnes:
+1. "The unbelieving Jews in Judea had been opposed to Paul’s conversion."
+2. "Hence, the apostle could not but be aware that in returning to Judea, he exposed himself to special dangers."
+3. "Many, even among Christians, might have had their minds filled with prejudice against the apostle, from the reports constantly in circulation among the Jews, that he was opposing and denouncing the customs of Moses."
 
 ### Marvin Vincent:
-1. "Them that do not believe." - This phrase refers to those who lack faith in God and His promises. It highlights the importance of belief in the Christian faith and the consequences of disbelief.
+1. "Them that do not believe." - This phrase refers to those who lack faith or trust in God. It highlights the importance of belief in the context of the verse.
 
-2. "See on ch. Romans 10:21." - This reference directs readers to another verse in Romans that further explores the concept of disobedience and unbelief. It encourages readers to delve deeper into the context and meaning of the verse.
+2. "Them that are disobedient." - This alternative translation emphasizes the idea that disbelief is a form of disobedience towards God's commands and teachings.
 
-3. "Better, Rev., them that are disobedient." - This alternative translation emphasizes the idea of disobedience rather than simply lack of belief. It suggests that those who do not believe are actively choosing to disobey God's commands and reject His truth.
+3. "See on ch. Romans 10:21." - This reference encourages readers to explore a related verse in the book of Romans for further insight into the concept of disbelief and disobedience.
 
 ### John Calvin:
-1. "He ceased not to labor for those to whom he doubted whether he would be acceptable. This disposition of mind we ought to imitate, so that we may not cease to do good to those of whose gratitude we are by no means certain."
-2. "He honors with the name of saints even those by whom he feared he would be suspected, and deemed unwelcome. He also knew that saints may sometimes be led away by false slanders into unfavorable opinions, and though he knew that they wronged him, he yet ceased not to speak honorably of them."
-3. "By adding that I may come to you, he intimates that this prayer would be profitable also to them, and that it concerned them that he should not be killed in Judea. To the same purpose is the expression with joy; for it would be advantageous to the Romans for him to come to them in a cheerful state of mind and free from all grief, that he might in a more lively and strenuous manner labor among them."
+1. "We must also notice that he honors with the name of saints even those by whom he feared he would be suspected, and deemed unwelcome."
+2. "By adding that I may come to you, he intimates that this prayer would be profitable also to them, and that it concerned them that he should not be killed in Judea."
+3. "From the universal word all, I conclude that he did not simply pray that God would be present with and favor the Romans in a general sense, but that he would rule and guide every one of them."
 
 ### Philip Schaff:
-1. "The word may mean 'unbelieving,' and in any case the two senses are closely related, but the unbelief of the Jews is here regarded as disobedience to the gospel."
-2. "Besides the hostility of the Jews, he must encounter the doubts of the Jewish Christians, whom he however calls 'saints.'"
+1. "The word may mean ‘unbelieving,’ and in any case the two senses are closely related, but the unbelief of the Jews is here regarded as disobedience to the gospel."
+2. "Besides the hostility of the Jews, he must encounter the doubts of the Jewish Christians, whom he however calls ‘saints.’"
 3. "On the state of feeling here hinted at, see Excursuses, Galatians, chap. Romans 2:1-14."
+
+### Archibald T Robertson:
+1. "Paul foresaw trouble all the way to Jerusalem."
+2. "May become acceptable to the saints."
+3. "The Judaizers would give him trouble."
 
 ### John Gill:
 1. "By whom some think are meant such, who, though they believed in Jesus as the Messiah, yet were violently set against the apostle for preaching down the ceremonial law."

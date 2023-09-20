@@ -1,9 +1,14 @@
 # Matthew 24:33 Commentary Help Text
 
 ## BHT:
-Addressed to the disciples, as representing all Christians, this verse speaks of the coming of Christ and the signs that accompany it. It reassures believers that they may not personally witness the fulfillment of these prophecies, but they should be aware that Christ's arrival is imminent. These signs serve as a reminder that the redemption and deliverance of God's people is at hand, bringing an end to their sorrows, afflictions, and persecutions. Ultimately, the verse promises that the Lord will be the everlasting light for His people, bringing an end to darkness and ushering in eternal joy.
+Addressed to the disciples as representatives of all Christians, this verse contains signs that indicate the impending destruction of Jerusalem. These signs serve as a reminder that calamities and desolations on the Jews are evidence of the son of man's arrival, displaying power and glory. Notably, the verse does not imply personal witness to these events, but rather a message of imminent deliverance from persecutions, with the promise of everlasting redemption and the establishment of the eternal kingdom. The coming of Christ signifies the end of sorrows, afflictions, and darkness, and the arrival of eternal light for his people.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "When you see what I have predicted the 'signs' around Jerusalem - then know that its destruction is at hand." 
+2. "Your deliverance from the dangers that threaten the city approaches, and the kingdom of God will be set up in the earth." 
+3. "Your everlasting redemption from sin and death will come at the day of judgment, and his eternal kingdom will be established in the heavens."
+
 ### Philip Schaff:
 1. "Addressed to the disciples, as representing all Christians."
 2. "It does not mean that they should live to see what He had predicted."

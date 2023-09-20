@@ -1,15 +1,20 @@
 # Matthew 23:8 Commentary Help Text
 
 ## BHT:
-In this verse, Jesus warns his disciples against seeking titles and positions of authority, urging them to find their worth in their relationship with God. He cautions against religious pride and the spirit of claiming authority in teaching. Jesus emphasizes humility and equality among his followers, for they are all brethren with Christ as their true Master and Teacher. The ultimate source of wisdom and guidance is found in God, not in human leaders.
+In this verse, Jesus warns against seeking titles and positions of authority for personal glory. He emphasizes the importance of humility and recognizing God as the ultimate source of wisdom. Jesus highlights the equality among his disciples, urging them to avoid distinctions and ranks. The focus should be on pursuing knowledge and understanding, rather than seeking recognition or positions of power. Jesus reminds his followers that they are all brothers and sisters, equal in God's eyes.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The title 'Rabbi' was a term of respect and honor given to Jewish teachers and scholars. Jesus cautions his disciples not to seek such titles or positions of authority, but to recognize that there is only one true Master, Guide, and Teacher - God Himself."
+1. "The title 'Rabbi' was a term of respect and honor given to Jewish teachers and scholars. Jesus warns against seeking titles and positions of authority for the sake of personal glory. He emphasizes the importance of humility and recognizing God as the ultimate source of wisdom and guidance." 
 
-2. "By discouraging the use of the title 'Rabbi,' Jesus emphasizes the importance of humility and equality among his followers. He wants them to understand that their true identity and worth come from their relationship with God, not from any external titles or positions they may hold."
+2. "By calling God their 'Master,' Jesus reminds his disciples that they are not the ultimate authority in matters of faith and knowledge. They are to submit themselves to God's teachings and rely on Him as their true guide."
 
-3. "Jesus' words serve as a reminder that the ultimate source of wisdom and guidance is not found in human leaders, but in God. He encourages his disciples to rely on God's teachings and to seek His guidance above all else."
+3. "Jesus encourages his followers to prioritize the pursuit of knowledge and understanding over the desire for recognition and status. The focus should be on learning and growing in wisdom, rather than seeking titles and positions that elevate oneself above others."
+
+### Albert Barnes:
+1. "They were on a level; they were to be equal in authority; they were brethren; and they should neither covet nor receive a title which implied either an elevation of one above another."
+2. "Everything which would tend to make a distinction among them or destroy their parity - everything which would lead the world to suppose that there were ranks and grades among them as ministers, they were to avoid."
+3. "This title corresponds with the title 'Doctor of Divinity' as applied to ministers of the gospel; and, so far as I can see, the spirit of the Saviour’s command is violated by the reception of such a title, as really as it would have been by their being called 'Rabbi'."
 
 ### Philip Schaff:
 1. "But this prohibition includes all the manifestations of religious pride spoken of, since it prohibits the pride itself."
@@ -17,8 +22,8 @@ In this verse, Jesus warns his disciples against seeking titles and positions of
 3. "Not the title, but the spirit which claims authority in teaching, is forbidden."
 
 ### Archibald T Robertson:
-1. "Do not seek to be called (ingressive aorist subjunctive), if others call you this it will not be your fault." - Euthymius Zigabenus
-2. "An apparent aside to the disciples. Note the emphatic position of υμεις." 
+1. "Do not seek to be called (ingressive aorist subjunctive), if others call you this it will not be your fault."
+2. "An apparent aside to the disciples. Note the emphatic position of υμεις."
 3. "Rabbi means 'my great one,' 'my Master,' apparently a comparatively new title in Christ's time."
 
 ### John Gill:

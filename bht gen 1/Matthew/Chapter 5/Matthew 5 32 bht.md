@@ -1,39 +1,49 @@
 # Matthew 5:32 Commentary Help Text
 
 ## BHT:
-This verse, discussed by various commentators, addresses the topic of divorce and its implications. It emphasizes that divorce should only be permitted in cases of infidelity, as divorcing for any other reason would lead the divorced woman to commit adultery if she remarries. It acknowledges that divorce was allowed in certain circumstances, but highlights the importance of upholding the sacred commitment of marriage and the negative consequences of unjustly abandoning one's spouse. This passage reminds individuals of the seriousness and repercussions of divorce, promoting the ideals of commitment and fidelity in marriage.
+This verse delves into the serious nature of divorce and its consequences. It recognizes that divorce not only causes emotional pain but may also lead to adultery if the abandoned spouse seeks companionship elsewhere. The connection between divorce and adultery serves as a stark reminder of the significance of commitment and faithfulness in marriage. Consequently, divorce should be approached with caution and seen as a last resort due to its far-reaching impact on individuals involved.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "πορνείας must be taken to mean sin, not only before marriage, but after it also, in a wider sense, as including μοιχεία likewise."
+2. "Certainly it would appear, from the literal meaning of our Lord’s words (if ἀπολελ . be taken as perfectly general), that it should not be allowed: for if by such divorce the marriage be altogether dissolved, how can the woman be said μοιχᾶσθαι by a second marriage?"
+3. "The tenor of our Lord’s teaching in other places seems to set before us the state of marriage as absolutely indissoluble as such, however he may sanction the expulsion a mensa et thoro of an unfaithful wife."
+
 ### Jamieson Fausset Brown:
-1. "Whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery." - This quote highlights that divorce should only be permitted in cases of infidelity, as divorcing for any other reason would lead the woman to commit adultery if she remarries.
+1. "Whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery." - This quote highlights the understanding that divorce should only be permitted in cases of sexual immorality, as it protects the innocent party from being held responsible for the adultery that may occur if they remarry.
 
-2. "Whosoever shall marry her that is divorced... committeth adultery." - This quote emphasizes that marrying a divorced woman, except in cases of infidelity, would also be considered adultery, as the marriage would be a violation of the marriage covenant.
+2. "Whosoever shall marry her that is divorced—for anything short of conjugal infidelity—committeth adultery." - This quote emphasizes the belief that marrying a divorced person, except in cases of infidelity, is considered adultery. It underscores the seriousness of the commitment made in marriage and the consequences of breaking that commitment.
 
-3. "Whether the innocent party, after a just divorce, may lawfully marry again, is not treated of here." - This quote acknowledges that the passage does not address whether the innocent party in a divorce can remarry, leaving room for different interpretations among different Christian denominations.
+3. "If the commandment is broken by one party, it must be by the other also." - This quote suggests that if one party in a marriage breaks the commandment of fidelity, the other party is also affected by the broken covenant. It highlights the interconnectedness and shared responsibility within a marriage, even in cases of divorce.
 
 ### John Calvin:
-1. "Causeth her to commit adultery." - This phrase highlights the consequences of unjustly abandoning one's wife. It suggests that by divorcing his wife without valid reasons, the man is essentially pushing her into the arms of another man, thus leading her to commit adultery.
+1. "Causeth her to commit adultery." - This phrase highlights the consequence of a man unjustly abandoning his wife. It implies that by doing so, he is essentially forcing her into a situation where she may be tempted to enter into a new marriage, thus committing adultery.
 
-2. "The bill of divorcement...that the woman had been loosed from her former husband." - This reference to the bill of divorcement emphasizes that divorce was allowed in certain circumstances, but it was intended to free the woman from her former husband, not to give him the power to abandon her without just cause.
+2. "The bill of divorcement...that the woman had been loosed from her former husband." - This reference to the bill of divorcement emphasizes that it was meant to signify the woman's freedom from her previous marriage, allowing her to enter into a new union. It underscores the significance of the man's actions in abandoning his wife and potentially subjecting her to the possibility of entering into an adulterous relationship.
 
-3. "Unjustly and unlawfully, abandons the wife whom God had given him." - This phrase emphasizes the moral and spiritual implications of abandoning one's wife. It suggests that God has entrusted the wife to the husband, and by unjustly abandoning her, the man is going against God's will and breaking his sacred commitment.
+3. "The man who...abandons the wife whom God had given him, is justly condemned for having prostituted his wife to others." - This statement highlights the gravity of the man's actions in abandoning his wife. It suggests that by doing so, he is not only betraying his marital commitment but also subjecting his wife to the possibility of being involved with other men, akin to prostituting her. It emphasizes the moral condemnation of such behavior.
 
 ### Philip Schaff:
 1. "The force of the original is best given thus." 
-2. "The application to the case of a man is not only required by the spirit of Christ's teaching in general, but by the fact that He is here speaking of and condemning the sin of the man." 
+2. "The application to the case of a man is not only required by the spirit of Christ’s teaching in general, but by the fact that He is here speaking of and condemning the sin of the man." 
 3. "This high ideal of the marriage union is the basis of social morality."
 
+### Archibald T Robertson:
+1. "An unusual phrase that perhaps means 'except for a matter of unchastity.'" 
+2. "The early Christians made the exception to meet a pressing need."
+3. "It looks like criticism to meet modern needs."
+
 ### John Gill:
-1. "Christ does not infringe, or revoke the original grant, or permission of divorce; only frees it from the false interpretations, and ill use, the Pharisees made of it."
+1. "Christ does not infringe, or revoke the original grant, or permission of divorce; only frees it from the false interpretations, and ill use, the Pharisees made of it; and restores the ancient sense of it, in which only it was to be understood."
 2. "For a divorce was allowable in no case, saving for the cause of fornication; which must not be taken strictly for what is called fornication, but as including adultery, incest, or any unlawful copulation."
-3. "Should she marry another man, whilst he is alive, which her divorce allows her to do, she must be guilty of adultery; since she is his proper wife, the bond of marriage not being dissolved by such a divorce."
+3. "Whoever does, upon any other account, causeth her to commit adultery; that is, as much as in him lies: should she commit it, he is the cause of it, by exposing her, through a rejection of her, to the sinful embraces of others."
 
 ### John Wesley:
-1. "This verse highlights the seriousness of divorce and remarriage, as it implies that by divorcing one's spouse and marrying another, one is causing the former spouse to commit adultery. It emphasizes the importance of commitment and fidelity in marriage."
+1. "This verse highlights the seriousness of divorce and its potential consequences. It emphasizes that when a man divorces his wife, he is not only causing her emotional pain but also potentially leading her to commit adultery if she remarries."
 
-2. "The phrase 'causeth her to commit adultery' suggests that remarriage after divorce is seen as a violation of the marital covenant, leading to a state of adultery. It serves as a cautionary reminder about the consequences of divorce and the need for careful consideration before entering into a new marriage."
+2. "The phrase 'causeth her to commit adultery' implies that the act of divorce puts the woman in a vulnerable position, where she may be compelled to seek companionship and intimacy outside the bounds of marriage."
 
-3. "By linking divorce and remarriage to adultery, this verse underscores the sacredness of the marital bond and the need for faithfulness. It encourages individuals to honor their commitments and work towards reconciliation rather than resorting to divorce, which can have far-reaching effects on both parties involved."
+3. "By linking divorce and adultery, this verse underscores the importance of commitment and faithfulness in marriage. It serves as a reminder that divorce should not be taken lightly and should only be considered as a last resort, as it can have far-reaching effects on the individuals involved."
 
 
 ## Generation Details

@@ -1,20 +1,25 @@
 # Luke 4:43 Commentary Help Text
 
 ## BHT:
-In this Bible verse, we are reminded of the selflessness and unwavering commitment of Jesus to fulfill His purpose and preach the Gospel. Despite the enticing entreaties that appealed to Him, duty moved Him to set aside His personal desires and embark on a mission of serving the greater good. Jesus tirelessly proclaimed the teachings and ordinances of the Kingdom of God, tirelessly traveling to various cities in order to fulfill His divine calling.
+In this Bible verse, we are reminded of the selflessness and duty-driven nature of Jesus. He prioritized fulfilling his responsibilities over personal desires, demonstrating his role as the great Apostle of God to all. The verse emphasizes the preaching of the Gospel dispensation and the kingdom of God, both in the earthly realm and in relation to the future kingdom of glory. Jesus felt an urge to spread these teachings to other cities, recognizing the necessity and importance of his mission.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "Duty only could move Him to deny entreaties so grateful to His spirit."
 
-2. "The verse highlights the selflessness and unwavering commitment of Jesus to fulfill His purpose, even when faced with personal desires and comfort."
+2. "The verse highlights the selflessness of Jesus, who prioritized duty over personal desires."
 
-3. "It serves as a reminder that sometimes we must set aside our own desires and preferences in order to fulfill our higher calling and serve the greater good."
+3. "This verse reminds us that sometimes we must make difficult choices and deny ourselves for the sake of fulfilling our responsibilities."
+
+### Archibald T Robertson:
+1. "Jesus felt the urge to go with the work of evangelism 'to the other cities also,' to all, not to a favoured few." 
+2. "Christ is the great Apostle of God to men." 
+3. "For therefore was I sent."
 
 ### John Gill:
-1. "A principal part of his work lay in preaching the things concerning the kingdom of God, the Gospel dispensation on earth, the doctrines and ordinances of it, as well as the things which relate to the kingdom of glory."
-2. "There was a necessity upon him to preach them in other cities of Galilee and Judea."
-3. "He was sent by his heavenly Father, and had himself also undertook and engaged to do it."
+1. "A principal part of his work lay in preaching the things concerning the kingdom of God, the Gospel dispensation on earth, the doctrines and ordinances of it."
+2. "The things which relate to the kingdom of glory; as what is the saints meetness for it, their regeneration, and their right unto it, which lies in his righteousness."
+3. "There was a necessity upon him to preach them in other cities of Galilee and Judea: for therefore am I sent."
 
 
 ## Generation Details

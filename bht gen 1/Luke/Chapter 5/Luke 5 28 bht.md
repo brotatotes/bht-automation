@@ -1,20 +1,25 @@
 # Luke 5:28 Commentary Help Text
 
 ## BHT:
-The verse being described is a call to wholeheartedly follow Jesus, leaving behind worldly attachments and distractions. It emphasizes the importance of not only physically leaving, but also having a sincere and committed mindset. The verse highlights the continuous action of following Jesus and encourages a willingness to abandon one's former way of life to become a disciple. It also challenges believers to prioritize the kingdom of God over material possessions and personal ambitions, trusting in God's provision and surrendering control.
+The Bible verse being described emphasizes a radical call to discipleship, a complete surrender and ongoing commitment to follow Jesus. It entails abandoning one's former way of life, letting go of worldly attachments and ambitions for the sake of the Gospel. This call requires a transformation of heart and mind, a willingness to prioritize God's kingdom over material wealth and worldly gain. It is an invitation to wholeheartedly embrace a new way of life, marked by selfless devotion and service to Christ.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Having left his books and implements" - This phrase implies a physical act of leaving behind possessions, but it also suggests a deeper meaning of letting go of worldly attachments and distractions.
-2. "Importing not so much a present objective relinquishment" - The act of following Jesus is not simply about leaving behind physical objects, but it is about the mindset and attitude with which one chooses to follow Him.
-3. "The mind with which he rose to follow" - This phrase emphasizes the importance of the internal disposition and intention behind the act of following Jesus, highlighting the need for a sincere and wholehearted commitment.
+1. "κατ. πάντα" is not just about leaving physical possessions, but about the mindset of complete surrender and following Jesus.
+2. The phrase implies a total abandonment of one's former way of life and a wholehearted commitment to follow Jesus.
+3. It signifies a radical change in priorities and a willingness to let go of everything for the sake of the Gospel.
 
 ### Marvin Vincent:
-1. "The use of the imperfect tense here suggests a continuous action, indicating that the person in question not only started following but also continued to do so." 
+1. "The use of the imperfect tense here emphasizes the ongoing nature of the disciples' following. It suggests that their decision to follow Jesus was not a one-time event, but rather a continuous commitment to walk in his footsteps."
 
-2. "This verse can be compared to Matthew 9:10-17 and Mark 2:15-22, where similar accounts of Jesus calling disciples and the subsequent criticism from religious leaders are found." 
+2. "The parallel passages in Matthew and Mark provide additional context for understanding the significance of this verse. They highlight the radical nature of Jesus' call to discipleship, which involved leaving behind old ways of thinking and embracing a new way of life."
 
-3. "The verb 'followed' implies a willingness to leave behind one's former way of life and commit to a new path under the guidance of Jesus."
+3. "By comparing this verse with the parallel passages, we can see that Jesus' invitation to follow him was not just about physical proximity, but also about a transformation of the heart and mind. It required a willingness to let go of old traditions and embrace the newness of God's kingdom."
+
+### Archibald T Robertson:
+1. "He forsook all (καταλιπων παντα). This detail in Luke alone. He left his profitable business for the service of Christ."
+2. "Followed him (ηκολουθε αυτω). Imperfect active, perhaps inchoative. He began at once to follow him and he kept it up."
+3. "Both Mark 2:14; Matthew 9:9 have the aorist (ηκολουθησεν), perhaps ingressive."
 
 ### John Gill:
 1. "And he left all... His company, his business, and all the profits of it." 
@@ -22,11 +27,9 @@ The verse being described is a call to wholeheartedly follow Jesus, leaving behi
 3. "He followed him... in a spiritual sense, and became a disciple of his."
 
 ### John Wesley:
-1. "Leaving all" signifies a radical abandonment of worldly attachments and pursuits. It is a call to prioritize the kingdom of God above all else, including material possessions and personal ambitions.
-
-2. By leaving behind "His business and gain," the verse emphasizes the need to let go of the things that hinder our relationship with God. It challenges us to detach ourselves from the pursuit of wealth and success, recognizing that true fulfillment comes from aligning our lives with God's purposes.
-
-3. This phrase also implies a surrender of control and a willingness to trust in God's provision. It encourages us to rely on Him for our needs, rather than relying solely on our own efforts and resources. It is an invitation to embrace a life of faith and dependence on God.
+1. "Leaving all" signifies a complete abandonment of worldly attachments and priorities, demonstrating a radical commitment to following Christ.
+2. By leaving behind "His business," the individual is relinquishing their own personal pursuits and ambitions, recognizing that their ultimate purpose is to serve God and advance His kingdom.
+3. The act of leaving "gain" behind emphasizes the renouncement of material wealth and the recognition that true fulfillment and satisfaction are found in a relationship with God, rather than in the accumulation of earthly possessions.
 
 
 ## Generation Details

@@ -1,25 +1,52 @@
 # Matthew 13:14 Commentary Help Text
 
 ## BHT:
-The verse described in these commentaries portrays a moment of significant fulfillment of prophecy, as events unfold according to Isaiah's words. Despite the people's exposure to the message, they remain spiritually blind, resisting understanding. Their deliberate rejection results in being sealed in darkness and hardness of heart, shutting themselves off from the offered light and healing. The verse emphasizes the irony of hearing without comprehending, highlighting the insensitivity and unwillingness of the people to understand.
+This verse describes the fulfillment of a prophecy from Isaiah, in which the people who hear Jesus' message do not understand it. It emphasizes that the people choose to remain in darkness and rejection of Jesus' light and healing. They are blinded by their own obstinacy and are missing out on the opportunity to be transformed and healed. The prophecy is an ongoing process throughout history, and the fulfillment highlights the consequences of their deliberate rejection and spiritual blindness.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "And in them is fulfilling...the prophecy of Esaias" - This quote highlights that the events happening at that time were the fulfillment of the prophecy mentioned by Isaiah, indicating the significance of the moment.
-2. "By hearing ye shall hear, and shall not understand" - This quote emphasizes the spiritual blindness and resistance of the people to comprehend the message of Jesus, despite hearing it.
-3. "They were thus judicially sealed up under the darkness and obduracy" - This quote suggests that the people's deliberate rejection of the light and healing brought by Jesus resulted in their spiritual blindness and hardness of heart.
+1. "And in them is fulfilled... the prophecy of Esaias, which saith— (Isaiah 6:9; Isaiah 6:10 —here quoted according to the Septuagint)." 
+This quote highlights that the prophecy of Isaiah is being fulfilled in the people who are hearing Jesus' message but not understanding it. It emphasizes the significance of Jesus' words in relation to the prophetic scriptures.
+
+2. "By hearing ye shall hear, and shall not understand, &c." 
+This quote refers to the prophecy of Isaiah and indicates that the people are deliberately choosing to remain in darkness and ignorance, rejecting the light and healing that Jesus offers. It emphasizes the consequences of their rejection and the spiritual blindness they are experiencing.
+
+3. "They were thus judicially sealed up under the darkness and obduracy which they deliberately preferred to the light and healing which Jesus brought nigh to them." 
+This quote highlights the deliberate choice of the people to reject Jesus' message and the consequences of their decision. It emphasizes the idea that they are sealed in their spiritual blindness and obstinacy, missing out on the opportunity for healing and transformation.
+
+### Marvin Vincent:
+1. "Is fulfilled [αναπληρουται]. Rather of something in progress: is being fulfilled or in process of fulfilment."
+2. "The idea is that the prophecy is not yet fully accomplished, but is in the process of being fulfilled."
+3. "The fulfillment of prophecy is not a one-time event, but an ongoing process that continues throughout history."
+
+### John Calvin:
+1. "It is far from being a new thing, if many persons derive no advantage from the word of God, which was formerly appointed to the ancient people, for the purpose of inducing greater blindness." 
+2. "Let it be held as a fixed principle, that God enlightens to salvation, and that by a peculiar gift, those whom He has freely chosen; and that all the reprobate are deprived of the light of life, whether God withholds his word from them, or keeps their eyes and ears closed, that they do not hear or see."
+3. "All who have been given over to a reprobate mind do voluntarily, and from inward malice, blind and harden themselves."
 
 ### Philip Schaff:
-1. "In them, lit., 'to them,' in the sense, 'in their care.'" 
-2. "It fulfilled. A stronger word than that commonly used; a complete fulfilment, which may or may not have been preceded by a partial one." 
-3. "By hearing, etc. The sense of the original prophecy is given, but not its form. In Isaiah is a command; here a strong prediction, indicating that judgment is a result of what is done by man as well as what is done to man."
+1. "In them, lit., 'to them,' in the sense, 'in their care'." 
+2. "A complete fulfilment, which may or may not have been preceded by a partial one."
+3. "The sense of the original prophecy is given, but not its form. In Isaiah is a command; here a strong prediction, indicating that judgment is a result of what is done by man as well as what is done to man."
+
+### Archibald T Robertson:
+1. "Jesus points out the fulfilment... The verb αναπληροω... means to fill up like a cup, to fill another's place, to fill up what is lacking." 
+
+2. "Here it means that the prophecy of Isaiah is fully satisfied in the conduct of the Pharisees and Jesus himself points it out." 
+
+3. "Note two ways of reproducing the Hebrew idiom, one by ακοη the other by βλεποντες."
+
+### John Gill:
+1. "The sense of the prophecy is, with respect to the times of the Messiah, that the Jews, whilst hearing the sermons preached by him, whether with, or without parables, should hear his voice, and the sound of it, but not understand his words internally, spiritually, and experimentally."
+2. "Whilst they saw, with the eyes of their bodies, the miracles he wrought, they should see the facts done, which could not be denied and gainsayed by them, but should not take in the clear evidence, full proof, and certain demonstration given thereby, of his Messiahship."
+3. "The words in Isaiah may be so understood, which is sufficient to vindicate the citation of them, by the evangelist, in this form of them."
 
 ### John Wesley:
-1. "Hearing ye will hear, but in nowise understand" - This quote highlights the irony of the situation, where the people will hear the message but fail to comprehend its meaning. It emphasizes the spiritual blindness and insensitivity of their hearts.
+1. "Ye will surely hear. All possible means will be given you: yet they will profit you nothing; because your heart is sensual, stupid, and insensible." 
 
-2. "All possible means will be given you: yet they will profit you nothing" - This quote emphasizes that despite the abundance of opportunities and resources provided, the people's unwillingness to understand and their closed hearts render these means useless.
+2. "Your spiritual senses are shut up; yea, you have closed your eyes against the light; as being unwilling to understand the things of God." 
 
-3. "Your spiritual senses are shut up; yea, you have closed your eyes against the light" - This quote illustrates the deliberate choice of the people to close themselves off from the truth and the spiritual enlightenment offered to them. It signifies their resistance to God's message and their refusal to be healed.
+3. "Afraid, not desirous that he should heal you."
 
 
 ## Generation Details

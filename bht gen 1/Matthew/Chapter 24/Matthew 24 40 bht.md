@@ -1,17 +1,31 @@
 # Matthew 24:40 Commentary Help Text
 
 ## BHT:
-In this verse, the urgency and immediacy of the situation are emphasized by using the present tense. One is taken indicates being delivered into God's immediate protection, while one is left implies sharing the common calamities. The distinction is not based on death, but rather being taken by the eagles (Roman army) and either killed or carried captive. This event differs from others mentioned in the Bible, showing that our Lord speaks as having the whole transaction present before his eyes.
+In this verse, commentators emphasize the suddenness and unexpected nature of a calamity that overtakes individuals. Some suggest that being taken can mean being rescued from danger or even being taken away by death. The verse highlights the individual and personal nature of the event, with people being separated instantly. It is a reminder of the transitory nature of life and the need for perseverance and faith. Those who are taken find themselves in the immediate protection of God, while those who are left must face the common calamities of the world.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "The calamity will come suddenly. There will be no escape for those whom it overtakes."
+2. "The word 'taken' may mean either to be taken away from the danger - that is, rescued... or to be taken away 'by death.'"
+3. "Probably the latter is the meaning."
+
 ### Marvin Vincent:
-1. "Both verbs are in the present tense, which makes the saying more lively."
-2. "One is taken and one is left."
-3. "The use of the present tense in this verse emphasizes the immediacy and urgency of the situation."
+1. "The verbs 'taken' and 'left' in the present tense make the saying more lively."
+
+2. "One is taken and one is left, emphasizing the individual nature of the event."
+
+3. "This verse in Revelation highlights the sudden and unexpected nature of the event, with people being separated in an instant."
+
+### John Calvin:
+1. "For Lot’s wife was changed into a pillar of salt because, hesitating whether there were good reasons for departing from the city, she looked behind her, by which she gave the lie to the heavenly oracle."
+2. "Our minds ought to be strengthened by the constancy of faith, that they may not hesitate and give way in the middle of the course; and they ought also to be trained to perseverance, in order that, bidding adieu to the fascinations of a transitory life, they may rise cheerfully and willingly towards heaven."
+3. "Christ employs a strong expression to denote the frailty of the present life, when he says that souls are begotten into life when they are lost."
+4. "In order, therefore, that every man in his own department, freed from every bond and impediment, may run with cheerfulness, Christ informs us that, out of a single couple, one partner will be taken, while the other is left."
+5. "Christ declares, as we find in Matthew—that he is the banner of solid union, and in which all the children of God must be gathered."
 
 ### Philip Schaff:
-1. "Until that time Christ's people are to be in companionship with the world."
-2. "The one 'taken' is the blessed one. There is no direct allusion to death."
+1. "Until that time Christ’s people are to be in companionship with the world."
+2. "The one ‘taken’ is the blessed one. There is no direct allusion to death."
 3. "This differs from the event referred to in Matthew 24:16-18, where voluntary flight is commanded, and from the judgment (chap. Matthew 25:31 ff.) where all are gathered."
 
 ### John Gill:

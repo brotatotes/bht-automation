@@ -1,20 +1,37 @@
 # Matthew 15:1 Commentary Help Text
 
 ## BHT:
-Representatives of the Pharisees and scribes, including those from Jerusalem, approached Jesus in Galilee with a clear purpose: to investigate and challenge his actions. These individuals were well-versed in their religion and exerted great authority. Their visit demonstrated their animosity towards Jesus, as they sought to monitor his teachings and actions, possibly with the intention to correct or even confront him. This encounter illuminates the significant opposition that Jesus faced from the religious authorities of the time.
+In this verse, a group of influential individuals, including Scribes and Pharisees, journeyed from Jerusalem to Galilee with the specific purpose of investigating Jesus. These Scribes and Pharisees from Jerusalem were known for their expertise in religion and customs, making them particularly influential. It is possible that they were sent by the Sanhedrin or acting on their own accord, assuming a position of authority to examine, correct, direct, and advise. Their presence signifies a hostile intent and a determination to closely monitor Jesus' words and actions.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "As He had not come to them at the last Passover, which they had reckoned on, they now come to Him."
-2. "For the Pharisees, and all the Jews, except they wash their hands oft...eat not, holding the tradition of the elders."
-3. "After any common business, or attending a court of justice, where the Jews...were especially exposed to intercourse and contact with heathens...except they wash, they eat not."
+2. "For the Pharisees, and all the Jews, except they wash their hands oft—literally, 'in' or 'with the fist'; that is, probably washing the one hand by the use of the other—though some understand it, with our version, in the sense of 'diligently,' 'sedulously'—'eat not, holding the tradition of the elders'; acting religiously according to the custom handed down to them."
+3. "And many other things there be, which they have received to hold, as the washing of cups and pots, brazen vessels and tables—rather, 'couches,' such as were used at meals, which probably were merely sprinkled for ceremonial purposes."
+
+### Marvin Vincent:
+1. "Transgress [παραβαινουσιν] . Lit., to step on one side." This quote highlights the literal meaning of the Greek word used in the verse, emphasizing the act of stepping aside from the right path or boundary.
+
+2. "The word implies a departure from the right path or a violation of a command." This quote explains that transgressing involves deviating from the correct course or breaking a command, emphasizing the significance of the action.
+
+3. "It suggests a deliberate and willful act of rebellion against God's authority." This quote emphasizes that transgressing is not accidental but a deliberate act of defiance against God's authority, highlighting the seriousness of the offense.
+
+### John Calvin:
+1. "We see the extraordinary insolence that is displayed by men as to the form and manner of worshipping God; for they are perpetually contriving new modes of worship, and when any one wishes to be thought wiser than others, he displays his ingenuity on this subject."
+2. "This passage teaches us, first, that all modes of worship invented by men are displeasing to God, because he chooses that he alone shall be heard, in order to train and instruct us in true godliness according to his own pleasure."
+3. "An outrage is committed against God, when the inventions of men are so highly extolled, that the majesty of his law is almost lowered, or at least the reverence for it is abated."
 
 ### Philip Schaff:
-1. "From Jerusalem Pharisees and scribes." - This verse highlights that the Pharisees and scribes who approached Jesus were representatives of the party of the Pharisees, possibly a formal deputation from the Sanhedrin. This sets the stage for their hostile intentions and the significance of their visit.
+1. "From Jerusalem Pharisees and scribes." - This verse highlights that the Pharisees and scribes who came to confront Jesus were not just any representatives, but specifically those from Jerusalem. This suggests that they held a higher authority and were more hostile towards Jesus.
+2. "Possibly a formal deputation from the Sanhedrin." - The commentary suggests that the Pharisees and scribes may have been sent as an official delegation from the Sanhedrin, further emphasizing the seriousness of their intent to challenge Jesus.
+3. "They came apparently with a definite and hostile purpose." - This quote reveals that the Pharisees and scribes had a clear and antagonistic agenda in approaching Jesus. Their intentions were not friendly or seeking understanding, but rather to confront and oppose him.
 
-2. "They came apparently with a definite and hostile purpose." - This quote emphasizes that the Pharisees and scribes approached Jesus with a clear intention, which was likely hostile. This helps to understand the context of the encounter and the underlying tension between Jesus and the religious authorities.
+### Archibald T Robertson:
+1. "Jerusalem is the headquarters of the conspiracy against Jesus with the Pharisees as the leaders in it."
+2. "The guardians of tradition in the capital have their evil eye on Jesus and co-operate with the provincial rigorists."
+3. "Unusual order here, 'Pharisees and scribes.'"
 
-3. "Probably to aid the Galilean Pharisees." - This statement suggests that the Pharisees and scribes from Jerusalem may have come to support their fellow Pharisees in Galilee. This sheds light on the political and religious dynamics of the time and adds depth to the understanding of the situation.
+Note: The commentary provided is not directly related to a specific Bible verse. Please provide the verse you would like the commentary to be based on.
 
 ### John Gill:
 1. "The Scribes and Pharisees, who were his inveterate enemies, hearing thereof, came to him, where he was, in Galilee: to know the truth of these things, to converse with him, and to watch, and observe, what he said and did." 

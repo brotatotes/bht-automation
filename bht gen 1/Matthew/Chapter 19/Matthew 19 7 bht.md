@@ -1,46 +1,53 @@
 # Matthew 19:7 Commentary Help Text
 
 ## BHT:
-The tension between the law of Moses and Jesus' teachings regarding divorce is revealed in this passage. The Pharisees' attempt to trap Jesus in a debate about the law exposes their legalistic mindset and desire to test his authority. Jesus uses this opportunity to teach about God's original intention for marriage, emphasizing the sacredness and permanence of the marital bond. However, this teaching also shows that Moses permitted divorce due to the hardness of the people's hearts, highlighting the need for a deeper understanding of God's intentions beyond legal permission.
+This verse addresses a question posed by the Pharisees, who were attempting to trap Jesus and discredit his teachings on divorce. Jesus responds by explaining that while Moses permitted divorce, it was not God's original plan for marriage, which is a lifelong commitment between a man and a woman. He emphasizes the importance of faithfulness in marriage and challenges cultural norms, calling his followers to a higher standard of love and commitment. This passage highlights the seriousness of divorce and the need for reconciliation and forgiveness whenever possible.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The question posed to Jesus about divorce reveals the tension between the law of Moses and the teachings of Jesus. It highlights the conflict between the legalistic approach to divorce and the higher standard of love and commitment that Jesus brings." 
+1. "The question posed to Jesus about divorce is not a genuine inquiry seeking understanding, but rather a trap set by the Pharisees to test him. They are trying to find fault with Jesus and discredit his teachings." 
 
-2. "This question also exposes the Pharisees' attempt to trap Jesus in a debate about the law. They were trying to test his knowledge and authority, but Jesus responds with wisdom and insight that transcends their legalistic mindset." 
+2. "Jesus responds by pointing out that Moses allowed divorce because of the hardness of people's hearts, but this was not God's original plan for marriage. He emphasizes that from the beginning, God intended for marriage to be a lifelong commitment between a man and a woman."
 
-3. "Jesus uses this opportunity to teach about God's original intention for marriage, emphasizing the sacredness and permanence of the marital bond. He points to the hardness of heart that led to the allowance of divorce under the law, but reminds them that it was not God's original design."
+3. "Jesus goes on to explain that divorce is only permissible in cases of sexual immorality, but even then, it is not a commandment but a concession. He highlights the importance of faithfulness and the seriousness of the marriage covenant."
+
+4. "Ultimately, Jesus teaches that divorce should not be taken lightly and that reconciliation and forgiveness should be pursued whenever possible. He challenges the prevailing cultural norms and calls his followers to a higher standard of love and commitment in marriage."
 
 ### Albert Barnes:
-1. "Moses allowed such divorces" - This objection raised by the people highlights their misunderstanding of the intention behind Moses' allowance for divorce. It reveals their tendency to use Moses' permission as a justification for their own actions, rather than understanding the deeper principles of marriage and commitment. 
+1. "The objection raised by the Pharisees was that Moses had allowed divorces, as stated in Deuteronomy 24:1. They used this as a justification for their own actions, implying that if Moses permitted it, it must be lawful. However, Jesus goes on to explain that Moses allowed divorce due to the hardness of their hearts, not because it was God's original intention." 
 
-2. "They inferred that they could not be unlawful" - The people's inference reveals their flawed logic and lack of understanding. They mistakenly equate legality with morality, assuming that if something is permitted by the law, it must also be morally acceptable. This highlights the need for a deeper understanding of God's intentions and principles beyond mere legal permission. 
+2. "Jesus clarifies that God's intention from the beginning was for marriage to be a lifelong commitment. He quotes Genesis 2:24, stating that a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh. This emphasizes the sacredness and unity of marriage."
 
-3. "See the notes at Matthew 5:31" - This reference to the notes at Matthew 5:31 suggests that further explanation and clarification can be found in the commentary on that particular verse. It implies that a more comprehensive understanding of the topic can be gained by exploring related passages and their accompanying explanations.
+3. "Jesus concludes by saying that whoever divorces his wife and marries another commits adultery, unless the divorce is due to sexual immorality. This statement challenges the prevailing cultural norms and highlights the seriousness of divorce in God's eyes."
 
 ### Marvin Vincent:
-1. "The word [βιβλιον] is a diminutive of biblov, which originally means the inner bark of the papyrus, used for writing." 
-2. "Biblov then came to refer to a book or roll made from this bark, and eventually expanded to include any form of written material, such as a paper or bill." 
-3. "This understanding of the word biblov helps us to see that the Bible is not just a collection of ancient texts, but a living document that continues to speak to us today."
+1. "The word βιβλιον (biblion) is a diminutive of biblov, which originally means the inner bark of the papyrus, used for writing." 
+2. "The term biblion evolved to mean a book or roll made from this bark, and eventually came to refer to a paper or bill." 
+3. "This understanding of βιβλιον (biblion) helps us to appreciate the physical nature of the written word in biblical times."
+
+### John Calvin:
+1. "Moses permitted it on account of their obstinacy, and not because he approved of it as lawful."
+2. "He takes for granted that, when God at first instituted marriage, he established a perpetual law, which ought to remain in force till the end of the world."
+3. "For the law was made solely for the protection of the women, that they might not suffer any disgrace after they had been unjustly rejected."
 
 ### Philip Schaff:
-1. "Why then did Moses command?" - This question highlights the confusion and contradiction between the teachings of Moses and Jesus regarding divorce. It prompts us to reflect on the reasons behind Moses' command and how it aligns with Jesus' teachings. 
+1. "Why then did Moses command?" - This question highlights the confusion and contradiction between the teachings of Moses and Jesus regarding divorce. It prompts us to delve deeper into the reasons behind the commandments and the contrasting perspectives on the sanctity of marriage.
 
-2. "Deuteronomy 24:1-4 had been transformed into a command that divorces should take place." - This statement emphasizes the transformation of a regulation into a command. It raises the question of how and why this transformation occurred, shedding light on the historical and cultural context surrounding divorce during Moses' time. 
+2. "Deuteronomy 24:1-4 had been transformed into a command that divorces should take place." - This statement emphasizes the transformation of the original intention behind the commandment. It raises questions about how societal and cultural factors may have influenced the interpretation and application of the law over time.
 
-3. "Comp. chap. Matthew 5:31" - This reference to Matthew 5:31 invites readers to compare and contrast the teachings of Jesus in different passages. It encourages a deeper exploration of Jesus' stance on divorce and the implications of his teachings for believers.
+3. "Comp. chap. Matthew 5:31" - This reference to Matthew 5:31 directs us to compare and contrast the teachings of Jesus in different contexts. It invites us to explore the consistency or divergence of Jesus' teachings on divorce and marriage and to consider the implications of these differences for our understanding of biblical principles.
 
 ### John Gill:
 1. "The Pharisees, who object the law of Moses to him, hoping hereby to ensnare him, and expose him to the resentment of the people, should he reject that, as they supposed he would."
 2. "They thought to be a contradiction, and what they knew not how to reconcile to the doctrine Christ had delivered, concerning the original institution of marriage, and the close union there is between a man and his wife, by virtue of it, and which is not to be dissolved by men."
-3. "Concerning a writing of divorcement and the form, and manner of it."
+3. "Concerning a writing of divorcement and the form, and manner of it, see Gill 'Mt 5:31'."
 
 ### John Wesley:
-1. "Moses permitted (not commanded) it, because of the hardness of your hearts." - This quote highlights the reason behind Moses' command regarding divorce. It emphasizes that the command was not an ideal or perfect solution, but rather a concession made due to the people's inability to embrace a more excellent way.
+1. "Moses permitted (not commanded) it, because of the hardness of your hearts." - This quote highlights the reason behind Moses' allowance of divorce, emphasizing that it was a concession made due to the people's stubbornness and lack of capacity to embrace a higher standard of love and commitment.
 
-2. "Because neither your fathers nor you could bear the more excellent way." - This quote suggests that the people of that time were not ready or capable of understanding and practicing a higher standard of love and commitment in marriage. It implies that the command regarding divorce was given to accommodate their limited capacity.
+2. "Because neither your fathers nor you could bear the more excellent way." - This quote suggests that divorce was permitted because the people of that time were not ready to fully embrace the ideal of a lifelong, unbreakable marriage. It implies that divorce was a temporary solution for a society still in the process of understanding and living out the more excellent way.
 
-3. "Moses permitted it because of the hardness of your hearts." - This quote emphasizes the role of human weakness and stubbornness in the allowance of divorce. It suggests that the command was a response to the people's lack of spiritual maturity and their inclination towards hardness of heart.
+3. "Moses permitted it, because of the hardness of your hearts." - This quote emphasizes the role of human weakness and stubbornness in the allowance of divorce. It suggests that divorce was a response to the fallen nature of humanity, acknowledging that sometimes people are unable to fulfill the ideal of a lifelong marriage due to their own hardness of heart.
 
 
 ## Generation Details

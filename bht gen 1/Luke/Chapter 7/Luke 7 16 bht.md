@@ -1,39 +1,47 @@
 # Luke 7:16 Commentary Help Text
 
 ## BHT:
-The passage being described involves a profound event that evokes a mixture of fear, reverence, and awe. The instantaneous and intense fear grips everyone present, emphasizing the awe-inspiring power of God. The fear leads to a recognition of God's greatness, resulting in worship and praise. This encounter with the divine presence reveals the vast difference between the Creator and His creation, humbling the people and prompting them to give glory to God. Their response reflects a deep sense of gratitude and hope, as they acknowledge God's visitation and anticipate deliverance.
+In this Bible verse, a powerful event takes place that elicits a deep sense of awe and reverence. The fear that grips everyone present is not one of terror, but rather a recognition of the divine power and presence they have witnessed. The people respond by glorifying and praising God, acknowledging His sovereignty and attributing the miraculous event to His divine power. This event also sparks a sense of hope and anticipation, as they perceive it as a sign of God's love and the fulfillment of His promise to send the Messiah.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "φόβος, the natural result of witnessing a direct exhibition of divine power."
+2. "For they had only been the greatest of prophets who had before raised the dead, Elijah and Elisha."
+3. "The Prophet who was to come was doubtless in their minds."
+
 ### Jamieson Fausset Brown:
-1. "Visiting his people" goes beyond simply bringing back the days of Elijah and Elisha. It signifies God's personal involvement and care for his people throughout history (1 Kings 17:17-24; 2 Kings 4:32-37). 
+1. "visited his people—more than bringing back the days of Elijah and Elisha." 
+2. "THE BAPTIST'S MESSAGE THE REPLY, AND CONSEQUENT DISCOURSE." 
+3. "See on 2 Kings 4:32-12.4.37- :."
 
-2. The Baptist's message and the subsequent discourse are significant in understanding the fulfillment of prophecy and the role of John the Baptist in preparing the way for Jesus (2 Kings 4:32-12.4.37-).
-
-3. The visitation of God to his people is a theme that runs throughout the Bible, demonstrating his love, mercy, and faithfulness to his chosen ones. (2 Kings 4:32-12.4.37-).
+### Albert Barnes:
+1. "An 'awe' or solemnity at the presence of one who had power to raise the dead, and at the miracle which had been performed."
+2. "The raising of this young man was one of the most decisive and instructive of our Lord’s miracles."
+3. "Jesus therefore had power over the dead. He also has power to raise sinners, dead in trespasses and sins, to life."
 
 ### Marvin Vincent:
-1. "The fear that gripped everyone indicates the profound impact of the event, highlighting the power and authority of God. It serves as a reminder of the awe-inspiring nature of encountering the divine presence."
+1. "Fear took hold on all." - This phrase emphasizes the intensity and universality of the fear that gripped everyone present. It suggests that the event or situation described in the verse was so awe-inspiring or extraordinary that it evoked a deep sense of fear in everyone involved.
 
-2. "This fear is not a paralyzing terror, but rather a reverential awe that acknowledges the greatness and holiness of God. It is a response that recognizes our own insignificance in the face of the Almighty."
+2. "Fear" - The use of the word "fear" implies a sense of reverence and respect for the power or presence that caused it. It suggests that the fear experienced by the people was not just a simple emotion but a profound recognition of something greater than themselves.
 
-3. "The fear experienced by the people is a natural response to encountering the divine, as it reveals the vast difference between the Creator and His creation. It humbles us and reminds us of our need for God's grace and mercy."
+3. "Fear on all" - The phrase "fear on all" highlights the collective nature of the fear. It implies that the fear was not limited to a few individuals but was shared by everyone present. This suggests that the event or situation described in the verse had a significant impact on the entire community or group.
 
 ### John Calvin:
 1. "Fear, therefore, is here taken in a good sense, because they gave the honor which was due to the power of God which they had beheld, and rendered to God not only homage, but thanksgiving."
-2. "God hath visited his people...to refer not to every kind of visitation, but to that which would restore them to their original condition."
+2. "I understand this to refer not to every kind of visitation, but to that which would restore them to their original condition."
 3. "Though they acknowledge and celebrate the unwonted grace of God in this respect, that a great Prophet hath risen up among us, yet this eulogium comes very far short of the dignity and glory of the promised Messiah."
 
 ### Philip Schaff:
-1. "Fear was the natural result, but the word is used in the Old Testament sense. Not terror, but not yet the loving faith of the New Testament."
-2. "The effect of this miracle was an exaltation of Jesus as a Person in the minds of those who witnessed it."
-3. "Hath visited. Comp. chap. Luke 1:68."
+1. "Fear' was the natural result, but the word is used in the Old Testament sense. Not terror, but not yet the loving faith of the New Testament."
+2. "The two sayings express the same idea. Only the greatest prophets (Elijah and Elisha) had raised the dead, and the other saying indicates that they thought of the great prophet who was to come."
+3. "Notice how the effect of this miracle was an exaltation of Jesus as a Person in the minds of those who witnessed it."
 
 ### Archibald T Robertson:
-1. "Fear seized all" - This phrase emphasizes the immediate and intense reaction of fear that overcame everyone present. It highlights the profound impact of the event and the awe-inspiring nature of God's power. 
+1. "Fear seized all" - The suddenness and intensity of the fear that gripped everyone in the situation is emphasized. It suggests a profound sense of awe and reverence in the presence of something extraordinary.
 
-2. "At once" - This phrase indicates the swift and sudden nature of the fear that gripped the people. It suggests that the fear was instantaneous and overwhelming, leaving no room for hesitation or doubt. 
+2. "They glorified God" - The people recognized the divine power at work and responded by giving praise and honor to God. Their act of glorifying God reflects their acknowledgement of His sovereignty and the miraculous nature of what they had witnessed.
 
-3. "They glorified God" - This statement reveals the response of the people after experiencing the fear. It implies that their fear led them to recognize and honor the greatness and majesty of God. Their fear transformed into worship and praise.
+3. "Began and increased" - The use of the imperfect tense highlights that the glorification of God was not a one-time event, but rather an ongoing process. It suggests that their praise and adoration for God continued to grow and intensify as they reflected on the significance of the event.
 
 ### John Gill:
 1. "Not a fear of dread, and terror, and of punishment, as in devils and wicked men; but a fear and reverence of the divine majesty, whose power and presence they were sensible must be there at that time."

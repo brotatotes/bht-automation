@@ -1,32 +1,54 @@
 # Romans 9:9 Commentary Help Text
 
 ## BHT:
-This verse speaks of the promise made to Abraham, specifically focusing on the birth of Isaac. It highlights the certainty and reliability of God's word, emphasizing that Isaac's conception was a miraculous fulfillment of God's promise. The verse also emphasizes that the blessing of a son to Sarah was not a general promise, but a specific appointment by God at that time. It emphasizes God's personal involvement in fulfilling the promise, assuring that He Himself will come and bring about the birth of Sarah's son, who will inherit the promised blessing.
+This verse speaks of a divine promise given to Abraham and Sarah. It emphasizes the assurance and certainty of God's word, highlighting that Isaac's birth was a result of God's power and timing, not natural circumstances. The promise points to Isaac as a symbol of spiritual rebirth, contrasting with Ishmael as a representation of those who are carnal. The phrase "the time of life" signifies the present moment, indicating that the promise was fulfilled according to God's appointed time.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "For this word was (one) of promise." 
+2. "The children of promise are reckoned for seed." 
+3. "The promise was to Sarah."
+
 ### Albert Barnes:
 1. "This is the promise made to Abraham."
 2. "He shows that it had not reference to Ishmael, but to Isaac."
-3. "I will fulfil the prediction at the very time."
+3. "I will fulfill the prediction at the very time."
+
+### Marvin Vincent:
+1. "The emphasis is on promise."
+2. "This word is one of promise."
+3. "The reference is to Genesis 18:14, where the Hebrew is when the season is renewed or revives; i.e., next year at this time."
+
+### John Calvin:
+1. "He adds another divine testimony; and we see, by the application made of it, with what care and skill he explains Scripture."
+2. "The cause being passed over, he first simply states the fact; he will hereafter open the fountain."
+3. "It appears that the Apostle here took this expression, 'at this time,' from Genesis 17:21, while he mainly followed the text in Genesis 18:10."
+
+Note: The commentary provides additional insights into the context and interpretation of the Bible verse, highlighting the careful explanation of Scripture and the specific references used by the Apostle.
 
 ### Philip Schaff:
-1. "That 'the children of the promise are reckoned as seed' is proven, for the word, in accordance with which the birth of Isaac took place, this passage now cited, is a word of promise."
-2. "The Hebrew phrase rendered: 'at this season,' means when the time (shall be) reviving,' i.e., at this season of the next year: so the LXX. substantially."
-3. "From Genesis 18:14, substituted for a similar clause in Romans 9:10, because of the emphasis it gives (in the original) to the word 'Sarah,' who is the principal person."
+1. "That ‘the children of the promise are reckoned as seed’ is proven, for the word, in accordance with which the birth of Isaac took place, this passage now cited, is a word of promise."
+2. "The Hebrew phrase rendered: ‘at this season,’ means when the time (shall be) reviving,’ i.e., at this season of the next year: so the LXX. substantially."
+3. "From Genesis 18:14, substituted for a similar clause in Romans 9:10, because of the emphasis it gives (in the original) to the word ‘Sarah,’ who is the principal person."
 
 ### Archibald T Robertson:
-1. "A word of promise" - This phrase emphasizes the certainty and reliability of God's word. It reminds us that when God speaks, He fulfills His promises without fail.
+1. "A word of promise" - This phrase emphasizes the assurance and certainty of the promise being made. It conveys the idea that the word spoken by God is reliable and trustworthy.
 
-2. "This word is one of promise" - This statement highlights the specific nature of the word being spoken. It signifies that the word being referred to is not just any ordinary word, but a word filled with divine assurance and commitment.
+2. "This word is one of promise" - By stating that the word is specifically a promise, it highlights the intention and commitment behind God's words. It shows that God is making a pledge or guarantee to fulfill what He has spoken.
 
-3. "Paul combines Genesis 18:10; Genesis 18:14 from the LXX" - This reference to the Old Testament scriptures shows that Paul's message is rooted in the authoritative word of God. It demonstrates the continuity and consistency of God's promises throughout history.
+3. "Paul combines Genesis 18:10; Genesis 18:14 from the LXX" - This reference to the Old Testament highlights the continuity and fulfillment of God's promises throughout history. It shows that Paul is drawing on the rich heritage of God's faithfulness to His people.
+
+### John Gill:
+1. "The promise is, at this time will I come, and Sarah shall have a son." - This quote highlights the divine timing of the promise and emphasizes that Isaac's birth was not a result of natural circumstances, but a manifestation of God's grace and power.
+
+2. "Isaac was a type of those, who are born after the Spirit, and are spiritual men." - This quote explains the symbolic significance of Isaac's birth, representing the spiritual rebirth of God's elect. It contrasts Isaac with Ishmael, who represents those who are born after the flesh and are carnal.
+
+3. "The phrase 'the time of life' signifies the present time, the 'nunc stans'." - This quote provides a deeper understanding of the phrase used in the original text, explaining that it refers to the present moment and the concept of the "nunc stans," the eternal now. It clarifies that the promise was fulfilled in the specific time appointed by God.
 
 ### John Wesley:
-1. "By the power of which Isaac was conceived, and not by the power of nature." - This quote highlights the miraculous nature of Isaac's conception, emphasizing that it was not a result of natural processes but rather a fulfillment of God's promise.
-
-2. "Not, Whosoever is born of thee shall be blessed, but, At this time - Which I now appoint." - This quote emphasizes that the blessing of a son to Sarah was not a general promise for all her descendants, but a specific appointment by God at that particular time.
-
-3. "I will come, and Sarah shall have a son — And he shall inherit the blessing." - This quote reveals God's personal involvement in fulfilling His promise, assuring that He Himself will come and that Sarah will indeed have a son who will inherit the promised blessing.
+1. "By the power of which Isaac was conceived, and not by the power of nature." 
+2. "Not, Whosoever is born of thee shall be blessed, but, At this time - Which I now appoint." 
+3. "I will come, and Sarah shall have a son — And he shall inherit the blessing."
 
 
 ## Generation Details

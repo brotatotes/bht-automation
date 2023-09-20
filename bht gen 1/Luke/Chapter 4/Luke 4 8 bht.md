@@ -1,41 +1,46 @@
 # Luke 4:8 Commentary Help Text
 
 ## BHT:
-This verse captures a significant moment in the narrative, as Jesus directly recognizes His adversary, demonstrating His authority and power over evil. It is a reminder that serving others is not just a duty, but a privilege and an opportunity to make a positive impact. The absence of certain words in the original text suggests that they were likely added later, emphasizing the need to approach scripture with careful interpretation. Understanding the fear of the Lord as a deep reverence and awe helps us prioritize Him and live in obedience to His commandments.
+In this Bible verse, Jesus responds to someone with the words "Get thee behind me, Satan." This encounter signifies the first direct recognition of Jesus towards his adversary. The departure of Satan after this encounter demonstrates Jesus' authority and power over evil forces. Serving God requires obedience and surrender, putting aside our desires for the fulfillment of His purposes. When we fear the Lord and serve Him wholeheartedly, we experience joy and fulfillment in aligning our lives with His divine plan.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "Luke could hardly have left the record as it stands: being the first direct recognition by our Lord of His foe." 
-2. "This verse marks a significant moment in the narrative, as it is the first time Jesus acknowledges His adversary." 
-3. "In obedience to this command, Jesus departs from His foe, demonstrating His authority and power over evil."
+
+2. "This verse marks a significant moment in the narrative, as it is the first time that Jesus directly acknowledges His adversary." 
+
+3. "The departure of the devil after this encounter demonstrates Jesus' authority and power over evil forces."
 
 ### Marvin Vincent:
-1. "To serve means to actively engage in acts of love and kindness towards others, putting their needs before our own. It is not a passive or self-serving action, but a deliberate choice to be of service to others."
-
-2. "Serving others is not just a duty or obligation, but a privilege and an opportunity to make a positive impact in the world. It is through serving that we can truly experience the joy and fulfillment that comes from living a life of purpose."
-
-3. "Serving others is not limited to specific roles or positions, but is a mindset and a way of life. It is about being attentive to the needs of those around us and seeking ways to meet those needs, whether big or small."
-
-4. "When we serve others, we are not only benefiting them, but we are also growing and transforming ourselves. It is through acts of service that we develop compassion, humility, and a deeper understanding of the interconnectedness of all humanity."
-
-5. "Ultimately, serving others is an expression of our love for God. It is a tangible way to demonstrate our faith and obedience to His commandments, and to reflect His character of selflessness and sacrificial love."
+1. "To serve God is not just about performing religious rituals or attending church services, but it encompasses a life of obedience and surrender to His will."
+2. "Serving God means putting aside our own desires and ambitions, and instead seeking to fulfill His purposes and advance His kingdom."
+3. "When we serve God wholeheartedly, we experience the joy and fulfillment that comes from aligning our lives with His divine plan."
 
 ### Philip Schaff:
-1. "The words: 'Get thee behind me, Satan,' should be omitted." 
-2. "These words are not found in the best and most ancient manuscripts." 
-3. "Their absence in the original text suggests that they were likely added later by scribes."
+1. "The words: ‘Get thee behind me, Satan,’ should be omitted."
+
+### Archibald T Robertson:
+1. "Jesus clearly perceived that one could not worship both Satan and God."
+2. "He had to choose whom he would serve."
+3. "Luke does not give the words, 'Get thee hence, Satan' (Matthew 4:10), for he has another temptation to narrate."
 
 ### John Gill:
 1. "Jesus answered and said unto him,.... The following words, with indignation at him, and detestation of his proposals: 'get thee behind me, Satan'." 
 
-2. "For it is written, thou shalt worship the Lord thy God, and him only shalt thou serve." 
+2. "This passage stands in Deuteronomy 6:13 where the words are, 'thou shalt fear the Lord thy God, and serve him, and thou shalt swear by his name': the last clause is not cited by Christ at all, swearing being only a species, or part of religious worship." 
 
-3. "The fear of God being often, in Scripture, put for the whole worship of God, both internal and external."
+3. "Instead of 'fear the Lord', it is 'worship the Lord'; and the one well explains the other; the fear of God being often, in Scripture, put for the whole worship of God, both internal and external."
 
 ### John Wesley:
-1. "To fear the Lord means to have a deep reverence and awe for Him, acknowledging His greatness and sovereignty over all things."
-2. "By acknowledging God as the ultimate authority in our lives, we are reminded to prioritize Him above all else and to seek His guidance in every decision we make."
-3. "When we fear the Lord, we are less likely to be swayed by the opinions and pressures of the world, and more likely to live in obedience to His commandments."
+1. "To fear the Lord means to have a deep reverence and awe for Him, recognizing His power, authority, and holiness. It is a recognition that God is the ultimate authority in our lives and that we are accountable to Him for our actions."
+
+2. "When we fear the Lord, it affects every aspect of our lives. It influences our thoughts, words, and actions, guiding us to live in a way that is pleasing to Him. It compels us to seek His will and follow His commandments."
+
+3. "Fearing the Lord is not about being afraid of punishment, but rather about having a healthy respect and reverence for God. It is a recognition that He is worthy of our worship and obedience."
+
+4. "When we fear the Lord, we are less likely to be swayed by the opinions and values of the world. Instead, we prioritize God's will above all else and seek to honor Him in everything we do."
+
+5. "Ultimately, the fear of the Lord leads to a life of wisdom and blessings. It is the foundation upon which we build our relationship with God and experience His abundant love, grace, and guidance."
 
 
 ## Generation Details

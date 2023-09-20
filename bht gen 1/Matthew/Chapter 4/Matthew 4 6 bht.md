@@ -1,9 +1,16 @@
 # Matthew 4:6 Commentary Help Text
 
 ## BHT:
-The verse described here emphasizes the personal and intimate nature of God's protection and guidance. It showcases His tender care and mighty strength, guarding His people from physical and spiritual dangers. The verse draws from Psalm 91:11,12, highlighting the presence of God's angels who watch over and support us in our struggles. Overall, the verse underscores the faithfulness and trustworthiness of God, who is always present and ready to extend His loving care and protection to those who seek Him.
+The verse being described highlights the universal significance of the message, extending beyond just the Son of God. While commentators debate the verse as a prophecy of the Messiah, they acknowledge its broader relevance to all servants of God. The commentators also draw attention to the tempter's manipulation of Scripture, showcasing the devil's deceitful tactics. Finally, the verse's promise of protection is seen as a challenge to trust in God's providence rather than engage in presumptuous behavior. Overall, the verse provides valuable insights into the nature of God's Word and the challenges faced by those who follow Him.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "γέγραπται cited (nearly verbatim from the LXX, as almost all the texts in this narrative) as applying to all servants of God in general" - The verse is not just applicable to the Son of God, but to all servants of God, emphasizing the universal nature of the message.
+
+2. "not as a prophecy of the Messiah" - The verse should not be interpreted solely as a prophecy of the Messiah, but rather as a broader statement about the role and duty of all servants of God.
+
+3. "à fortiori to the Son of God" - The verse holds even more significance when applied to the Son of God, highlighting the elevated status and responsibility of Jesus in fulfilling the role of a servant of God.
+
 ### Jamieson Fausset Brown:
 1. "Satan himself with a Bible under his arm and a text in his mouth!"
 2. "The tempter, having felt the power of God's Word in the former temptation, was eager to try the effect of it from his own mouth."
@@ -15,14 +22,19 @@ The verse described here emphasizes the personal and intimate nature of God's pr
 3. "The promise, as Satan applied it, was that he should not be injured by the stones lying at the bottom of the wall or in the valley below."
 
 ### Marvin Vincent:
-1. "On their hands (so Rev.) is more correct, and gives a different picture from the A.V." 
-2. "On their hands, as on a litter or platform." 
-3. "Lifted on their hands."
+1. "On their hands (so Rev.) is more correct." 
+2. "Gives a different picture from the A. V." 
+3. "Lifted on their hands, as on a litter or platform."
+
+### John Calvin:
+1. "We must observe this malice of Satan, in misapplying a quotation of Scripture, for the purpose of rendering life deadly to Christ, and of converting bread into poison."
+2. "And undoubtedly the Lord grants such a permission to our adversary, that we may not remain in indolent ease, but may be more careful to keep watch."
+3. "When Satan wickedly tortures Scripture, does Christ give way to him? Does he allow him to seize and carry off the Scripture, with which he formerly armed himself? On the contrary, he quotes Scripture in his turn, and boldly refutes Satan’s wicked slander."
 
 ### Philip Schaff:
-1. "The devil takes the weapon with which he had been already overcome."
-2. "He too, 'can cite Scripture for his purpose.' But the result proves that Satan was but a surface reader, or rather a wilful perverter of the Scriptures."
-3. "Satan uses it literally, tempting to a rash confidence, as in the first instance to distrust."
+1. "The devil takes the weapon with which he had been already overcome. He too, ‘can cite Scripture for his purpose.’ But the result proves that Satan was but a surface reader, or rather a wilful perverter of the Scriptures."
+2. "He shall give, etc. From Psalms 91:11-12."
+3. "Lest haply, not ‘at any time.’ This promise to all God’s people seems specially applicable to ‘the Son of God.’ The words, ‘in all thy ways,’ are omitted here, but without altering the sense. The original is poetic. Satan uses it literally, tempting to a rash confidence, as in the first instance to distrust. It was also a temptation to avoid the appointed endurance, and by one striking exercise of power prove himself the Messiah."
 
 ### Archibald T Robertson:
 1. "The devil urged presumptuous reliance on God and quotes Scripture to support his view (Psalms 91:11)."
@@ -31,21 +43,13 @@ The verse described here emphasizes the personal and intimate nature of God's pr
 
 ### John Gill:
 1. "If, or seeing, thou art the Son of God, show thyself to be so; give proof of thy sonship before all the priests which are in and about the temple, and before all the inhabitants of Jerusalem." 
-
-2. "Satan not only argues from his divine power, as the Son of God, that he would be safe in casting himself down; but observing the advantageous use Christ made of the scriptures, transforms himself into an angel of light, and cites scripture too, to encourage him to this action; assuring him of the protection of angels." 
-
+2. "Satan not only argues from his divine power, as the Son of God, that he would be safe in casting himself down; but observing the advantageous use Christ made of the scriptures, transforms himself into an angel of light, and cites scripture too, to encourage him to this action; assuring him of the protection of angels."
 3. "Satan before tempted Christ to distrust the providence of God, and now he tempts him to presume upon it: in like manner he deals with men, when he argues from the doctrines of predestination and providence to the disuse of means, for their good, either for this life, or that which is to come."
 
 ### John Wesley:
-1. "In their hands" signifies the tender and watchful care that God has over His people. It highlights the personal and intimate nature of His protection and guidance.
-
-2. The mention of hands also suggests the idea of strength and power. God's hands are mighty and capable of delivering His people from any danger or harm.
-
-3. Psalm 91:11,12 reminds us that God's protection is not limited to physical dangers, but extends to spiritual battles as well. He guards us against the attacks of the enemy and provides us with the strength to overcome.
-
-4. This passage reassures us that we are not alone in our struggles. God's angels are assigned to watch over us, ensuring that we do not stumble or fall.
-
-5. Ultimately, Psalm 91:11,12 points to the faithfulness and trustworthiness of God. He is always present, always watching, and always ready to extend His loving care and protection to those who seek Him.
+1. "In their hands" signifies the careful and protective nature of God's angels, who hold us with tender love and watch over us diligently.
+2. Psalm 91:11,12 reminds us that God's angels are not only present in our lives, but they are actively involved in guarding and guiding us.
+3. This verse emphasizes the personal and intimate relationship between God's angels and His people, reassuring us that we are never alone or unprotected.
 
 
 ## Generation Details

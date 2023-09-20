@@ -1,18 +1,28 @@
 # Galatians 2:12 Commentary Help Text
 
 ## BHT:
-In this scripture, we see the tension between legalism and freedom in the early Christian community. Peter's actions of withdrawal from Gentile Christians out of fear of the Jewish party reflect his leanings towards legalism, whereas Paul's rebuke highlights his commitment to the freedom of the Gospel. The incident underscores the need to carefully navigate the opinions of others and avoid compromising the true principles of the faith. It also reveals the ongoing struggle to break down the wall of division between Jews and Gentiles, and the tension between the observance of Jewish customs and the freedom found in Christ.
+In this Bible verse, we see a mission from James to admonish the Jewish converts of their obligations, separate from the Gentiles. Peter's action of eating with the Gentiles showcases his recognition and withdrawal from great principles and truths. The incident highlights Peter's inconsistency and fear of man in upholding his avowed principles. The verse reveals the tension between legalism and the breaking down of barriers between Jews and Gentiles, cautioning against the compromise of true beliefs for personal comfort or the approval of others.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "But the candid reader will I think at once recognize in the words a mission from James...And this mission may have been for the very purpose of admonishing the Jewish converts of their obligations, from which the Gentiles were free."
+2. "συνήσθιεν...See below." (referring to Peter's action of eating with Gentiles in Acts 10 and defending it in Acts 11)
+3. "The whole incident is remarkably characteristic of Peter ever the first to recognize, and the first to draw back from, great principles and truths."
+
 ### Jamieson Fausset Brown:
 1. "James' leanings were to legalism, and this gave him his influence with the Jewish party."
 2. "Yet after all, this same Peter, through fear of man, was faithless to his own so distinctly avowed principles."
 3. "An undesigned coincidence between the Gospels and the Epistle in the consistency of character as portrayed in both."
 
 ### Albert Barnes:
-1. "It is very evident that at Jerusalem the special rites of the Jews were observed for a long time by those who became Christian converts. They would not at once cease to observe them, and thus needlessly shock the prejudices of their countrymen."
+1. "It is very evident that at Jerusalem the special rites of the Jews were observed for a long time by those who became Christian converts."
 2. "He had learned that God designed to break down the wall of partition between the Jews and the Gentiles, and he familiarly associated with them, and partook with them of their food."
-3. "This is a melancholy illustration of Peter's characteristic trait of mind. We see in this act the same Peter who trembled when he began to sink in the waves; the same Peter who denied his Lord."
+3. "He feared the effect of their opposition; he feared their reproaches; he feared the report which would be made to those at Jerusalem; and perhaps he apprehended that a tumult would be excited and a persecution commenced at Antioch by the Jews who resided there."
+
+### Marvin Vincent:
+1. "A.V. misses the force of the imperfect, marking Peter's custom."
+2. "Not only at church feasts, but at ordinary meals, in defiance of the Pharisaic that this prohibition was not binding."
+3. "Withdrew and separated himself. Or, began to withdraw, etc. Upostellein only here in Paul."
 
 ### John Calvin:
 1. "For the sake of the Jews, Peter had withdrawn himself from the Gentiles, in order to drive them from the communion of the Church, unless they would relinquish the liberty of the Gospel, and submit to the yoke of the Law."
@@ -20,9 +30,14 @@ In this scripture, we see the tension between legalism and freedom in the early 
 3. "This shows us how cautiously we ought to guard against giving way to the opinions of men, lest an immoderate desire to please, or an undue dread of giving offense, should turn us aside from the right path."
 
 ### Philip Schaff:
-1. "It would seem from this passage that, soon after the Council, James sent some esteemed brethren of his congregation to Antioch, not for the purpose of imposing the yoke of ceremonialism upon the Gentile Christians, but for the purpose of reminding the Jewish Christians of their duty and recommending them to continue the observance of the divinely appointed and time-honored customs of their fathers." 
-2. "He used to eat together with the Gentiles, i.e., Gentile (uncircumcised) Christians. This is the best proof from the pen of Paul himself that Peter agreed with him in principle, and for a time even in practice." 
-3. "He withdrew and separated himself. 'The words describe forcibly the cautious withdrawal of a timid person who shrinks from observation.' Characteristic for Peter, who was the first to confess Christ, and the first to deny him; the first to recognize the rights of the Gentiles, and the first to disown them practically."
+1. "Certain persons from James, not simply members of his congregation at Jerusalem, but followers, and (as the word ‘from’ seems to indicate) delegates of James of Jerusalem, and invested with some authority, which they abused." 
+2. "With his accustomed ardor Peter carried out his conviction which he had boldly professed in Jerusalem, and made common cause with the Gentile converts."
+3. "He withdrew and separated himself. 'The words describe forcibly the cautious withdrawal of a timid person who shrinks from observation.'"
+
+### Archibald T Robertson:
+1. "No doubt these brethren let the idea get out that they were emissaries 'from James.' But that idea is inconsistent with the position of James as president of the conference and the author of the resolution securing liberty to the Gentile Christians." 
+2. "He drew back (υπεστελλεν). Imperfect tense, inchoative action, 'he began to draw himself (εαυτον) back.' Old word υποστελλω. See middle voice to dissemble (Acts 20:20; Acts 20:27), to shrink (Hebrews 10:38)." 
+3. "This was the real reason for Peter's cowardice. It was not that Peter had changed his views from the Jerusalem resolutions. It was pure fear of trouble to himself as in the denials at the trial of Christ."
 
 ### John Gill:
 1. "He knew that the distinction of meats was now laid aside, and that nothing was common and unclean of itself, and that every creature of God was good, and not to be refused if received with thankfulness."

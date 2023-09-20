@@ -1,11 +1,11 @@
 # Romans 11:31 Commentary Help Text
 
 ## BHT:
-Through their disobedience to the gospel, the Jews have been blind to the truth, while the Gentiles have shown mercy and belief. The eventual redemption of the Jews will come through the compassion and pity of the Gentiles, who will bring the knowledge of the Messiah to them. Both Jews and Gentiles have had their struggles with unbelief, but this does not hinder the mercy and salvation that can be obtained through faith. The call for the Jews to obtain mercy is just as powerful as it was for the Gentiles.
+The verse describes the contrast between the unbelief of the Jews and the mercy shown to the Gentiles. It emphasizes the purpose of God's mercy, which is to ultimately bring the Jews back to faith. The verse also highlights the ongoing state of unbelief and blindness among the Jews, but assures that their current condition is not an obstacle to receiving God's mercy. It underlines the parallel between the unbelief of the Gentiles, which did not hinder their receiving mercy, and the future mercy that will be extended to the Jews.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The apostle has hitherto dwelt upon the unbelief of the Jews as making way for the faith of the Gentiles." 
+1. "The apostle has hitherto dwelt upon the unbelief of the Jews as making way for the faith of the Gentiles—the exclusion of the one occasioning the reception of the other."
 2. "Now, opening a more cheering prospect, he speaks of the mercy shown to the Gentiles as a means of Israel's recovery."
 3. "It will be by the instrumentality of believing Gentiles that Israel as a nation is at length to 'look on Him whom they have pierced and mourn for Him,' and so to 'obtain mercy.'"
 
@@ -15,14 +15,23 @@ Through their disobedience to the gospel, the Jews have been blind to the truth,
 3. "It may be asked here whether the time is not approaching for the Gentiles to make efforts to bring the Jews to the knowledge of the Messiah. Hitherto those efforts have been unsuccessful; but it will not always be so; the time is coming when the promises of God in regard to them shall be fulfilled."
 
 ### Philip Schaff:
-1. "Have these (Jews) now, since the gospel of Christ was preached, been disobedient; lit., 'were disobedient,' as in Romans 11:30, but 'now' compels us to render 'have been disobedient.'" 
-2. "That, in order that, by the mercy shown to you (lit. 'your mercy;' in emphatic position in the original) they also may now obtain mercy." 
-3. "The leading thought of the section (Romans 11:11) is here repeated, in the final summing up. This view is so natural and accords so entirely with the parallelism as to forbid the explanations of the Vulgate, Luther, and others; 'they have not believed in the mercy shown to you,' or, 'were disobedient through the mercy shown to you.'"
+1. "Have these (Jews) now, since the gospel of Christ was preached, been disobedient." - The commentary highlights the parallel between the disobedience of the Jews and the mercy shown to the Gentiles through the gospel of Christ.
+
+2. "That, in order that, by the mercy shown to you they also may now obtain mercy." - The commentary emphasizes the purpose of the mercy shown to the Gentiles, which is to extend the opportunity for the Jews to also receive mercy.
+
+3. "The leading thought of the section is here repeated, in the final summing up." - The commentary points out the repetition of the main idea throughout the section, emphasizing its significance in understanding the verse.
+
+### Archibald T Robertson:
+1. "By the mercy shown to you" - This phrase emphasizes the importance of God's mercy in the lives of believers. It reminds us that we are recipients of God's undeserved favor and that His mercy has a purpose in our lives.
+
+2. "Objective sense of υμετερος" - This highlights the possessive nature of God's mercy towards us. It reminds us that His mercy is personal and individual, tailored to our specific needs and circumstances.
+
+3. "God's purpose is for the Jews to receive a blessing yet" - This statement reveals God's ongoing plan for the Jewish people. It reminds us that God's mercy extends to all, and that He desires to bless and show favor to His chosen people.
 
 ### John Gill:
-1. "Blindness has happened to them, the vail is over their hearts; as the Gentiles formerly did not believe God, so the Jews do not now." 
-2. "They do not believe God in Christ; nor that he is the Father of Christ; or that Christ is the Son of God, the true Messiah, and Saviour of the world." 
-3. "The apostle's argument in favor of the call and conversion of the Jews, upon the whole is this, that since the unbelief of the Gentiles was no bar to their obtaining mercy, and that through the infidelity of the Jews; then it cannot be thought, that the present blindness, hardness of heart, enmity, and unbelief, which now attend the Jews, can be any obstacle to their obtaining mercy in the same way the Gentiles have; but as the one has been, the other also will be."
+1. "Now is the time of the Jews' unbelief, blindness has happened to them, the vail is over their hearts."
+2. "They do not believe God in Christ; nor that he is the Father of Christ; or that Christ is the Son of God, the true Messiah, and Saviour of the world."
+3. "The apostle's argument in favour of the call and conversion of the Jews, upon the whole is this, that since the unbelief of the Gentiles was no bar to their obtaining mercy, and that through the infidelity of the Jews; then it cannot be thought, that the present blindness, hardness of heart, enmity, and unbelief, which now attend the Jews, can be any obstacle to their obtaining mercy in the same way the Gentiles have; but as the one has been, the other also will be."
 
 
 ## Generation Details

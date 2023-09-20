@@ -1,7 +1,7 @@
 # Matthew 21:17 Commentary Help Text
 
 ## BHT:
-During this week of destiny, Jesus found solace and comfort in the home of Martha, Mary, and Lazarus in Bethany, which served as a stronghold of support. It was a time of crisis for all, as Jesus deliberately fulfilled prophecies and challenged the religious authorities by entering Jerusalem on a donkey, inspecting the temple, and cursing the fig tree as a metaphor for the spiritual condition of the leaders and Israel. With his actions in the temple, Jesus confronted corrupt practices, asserting his authority and calling for a return to true worship and devotion to God.
+These verses from the Gospel of Mark reveal the intentional actions and symbolic messages conveyed by Jesus during his time in Jerusalem. By entering on a donkey, Jesus fulfills prophecy and establishes his identity as the awaited Messiah and King. The cursing of the fig tree represents judgment on the lack of spiritual fruitfulness, while the cleansing of the temple signifies Jesus' zeal for true worship. These events invite us to reflect on our own lives and consider if we are bearing fruit, worshiping sincerely, and living out our identity as followers of Christ.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,21 +10,30 @@ During this week of destiny, Jesus found solace and comfort in the home of Marth
 3. "The spending the nights on the Mount of Olives did not begin till the next night (Tuesday)."
 
 ### Philip Schaff:
-1. "And he left them, etc." - This verse highlights Jesus' decision to leave the crowd and retreat to Bethany, emphasizing the importance of finding solitude and rest in the midst of ministry.
-2. "Bethany was His stronghold." - This phrase reveals the significance of Bethany as a place of refuge and support for Jesus, underscoring the importance of having a strong support system in our own lives.
-3. "On Monday evening" - This detail provides a specific time frame for when Jesus left the crowd, adding historical context and helping readers understand the sequence of events in the narrative.
+1. "And he left them, etc." - This verse shows Jesus' decision to leave the crowd behind and retreat to Bethany. It highlights his need for solitude and rest, as well as his ability to detach himself from the demands and expectations of others.
+
+2. "Bethany was His stronghold." - This phrase emphasizes the significance of Bethany as a place of refuge and comfort for Jesus. It suggests that amidst the chaos and opposition he faced, Bethany provided a sense of safety and peace.
+
+3. "On Monday evening" - This detail provides a specific time frame for the events described in the verse. It adds a sense of chronological context and helps the reader understand the sequence of events leading up to Jesus' departure.
 
 ### Archibald T Robertson:
-1. "The home of Martha and Mary and Lazarus was a house of solace and comfort to Jesus during this week of destiny."
-2. "He lodged there, whether at the Bethany home or out in the open air."
-3. "It was a time of crisis for all."
+1. "House of depression or misery, the Hebrew means." This quote highlights the original meaning of the name Bethany, providing insight into the context and atmosphere of the place where Jesus sought solace.
+2. "But the home of Martha and Mary and Lazarus there was a house of solace and comfort to Jesus during this week of destiny." This quote emphasizes the unique nature of Martha, Mary, and Lazarus' home, which served as a source of solace and comfort for Jesus during a crucial time in his life.
+3. "It was a time of crisis for all." This quote acknowledges the challenging circumstances surrounding Jesus and those around him, setting the stage for the events that will unfold in the following verses.
+
+### John Gill:
+1. "He went from the disobedient and faithless city, to a place of obedience, where he had some faithful and obedient disciples."
+2. "A suitable place for Christ to go to, who was about to suffer for the sins of his people."
+3. "One part of Mount Olivet abounded with olives, from whence it had its name; another part bore palm trees, and that was called 'Bethany', from whence this town over against it had its name."
 
 ### John Wesley:
-1. "Jesus' actions of entering Jerusalem on a donkey and then going to the temple to look around were deliberate and symbolic. They were meant to fulfill the prophecies of the Messiah and to challenge the religious authorities of the time." 
+1. "Jesus' actions of entering Jerusalem on a donkey and then immediately going to the temple are significant. It shows that Jesus is intentionally fulfilling the prophecy of Zechariah 9:9, which speaks of a king coming to Jerusalem on a donkey. This highlights Jesus' identity as the long-awaited Messiah and King of Israel."
 
-2. "The cursing of the fig tree is a powerful metaphor for the spiritual condition of the religious leaders and the nation of Israel. Just as the fig tree appeared to have leaves but bore no fruit, so too were the religious leaders outwardly religious but lacking true faith and righteousness."
+2. "The cursing of the fig tree may seem harsh and puzzling at first, but it serves as a powerful metaphor. The fig tree, which should have been bearing fruit, represents the religious leaders and the nation of Israel. By withering the fig tree, Jesus is symbolically pronouncing judgment on the spiritual barrenness and hypocrisy of the religious establishment."
 
-3. "Jesus' actions in the temple, overturning the tables of the money changers and driving out those who were buying and selling, were a direct challenge to the corrupt practices that had infiltrated the religious system. He was asserting his authority and calling for a return to true worship and devotion to God."
+3. "Jesus' actions in the temple, driving out the money changers and overturning tables, reveal his righteous anger and zeal for true worship. The temple, meant to be a house of prayer, had become a den of thieves. Jesus' actions demonstrate his authority and his desire for genuine worship and devotion to God."
+
+4. "These events in Mark 11:11-12 serve as a powerful reminder for us today. They challenge us to examine our own lives and ask ourselves if we are bearing fruit for God, if our worship is genuine and sincere, and if we are truly living out our identity as followers of Christ."
 
 
 ## Generation Details

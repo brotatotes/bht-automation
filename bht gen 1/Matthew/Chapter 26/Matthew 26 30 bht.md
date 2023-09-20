@@ -1,41 +1,46 @@
 # Matthew 26:30 Commentary Help Text
 
 ## BHT:
-The disciples, after sharing a communal act of worship, possibly singing the Hallelujah psalms, went out towards the Mount of Olives. This departure symbolized a liberation from old customs and traditions, marking a shift in their faith. The hymn sung before their departure indicated their devotion and spiritual connection amidst impending trials. The profound discourse and prayer that Jesus shared with his disciples further prepared them for the profound challenges they would face, as Jesus moved towards his ultimate sacrifice on the cross.
+After sharing a Passover meal with his disciples, they sang a hymn together, possibly parts of the Hallel, a traditional selection of Psalms including Psalm 115-118. Following the hymn, Jesus and his disciples made their way to the Mount of Olives, preparing for the trials that awaited them. This transition from joyful singing to the somberness of Gethsemane highlighted the gravity of the events about to unfold, as Jesus embarked on his journey towards the cross.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The ὕμνος was in all probability the last part of the Hallel, or great Hallel, which consisted of Psalms 115:1-18 ; Psalms 116:1-19 ; Psalms 117:1-2 ; Psalms 118:1-29 ; the former part (Ps. 113. 114.) having been sung during the meal."
+2. "It is unlikely that this took place after the solemn prayer in John 17:1-26."
+3. "Luke (Luk 22:39) adds κατὰ τὸ ἔθος namely, of every evening since his return to Jerusalem."
+
 ### Marvin Vincent:
-1. "Sung a hymn." - This suggests that the disciples engaged in a communal act of worship, possibly singing the Hallelujah psalms. It highlights the importance of music and praise in their spiritual practice.
+1. "Sung a hymn. Very probably the second part of the Jewish Hallel or Hallelujah, embracing Psalms 115:116, Psalms 115:117, Psalms 115:118." 
 
-2. "They went out." - This statement alludes to the freedom and liberation experienced by the disciples. It signifies a departure from the old customs and traditions, indicating a shift in their understanding and practice of faith.
+2. "They went out. In the original institution of the Passover it was enjoined that no one should go out of his house until morning (Exodus 12:22)."
 
-3. "Evidently this had ceased to be regarded as obligatory." - This observation implies that the disciples were no longer bound by the strict regulations of the Passover. It signifies a breaking away from legalistic practices and a new understanding of freedom in their relationship with God.
+3. "Evidently this had ceased to be regarded as obligatory."
 
 ### Philip Schaff:
-1. "The hymn they sang before going to the mount of Olives was likely one of the Psalms 115-118, which were traditionally sung during the Passover feast. This adds a deeper layer of meaning to the events that follow, as Jesus prepares to fulfill the ultimate Passover sacrifice." 
+1. "The hymn they sang was likely from Psalms 115-118, which were traditionally sung during the Passover feast. This choice of hymn would have held deep significance for Jesus and his disciples, as it reminded them of God's faithfulness and deliverance throughout history." 
 
-2. "The going out to the mount of Olives symbolizes Jesus' journey towards his ultimate sacrifice on the cross. It is a pivotal moment in the narrative, marking the beginning of his final hours before his arrest and crucifixion." 
+2. "The going out to the mount of Olives and Gethsemane was not just a physical movement, but a symbolic transition from the safety and comfort of the Passover meal to the impending trials and suffering that Jesus would face. It marked the beginning of his journey towards the cross." 
 
-3. "The discourse and prayer of John 14-17, which takes place between the hymn and the going out, serves as a profound and intimate conversation between Jesus and his disciples. It reveals his deep love for them and his desire to prepare them for the challenges they will face in his absence."
+3. "The insertion of the discourse and prayer of John 14-17 between the hymn and the going out highlights the intimate and profound nature of Jesus' final moments with his disciples. It was a time of teaching, encouragement, and intercession, as Jesus prepared them for what was to come."
 
 ### Archibald T Robertson:
-1. "Sang a hymn (υμνησαντες)." - This quote highlights the action of the disciples singing a hymn before going to the Garden of Gethsemane, indicating their devotion and spiritual connection in the midst of impending trials.
+1. "Sang a hymn (υμνησαντες)." - This quote highlights the disciples' act of singing a hymn before leaving for the Garden of Gethsemane, indicating their devotion and spiritual preparation for what was to come.
 
-2. "Jesus tarried with them in the Upper Room for the wonderful discourse and prayer in Matthew 26:14-17." - This quote emphasizes the significance of the discourse and prayer that Jesus shared with his disciples before leaving for Gethsemane, suggesting that it was a profound and meaningful moment.
+2. "Jesus tarried with them in the Upper Room for the wonderful discourse and prayer." - This quote suggests that Jesus spent time with his disciples, engaging in meaningful conversation and prayer, emphasizing the significance of their last moments together before his crucifixion.
 
-3. "It was no longer considered obligatory to remain in the house after the passover meal till morning as at the start (Exodus 12:22)." - This quote provides historical context, explaining that the disciples were not bound by the traditional requirement to stay in the house after the Passover meal, allowing them to go to the Garden of Gethsemane with Jesus.
+3. "It was no longer considered obligatory to remain in the house after the passover meal till morning." - This quote explains that the disciples were not required to stay in the house after the Passover meal, indicating that they had the freedom to leave and accompany Jesus to Gethsemane.
 
 ### John Gill:
-1. "The 'Hallell', or song of praise, consisted of six Psalms, the 113th, 114th, 115th, 116th, 117th, and 118th... This is the hymn which Christ and his disciples sung, may be rather thought, than that it was one of his own composing."
-2. "The last part of the 'Hallell', Christ deferred to the close of his supper there being many things in it pertinent to him, and proper on this occasion, particularly Psalms 115:1."
-3. "The place where he went with his disciples, was the Mount of Olives, which was on the east side of Jerusalem; and was the place where the high priest stood, and burnt the red heifer, and sprinkled its blood."
+1. "The 'Hallell', or song of praise, consisted of six Psalms, the 113th, 114th, 115th, 116th, 117th, and 118th...this they did not sing all at once, but in parts."
+2. "The last part of the 'Hallell', Christ deferred to the close of his supper...there being many things in it pertinent to him, and proper on this occasion."
+3. "The place where he went with his disciples, was the Mount of Olives, which was on the east side of Jerusalem...in this same way it is very probable, went Christ the great high priest, who was typified by the red heifer, and his companions the disciples, to the same place, where he had his bloody sweat, and where his sorrows and sufferings began."
 
 ### John Wesley:
-1. "The hymn sung at the close of the Passover was a constant tradition, consisting of six psalms from the 113th to the 118th. This highlights the rich history and significance of the hymn in the Jewish tradition." 
+1. "The hymn sung at the close of the Passover consisted of six psalms, from the 113th to the 118th." 
 
-2. "The location of the Mount of Olives, being opposite the temple and a few miles away from Jerusalem, adds a geographical context to the events that took place after the hymn was sung." 
+2. "The Mount of Olives, located about two miles from Jerusalem, was where Jesus and his disciples went after singing the hymn." 
 
-3. "The mention of the Mount of Olives in multiple Gospel accounts emphasizes its importance as the setting for significant events in Jesus' life, such as his prayers and arrest."
+3. "This location is significant as it was where Jesus would later be arrested, emphasizing the contrast between the joy of the hymn and the impending suffering of Jesus."
 
 
 ## Generation Details

@@ -1,32 +1,47 @@
 # Luke 1:14 Commentary Help Text
 
 ## BHT:
-The verse being described speaks of the birth of John the Baptist and the joy and significance that it carries. It was not just a personal joy for the parents, but a joy that extended beyond the family. John's birth would bring joy and gladness, offering knowledge of salvation and light to those in darkness. This event was not limited to a few, but was cause for rejoicing for many. It marked the arrival of a prophet and the precursor to the Messiah, bringing hope and transformation to a multitude.
+The verse being described talks about the joy and rejoicing that would come with the birth of a special son who will be a prophet, preparing the way for the Lord and bringing knowledge of salvation and light to those in darkness. This joyful occasion would extend beyond the immediate family, as neighbors, cousins, and even strangers would rejoice at his birth. The fulfillment of this prophecy brought about great joy and celebration among those who knew him as a prophet and the forerunner of the Messiah.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Shall rejoice—so they did" - The commentary highlights that the people did indeed rejoice at the birth, as mentioned in Luke 1:58 and Luke 1:66.
+1. "Shall rejoice—so they did" - Luke 1:58; Luke 1:66 - The commentary highlights that the people did indeed rejoice when John the Baptist was born, emphasizing the fulfillment of the prophecy.
+2. "Shall have cause to rejoice" - The commentary suggests that the phrase "shall rejoice" means that the birth of John the Baptist would bring joy to many, indicating the significance and impact of his arrival.
+3. "It would prove to many a joyful event" - The commentary emphasizes that the birth of John the Baptist would be a source of joy for many, implying that his life and ministry would have a positive and transformative effect on people.
 
-2. "Shall have cause to rejoice" - The commentary suggests that the phrase "shall rejoice" means that the birth of John the Baptist would bring joy and happiness to many.
+### Albert Barnes:
+1. "Many shall rejoice at his birth" - This refers to the subsequent rejoicing, as his character will be such that he will be an honor to the family and a blessing to mankind.
 
-3. "It would prove to many a joyful event" - The commentary emphasizes that the birth of John the Baptist would be a significant and joyous occasion for many people.
+2. "Such will be his 'character'" - This emphasizes that the reason for the rejoicing is not just the time of his birth, but the qualities and virtues he possesses.
+
+3. "He will be a blessing to mankind" - This highlights the impact and positive influence he will have on others, bringing joy and happiness to many.
+
+### Marvin Vincent:
+1. "Joy and gladness express exultant joy."
+2. "The latter word expresses exultant joy."
+3. "See on 1 Peter 1:6."
 
 ### John Calvin:
-1. "He shall be to thee joy...such a son as he had not even ventured to wish." 
-2. "The joy would not be domestic...but shared alike by strangers." 
-3. "A son would be born...the Teacher and Prophet of the whole people."
+1. "He informs him that he would have such a son as he had not even ventured to wish."
+2. "The joy would not be domestic, enjoyed by the parents alone, but shared alike by strangers."
+3. "A son would be born not to Zacharias alone, but would be the Teacher and Prophet of the whole people."
 
 ### Philip Schaff:
-1. "The promise was not for the father alone" - This quote suggests that the promise mentioned in the verse is not exclusive to the father, indicating that it has broader implications or significance.
-2. "The prayer was probably general" - This quote implies that the prayer mentioned in the verse was likely not specific to the father, indicating that it may have been a collective or communal prayer.
-3. "Many, etc." - This quote highlights the inclusivity of the promise and the prayer, suggesting that it involves a large number of people rather than just a few individuals.
+1. "The promise was not for the father alone" - This quote highlights that the promise mentioned in the verse is not limited to the father alone, indicating that it has broader implications and significance.
+2. "The prayer was probably general" - This quote suggests that the prayer mentioned in the verse was likely a general prayer, indicating that it was not specific to the father but encompassed a wider group of people.
+3. "Many, etc." - This quote emphasizes the inclusiveness of the promise and the prayer, indicating that it applies to a multitude of individuals rather than being limited to a select few.
+
+### Archibald T Robertson:
+1. "Gladness (αγαλλιασις). Only in the LXX and N.T. so far as known. A word for extreme exultation." This quote highlights the significance of the word "gladness" in the context of the verse, emphasizing that it represents a profound and intense sense of joy.
+
+2. "Rejoice (χαρησοντα). Second future passive indicative." This quote explains the grammatical form of the word "rejoice," indicating that it is in the future tense and passive voice. This insight provides a deeper understanding of the nature of the rejoicing that is being referred to in the verse.
+
+3. "The coming of a prophet will indeed be an occasion for rejoicing." This quote emphasizes the connection between the arrival of a prophet and the subsequent rejoicing. It suggests that the presence of a prophet brings about a cause for celebration and joy among the people.
 
 ### John Gill:
-1. "And thou shalt have joy and gladness...." - This verse highlights the anticipation and joy that the birth of John the Baptist would bring to his parents. It emphasizes the significance of his role as the prophet of the Highest and the precursor to the Messiah.
-
-2. "Give knowledge of salvation to many, and light to them that were in darkness..." - This quote emphasizes the transformative impact of John's ministry. He would bring enlightenment and guidance to those who were lost and in spiritual darkness, offering them the knowledge of salvation.
-
-3. "Many shall rejoice at his birth..." - This statement emphasizes the widespread joy and celebration that would accompany the birth of John the Baptist. It suggests that his arrival would be a cause for rejoicing not only for his immediate family but for all who would come to know him as the prophet and forerunner of the Messiah.
+1. "Not only because of his having a son; but because this his son would be the prophet of the Highest; would go before the Lord, and prepare his ways; give knowledge of salvation to many, and light to them that were in darkness, and guide their feet in the way of peace."
+2. "All which, and more, he afterwards expresses in his song, whereby this part of the angel's prediction had its accomplishment."
+3. "And many shall rejoice at his birth; as the neighbours and cousins of his parents did; see Luke 1:58 and not only they, but all others, who, afterwards had knowledge of him as prophet, and as the forerunner of the Messiah."
 
 
 ## Generation Details

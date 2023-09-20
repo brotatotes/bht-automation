@@ -1,13 +1,15 @@
 # Matthew 14:26 Commentary Help Text
 
 ## BHT:
-The verse in question describes an event where the disciples were troubled and afraid, witnessing a remarkable sight that awed them. They mistook the appearance for a spirit, an unreal apparition, rather than a real bodily presence. Matthew's honest account depicts their superstitious fear in the face of this encounter, highlighting the contrast between an apparition and a genuine manifestation. This verse offers a glimpse into the disciples' emotional state and the nature of the remarkable event they witnessed.
+In the darkness of night, amidst raging waves, the disciples were troubled and filled with fear as they witnessed a remarkable sight - the form of a man walking on the sea. Their initial perception was that of an unreal apparition or spirit, causing them to cry out in fear and confusion. The disciples' terror intensified due to superstitions surrounding such uncanny appearances and an innate fear of spirits. Though they couldn't discern who or what it was, their instinctual fear was akin to encountering a powerful and potentially harmful entity.
 
 ## Choicest Commentary Quotes:
 ### Albert Barnes:
-1. "They were troubled - They were afraid." 
-2. "The sight was remarkable. It was sufficient to awe them."
+1. "They were troubled - They were afraid. The sight was remarkable."
+2. "In the dark night, amid the tumultuous billows appeared the form of a man."
 3. "They thought it was a spirit, an apparition."
+
+(Note: The commentary provided is quite short, so I have included all the relevant quotes.)
 
 ### Marvin Vincent:
 1. "A spirit [φαντασμα] . Of which our word phantasm is a transcription." 
@@ -15,11 +17,19 @@ The verse in question describes an event where the disciples were troubled and a
 3. "Wyc., phantom."
 
 ### Philip Schaff:
-1. "It in an apparition. An unreal appearance of a real person." - This quote highlights the distinction between an apparition and a real bodily appearance, shedding light on the nature of the event described in the verse.
+1. "It in an apparition. An unreal appearance of a real person."
+2. "The word is not that usually rendered, ‘spirit’."
+3. "Matthew is an honest witness to tell of this superstitious fear."
 
-2. "The word is not that usually rendered, 'spirit'." - This quote emphasizes that the word used in the verse is not typically translated as 'spirit', indicating that the appearance mentioned is not a spiritual manifestation.
+### Archibald T Robertson:
+1. "They were literally 'terrified' as they saw Jesus walking on the sea." 
+2. "An apparition, or 'ghost,' or 'spectre' from φανταζω and that from φαινω." 
+3. "They cried out 'from fear' (απο του φοβου) as anyone would have done."
 
-3. "Matthew is an honest witness to tell of this superstitious fear." - This quote acknowledges Matthew's honesty in recounting the disciples' fear, providing insight into their emotional state during the encounter.
+### John Gill:
+1. "They were able to discern something like a man, walking upon the surface of the sea, but had not light enough to distinguish what, or who it was."
+2. "The fear of spirits arises from the uncommonness of their appearance; from their superiority to men in power and strength; from the enmity there is between men and evil spirits; and from a general notion of their doing hurt and mischief."
+3. "The fear of the disciples might be increased, through a vulgar notion among seafaring men, that such sights are ominous, and portend evil to sailors."
 
 
 ## Generation Details

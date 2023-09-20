@@ -1,7 +1,7 @@
 # Luke 2:39 Commentary Help Text
 
 ## BHT:
-In this verse, there is a connection between the humble origins of Jesus and the significance of being called a Nazarene. The independent accounts of Luke and Matthew, while not providing a clear chronological order, highlight the importance of the events in the larger narrative of Jesus' birth and early life. The journey from Jerusalem to Nazareth, being directly and immediately made by Joseph and Mary, emphasizes the fulfillment of prophecies and the humble nature of Jesus' earthly origins in the lesser-known town of Nazareth.
+This verse describes how Joseph and Mary returned to their hometown of Nazareth in Galilee after their time in Jerusalem. Their journey from Bethlehem, where Mary gave birth, to Nazareth is highlighted. This transition from Bethlehem to Nazareth emphasizes the humble origins of Jesus and his identification with the marginalized and despised. The mention of Nazareth also fulfills prophecies and demonstrates God's ability to use unexpected people and places for His divine purposes. Despite differences in the Gospel accounts, they complement each other, offering a fuller picture of Jesus' early life.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -12,7 +12,7 @@ In this verse, there is a connection between the humble origins of Jesus and the
 ### Jamieson Fausset Brown:
 1. "Nothing is more difficult than to fix the precise order in which the visit of the Magi, with the flight into and return from Egypt, are to be taken, in relation to the circumcision and presentation of Christ in the temple, here recorded."
 2. "It is perhaps best to leave this in the obscurity in which we find it, as the result of two independent, though if we knew all, easily reconcilable narratives."
-3. "The focus should not be on the exact chronological order, but rather on the significance of these events in the larger narrative of Christ's birth and early life."
+3. "The focus should not be on the chronological order, but on the message conveyed by these events and the fulfillment of prophecies."
 
 ### Albert Barnes:
 1. "Luke has omitted the flight into Egypt recorded by Matthew; but he has not denied it, nor are his words to be pressed as if he meant to affirm that they went immediately to Nazareth."
@@ -20,22 +20,32 @@ In this verse, there is a connection between the humble origins of Jesus and the
 3. "In the case before us there is no improbability in supposing that they returned to Bethlehem, then went to Egypt, and then to Galilee."
 
 ### Marvin Vincent:
-1. "The significance of Jesus being called a Nazarene lies in the fact that Nazareth was a small, insignificant town in Galilee. This highlights the humble and lowly nature of Jesus' earthly origins."
+1. "The mention of Nazareth in this verse is significant because it highlights the humble origins of Jesus. Nazareth was a small, insignificant town in Galilee, and it was not known for producing great leaders or prophets. Yet, it was in this ordinary place that the Son of God chose to grow up and begin his ministry."
 
-2. "By being associated with Nazareth, Jesus identifies with the marginalized and despised in society. He came not to be served, but to serve, and his identification with the lowly reflects his mission to bring salvation to all."
+2. "By being called a Nazarene, Jesus was identifying himself with the lowly and despised. This shows his willingness to identify with the marginalized and outcasts of society, and it foreshadows his ministry of reaching out to the sinners and the broken."
 
-3. "The term 'Nazarene' also carries a prophetic fulfillment, as it echoes the prophecies of the Old Testament that foretold the Messiah would be despised and rejected. Jesus' identification with Nazareth further emphasizes his fulfillment of these prophecies."
+3. "The choice of Nazareth as Jesus' hometown also fulfills the prophecy spoken by the prophets, as mentioned in Matthew 2:23. This demonstrates that God's plan and purpose were at work even in the seemingly insignificant details of Jesus' life. It reminds us that God can use the most unlikely people and places to accomplish his divine purposes."
+
+### John Calvin:
+1. "But if there was no impropriety in one Evangelist leaving out what is related by another, there was nothing to prevent Luke from overleaping the period which he did not intend to mention, and passing at once to the following history."
+2. "I am very far from agreeing with those who imagine that Joseph and Mary, after having finished the sacrifice of purification, returned to Bethlehem, to live there."
+3. "Nor is it without a good reason that Luke says, with respect both to Joseph and Mary, that Nazareth was their own city. We infer from it, that he never was an inhabitant of Bethlehem, though it was the place of his extraction."
 
 ### Philip Schaff:
-1. "They returned into Galilee, to their own city Nazareth." - This verse implies that Joseph and Mary went directly from Jerusalem to Nazareth, but the text does not explicitly state it. 
+1. "They returned into Galilee, to their own city Nazareth." - This verse indicates that Joseph and Mary went back to their hometown of Nazareth in Galilee after their visit to Jerusalem. 
 
-2. "It is difficult to suppose that Luke had seen Matthew's account, or vice versa." - The commentator suggests that Luke and Matthew likely did not have access to each other's accounts, indicating the independent nature of their writings.
+2. "Of itself this suggests that Joseph and Mary went directly and immediately from Jerusalem to Nazareth." - The commentary highlights that the verse implies a direct and immediate journey from Jerusalem to Nazareth, without any detours or delays. 
 
-3. "Of itself, this suggests that Joseph and Mary went directly and immediately from Jerusalem to Nazareth." - The verse alone implies a direct journey from Jerusalem to Nazareth for Joseph and Mary.
+3. "It is, however, difficult to suppose that Luke had seen Matthew’s account, or vice versa." - The commentary raises the question of whether Luke and Matthew, the authors of the two Gospel accounts, had knowledge of each other's writings, as they both mention the return of Joseph and Mary to Nazareth.
+
+### Archibald T Robertson:
+1. "Luke tells nothing of the flight to Egypt and the reason for the return to Nazareth instead of Bethlehem, the place of the birth of Jesus as told in Matthew 2:13-23."
+2. "But then neither Gospel gives all the details of this period."
+3. "The two Gospels supplement each other."
 
 ### John Gill:
 1. "Relating to the purification of Mary, and the presentation and redemption of her firstborn, and the sacrifices and ceremonies belonging thereunto."
-2. "They returned into Galilee: not that they came from thence to Jerusalem, but from Bethlehem, where Mary gave birth, and her time for purification was now just expired."
+2. "Not that they came from thence to Jerusalem, but from Bethlehem, where Mary gave birth, and her time for purification was now just expired."
 3. "Bethlehem was their native city, the place of their birth, at least of their family; and Nazareth was the city of their habitation."
 
 

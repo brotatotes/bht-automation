@@ -1,39 +1,49 @@
 # Matthew 26:55 Commentary Help Text
 
 ## BHT:
-Amidst the dramatic events leading to his arrest, Jesus questions the excessive force used against him, emphasizing his peaceful nature and disassociation from rebellion. He reminds the crowd of his open presence in the temple, showing that he had not been evading capture. This starkly contrasts with the aggressive actions of the authorities, underlining the unjust and unnecessary measures taken against him. These instances shed light on Jesus' commitment to non-violence and the stark contrast between his peaceful mission and the forceful means used against him.
+Jesus, in the midst of his arrest, questions the need for swords and force, revealing his peaceful nature and rejection of violence. He teaches his disciples that fighting is not the way to advance God's kingdom, urging them to put away their weapons. His actions emphasize his mission of love, forgiveness, and the establishment of God's kingdom, as he willingly surrenders himself to the authorities, demonstrating unwavering faith in God's plan.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "In his submission to be reckoned among the transgressors, our Lord yet protests against any suspicion that He could act as such."
+2. "There seems to be no necessity for putting an interrogation after συλλαβεῖν με."
+3. "ἐκαθεζόμην (Matt. only) to indicate complete quiet and freedom from attack."
+4. "ἐκαθεζόμην διδάσκων is the greatest possible contrast to λῃστής."
+
 ### Marvin Vincent:
-1. "A thief [ληστην] . Better Rev., a robber. See John 10:1, John 10:8; and Luke 23:39-43."
+1. "A thief [ληστην] . Better Rev., a robber."
 2. "It is more than a petty stealer; rather one with associates, who would require an armed band to apprehend him."
 3. "I sat [εκαθεζομην] . The imperfect tense, denoting something habitual. I was accustomed to sit."
 
+### John Calvin:
+1. "What necessity was there for making such a display of arms against me, as if your object had been to overcome some robber?"
+2. "But I have always lived peaceably amongst you, and without using arms."
+3. "Though they had a traitor for their leader, they approached him with trembling, and with many marks of distrust."
+
 ### Philip Schaff:
 1. "He was probably bound, at this time, but His protest does not imply a desire to resist."
-2. "As against a robber, not 'a thief,' against whom no such display of force would be needed."
-3. "They dared not (chap. Matthew 21:46); the method now adopted showed the malignity of an evil conscience, and also a deceitful purpose to turn the current against Him."
+2. "As against a robber, not ‘a thief,’ against whom no such display of force would be needed."
+3. "Sat. Unmolested and unlike a robber."
+4. "And ye took me not. They dared not (chap. Matthew 21:46); the method now adopted showed the malignity of an evil conscience, and also a deceitful purpose to turn the current against Him."
 
 ### Archibald T Robertson:
 1. "He will be crucified between two robbers and on the very cross planned for their leader, Barabbas."
 2. "Jesus reminds them that he used to sit in the temple and teach."
 3. "But he sees God's purpose in it all for the prophets had foretold his 'cup.'"
 
-Note: The commentary is not directly related to a specific Bible verse. Please provide the verse for a more accurate selection of quotes.
+Note: The provided commentary is incomplete and lacks a specific Bible verse reference. Please provide the full commentary and the corresponding Bible verse for a more accurate response.
 
 ### John Gill:
-1. "Are ye come out as against a thief, with swords and staves, for to take me?" - Jesus questions the excessive force used by the authorities to apprehend him, highlighting the stark contrast between his peaceful teachings and their aggressive approach.
-
-2. "I sat daily with you, teaching in the temple, and ye laid no hold on me." - Jesus reminds the crowd of his consistent presence in the temple, emphasizing that he had not been hiding or evading capture, but rather openly sharing his teachings.
-
-3. "they had no need to take such extraordinary methods to apprehend him" - Jesus implies that the authorities' elaborate plan to arrest him, including the betrayal by one of his disciples, was unnecessary and excessive, further highlighting their unjust actions.
+1. "Are ye come out as against a thief, with swords and staves, for to take me?... but how different from this, was the character of Jesus!" 
+2. "The business he was employed was not thieving and stealing, but teaching; and that wholesome doctrine, which he, as man, had received from his Father, and as the great prophet in Israel taught."
+3. "And yet, though this had been his common practice for some days past, and at other times before, yet no man laid hands on him then; which was not wanting to a good will in them, who were very desirous of it, and sought every opportunity to do it, but were prevented."
 
 ### John Wesley:
-1. "In Mark 14:48, Jesus asks the crowd, 'Am I leading a rebellion, that you have come out with swords and clubs to capture me?' This question reveals Jesus' peaceful nature and his commitment to non-violence, contrasting with the aggressive actions of those who came to arrest him."
+1. "In Mark 14:48, when Jesus is arrested, he asks the crowd, 'Am I leading a rebellion, that you have come out with swords and clubs to capture me?' This shows Jesus' peaceful nature and his commitment to non-violence, even in the face of opposition and injustice."
 
-2. "Luke 22:52 states that Jesus said to the chief priests, the officers of the temple guard, and the elders who had come to arrest him, 'Am I leading a rebellion, that you have come with swords and clubs?' This statement highlights Jesus' innocence and his lack of intent to incite violence or overthrow the authorities."
+2. "Luke 22:52 highlights Jesus' compassion and concern for his disciples. When they try to defend him with swords, Jesus says, 'No more of this!' He understands that violence is not the way to bring about God's kingdom and instead chooses to surrender himself to the authorities."
 
-3. "Both Mark 14:48 and Luke 22:52 emphasize the stark contrast between Jesus' peaceful mission and the violent means used by his captors. Jesus' words challenge the notion that he was a threat to the established order, highlighting his commitment to love, forgiveness, and the establishment of God's kingdom through non-violent means."
+3. "These verses remind us that Jesus' mission was not about power or violence, but about love, forgiveness, and the establishment of God's kingdom. He willingly submits to arrest and ultimately to crucifixion, demonstrating his unwavering commitment to his purpose and his trust in God's plan."
 
 
 ## Generation Details

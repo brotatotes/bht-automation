@@ -1,44 +1,54 @@
 # Matthew 11:6 Commentary Help Text
 
 ## BHT:
-The verse reminds believers of the natural inclination to doubt and question their faith, as even John the Baptist, chosen by God, experienced moments of weakness. Jesus responds with patience and compassion, providing evidence of His messianic ministry. The verse also cautions against causing others to stumble or be offended, emphasizing the importance of considerate actions that promote harmony and unity. It encourages believers to trust in Jesus, recognizing His divine identity and finding happiness in accepting and following Him.
+This verse encourages us to find happiness in accepting Jesus as the Messiah, regardless of the doubts or criticisms of others. It reminds us to have unwavering faith and to recognize the multitude of evidence that supports Jesus' identity as the Savior. We are called to embrace Jesus as the fulfillment of Old Testament prophecies, acknowledging his divinity and the profound impact of his mission on our lives.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The verse highlights the uncertainty and doubt that can arise even in the hearts of the most faithful believers. It reminds us that it is natural to question and seek confirmation of our faith, and that Jesus is patient and understanding in response to our doubts." 
+1. "The verse reminds us that even the greatest prophets can have moments of doubt and uncertainty in their faith." 
 
-2. "This verse also serves as a reminder that John the Baptist, despite being chosen by God to prepare the way for Jesus, was not exempt from moments of weakness and doubt. It shows us that even the most devoted servants of God can experience moments of uncertainty and struggle." 
+2. "John's question also highlights the importance of seeking confirmation and reassurance when we find ourselves questioning or struggling in our faith." 
 
-3. "The response of Jesus to John's disciples is a gentle and compassionate one. He does not rebuke them for their doubts, but instead offers evidence of his messianic ministry. This reminds us of the grace and understanding of Jesus, who meets us where we are and provides the reassurance we need in our moments of doubt."
+3. "Jesus' response to John's disciples not only affirms his identity as the Messiah, but also serves as a reminder that faith requires trust and patience in God's timing and plans."
+
+### Albert Barnes:
+1. "Happy is he to whom I shall not prove a stumbling-block." 
+2. "Happy is he who shall not take offence at my poverty and lowliness of life, so as to reject me and my doctrine."
+3. "Happy is the one who can, notwithstanding that poverty and obscurity, see the evidence that I am the Messiah, and follow me."
+
+These quotes highlight the idea that true happiness comes from recognizing and embracing Jesus as the Messiah, despite any stumbling blocks or doubts that may arise. It emphasizes the importance of looking beyond external appearances and focusing on the evidence of Jesus' works and teachings.
 
 ### Marvin Vincent:
-1. "Be offended [σκανδαλισθη]." - This quote highlights the importance of not causing others to stumble or be offended by our actions. It encourages us to be mindful of how our behavior may impact others and to strive for actions that promote unity and understanding.
+1. "Be offended [σκανδαλισθη]. See on ch. Matthew 5:29." 
+2. "Rev., shall find none occasion of stumbling." 
+3. "Compare Wyc., shall not be slandered."
 
-2. "Shall find none occasion of stumbling." - This quote emphasizes the idea that by avoiding actions that may cause others to stumble, we can create an environment where people are less likely to be offended or led astray. It encourages us to be considerate of others' sensitivities and to act in a way that promotes harmony.
-
-3. "Shall not be slandered." - This quote suggests that by being mindful of our actions and avoiding behaviors that may offend others, we can protect ourselves from being falsely accused or slandered. It highlights the importance of maintaining a good reputation and conducting ourselves in a way that is above reproach.
+### John Calvin:
+1. "He who would adhere firmly and steadfastly to the faith of the Gospel must encounter offenses, which will tend to interrupt the progress of faith."
+2. "We must contend with offenses if we would continue in the faith of Christ; for Christ himself is justly denominated a rock of offense and stone of stumbling."
+3. "Unbelievers have no excuse, though they plead the existence of innumerable offenses. For what hinders them from coming to Christ? Or what drives them to revolt from Christ?"
 
 ### Philip Schaff:
-1. "Offended, i.e., 'made to stumble.' This does not upbraid, but cautions, implying that Christ knew best what to do in His kingdom."
+1. "Offended, i.e., ‘made to stumble.’ This does not upbraid, but cautions, implying that Christ knew best what to do in His kingdom."
 2. "Result of the message: we may well believe that John was not taken away as a martyr to righteousness without having his faith restored."
 3. "His disciples, after his death and burial, came and told Jesus."
 
 ### Archibald T Robertson:
-1. "Doubt is not a proof of superior intellect, scholarship, or piety."
-2. "John was in the fog and that is the time not to make serious decisions."
-3. "In some way even the Baptist had found some occasion of stumbling in Jesus" (Plummer).
+1. "This beatitude is a rebuke to John for his doubt even though in prison."
+2. "Doubt is not a proof of superior intellect, scholarship, or piety."
+3. "John was in the fog and that is the time not to make serious decisions."
 
 ### John Gill:
-1. "The Jews were offended at Christ's parentage and birth, at the poverty of his parents, and at the manner of his birth, by a virgin; and at the place of his birth, which they thought to be Galilee; at his education, because he had not learnt letters, and was brought up to a mechanical employment." 
+1. "The Jews were offended at Christ's parentage and birth, at the poverty of his parents, and at the manner of his birth, by a virgin; and at the place of his birth, which they thought to be Galilee; at his education, because he had not learnt letters, and was brought up to a mechanical employment."
 2. "The disciples of John also were offended in him, because he and his disciples did not fast, and lead such an austere life as they and their master did; because of the meanness and obscurity of Christ's kingdom; the imprisonment of John, and the many reproaches, afflictions, and persecutions, which did, and were likely to attend a profession of Christ."
-3. "But happy are those persons, who, notwithstanding all these difficulties and discouragements, are so far from stumbling at Christ, and falling from him, that they heartily receive him and believe in him, make a profession of him, and hold it fast; greatly love, highly value, and esteem him, and are willing to part with all, and bear all for his sake."
+3. "Happy are those persons, who, notwithstanding all these difficulties and discouragements, are so far from stumbling at Christ, and falling from him, that they heartily receive him and believe in him, make a profession of him, and hold it fast; greatly love, highly value, and esteem him, and are willing to part with all, and bear all for his sake."
 
 ### John Wesley:
-1. "Happy is he who shall not be offended at me" - This quote highlights the importance of not being discouraged or offended by Jesus, despite the challenges or doubts that may arise. It encourages believers to have faith and trust in Him, even when things may not make sense or go according to their expectations.
+1. "Happy is he who shall not be offended at me" - This verse reminds us that true happiness comes from accepting Jesus as the Messiah, even when others may be offended or skeptical. It encourages us to have faith and not be swayed by the opinions or doubts of others.
 
-2. "Notwithstanding all these proofs that I am the Messiah" - This quote emphasizes that Jesus provided numerous evidences and signs to prove His identity as the Messiah. It reminds readers that Jesus' actions and teachings were meant to confirm His divine nature and fulfill the prophecies of the Old Testament.
+2. "Notwithstanding all these proofs that I am the Messiah" - This statement highlights the numerous evidences and miracles that Jesus performed to prove his divinity. It emphasizes the importance of recognizing and accepting these signs as a foundation for our faith in him.
 
-3. "Happy is he" - This quote suggests that finding happiness and contentment lies in accepting and embracing Jesus as the Messiah. It implies that true joy can be found in recognizing and following Him, rather than being swayed by doubts or stumbling over His teachings.
+3. "I am the Messiah" - Jesus boldly declares his identity as the Messiah, affirming his role as the Savior and the fulfillment of Old Testament prophecies. This statement serves as a powerful reminder of Jesus' divine mission and the significance of his coming to earth.
 
 
 ## Generation Details

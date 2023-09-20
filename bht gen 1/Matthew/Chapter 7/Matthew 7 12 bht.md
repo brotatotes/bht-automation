@@ -1,27 +1,52 @@
 # Matthew 7:12 Commentary Help Text
 
 ## BHT:
-This verse is often referred to as the 'Golden Rule' and serves as a foundational principle for ethical behavior. It is the substance of all relative duty and presents God's benevolence as the guide of duty. It challenges us to treat others with kindness, respect, and fairness, going beyond mere tolerance to actively seek the well-being of others. This verse calls for self-sacrifice and reminds us that our interactions should be guided by love and empathy, transcending differences and promoting unity.
+The verse described here is an essential ethical principle known as the "Golden Rule." It emphasizes the importance of treating others with kindness and respect, mirroring the behavior we desire for ourselves. This rule goes beyond mere tolerance, urging us to actively empathize and love our neighbors as ourselves, regardless of their differences. By following this principle, we not only foster harmonious relationships but also reflect the loving and compassionate nature of God. It is a timeless guideline for ethical conduct, applicable to all people, regardless of their background or beliefs.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "If anyone has said what Christ said before Christ said it, we congratulate him, we do not follow him. But he was before Christ. If anyone speaks the truth, he is before Truth itself! O man, pay attention to Christ, not when he comes to you, but when he makes you." - Augustine
+
+2. "Be ye like unto God." - Lesson similar to the last verse of ch. 5, which is the ground-tone of the whole Sermon.
+
+3. "We are to think what we should like done to us, and then apply that rule to our dealings with others: viz., by doing to them what we have reason to suppose they would like done to them." - Important distinction often overlooked in the interpretation of this golden maxim.
+
 ### Jamieson Fausset Brown:
 1. "This is the substance of all relative duty; all Scripture in a nutshell." 
-2. "It is true that similar maxims are found floating in the writings of the cultivated Greeks and Romans, and naturally enough in the Rabbinical writings. But so expressed as it is here—in immediate connection with, and as the sum of such duties as has been just enjoined, and such principles as had been before taught—it is to be found nowhere else."
-3. "The righteousness of the kingdom," so amply described, both in principle and in detail, would be seen to involve self-sacrifice at every step. Multitudes would never face this. But it must be faced, else the consequences will be fatal."
+2. "The righteousness of the kingdom...would be seen to involve self-sacrifice at every step."
+3. "Multitudes would never face this. But it must be faced, else the consequences will be fatal."
+
+### Albert Barnes:
+1. "All that you 'expect' or 'desire' of others in similar circumstances, do to them. Act not from selfishness or injustice, but put yourself in the place of the other, and ask what you would expect of him."
+2. "This would make you impartial, candid, and just. It would destroy avarice, envy, treachery, unkindness, slander, theft, adultery, and murder."
+3. "It is easily applied, its justice is seen by all people, and all must acknowledge its force and value."
+
+### John Calvin:
+1. "We are here informed, that the only reason why so many quarrels exist in the world, and why men inflict so many mutual injuries on each other, is, that they knowingly and willingly trample justice under their feet, while every man rigidly demands that it shall be maintained towards himself."
+2. "Christ therefore shows, that every man may be a rule of acting properly and justly towards his neighbors, if he do to others what he requires to be done to him."
+3. "The meaning is, that the second table of the law is fulfilled, when every man conducts himself in the same manner towards others, as he wishes them to conduct themselves towards him."
 
 ### Philip Schaff:
-1. "Not, 'do these things,' as the order of the common version suggests; but, 'after this manner do ye also.' Not, do to others what we would have them do to us (this might become mere barter); but, do to them what we think they would wish to have done to them."
+1. "Not, do to others what we would have them do to us (this might become mere barter); but, do to them what we think they would wish to have done to them."
+2. "The Golden Rule, though not without parallels in heathen ethics (in a negative form), is distinctively Christian."
+3. "It presents God’s benevolence as the guide of duty."
 
-2. "The Golden Rule, though not without parallels in heathen ethics (in a negative form), is distinctively Christian. (1) It presents God's benevolence as the guide of duty. (2) Hence it is positive (Do all the good you can to your neighbor), not negative (as the Rabbinical sentence: 'Do not to your neighbor what is odious to you, for this is the whole law'). (3) It is taught by One who wrought as well as taught 'righteousness,' who died that we might 'even so do also.'"
+### Archibald T Robertson:
+1. "The Golden Rule is the distilled essence of that 'fulfilment' (Matthew 5:17) which is taught in the sermon" (McNeile).
+2. "Luke puts the Golden Rule parallel with Matthew 5:42."
+3. "Jesus puts it in positive form."
 
-3. "The powerless teacher of correct ethics makes our case the more hopeless (comp. Romans 3:19; Romans 7:7-14); but Christ is 'the Power of God,' as well as 'the Wisdom of God' (1 Corinthians 1:24)."
+### John Gill:
+1. "It is a golden rule, here delivered, and ought to be observed by all mankind, Jews and Gentiles."
+2. "Our Lord's rule reaches to all without exception, 'all things whatsoever' ye would that men should do to you, do ye even so to them."
+3. "This rule is not only agreeable to the law of Moses, and the prophets, but even to the law and light of nature."
 
 ### John Wesley:
-1. "This verse is often referred to as the 'Golden Rule' and serves as a foundational principle for ethical behavior. It calls for treating others with the same kindness, respect, and fairness that we desire for ourselves."
+1. "This verse is commonly known as the 'Golden Rule' and is a fundamental principle of ethical behavior. It teaches us to treat others with the same kindness and respect that we desire for ourselves."
 
-2. "Luke 6:31 challenges us to go beyond mere tolerance and actively seek the well-being of others. It encourages us to put ourselves in someone else's shoes and consider how our actions might impact them."
+2. "The Golden Rule challenges us to go beyond mere tolerance and actively seek to understand and empathize with others. It calls us to love our neighbors as ourselves, regardless of their background, beliefs, or actions."
 
-3. "The beauty of this verse lies in its simplicity. It reminds us that our interactions with others should be guided by love and empathy, transcending differences and promoting unity."
+3. "By practicing the Golden Rule, we not only promote harmony and peace in our relationships, but we also reflect the character of God, who loves and treats all people with fairness and compassion."
 
 
 ## Generation Details

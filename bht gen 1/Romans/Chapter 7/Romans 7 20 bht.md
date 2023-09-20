@@ -1,25 +1,35 @@
 # Romans 7:20 Commentary Help Text
 
 ## BHT:
-In this verse, the tension between human desires and the struggle against sin is emphasized. The repetition underscores the importance of grappling with this concept in our faith journey. The reference to Romans 7:16-17 directs readers to explore the broader context and deepen their understanding of the complexities of human nature and the battle against sin. The verse explores the conclusion that sin originates from our fallen nature, rather than external factors like God's law or the new man within us.
+In this verse, we see a vivid portrayal of the internal struggle that believers face. Despite the transformed self, characterized by a desire to do what is right, there is an ongoing conflict between the old sinful nature and the new self. This battle is not an excuse for sin, but rather an acknowledgment of the deep-rooted corruption of human nature which is the ultimate source of all transgressions. It reminds us that our struggle against sin is not in vain, for through God's grace, we can find the strength and forgiveness needed to overcome.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The ἐγώ which in the present verse does not the evil thing, is the better ἐγώ of the ἔσω ἄνθρωπος."
+2. "The ἐμοί in which sin dwells and rules, though included in the complex self, is the lower ἐγώ, ἡ σάρξ μου."
+3. "The way is now prepared for at once setting forth the conflict within us between these two."
+
 ### Albert Barnes:
-1. "Now if I do" - This phrase highlights the human struggle with sin and the tension between our desires and our ability to do what is right. It acknowledges the reality of our fallen nature and the constant battle we face in choosing righteousness over sin.
-
-2. "This verse is also a repetition" - This comment emphasizes the significance of the message being reiterated. It suggests that the repetition serves to emphasize the importance of understanding and grappling with the concept being discussed, reinforcing the idea that it is a crucial aspect of our faith and spiritual growth.
-
-3. "Romans 7:16-17" - By referencing this specific passage, the commentary directs readers to further explore the context and content of the verses mentioned. It encourages a deeper understanding of the broader message conveyed in Romans, potentially shedding more light on the complexities of human nature and the struggle against sin.
+1. "This verse is a repetition of what was said in Romans 7:16-17."
+2. "The repetition emphasizes the struggle that Paul is experiencing, highlighting the ongoing battle between his sinful nature and his desire to do what is right."
+3. "It serves as a reminder that even as believers, we are not immune to the struggles and temptations of sin, but we can find comfort in knowing that God's grace is sufficient to help us overcome."
 
 ### Philip Schaff:
-1. "The repetition in this clause is exact, but in the phrase 'I wish,' some emphasis rests on 'I.'" 
+1. "The repetition in this clause is exact, but in the phrase 'I wish,' some emphasis rests on 'I.'"
 2. "This is taken by many as indicating a progress in thought."
 3. "The progress is still toward wretchedness, despite, or perhaps because of, this increased desire."
 
+### Archibald T Robertson:
+1. "It is no more I that do it" - This phrase highlights the recognition of a transformed self, where the old sinful nature no longer dominates. It signifies a shift in identity and a departure from the former ways of living.
+
+2. "No longer do I do it" - This statement emphasizes the ongoing struggle against sin, even though the true self, the "Εγο," desires to do what is right. It acknowledges the tension between the desire to live according to God's will and the reality of human weakness and temptation.
+
+3. "Responsibility and guilt for the struggle goes on" - This phrase underscores the understanding that, despite the transformed self, there is still a sense of accountability for the ongoing battle against sin. It acknowledges the presence of guilt and the need for continual reliance on God's grace and forgiveness.
+
 ### John Gill:
-1. "The same conclusion is formed here, as in Romans 7:17, not with any view to excuse himself from blame in sinning..."
-2. "...to trace the lusts of his heart, and the sins of his life, to the source and fountain of them, the corruption of his nature..."
-3. "...to ascribe them to the proper cause of them, which was not the law of God, nor the new man, but sin that dwelt in him."
+1. "The same conclusion is formed here, as in Romans 7:17, not with any view to excuse himself from blame in sinning, but to trace the lusts of his heart, and the sins of his life, to the source and fountain of them, the corruption of his nature."
+2. "To ascribe them to the proper cause of them, which was not the law of God, nor the new man, but sin that dwelt in him."
+3. "The corruption of nature is the cause of all actual transgressions, and is the spring and source of them."
 
 
 ## Generation Details

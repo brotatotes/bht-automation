@@ -1,13 +1,13 @@
 # Matthew 16:4 Commentary Help Text
 
 ## BHT:
-The verse describes a generation marked by moral corruption and unfaithfulness, with a strong emphasis on their attachment to worldly desires and pleasures. This wicked and adulterous generation is characterized by their spiritual blindness, preventing them from recognizing the signs of God's presence and leading to their rejection by Jesus. The verse serves as a reminder to have unwavering faith in God's promises and to look beyond the physical realm to believe in His power and authority.
+In this verse, Jesus confronts a wicked and adulterous generation, highlighting their moral corruption and unfaithfulness. He indicates that their love for the world has blinded them, rendering signs and miracles ineffective in convincing them to believe in God. Jesus sighs deeply in his spirit, disappointed by their unbelief. He departs from them, symbolizing his rejection of their hardened hearts and continuing his mission elsewhere. This verse challenges us to examine our own hearts and the sincerity of our faith, reminding us that true belief comes from within and not through signs alone.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The verse reminds us that faith is not about seeking signs or miracles, but about believing in the unseen and trusting in God's promises."
-2. "It is a call to have a deep, unwavering faith that is not dependent on external validation or proof."
-3. "Jesus is challenging his listeners to look beyond the physical realm and to believe in the power and authority of God."
+1. "The verse highlights the importance of faith and trust in God's plan, even when it seems impossible or unlikely."
+2. "It serves as a reminder that signs and miracles alone are not enough to convince someone to believe in God; true faith comes from within."
+3. "This verse challenges us to examine our own hearts and ask ourselves if we are truly seeking after God and His truth, or if we are simply looking for signs and wonders."
 
 ### John Calvin:
 1. "The general meaning is, that the Jews are never satisfied with any signs, but are continually tickled by a wicked desire to tempt God."
@@ -19,19 +19,20 @@ The verse describes a generation marked by moral corruption and unfaithfulness, 
 2. "He now gave them up to their blindness, but with pain at their unbelief."
 3. "And he sighed deeply in his spirit."
 
+### Archibald T Robertson:
+1. "The phrase 'a wicked and adulterous generation' is a strong indictment against the people of that time, implying their moral corruption and unfaithfulness to God."
+2. "The sign of Jonah refers to his three days and three nights in the belly of the fish, which foreshadows Jesus' own death and resurrection."
+3. "Jesus is not condemning the desire for a sign, but rather the lack of faith that seeks after signs as a condition for belief."
+
 ### John Gill:
-1. "A wicked and adulterous generation" - This phrase highlights the moral corruption and unfaithfulness of the people Jesus is addressing, emphasizing their spiritual depravity.
-
-2. "He left them; as persons hardened, perverse, and incurable" - Jesus' departure signifies his rejection of those who refuse to listen and repent, indicating their stubbornness and unwillingness to change.
-
-3. "Departed to the ship...and went to the other side of the sea" - Jesus physically removes himself from the presence of the wicked generation, symbolizing his separation from their sinful ways and his mission to reach others in need.
+1. "A wicked and adulterous generation" - This phrase highlights the moral corruption and unfaithfulness of the people Jesus was addressing, emphasizing their sinful nature and departure from God's ways.
+2. "He left them... as unworthy to be conversed with" - Jesus' departure signifies his rejection of those who refused to listen and change their ways, indicating the seriousness of their hardened hearts and their unwillingness to receive his teachings.
+3. "Departed to the ship... and went to the other side of the sea" - Jesus physically moves away from the people, symbolizing his separation from their unrepentant attitudes and actions, and his journey to continue his mission elsewhere.
 
 ### John Wesley:
-1. "A wicked and adulterous generation" - This phrase highlights the moral corruption and unfaithfulness of the people. It suggests that their sinful actions and desires have led them astray from God's truth.
-
-2. "Your wickedness, your love of the world, which is spiritual adultery" - The commentary emphasizes that the people's attachment to worldly desires and pleasures is equivalent to committing spiritual adultery. This implies that their hearts are divided and they have turned away from their spiritual relationship with God.
-
-3. "Blind your understanding" - The commentary suggests that their sinful nature has clouded their ability to comprehend and recognize the signs of God's presence and work in their lives. Their spiritual blindness prevents them from perceiving the truth and seeking a deeper understanding of God's will.
+1. "A wicked and adulterous generation" - This phrase highlights the moral corruption and unfaithfulness of the people. It suggests that their love for the world has blinded their understanding and prevented them from recognizing the signs.
+2. "Ye would seek no farther sign" - This implies that their wickedness and love for the world have made them indifferent to the need for further evidence or signs. They are content in their spiritual blindness.
+3. "Love of the world, which is spiritual adultery" - This phrase equates the love for the world with spiritual adultery, emphasizing the betrayal of their relationship with God. It suggests that their misplaced affections have led them astray from the truth.
 
 
 ## Generation Details

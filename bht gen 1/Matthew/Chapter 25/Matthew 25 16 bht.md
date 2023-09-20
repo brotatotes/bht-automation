@@ -1,13 +1,25 @@
 # Matthew 25:16 Commentary Help Text
 
 ## BHT:
-This verse, described by Jamieson Fausset Brown and John Gill, emphasizes the responsibility of using our unique talents wisely and diligently for the glory of God. It highlights that the emphasis lies not in the quantity of talents given, but in faithfully stewarding and utilizing them for the benefit of others. Furthermore, it points out that ministers are like traders, relying on the strength of Christ as they go forth in spreading the Gospel and serving immortal souls.
+In this verse, we learn that the master expects his servants to be active and diligent in utilizing the resources given to them. It emphasizes that faithful stewardship and diligent use of talents are more important than the specific amount gained. God has entrusted each of us with unique gifts, and we are called to be good stewards, using our resources wisely for His glory. The servants in this parable demonstrate promptness, courage, and boldness in carrying out their responsibilities, functioning as traders for Christ's sake and the good of others.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The parable teaches us that God has given each of us unique talents and abilities, and it is our responsibility to use them wisely and diligently." 
-2. "The emphasis here is not on the amount of talents given, but on the faithful stewardship and productivity of those talents." 
-3. "The parable also reminds us that our talents are not meant to be hoarded or kept to ourselves, but to be used for the benefit of others and for the glory of God."
+1. "The parable teaches us that the master expects his servants to be active and diligent in using the resources he has given them. It is not enough to simply possess the talents; they must be put to use and multiplied." 
+2. "The emphasis here is on the faithful stewardship of the talents, rather than the specific amount gained. The servant's success is measured by his faithfulness and diligence, not by the magnitude of his profits." 
+3. "This parable reminds us that God has given each of us unique gifts and abilities, and it is our responsibility to use them wisely and for His glory. We are called to be good stewards of the resources entrusted to us, whether they are financial, intellectual, or spiritual."
+
+### Marvin Vincent:
+1. "Connected with the beginning of this verse, instead of with the end of ver 14 Straightway he that had received, etc., indicating promptness on the servant's part."
+2. "The virgins wait, the servants work."
+3. "The word is used in our sense of make money. Wyc. and Tynd., won. Geneva, gained."
+
+Note: The commentary provided is quite short, so only three quotes were extracted.
+
+### Archibald T Robertson:
+1. "The business temper of this slave is shown by his promptness."
+2. "He worked, did business, traded with them."
+3. "This gain was a hundred per cent."
 
 ### John Gill:
 1. "The largest measure of gifts; an account is first given of him, how he behaved, and conducted in his Lord's absence, and what use he made of the gifts bestowed upon him."

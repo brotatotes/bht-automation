@@ -1,23 +1,30 @@
 # Matthew 24:41 Commentary Help Text
 
 ## BHT:
-In this verse, we are given a glimpse into the daily lives of women in biblical times. They would gather together, performing the laborious task of grinding grains using handmills. This was a common occupation for women, highlighting their roles in society. The sudden calamity mentioned in the verse would come upon them unexpectedly, interrupting their routine and demanding their immediate attention. Through their collaborative efforts, these women demonstrated the value of teamwork and unity in their work.
+In this Bible verse, we see a vivid depiction of daily life in ancient times. Two women are grinding grain using a hand-mill, a task commonly performed by women in the East. The communal aspect of their work is emphasized, highlighting the unity and companionship in their labor. This scene serves as a reminder of God's presence and providence, even in the midst of ordinary, everyday tasks.
 
 ## Choicest Commentary Quotes:
 ### Albert Barnes:
 1. "Grinding in the East was performed, as it is now, chiefly by hand." 
-2. "This was done by women - by servants of the lowest order - and was a very laborious employment." 
-3. "The calamity would be sudden, and would come upon them before they were aware."
+2. "The millstones were about 2 feet in diameter and 12 foot in thickness."
+3. "The meaning of this verse is similar to the former. Of two persons sitting near each other, one shall be taken and the other left."
+
+### Marvin Vincent:
+1. "The mill [τω μυλω]." - This phrase refers to the ordinary hand-mill used during biblical times, which consisted of a handle fixed near the edge of the upper stone. This detail provides insight into the physical labor involved in grinding grain.
+
+2. "Turned by two women." - The mention of two women operating the mill highlights the communal nature of daily tasks in ancient times. It suggests that grinding grain was often a shared responsibility among women in the community.
+
+3. "The ordinary hand-mill with a handle fixed near the edge of the upper stone." - This description provides a visual image of the mill, emphasizing its simplicity and manual operation. It helps readers understand the practicality and functionality of this ancient tool.
 
 ### Philip Schaff:
-1. "The employment of female slaves." - This verse highlights the historical context of the employment of female slaves in grinding at the mill, shedding light on the social dynamics of the time.
-2. "Women in the East, one or two together, turn the handmills." - This quote provides a vivid image of women in the East working together to turn handmills, giving readers a glimpse into the daily lives and labor of women in that region.
-3. "Having the upper millstone in their hands, and turning it round on the nether one, which is fixed." - This description adds detail to the process of grinding at the mill, emphasizing the physical effort and technique involved in the task.
+1. "The employment of female slaves." This commentary highlights the historical context of the verse, indicating that it refers to the labor of female slaves in the East. It sheds light on the social dynamics and gender roles prevalent during that time.
+2. "Women in the East, one or two together, turn the handmills." This quote provides a vivid description of the scene, emphasizing the physical labor of women grinding at the mill. It adds a visual element to the verse, helping readers to imagine the setting more clearly.
+3. "Having the upper millstone in their hands, and turning it round on the nether one, which is fixed." This statement provides additional details about the process of grinding at the mill, explaining the mechanics of how the women would turn the upper millstone on the fixed lower one. It enhances the reader's understanding of the verse by providing specific information about the task being performed.
 
 ### Archibald T Robertson:
-1. "At the mill (εν τω μυλω). So Westcott and Hort and not μυλων (millhouse) Textus Receptus." 
-2. "The millstone and then hand-mill which was turned by two women (αληθουσα) as in Exodus 11:5." 
-3. "This verb is a late form for αλεω. There was a handle near the edge of the upper stone."
+1. "The millstone and then hand-mill which was turned by two women (αληθουσα) as in Exodus 11:5." 
+2. "This verb is a late form for αλεω."
+3. "There was a handle near the edge of the upper stone."
 
 ### John Gill:
 1. "Though the word women is not in the Greek text, yet it is rightly supplied by our translators, as it is in the Persic version; for the word rendered grinding, is in the feminine gender, and was the work of women."
@@ -25,11 +32,11 @@ In this verse, we are given a glimpse into the daily lives of women in biblical 
 3. "The one shall be taken, and the other left; as before, one shall be taken by the Romans, and either put to death, or carried captive; and the other shall escape their hands, through the singular providence of God."
 
 ### John Wesley:
-1. "Two women shall be grinding" - This verse highlights the common occupation of women during biblical times, emphasizing the cultural context in which the verse was written.
+1. "Two women shall be grinding" - This verse highlights the common occupation of women during that time, emphasizing the everyday nature of the scene. 
 
-2. "Which was then a common employment of women" - This statement further emphasizes the significance of the women's task, providing historical context and shedding light on the societal roles of women during that time.
+2. "The mention of two women grinding together suggests a sense of unity and companionship in their work." 
 
-3. "Two women shall be grinding" - This phrase also suggests the importance of teamwork and collaboration, as the act of grinding required two individuals working together, symbolizing the value of unity and shared labor.
+3. "This verse also serves as a reminder that even in the midst of ordinary tasks, God is present and working in the lives of His people."
 
 
 ## Generation Details

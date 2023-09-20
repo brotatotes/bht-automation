@@ -1,36 +1,45 @@
 # Luke 1:66 Commentary Help Text
 
 ## BHT:
-In this verse, we see the hand of the Lord being with a chosen person, indicating their divine appointment and empowerment for a great work. This individual is set apart, marked by special signs, and destined to fulfill a significant purpose. The astonishment and curiosity surrounding their birth spark anticipation for what this child will become. The hand of the Lord, representing divine intervention and care, is an assurance of God's presence and power, guiding and protecting them throughout their journey.
+The verse described portrays the remarkable circumstances surrounding the birth of an individual. Various commentators emphasize the divine intervention and guidance in this person's life, signified by the hand of the Lord being with them. This divine presence signifies their calling for a significant task, with the expectation of great events resulting from their life. The acknowledgement of the hand of the Lord humbles us and reminds us of our dependence on God, recognizing that our success and well-being are not solely reliant on our own efforts.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "λέγοντες carries a slightly logical force with it; almost = ‘for they said.’"
+2. "ἄρα refers back to the circumstances which have happened. What then shall, &c."
+3. "καὶ γὰρ χεὶρ κ .…, a remark inserted by the Evangelist himself, not a further saying of the speakers in the verse before."
+
 ### Jamieson Fausset Brown:
-1. "hand of the Lord was with him" - This phrase signifies that the person mentioned is chosen by God for a significant purpose and is empowered by His divine presence and guidance.
+1. "hand of the Lord was with him—by special tokens marking him out as one destined to some great work" - This quote highlights that the presence of the Lord's hand on someone signifies their calling for a significant task.
+2. "hand of the Lord was with him" - This phrase emphasizes the divine guidance and support that the person receives from God.
+3. "Acts 11:21" - This reference suggests that the hand of the Lord is not limited to the Old Testament but is also seen in the New Testament, indicating the continuity of God's involvement in the lives of His chosen ones.
 
-2. "special tokens marking him out" - These tokens are unique signs or indicators that distinguish the individual as being set apart for a specific task or mission.
-
-3. "destined to some great work" - This suggests that the person is appointed by God to accomplish a significant and impactful work, indicating the importance and magnitude of their role in fulfilling God's plan.
+### Albert Barnes:
+1. "Such were the remarkable circumstances of his birth that they apprehended that he would be distinguished as a prophet, or that great events would result from his life."
+2. "The word 'hand' is used to denote 'aid, protection, favor.' We stretch out the hand to aid those whom we wish to help."
+3. "The expression here means that God 'aided' him, 'protected' him, or showed him favor."
 
 ### Philip Schaff:
-1. "What then shall this child be?" - This question reflects the astonishment and curiosity surrounding the remarkable circumstances of the child's birth. It highlights the anticipation and wonder of the people regarding the child's future and purpose.
+1. "‘What then shall this child be?’ - a connection of thought not fully brought out in the E. V."
+2. "For indeed, this is a remark of the Evangelist, justifying what was said."
+3. "The hand...means that the power of the Lord was present with him."
 
-2. "For indeed." - This phrase serves as the Evangelist's justification for the previous statement. It implies that the extraordinary events surrounding the child's birth are evidence of something significant and worthy of attention.
-
-3. "The hand...means that the power of the Lord was present with him." - This explanation of the figure of the hand emphasizes the divine presence and power that accompanies the child. It suggests that the child is chosen and empowered by God for a special purpose.
+### Archibald T Robertson:
+1. "With all these supernatural happenings they predicted the marvellous career of this child." 
+2. "They laid them up as Mary did." 
+3. "The hand of the Lord. Luke's explanation in addition to the supernatural events."
 
 ### John Gill:
-1. "And all they that heard them, laid them up in their hearts; treasured them up in their memories, and often thought of them in their minds, what should be the meaning, and what would be the issue of them." 
-
+1. "And all they that heard them, laid them up in their hearts; treasured them up in their memories, and often thought of them in their minds." 
 2. "Surely he must be designed in providence to be put into some high station, and some eminent work and service; since so many, and such great things, have gone before, and attended his birth."
-
 3. "The hand of the Lord was with him; which may intend the special care, and peculiar providence of God in preserving his life, giving him health, causing him to grow strong and robust, and in stature of body, and in endowments of mind."
 
 ### John Wesley:
-1. "The hand of the Lord represents the divine intervention and authority in our lives. It symbolizes God's power and blessing, demonstrating His active involvement in our circumstances."
+1. "The hand of the Lord represents the divine intervention and guidance in our lives. It symbolizes God's power and blessing, showing that He is actively involved in our circumstances and working for our good."
 
-2. "When we acknowledge the hand of the Lord, we recognize that our success and well-being are not solely dependent on our own efforts, but on God's guidance and provision."
+2. "When we acknowledge the hand of the Lord, we recognize that our success and well-being are not solely dependent on our own efforts, but on the supernatural assistance and favor of God."
 
-3. "The hand of the Lord reminds us that we are not alone in our struggles and challenges. It assures us that God is with us, ready to extend His grace and help in times of need."
+3. "By acknowledging the hand of the Lord, we humble ourselves and acknowledge our dependence on Him. It reminds us that we are not in control, but that God is the ultimate authority and source of all blessings."
 
 
 ## Generation Details

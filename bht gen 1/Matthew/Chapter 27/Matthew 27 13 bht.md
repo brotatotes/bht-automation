@@ -1,9 +1,14 @@
 # Matthew 27:13 Commentary Help Text
 
 ## BHT:
-In this verse, a man is being accused of claiming to be a king, but the commentators emphasize that this accusation is false and nothing more than a political offense. Despite the stirring of the people, the man's actions were not meant to incite mutiny or have political motives. Even though he remained silent in the face of the accusations, the authorities tried to elicit a response from him. The verse raises questions about the credibility of the witnesses and the nature of their testimonies, particularly given the status and influence of those providing them.
+In this Bible verse, the accused is silent in the face of false accusations made by the chief priests and elders. The accusers were not credible witnesses, but rather individuals who wrongfully accused the accused. Despite the repeated and pressing accusations, the accused did not respond to the charges brought against him. The main charge against him was that he claimed to be a king, but this accusation lacked truth and substance.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "They witness against thee - This means, rather, that they accused him."
+2. "They were not 'witnesses,' but accusers."
+3. "These accusations were repeated and pressed."
+
 ### Philip Schaff:
 1. "The main charge was true in form, but false in fact: His claim to be a king was not a political offence."
 2. "He had stirred up the people, etc., but not to mutiny or for political purposes."
@@ -11,8 +16,8 @@ In this verse, a man is being accused of claiming to be a king, but the commenta
 
 ### John Gill:
 1. "Observing he made no reply to the accusations of the chief priests and elders..."
-2. "...in order to draw something out of him..."
-3. "...how many, and of what kind the depositions are now made by persons of such rank and figure?"
+2. "Art thou deaf? or dost thou not take in what is alleged against thee?"
+3. "Art thou under no concern to make answer to them?"
 
 
 ## Generation Details

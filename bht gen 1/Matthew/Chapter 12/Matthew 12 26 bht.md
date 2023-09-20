@@ -1,7 +1,7 @@
 # Matthew 12:26 Commentary Help Text
 
 ## BHT:
-The verse being described speaks of the destructive nature of division and the impossibility of a society that is turned against itself. It refutes the accusation of being in alliance with evil, emphasizing the absurdity of such an idea. The verse implies that the accused person is not divided against themselves, but rather opposing the wickedness of their accusers. It highlights the antagonistic relationship between the kingdom of God and the kingdom of Satan, highlighting the subversive nature of the works of God in destroying the power and dominion of evil.
+In this Bible verse, it is described how a divided and contradictory spirit acts against its own interests and the establishment of its kingdom. The verse implies the absurdity and incredibility of a person being divided against themselves, especially considering the wicked nature and strategic abilities of Satan. It emphasizes that an organized society cannot stand when turned against itself and suggests that the acts of the divided spirit are self-destructive and undermine the establishment of their kingdom.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
@@ -9,20 +9,27 @@ The verse being described speaks of the destructive nature of division and the i
 2. "The works I do are destructive of Satan's kingdom."
 3. "That I should be in league with Satan, therefore, is incredible and absurd."
 
+### Marvin Vincent:
+1. "He is divided." - This phrase suggests that there was a previous division before the act of casting oneself out. It implies that there was a conflict or disagreement that led to this division.
+
+2. "If he is casting himself out, there must have been a previous division." - This statement emphasizes the cause-and-effect relationship between the act of casting oneself out and the prior division. It suggests that the division was the reason behind the decision to separate.
+
+3. "There must have been a previous division." - This assertion highlights the certainty of a division occurring before the act of casting oneself out. It implies that there was a significant event or disagreement that led to this division.
+
 ### Philip Schaff:
 1. "The accusation reduced to an absurdity, namely, that a person is divided against himself."
 2. "Satan is utterly wicked, hence good and evil do not strive within him."
-3. "This verse implies: that the Pharisees had called our Lord 'Satan'; that Satan is a person; that he has a kingdom; while the whole argument assumes that this kingdom is in constant antagonism to the kingdom of God."
+3. "This verse implies: that the Pharisees had called our Lord 'Satan;' that Satan is a person; that he has a kingdom; while the whole argument assumes that this kingdom is in constant antagonism to the kingdom of God."
 
 ### John Gill:
-1. "He acts contrary to his own interest, which is to keep possession of the bodies and souls of men."
-2. "It must, in course, be subversive of his power and dominion."
-3. "There is a form of government among the devils, who are united in one body, under one head; and whose unity and concord are their greatest strength, as in all other governments."
+1. "He is divided against himself; he acts contrary to his own interest, which is to keep possession of the bodies and souls of men."
+2. "He will never be able to maintain his authority, and keep up the show of a government, as he does."
+3. "Since Satan, who is so cunning and crafty, can never be thought to act such an opposite part to himself, subversive of his kingdom and government."
 
 ### John Wesley:
-1. "Does not that subtle spirit know thin is not the way to establish his kingdom?"
-2. "The establishment of God's kingdom does not rely on human methods or strategies."
-3. "The true establishment of God's kingdom comes through humility, selflessness, and surrender to God's will."
+1. "Does not that subtle spirit know that this is not the way to establish his kingdom?"
+2. "The commentator questions the wisdom of the subtle spirit, suggesting that it should know better than to use such means to establish its kingdom."
+3. "The commentary highlights the irony of the subtle spirit's actions, implying that it lacks the understanding of how to truly establish its kingdom."
 
 
 ## Generation Details

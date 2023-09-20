@@ -1,27 +1,44 @@
 # Matthew 27:2 Commentary Help Text
 
 ## BHT:
-The commentators shed light on the decision to take Jesus to Pilate, emphasizing the Jewish leaders' intention to ensure His condemnation and highlight the fulfillment of prophecy. The presence of Pilate in Jerusalem during the feast was strategically manipulated to achieve their desired outcome. Jesus' binding not only reflects his physical restraint but also symbolizes the spiritual bondage of humanity and the need for a Savior. The binding, which was continuous from his arrest, serves as a reminder of the divine plan and Jesus' ultimate act of love and sacrifice for humanity's salvation.
+In the midst of the Passover feast, Jesus is brought from Jerusalem to Pilate, taking advantage of his presence for expedient judicial proceedings. The Roman governor's involvement in Jesus' trial underscores the political and historical context of the crucifixion. In the garden, Jesus is initially bound, demonstrating the attempt to control his power and authority. As the religious leaders lead him, his bound state highlights the drastic shift in his status, from revered teacher to condemned criminal. Throughout his journey, the act of binding him repeatedly symbolizes the world's desire to suppress his truth and silence his message.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The reason for taking Jesus to Pilate was to ensure that He would be condemned to death. The Jewish leaders knew that they did not have the authority to execute someone, so they brought Jesus before Pilate, the Roman governor, who had the power to carry out the death sentence." 
+1. "The reason for taking Jesus to Pilate was because Pilate ordinarily resided at Cæsarea, but during the feast, he was in Jerusalem." 
 
-2. "Pilate's usual residence was in Cæsarea, but during the feast, he would come to Jerusalem. This was a strategic move by the Jewish leaders, as they knew that Pilate's presence in the city would make it easier for them to manipulate the situation and achieve their desired outcome." 
+2. "This reference to Pilate's location during the feast helps to explain why Jesus was brought before him, as it was more convenient for the Jewish authorities to bring their case against Jesus to Pilate in Jerusalem." 
 
-3. "The fact that Pilate was the one to ultimately decide Jesus' fate is significant. It highlights the fulfillment of prophecy, as Jesus had foretold that He would be handed over to the Gentiles and crucified. This event also serves as a reminder of the political and religious dynamics at play during Jesus' time, and the lengths that the Jewish leaders were willing to go to ensure His death."
+3. "The mention of Pilate in this verse reminds us of the political and historical context in which Jesus' trial took place, highlighting the involvement of the Roman authorities in the crucifixion of Jesus."
+
+### Albert Barnes:
+1. "He was 'bound' when they took him in the garden...The binding consisted, probably, in nothing more than tying his hands." 
+2. "The governor commonly resided at Caesarea; but he came up to Jerusalem usually at the great feasts, when great numbers of the Jews were assembled, to administer justice, and to suppress tumults if any should arise." 
+3. "The Jews did not, however, enter in themselves, lest they should be defiled, but that they might eat the Passover."
 
 ### Philip Schaff:
 1. "The bonds put on Him in the garden seem to have been removed sometime during the night."
 2. "Probably in a solemn procession, with a view of influencing both the people and the governor."
-3. "Pilate had an unyielding and severe disposition...his conduct led to repeated revolts among the Jews, which he suppressed by bloody measures."
+3. "Pilate had an unyielding and severe disposition...he suppressed by bloody measures."
+
+### Archibald T Robertson:
+1. "Delivered him up to Pilate the governor" - The act of delivering Jesus to Pilate was merely a form and a farce, as the religious leaders had already enjoyed condemning and mistreating him. This highlights the hypocrisy and insincerity of their actions.
+
+2. "He was no longer the master of assemblies in the temple" - Jesus, who once commanded authority and respect in the temple, was now reduced to a condemned criminal, bound and powerless before the religious leaders. This emphasizes the drastic shift in his status and the injustice he faced.
+
+3. "He had been bound in the garden and was bound before Annas, but may have been unbound before Caiaphas" - Jesus had already experienced being bound in the garden and before Annas, and it is uncertain whether he was unbound before appearing before Caiaphas. This detail adds to the narrative of Jesus' unjust treatment and the continuous attempts to strip him of his freedom.
+
+### John Gill:
+1. "Perhaps he might be unloosed whilst he was examining before the high priest, under a show of freedom to speak for himself; or they might bind him faster now, partly greater security, as he passed through the streets, and partly for his greater reproach."
+2. "They led him away: the chief priests and elders of the people led him, at least by their servants, and they themselves attending in person, that they might awe the people from attempting a rescue of him, as they passed along; and that they might influence the Roman governor speedily to put him to death."
+3. "This they did, either because the power of judging in cases of life and death was taken away from them; or if it was not, they chose that the infamy of his death should be removed from them, and be laid upon a Gentile magistrate; and chiefly because they were desirous he should die the death of the cross."
 
 ### John Wesley:
-1. "Having bound him" - This action of binding Jesus not only symbolizes his physical restraint, but also reflects the spiritual bondage that humanity is under. It highlights the powerlessness of humanity to free themselves from sin and the need for a Savior.
+1. "Having bound him" - The act of binding Jesus not only signifies his physical restraint but also symbolizes the world's attempt to control and suppress the power and truth he represents.
 
-2. "They had bound him when he was first apprehended" - This emphasizes the continuity of Jesus' suffering and persecution. From the moment of his arrest, Jesus willingly submitted himself to the will of God, knowing that he would face further trials and ultimately be crucified for the redemption of humanity.
+2. "They had bound him when he was first apprehended" - This reference to Jesus being bound from the beginning highlights the inevitability of his arrest and the fulfillment of the divine plan.
 
-3. "To secure him from any danger of an escape" - The binding of Jesus serves as a reminder of the divine plan and the fulfillment of prophecies. Despite the attempts of the religious leaders to prevent Jesus from fulfilling his mission, his binding ultimately leads to his crucifixion, which is the ultimate act of love and sacrifice for humanity's salvation.
+3. "To secure him from any danger of an escape" - The binding of Jesus serves as a precautionary measure to ensure that he does not evade his captors, emphasizing the determination of those who seek to silence him.
 
 
 ## Generation Details

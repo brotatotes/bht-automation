@@ -1,18 +1,40 @@
 # Titus 3:12 Commentary Help Text
 
 ## BHT:
-In this Bible verse, Paul is making arrangements for Titus and another minister to take over in Crete. John Wesley suggests that Titus was an evangelist, traveling from place to place, assisting the apostles. Furthermore, there is discussion about which Nicopolis is being referenced, with John Gill stating that it may be the town in Epirus founded in memory of the battle of Actium. The reasons for having Titus come to Paul could be to assess the state of the churches in Crete or to provide assistance or send him elsewhere.
+In this verse, Paul instructs Titus to hasten to him to Nicopolis and sends greetings to Artemas and Zenas, who are both mentioned as ministers of the Gospel. Nicopolis is believed to be the city in Epirus named after the battle of Actium, signifying victory. This request suggests that Paul desired Titus's assistance in ministry or to obtain an update on the state of the churches in Crete. The mention of wintering in Nicopolis indicates Paul's intention to continue his work there during the season.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Whenever I shall have sent Artemas to thee, hasten to come to me to Nicopolis." 
+2. "Forward on their journey with zeal Zenas the lawyer and Apollos." 
+3. "That nothing may be wanting to them."
+
 ### Jamieson Fausset Brown:
 1. "Artemas or Tychicus—to supply thy place in Crete."
 2. "Tychicus was sent twice by Paul from Rome to Lesser Asia in his first imprisonment."
 3. "Nicopolis—'the city of victory,' called so from the battle of Actium, in Epirus."
 
+### Albert Barnes:
+1. "This person is not elsewhere mentioned in the New Testament, and nothing more is known of him." 
+2. "In regard to its situation, see Introduction, Section 4." 
+3. "His requesting Titus to leave his important post and to come to him, looks as if his aid were needed in the work of the ministry there, and as if Paul supposed there was a promising field of labor there."
+
+### Marvin Vincent:
+1. "To winter [παραχειμασαι]. Comp. Acts 27:12; Acts 28:11; 1 Corinthians 16:6. The noun paraceimasia wintering, Acts 27:12." 
+2. "For necessary uses [εις τας αναγκαιας χρειας]. The phrase N. T. o. With reference to whatever occasion may demand them." 
+3. "Not only in supplying the needs, but in cultivating Christian graces in themselves by acts of Christian service."
+
 ### Philip Schaff:
 1. "Titus was soon to be replaced that he might rejoin the apostle."
-2. "Tychicus, of the province of Asia, who carried from Rome the letters to Colosse and to Ephesus."
-3. "There were various cities called Nicopolia. Paul is supposed to mean the town in Epirus founded in memory of the battle of Actium."
+2. "Tychicus, of the province of Asia...carried from Rome the letters to Colosse and to Ephesus."
+3. "Paul is supposed to mean the town in Epirus founded in memory of the battle of Actium...it was the chief town in Western Greece."
+
+### Archibald T Robertson:
+1. "When I shall send" - This indicates that the action of sending Artemas or Tychicus is not immediate, but will happen at a future time.
+
+2. "Paul's well-known disciple" - Tychicus is described as a disciple of Paul, highlighting his close relationship with the apostle.
+
+3. "I have determined" - Paul's decision to send Artemas or Tychicus to Nicopolis shows his intention and purpose in the matter.
 
 ### John Gill:
 1. "These were both of them ministers of the Gospel; there is no mention of Artemas anywhere else; some say he was one of the seventy disciples, and that he was afterwards bishop of Lystra; but these are uncertain things." 

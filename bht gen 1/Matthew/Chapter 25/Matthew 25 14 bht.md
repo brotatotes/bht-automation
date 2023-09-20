@@ -1,31 +1,45 @@
 # Matthew 25:14 Commentary Help Text
 
 ## BHT:
-The parable being described here is one that compares the kingdom of heaven to a man going on a journey. It highlights the dynamic nature of the kingdom and emphasizes our role as stewards and servants of Christ. The parable also focuses on the importance of surrendering all to Christ and using our gifts and resources for His purposes. The parable addresses not only ministers but also all followers of Christ, reminding us that everything we have ultimately belongs to Him.
+In this parable, the commentator draws attention to the metaphorical nature of the "travelling" and "going into another country," suggesting a spiritual journey or leaving familiar surroundings. The focus is on the importance of using one's talents and abilities for the cause of religion and being rewarded by God. The commentator also highlights that the parable is about Christ, representing a man of wealth or nobility, and emphasizes the kingdom of heaven as governed by Christ.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "For the Kingdom of Heaven is as a man, &c. We have this parable and the preceding one alluded to in very few words by Mark 13:34-36." 
+2. "In it we have the active side of the Christian life, and its danger, set before us, as in the last the contemplative side."
+3. "The parable is still concerned with Christians (τοὺς ἰδίους δούλους), and not the world at large."
+
 ### Jamieson Fausset Brown:
-1. "The kingdom of heaven is as a man...going abroad." - This quote highlights the comparison between the kingdom of heaven and a man going on a journey. It suggests that the kingdom of heaven is not a static concept, but rather a dynamic and active force in the world.
+1. "For the kingdom of heaven is as a man—The ellipsis is better supplied by our translators in the corresponding passage of Mark ( :-), '[For the Son of man is] as a man,' c., travelling into a far country—or more simply, 'going abroad.'"
+2. "His 'goods' mean all their gifts and endowments, whether original or acquired, natural or spiritual."
+3. "Christ has a claim to everything which belongs to His people, everything which may be turned to good, and He demands its appropriation to His service."
 
-2. "His 'goods' mean all their gifts and endowments...Christ has a claim to everything which belongs to His people." - This quote emphasizes that everything we have, whether natural or spiritual, belongs to Christ. It reminds us that we are called to use our talents and resources for His service and to acknowledge that they are ultimately His.
+### Albert Barnes:
+1. "The design of the parable is to teach that those who improve their talents or faculties in the cause of religion...shall be proportionally rewarded."
+2. "God deals with people in his government as such a man did."
+3. "He has given to all talents to improve."
 
-3. "They first offer it up to Him as being 'not their own, but bought with a price'...and He 'delivers it to them' again to be put to use in His service." - This quote highlights the idea of stewardship and surrendering our possessions to Christ. It suggests that when we offer our gifts and resources to Him, He entrusts them back to us to be used for His purposes.
+These quotes highlight the main message of the commentary, emphasizing the importance of using one's talents and abilities for the cause of religion and doing good. They also emphasize the idea that God rewards those who make use of their talents and opportunities.
 
 ### Marvin Vincent:
-1. "The sense is more nearly about to travel, like our going abroad."
-2. "Travelling [αποδημων] implies a deliberate action, a purposeful journey."
-3. "This word conveys the idea of embarking on a journey with intention and purpose."
+1. "The term 'travelling' in this verse carries the connotation of going abroad, suggesting a journey to a foreign land."
+2. "The use of the word 'travelling' implies a sense of movement and leaving one's familiar surroundings behind."
+3. "By using the term 'travelling,' the verse emphasizes the idea of embarking on a journey, which can be seen as a metaphor for the spiritual journey of the believer."
 
 ### Philip Schaff:
-1. "The events illustrated in the previous parable, 'The kingdom of heaven' is not specific enough."
+1. "The events illustrated in the previous parable, ‘The kingdom of heaven’ is not specific enough."
 2. "Here Christ is represented as a man of wealth; in Luke as a nobleman gone to receive a kingdom."
-3. "The professed followers of Christ, not merely the ministry."
-4. "The spiritual blessings which are 'his;' more general than chap. Matthew 24:45, where the office of the ministry is plainly referred to."
+3. "The spiritual blessings which are ‘his;’ more general than chap. Matthew 24:45, where the office of the ministry is plainly referred to."
+
+### Archibald T Robertson:
+1. "Going into another country (αποδημων). About to go away from one's people (δημος), on the point of going abroad. This word in ancient use in this sense."
+2. "There is an ellipse here that has to be supplied, It is as when or The kingdom of heaven is as when."
+3. "This Parable of the Talents is quite similar to the Parable of the Pounds in Luke 19:11-28, but they are not variations of the same story."
 
 ### John Gill:
-1. "For [the kingdom of heaven] is as a man travelling,.... Our Lord adds another parable to illustrate the Gospel dispensation, or its visible church state; or the state of things respecting the church of Christ, before, and at his second coming, and during the interval between his ascension and that."
-2. "By 'his own servants' are meant, not all mankind; for though they are all in some sense his servants, or ought to be, yet they are not so called in Scripture, much less with such an emphasis, his own servants; and besides, more than what are in the kingdom of heaven, or Gospel church state, cannot be intended; since the parable reaches to, and concerns no other."
-3. "But ministers of the word are here meant, who are eminently the servants of Christ, his own, whom he has called, qualified, commissioned, and sent forth; for the ministers of the word, whether faithful or slothful, good or bad, are in a very lively manner described in this parable, which is a distinct one from the former."
+1. "For [the kingdom of heaven] is as a man travelling... by which heaven is designed, and is so called, not only because of its great distance from the earth, and which is very great indeed; but because the better country and land afar off, is out of sight."
+2. "By 'his own servants' are meant, not all mankind; for though they are all in some sense his servants, or ought to be, yet they are not so called in Scripture, much less with such an emphasis, his own servants; and besides, more than what are in the kingdom of heaven, or Gospel church state, cannot be intended."
+3. "But ministers of the word are here meant, who are eminently the servants of Christ, his own, whom he has called, qualified, commissioned, and sent forth; for the ministers of the word, whether faithful or slothful, good or bad, are in a very lively manner described in this parable."
 
 ### John Wesley:
 1. "Our Lord proceeds by a parable still plainer (if that can be) to declare the final reward of a harmless man."

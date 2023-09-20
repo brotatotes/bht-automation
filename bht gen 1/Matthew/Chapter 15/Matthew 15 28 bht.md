@@ -1,41 +1,44 @@
 # Matthew 15:28 Commentary Help Text
 
 ## BHT:
-In this verse, a woman demonstrates great faith by persistently pleading for her daughter's healing. Despite facing discouragement and adverse circumstances, she maintains her plea, and her faith is commended. Eventually, her request is granted, and her daughter is healed. This story highlights the power of faith, the significance of intercessory prayer, and the assurance that God hears and answers those who have unwavering trust in Him. It encourages us to rely on God's power and goodness, find stability in faith, and face challenges with strength and courage.
+The woman's powerful faith, recognized by both Jesus and commentators, surpasses mere belief and represents a deep trust and reliance on God's power. Her unwavering confidence in Him leads her to persistently plead for her daughter's healing despite discouragements. Through her active choice to place her confidence in God, she exemplifies the importance of surrendering our desires and aligning ourselves with His perfect will. This remarkable display of faith serves as a reminder of the foundation of our relationship with God, allowing us to experience His love, grace, and provision as we open ourselves up to His limitless possibilities.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The greatness of the woman's faith consisted in this, that in spite of all discouragements she continued her plea."
+1. "The greatness of the woman’s faith consisted in this, that in spite of all discouragements she continued her plea."
 2. "Accepting and laying to her account all adverse circumstances, she out of them made reasons for urging her request."
 3. "On returning to her house she found the devil gone out, and her daughter lying on the bed."
 
+### John Calvin:
+1. "The greatness of her faith appeared chiefly in this respect, that by the aid of nothing more than a feeble spark of doctrine, she not only recognized the actual office of Christ, and ascribed to him heavenly power, but pursued her course steadily through formidable opposition."
+2. "She suffered herself to be annihilated, provided that she held by her conviction that she would not fail to obtain Christ’s assistance; and, in a word, so tempered her confidence with humility, that, while she advanced no unfounded claim, neither did she shut against her the fountain of the grace of Christ, by a sense of her own unworthiness."
+3. "This latter clause contains a useful doctrine, that faith will obtain anything from the Lord; for so highly does he value it, that he is always prepared to comply with our wishes, so far as it may be for our advantage."
+
 ### Philip Schaff:
-1. "Great is thy faith. The greatest faith had been shown by Gentiles (comp. chap. Matthew 8:10); and of this woman's characteristics, 'faith' was not only the crown, but the source."
+1. "Great is thy faith. The greatest faith had been shown by Gentiles (comp. chap. Matthew 8:10); and of this woman’s characteristics, ‘faith’ was not only the crown, but the source."
 2. "And her daughter was healed from that hour. Mark (Mark 7:30) describes her return home. As in the case of the Gentile centurion, the cure was performed at a distance."
 3. "The intermediate link in both cases was strong faith combined with affection for the person healed. A hint is thus given in regard to intercessory prayer."
 
 ### Archibald T Robertson:
-1. "Her great faith" - This quote highlights the importance of faith in the context of the verse. It suggests that the woman's unwavering belief played a significant role in her plea being granted.
-
-2. "Her keen rejoinder" - This quote emphasizes the woman's quick and clever response. It implies that her sharp and persuasive words contributed to her request being granted.
-
-3. "Won her case" - This quote summarizes the outcome of the woman's plea. It implies that her faith and rejoinder were successful in convincing the person she was addressing to grant her request.
+1. "Her great faith and her keen rejoinder won her case." 
+2. "Her response demonstrates her complete trust and submission to God's will." 
+3. "This woman's words serve as a powerful reminder of the importance of surrendering our own desires and aligning ourselves with God's perfect will."
 
 ### John Gill:
-1. "O woman, great is thy faith!" - Jesus expresses his admiration for the woman's strong faith, despite her being a Gentile and facing repulses. This highlights the power of faith in overcoming obstacles and receiving blessings.
-
-2. "Let thy daughter be healed, as thou desirest" - Jesus grants the woman's request, showing his willingness to answer prayers according to the desires of those who have faith in him.
-
-3. "The conduct of our Lord towards this woman... represent[s] the methods which God sometimes takes with his people" - The interaction between Jesus and the woman serves as a representation of how God may sometimes test and refine the faith of his people before granting their requests.
-
-4. "They lay hold on every word of God, and hastily catch at it, and improve everything in their own favour, that faith can come at" - This emphasizes the importance of actively seeking and holding onto God's promises, using them to strengthen one's faith and persistently approach God in prayer.
-
-5. "Effectual, fervent, and importunate prayer, the prayer of faith availeth much with God" - This highlights the significance of persistent, passionate, and faith-filled prayer, emphasizing that it has the power to bring about significant results in one's relationship with God.
+1. "O woman, great is thy faith!" - Jesus expresses astonishment at the woman's strong faith, acknowledging her as a Gentile who wholeheartedly believes in him and his power to heal.
+2. "Let thy daughter be healed, as thou desirest, and in the way, and at the very time thou wouldst have it" - Jesus grants the woman's request, showing his willingness to answer her prayers according to her desires and timing.
+3. "The conduct of our Lord towards this woman, and her behaviour under it, do, in a very lively manner, represent the methods which God sometimes takes with his people" - The interaction between Jesus and the woman serves as a representation of how God may test and refine the faith of his people, sometimes delaying his response but ultimately granting their requests when they persist in prayer.
 
 ### John Wesley:
-1. "Thy faith is not just a belief, but a deep reliance on the power and goodness of God."
-2. "Faith is the anchor that keeps us steadfast in the midst of life's storms."
-3. "Through faith, we can find strength and courage to face any challenge that comes our way."
+1. "Thy faith is not just a belief, but a deep trust and reliance on the power and goodness of God."
+
+2. "Faith is not passive, but an active choice to place our confidence in God's ability to fulfill His promises."
+
+3. "Through faith, we acknowledge our dependence on God and surrender control, allowing Him to work in and through us."
+
+4. "Faith is the foundation of our relationship with God, enabling us to experience His love, grace, and provision in our lives."
+
+5. "By exercising faith, we open ourselves up to the limitless possibilities of what God can do, knowing that He is faithful to His word."
 
 
 ## Generation Details

@@ -1,28 +1,48 @@
 # Romans 6:5 Commentary Help Text
 
 ## BHT:
-The verse being described focuses on the concept of union with Christ in His death and resurrection. The commentators emphasize that this union is not just a theological concept, but a transformative reality that impacts our lives in the present and guarantees our future resurrection. They stress the vital connection and intimate union we have with Christ, which involves dying to sin and experiencing the power of His resurrection. This transformative union is characterized by being united with Christ, growing together, and walking in newness of life.
+United with Christ in his death and resurrection, believers share in the likeness and power of these transformative events. As we die to sin, we are planted and grow together with Christ, bearing fruit in newness of life. This union signifies not only a conformity of example but a secret, vital connection, where Christ's Spirit revives and imparts his virtue to us. Through baptism, we symbolize our likeness to Christ's death and our anticipation of sharing in his resurrection.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Those who are united to Him in His Death, shall be also in His resurrection."
+2. "Christians partake of the likeness only of Christ's death, but of His actual Resurrection itself."
+3. "The participation in His Resurrection, however partially and in the inner spiritual life, attained here, will only then be accomplished in our entire being, when we 'shall wake up after his likeness'."
+
 ### Jamieson Fausset Brown:
 1. "Since Christ's death and resurrection are inseparable in their efficacy, union with Him in the one carries with it participation in the other, for privilege and for duty alike."
 2. "The future tense is used of participation in His resurrection, because this is but partially realized in the present state."
-3. "Union with Christ in His death and resurrection is not just a theological concept, but a transformative reality that impacts our lives in the present and guarantees our future resurrection."
+3. "Union with Christ in His death and resurrection is not only a privilege but also a responsibility that believers share."
+
+### Albert Barnes:
+1. "And here it denotes that Christians and the Saviour have been united intimately in regard to death; as he died and was laid in the grave, so have they by profession died to sin."
+2. "We shall be also fellow-plants; that is, we shall resemble him in regard to the resurrection. As he rose from the grave, so shall we rise from sin."
+3. "Thus, the Saviour and his people are united together in his death, start up to life together in his resurrection, and are preparing together for the same harvest of glory in the heavens."
 
 ### Marvin Vincent:
 1. "Sumfutoi is not planted, which would be formed from futeuw to plant, while this word is compounded with sun together, and fuw to grow." 
-2. "Gegonaman is have become, denoting process, instead of the simple einai to be. Hence Rev., have become united, have grown together; an intimate and progressive union; coalescence."
-3. "Morison paraphrases : 'If we were united with Him in the likeness of His death (that will not be the full extent of the union), but we shall be also united,' etc."
+2. "Gegonaman is have become, denoting process, instead of the simple einai to be."
+3. "It contains an adversative particle ajlla; but. Morison paraphrases : 'If we were united with Him in the likeness of His death (that will not be the full extent of the union), but we shall be also united,' etc."
+
+### John Calvin:
+1. "He strengthens in plainer words the argument he has already stated; for the similitude which he mentions leaves now nothing doubtful, inasmuch as grafting designates not only a conformity of example, but a secret union, by which we are joined to him; so that he, reviving us by his Spirit, transfers his own virtue to us."
+2. "Hence as the graft has the same life or death in common with the tree into which it is ingrafted, so it is reasonable that we should be partakers of the life no less than of the death of Christ; for if we are ingrafted according to the likeness of Christ’s death, which was not without a resurrection, then our death shall not be without a resurrection."
+3. "But the words admit of a twofold explanation, — either that we are ingrafted in Christ into the likeness of his death, or, that we are simply ingrafted in its likeness. The first reading would require the Greek dative ὁμοιώματι, to be understood as pointing out the manner; nor do I deny but that it has a fuller meaning: but as the other harmonizes more with simplicity of expression, I have preferred it; though it signifies but little, as both come to the same meaning."
 
 ### Philip Schaff:
-1. "The figure is that of vital connection; 'with Him' is implied in the original." 
-2. "Our vital union with Him involves death to sin." 
+1. "The figure is that of vital connection; 'with Him' is implied in the original."
+2. "Our vital union with Him involves death to sin."
 3. "The whole points to the certainty of the other result of vital union with Christ; newness of life as truly as death to sin."
+
+### Archibald T Robertson:
+1. "Baptism as a picture of death and burial symbolizes our likeness to Christ in his death."
+2. "We shall be also united in the likeness of his resurrection."
+3. "Baptism is a picture of the past and of the present and a prophecy of the future, the matchless preacher of the new life in Christ."
 
 ### John Gill:
 1. "This is not to be understood of an implantation of Jews and Gentiles together in One body; nor of an implantation of believers together in a church state; but of an implantation of Christ and his people together."
-2. "Now as these persons, by virtue of their secret union with Christ from eternity, as their head and representative, with whom they were crucified, in whom they died representatively, share in his death, enjoy the benefits of it, and feel its efficacy, and through it become dead to the law, sin, and the world, which is meant by the likeness of his death."
-3. "They shall share in the benefits, and feel and enjoy the effects of it; not only their bodies will be raised at the last day, as their souls are now regenerated by virtue of it, and in resemblance to it; but they are, and shall be so influenced by his Spirit and grace, which has raised them from death to life, that they shall walk in newness of life."
+2. "They are transplanted from a state of nature, and are ingrafted into Christ; have the graces of the Spirit of God implanted in them, and grow up under the dews of grace, and shinings of the sun of righteousness upon them, and bring forth much fruit."
+3. "They shall share in the benefits, and feel and enjoy the effects of [Christ's resurrection]; not only their bodies will be raised at the last day, as their souls are now regenerated by virtue of it, and in resemblance to it; but they are, and shall be so influenced by his Spirit and grace, which has raised them from death to life, that they shall walk in newness of life."
 
 ### John Wesley:
 1. "Surely these two must go together"

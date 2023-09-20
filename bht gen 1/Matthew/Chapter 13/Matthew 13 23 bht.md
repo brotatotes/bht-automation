@@ -1,34 +1,47 @@
 # Matthew 13:23 Commentary Help Text
 
 ## BHT:
-The Bible verse being described is about the significance and practice of truly hearing and understanding the word of God. It emphasizes the importance of actively accepting and comprehending the truth, allowing it to transform one's life. This verse also highlights that those who genuinely receive the word and live according to its teachings will bear the fruit of grace and righteousness, leading to a fruitful and glorifying relationship with God. Additionally, it reminds us that everyone's journey and outcomes may differ, and that God's blessings are distributed in various proportions according to His divine plan.
+The parable described in the commentary speaks of different responses to the word of God. It suggests that those who truly understand and receive the word have been prepared by divine grace. Their acceptance of the truth is an active choice, leading to continued fruitfulness. The parable highlights the importance of the receptiveness of our hearts, as it is not the quantity but the quality of the response that matters. Ultimately, God is the provider of growth and productivity, and our role is to faithfully sow the seeds of His word.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The natural man receiveth not the things of the Spirit of God; but every predisposition to receive them is of God."
+2. "Divine grace is the enabling, vivifying, cleansing power throughout."
+3. "The sowing is not necessarily the first that has ever taken place: the field has been and is continually resown, so that the care of the husbandman is presupposed."
+
 ### Marvin Vincent:
 1. "The good hearer of the word not only listens to it, but also understands its meaning and significance." 
 
 2. "Receiving the word implies accepting it with an open heart and mind, allowing it to penetrate and transform one's life." 
 
-3. "Keeping the word refers to the ongoing practice of living according to its teachings, allowing it to guide and shape one's thoughts, words, and actions."
+3. "Keeping the word involves treasuring it, guarding it, and living in accordance with its teachings."
+
+### John Calvin:
+1. "None are compared by Christ to a good and fertile soil, but those in whom the word of God not only strikes its roots deep and solid, but overcomes every obstacle that would prevent it from yielding fruit."
+2. "Though the produce may not be great, yet every one who does not fall off from the sincere worship of God is reckoned a good and fertile soil."
+3. "We have no right to despise those who occupy a lower degree of excellence; for the master of the house himself, though he gives to one the preference above another on account of more abundant produce, yet bestows the general designation, good, even on inferior soils."
 
 ### Philip Schaff:
-1. "The good ground. This has been prepared." - This quote highlights the idea that the good ground mentioned in the verse is not a result of human effort, but rather a preparation by divine grace. 
+1. "The good ground. This has been prepared." - This quote highlights the idea that the good ground mentioned in the verse is not a result of human effort, but rather a preparation done by divine grace. 
 
-2. "The persons referred to actively and willingly accept and understand the truth." - This quote emphasizes that those who are represented by the good ground are not passive recipients, but actively engage with and comprehend the truth. 
+2. "All is of divine grace, yet the verse plainly teaches that the persons referred to actively and willingly accept and understand the truth." - This quote emphasizes the role of divine grace in the process, but also emphasizes the active participation of individuals in accepting and understanding the truth.
 
-3. "The result being continued fruitfulness." - This quote suggests that the evidence of the good ground is seen in its ability to consistently bear fruit, indicating a sustained and fruitful relationship with God.
+3. "The result being continued fruitfulness." - This quote suggests that the ultimate outcome of accepting and understanding the truth is a life of continued fruitfulness, indicating the transformative power of the message.
+
+### Archibald T Robertson:
+1. "The fruit reveals the character of the tree and the value of the straw for wheat."
+2. "The first three classes have no fruit and so show that they are unfruitful soil, unsaved souls and lives."
+3. "The lesson of the parable as explained by Jesus is precisely this, the variety in the results of the seed sown according to the soil on which it falls."
 
 ### John Gill:
 1. "The hearer compared to good ground into which the seed fell, is he that heareth the word and understandeth it; has a new and spiritual understanding given him, feels the power of it on his heart, enlightening and quickening him."
-2. "This is an heart of flesh, a new and right heart, and spirit; an heart to fear God, to love him, and to trust in him; in which Christ dwells by faith; in which the Spirit of God has his temple; and in which every grace is implanted."
+2. "And this he does in and with 'an honest and good heart'; which no man naturally has; nor can any man make his heart so: this is the work of God, and is owing to his efficacious grace."
 3. "The fruit bore, and brought forth by such an hearer, is the true fruit of grace and righteousness, and is all from Christ, under the influences of the Spirit, through the word and ordinances, as means, and issues in the glory of God."
 
 ### John Wesley:
-1. "Some a hundred fold, some sixty, some thirty" - This phrase highlights the diversity of outcomes in our lives. It reminds us that we each have unique abilities and circumstances, and our results may vary. 
-
-2. "In various proportions; some abundantly more than others" - This quote emphasizes that success is not measured by comparison to others, but by maximizing our own potential. It encourages us to focus on our own growth and progress, rather than being envious of others' achievements. 
-
-3. "That is, in various proportions" - This phrase reminds us that God's blessings are not one-size-fits-all. He distributes them according to His wisdom and our individual capacities. It encourages us to trust in His plan for our lives, knowing that He will provide for us in the way that is best for us.
+1. "The varying yields of the seed represent the different responses people have to the word of God. Some receive it with great enthusiasm and produce a bountiful harvest, while others may only produce a modest or even minimal result."
+2. "This parable reminds us that it is not the quantity of the harvest that matters, but the quality of the soil in which the seed is sown. It challenges us to examine our own hearts and ask ourselves if we are truly receptive to God's word and willing to let it take root and bear fruit in our lives."
+3. "The parable also teaches us that God is the ultimate source of growth and productivity. It is He who gives the increase, and it is our responsibility to faithfully sow the seed and trust in His provision and timing."
 
 
 ## Generation Details

@@ -1,19 +1,24 @@
 # Matthew 14:22 Commentary Help Text
 
 ## BHT:
-The disciples were hesitant to leave Jesus as they recognized his wisdom, authority, and significance. They trusted him as a teacher and leader, not wanting to miss out on the opportunity to learn and grow spiritually. Their attachment and love for Jesus drove their reluctance to be separated from him, highlighting the transformative impact he had on their lives. This event is mentioned in both the Gospel of Mark and the Gospel of John, emphasizing its significance in the disciples' journey with Jesus.
+The disciples' deep attachment to Jesus is evident in their reluctance to leave him, as he constrained them to go to the other side. Jesus' authority and power compelled them, even though they were initially resistant. This event, mentioned in both Mark and John, highlights the disciples' loyalty to Jesus and their willingness to follow him despite their hesitation. It serves as a reminder of the disciples' humanity and their struggle to let go of their earthly desires and attachments.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Mark adds πρὸς Βηθσαϊδάν, John εἰς Καφαρναούμ: for the Bethsaïda, the city of Philip and Andrew and Peter, was distinct from Bethsaïda Julias." 
+
+2. "The miracle took place in the neighborhood of Bethsaïda Julias, in the direction of Capernaum." 
+
+3. "This distinction is important because it helps us understand the geographical context of the miracle."
+
 ### Marvin Vincent:
-1. "The disciples' reluctance to leave Jesus behind is evident in the word 'constrained.' This implies that they were hesitant to part ways with him, perhaps because they recognized his wisdom and authority."
+1. "The disciples' reluctance to leave Jesus behind is evident in their constraint. They are hesitant to part ways with their beloved teacher, knowing that his presence brings them comfort and guidance."
 
-2. "The disciples' desire to stay with Jesus reflects their deep attachment to him and their recognition of his significance. It highlights their understanding that being in his presence was a unique and valuable experience."
+2. "The constraint also highlights the disciples' deep attachment to Jesus. They have grown accustomed to his presence and have come to rely on him for their spiritual nourishment and direction."
 
-3. "The disciples' reluctance to leave Jesus behind also reveals their trust in him as their teacher and leader. They recognized that being with him was an opportunity to learn and grow spiritually, and they did not want to miss out on that."
+3. "This constraint serves as a reminder of the disciples' humanity and their struggle to let go of their earthly desires and attachments. It reflects the tension between their love for Jesus and their fear of the unknown that lies ahead without him."
 
-4. "The disciples' reluctance to leave Jesus behind can also be seen as a reflection of their love for him. They had developed a close bond with him and did not want to be separated from someone they cared about deeply."
-
-5. "The disciples' reluctance to leave Jesus behind serves as a reminder of the impact he had on their lives. It shows that his presence was transformative and that they were willing to go to great lengths to be with him."
+4. "In this verse, the constraint can be seen as a metaphor for the disciples' spiritual journey. It symbolizes the inner conflict they experience as they grapple with the call to follow Jesus and the sacrifices that come with it."
 
 ### John Calvin:
 1. "They must have been constrained; for they would never, of their own accord, have left him, and gone to the other side." 
@@ -21,23 +26,28 @@ The disciples were hesitant to leave Jesus as they recognized his wisdom, author
 3. "We do not truly and perfectly obey God, unless we implicitly follow whatever he commands, though our feelings may be opposed to it."
 
 ### Philip Schaff:
-1. "Some understand by Bethsaida, the city of Andrew and Philip, supposed to be on the western side of the lake; Capernaum being the ultimate point to be reached; it was in 'the land of Gennesaret' (Matthew 14:34). But in that case they would have inquired how He could join them, since there was then no other boat there (John 6:22), and the circuit by land was a long one." 
+1. "Some understand by Bethsaida, the city of Andrew and Philip, supposed to be on the western side of the lake; Capernaum being the ultimate point to be reached; it was in ‘the land of Gennesaret’ (Matthew 14:34). But in that case they would have inquired how He could join them, since there was then no other boat there (John 6:22), and the circuit by land was a long one." 
 
 2. "We therefore infer that He sent them to eastern Bethsaida, which was not far off (Luke 9:10), directing them to await Him there, so that they would cross together to the opposite shore, which they actually did, after the miracle."
 
-3. "They were in an excited condition; hence great prudence, perhaps an exercise of some constraining power was necessary."
+3. "Till he sent the multitudes away. They were in an excited condition; hence great prudence, perhaps an exercise of some constraining power was necessary."
+
+### Archibald T Robertson:
+1. "The explanation for this strong word in Mark 6:45 and Matthew 14:22 is given in John 6:15. It is the excited purpose of the crowd to take Jesus by force and to make him national king."
+2. "The disciples were evidently swept off their feet by the mob psychology for they still shared the Pharisaic hope of a political kingdom."
+3. "With the disciples out of the way Jesus could handle the crowd more easily, till he should send the multitudes away."
 
 ### John Gill:
 1. "As soon as ever he had wrought the above miracle, and perceived that the people were so convinced by it, of his being the Messiah, that they were determined, whether he would or not, to set him up for a temporal king, to deliver them from the Roman yoke."
-2. "Christ was forced to use his power and authority; and order them directly to get into a ship."
+2. "Christ was forced to use his power and authority; and order them directly to get into a ship; very likely, the same they came over in; and to go before him unto the other side of the lake of Tiberias or sea of Galilee, over against Bethsaida, to Capernaum, or the land of Gennesaret."
 3. "He sends away his disciples before him, the better to disperse them, and prevent their designs."
 
 ### John Wesley:
-1. "He constrained his disciples" - This phrase highlights Jesus' authority and power over his disciples. It shows that he had to persuade or compel them to follow him, indicating their initial reluctance or hesitation. This emphasizes the disciples' human nature and their need for guidance and direction from Jesus.
+1. "He constrained his disciples" - This phrase highlights Jesus' authority and power over his disciples. It shows that he had the ability to compel them to do something, even if they were initially unwilling. 
 
-2. "Who were unwilling to leave him" - This statement reveals the disciples' attachment and devotion to Jesus. Despite their initial hesitation, they ultimately chose to stay with him. It demonstrates their loyalty and commitment to their teacher, even in the face of uncertainty or potential challenges.
+2. "Who were unwilling to leave him" - This statement reveals the disciples' attachment and loyalty to Jesus. Despite their reluctance, they were committed to staying with him and following his teachings. 
 
-3. "Mark 6:45; John 6:15" - These references indicate that the event of Jesus constraining his disciples is mentioned in both the Gospel of Mark and the Gospel of John. This highlights the significance of the event and its inclusion in multiple accounts of Jesus' life. It underscores the importance of this moment in the disciples' journey with Jesus and its relevance to the overall narrative.
+3. "Mark 6:45; John 6:15" - These references indicate that the event of Jesus constraining his disciples is mentioned in both the Gospel of Mark and the Gospel of John. This repetition emphasizes the significance of the event and underscores its importance in the disciples' journey with Jesus.
 
 
 ## Generation Details

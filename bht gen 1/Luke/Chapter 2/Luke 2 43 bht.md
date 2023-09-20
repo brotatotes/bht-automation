@@ -1,39 +1,44 @@
 # Luke 2:43 Commentary Help Text
 
 ## BHT:
-In this verse, Mary and Joseph, alongside more devout individuals, fulfill the days of the feast while Jesus tarries behind in Jerusalem. Jesus displays an irresistible longing to remain in the sacred city and the house of God, desiring to hear discourses on Scripture and engage with religious leaders. This act cannot be taken as an example for children to act independently without consulting their parents. Here, we witness Jesus progressing through various stages of life, sanctifying them all except for old age, mirroring his role as the fruit of the womb, an infant, a little child, and a man.
+This verse describes a significant event during the Feast of Unleavened Bread, a time of reflection and gratitude for God's faithfulness and the removal of sin from the Israelites' lives. It connects to the Old Testament laws and traditions, as Jesus' crucifixion and resurrection occurred within the context of these established religious practices. It also illustrates Jesus' intense interest in the services of the temple, and his action of remaining behind shows his understanding and empathy for the human condition, sanctifying every stage of human life except old age.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The seven days of unleavened bread serve as a reminder of the haste in which the Israelites left Egypt, as they did not have time to let their bread rise." 
-2. "The removal of leaven symbolizes the removal of sin from their lives, as leaven is often associated with corruption and impurity in the Bible." 
-3. "Observing the seven days of unleavened bread also serves as a time of consecration and dedication to God, as the Israelites are called to set themselves apart from the ways of the world."
+1. "The seven days of unleavened bread were to be a memorial of their deliverance from Egypt, a time of reflection and gratitude for God's faithfulness." 
+
+2. "The removal of leaven symbolized the removal of sin from their lives, reminding them of the importance of holiness and obedience to God's commands." 
+
+3. "By observing the feast of unleavened bread, the Israelites were not only commemorating their past redemption, but also looking forward to the future fulfillment of God's promises."
 
 ### Jamieson Fausset Brown:
-1. "If the duties of life must give place to worship, worship, in its turn, must give place to them."
-2. "Jerusalem is good, but Nazareth is good, too; let him who neglects the one, on pretext of attending to the other, ponder this scene."
+1. "If the duties of life must give place to worship, worship, in its turn, must give place to them." 
+2. "Jerusalem is good, but Nazareth is good, too; let him who neglects the one, on pretext of attending to the other, ponder this scene." 
 3. "Accustomed to the discretion and obedience of the lad, they might be thrown off their guard."
 
 ### Albert Barnes:
 1. "Had fulfilled the days" refers to the completion of the eight-day period of the Passover, which included the killing of the paschal lamb and the observance of the feast of unleavened bread. 
 
-2. The Passover was a significant event in the Jewish calendar, commemorating the liberation of the Israelites from slavery in Egypt. 
+2. The significance of these days lies in their connection to the Old Testament laws and traditions, specifically Exodus 12:15 and Leviticus 23:5-6.
 
-3. The fulfillment of these days signifies the completion of a sacred and important time of remembrance and celebration for the Jewish people.
+3. This verse highlights the fulfillment of the Passover period, indicating that Jesus' crucifixion and resurrection occurred within the context of the established religious practices and rituals.
 
 ### Marvin Vincent:
-1. "Had fulfilled the days." - This phrase does not necessarily mean that Jesus stayed for the entire seven days of the festival. It implies that he stayed for a significant portion of the festival but may have left before it concluded.
+1. "Had fulfilled the days." - This phrase does not necessarily mean that Jesus stayed for the entire seven days of the festival. It implies that he stayed for a significant portion of the festival, but not necessarily the entire duration.
 
-2. "Not necessarily the whole seven days of the festival." - This commentary clarifies that Jesus' presence at the festival may not have lasted the entire duration of seven days. It suggests that he may have left after a certain point, possibly during the half holidays.
+2. "With the third day commenced the so called half holidays." - On the third day of the festival, the half holidays began. These were days when it was permissible for people to return home. This provides context for understanding the timing of Jesus' departure from the festival.
 
-3. "With the third day commenced the so called half holidays." - The half holidays were a period during the festival when it was permissible for people to return home. This statement provides insight into the festival's customs and traditions, highlighting the significance of the third day as the start of this period.
-
-Overall, this commentary helps to contextualize the verse and provides a deeper understanding of the timeframe and customs surrounding the festival mentioned.
+3. "When it was lawful to return home." - The half holidays were a time when it was legally allowed for people to leave the festival and go back to their homes. This helps explain why Jesus and his disciples were able to leave the festival without violating any laws or customs.
 
 ### Philip Schaff:
 1. "Fulfilled the days. The seven days of the feast." 
 2. "Tarried behind in Jerusalem. This and the next clause are the emphatic parts of the sentence."
 3. "His action was occasioned by an irresistible longing to remain in the sacred city and in the house of God."
+
+### Archibald T Robertson:
+1. "The days" may mean the full seven days, or the two chief days after which many pilgrims left for home.
+2. The articular infinitive with εν, a construction that Luke often uses.
+3. It was not disobedience on the part of "the boy" that made him remain behind, but intense interest in the services of the temple.
 
 ### John Gill:
 1. "Mary and Joseph seem so to have done, as did the more religious and devout persons."
@@ -41,9 +46,9 @@ Overall, this commentary helps to contextualize the verse and provides a deeper 
 3. "This action of Christ is not to be drawn into an example, or precedent for children, to act without consulting, or asking leave of their parents."
 
 ### John Wesley:
-1. "The child Jesus - St. Luke describes in order Jesus the fruit of the womb, Luke 1:42; an infant, Luke 2:12; a little child, Luke 2:40; a child here, and afterward a man." 
-2. "So our Lord passed through and sanctified every stage of human life." 
-3. "Old age only did not become him."
+1. "Jesus the fruit of the womb" - Luke 1:42 - emphasizes the miraculous nature of Jesus' conception and birth, highlighting his divine origin and purpose.
+2. "Our Lord passed through and sanctified every stage of human life" - Luke 2:40 - shows that Jesus experienced and blessed every phase of human existence, from infancy to adulthood, demonstrating his understanding and empathy for the human condition.
+3. "Old age only did not become him" - suggests that Jesus did not experience old age, perhaps indicating that his mission and purpose were fulfilled before reaching that stage of life.
 
 
 ## Generation Details

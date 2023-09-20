@@ -1,43 +1,61 @@
 # Galatians 6:8 Commentary Help Text
 
 ## BHT:
-"He who indulges in selfish desires and worldly pursuits will ultimately reap corruption and destruction, while those who invest in spiritual growth, obey God, and pursue righteousness will reap the reward of eternal life. The choice to sow seeds in the flesh leads to blighted and rotten fruit, while sowing seeds in the Spirit yields sweet and healthy fruit. By following the guidance of the Holy Spirit in all aspects of life, one can experience a transformative and fruitful existence."
+The act of sowing is highlighted in this verse, emphasizing the intentional and ongoing nature of our actions. The location in which the seed is sown, whether among thorns or in the flesh, indicates the potential challenges and obstacles we may face. There is a clear distinction between sowing to the flesh and sowing to the Spirit, with the former leading to corruption and decay, and the latter leading to eternal life. Ultimately, our choices and actions determine the outcomes we reap.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "He that soweth, is now sowing." - This quote emphasizes the present action of sowing, highlighting the ongoing nature of the process and the intentionality behind it.
+
+2. "Drops his seed into... among the thorns." - This quote clarifies the location where the seed is being sown, indicating the potential challenges and obstacles that may arise.
+
+3. "The flesh is a prey to corruption, and with it all fleshly desires and practices come to nothing." - This quote explains the concept of corruption and its implications for the desires and actions rooted in the flesh.
+
+4. "In the stronger sense of φθορά... destruction." - This quote presents an alternative interpretation of φθορά, suggesting a more intense and severe form of destruction.
+
+5. "See Romans 8:11; Romans 8:15-17." - This quote directs readers to other passages in the Bible that further explore the themes and concepts discussed in the commentary.
+
 ### Jamieson Fausset Brown:
-1. "He that soweth unto his own flesh," with a view to fulfilling its desires. He does not say, "His spirit," as he does say, "His flesh." For in ourselves we are not spiritual, but carnal. The flesh is devoted to selfishness.
-2. The use of the term "corruption" instead, implies that destruction is not an arbitrary punishment of fleshly-mindedness, but is its natural fruit; the corrupt flesh producing corruption, which is another word for destruction: corruption is the fault, and corruption the punishment.
-3. Men cannot mock God because they can deceive themselves. They who sow tares cannot reap wheat. They alone reap life eternal who sow to the Spirit.
+1. "He that soweth unto his own flesh... The flesh is devoted to selfishness." 
+2. "The use of the term 'corruption' instead, implies that destruction is not an arbitrary punishment of fleshly-mindedness, but is its natural fruit."
+3. "Future life only expands the seed sown here. Men cannot mock God because they can deceive themselves. They who sow tares cannot reap wheat. They alone reap life eternal who sow to the Spirit."
 
 ### Albert Barnes:
 1. "He who makes use of his property to give indulgence to licentiousness, intemperance, and vanity."
 2. "The punishment of licentiousness and intemperance in this life is commonly loathsome and offensive disease."
-3. "But if the punishment does not follow in this life, it will be sure to overtake the sensualist in the world to come."
-4. "Everything in hell is debased and corrupt; and the whole harvest of sensuality in this world and the world to come, is degradation and defilement."
-5. "He who follows the leadings and cultivates the affections which the Holy Spirit would produce."
-6. "Shall of the Spirit - As the result of following the leadings of the Spirit."
-7. "Reap life everlasting."
+3. "Everything in hell is debased and corrupt; and the whole harvest of sensuality in this world and the world to come, is degradation and defilement."
+
+### Marvin Vincent:
+1. "His own, because the idea of personal, selfish desire is involved."
+2. "Primarily, destruction, ruin; but it also has the sense of deterioration, decay."
+3. "The Holy Spirit: not the higher nature of man."
+
+### John Calvin:
+1. "To sow to the flesh, is to look forward to the wants of the present life, without any regard to a future life."
+2. "They who do this will gather fruit corresponding to the seed which they have sown, — will heap up that which shall miserably perish."
+3. "By the spirit I understand the spiritual life, to which they are said to sow whose views are directed more to heaven than to earth, and whose life is regulated by the desire of reaching the kingdom of God."
 
 ### Philip Schaff:
-1. "He that soweth unto his own flesh shall from the flesh reap corruption." - This quote emphasizes the consequences of sowing seeds in the realm of our sinful nature. It highlights that when we indulge in selfish desires and worldly pursuits, we will ultimately reap corruption and destruction.
+1. "He that soweth unto (upon) his own flesh shall from the flesh reap corruption." - This quote highlights the consequence of sowing seeds in the realm of our sinful nature. It emphasizes that when we invest in satisfying our fleshly desires, we will ultimately experience decay and destruction.
 
-2. "He that soweth unto the Spirit shall from the Spirit reap life eternal." - This quote highlights the alternative choice of sowing seeds in the realm of the Holy Spirit. It emphasizes that when we invest in spiritual growth, obedience to God, and the pursuit of righteousness, we will reap the reward of eternal life.
+2. "But he that soweth unto (upon) the Spirit shall from the Spirit reap life eternal." - This quote contrasts the previous one by emphasizing the outcome of sowing seeds in alignment with the Holy Spirit. It suggests that when we invest in spiritual pursuits and live according to God's will, we will reap the reward of eternal life.
 
-3. "The soil of the flesh yields blighted and rotten fruit; the soil of the Holy Spirit yields sweet and healthy fruit." - This quote draws a contrast between the outcomes of sowing seeds in the flesh versus sowing seeds in the Spirit. It vividly illustrates the stark difference between the negative consequences of living according to our sinful nature and the positive outcomes of living in alignment with the Holy Spirit.
+3. "The soil of the flesh... yields blighted and rotten fruit; the soil of the Holy Spirit yields sweet and healthy fruit, even eternal happiness and peace." - This quote vividly illustrates the stark contrast between the results of sowing in the flesh and sowing in the Spirit. It emphasizes that our choices and actions have significant consequences, and aligning ourselves with the Holy Spirit leads to a fruitful and fulfilling life.
+
+### Archibald T Robertson:
+1. "The precise meaning turns on the context, here plainly the physical and moral decay or rottenness that follows sins of the flesh as all men know."
+2. "Nature writes in one's body the penalty of sin as every doctor knows."
+3. "It comes as nearly meaning 'eternal' as the Greek can express that idea."
 
 ### John Gill:
 1. "He that soweth to his flesh... is such an one that pampers his flesh, gratifies and indulges the lusts of it, who minds the things of the flesh, lives after it, and does the works of it." 
-2. "Shall of the flesh reap corruption; shall by such carnal methods procure for himself, in this world, nothing but what is corruptible."
-3. "But he that soweth to the Spirit... that minds and savours the things of the Spirit, lives in the Spirit, and walks in the Spirit."
-4. "Shall of the Spirit reap life everlasting; in the use of such spiritual means... he shall attain to, and enjoy eternal happiness in the other world."
-5. "By and of him sanctifying him, and making him meet for it, and not of himself, or any works of righteousness done by him, shall he inherit eternal life."
+2. "Shall of the flesh reap corruption; shall by such carnal methods procure for himself, in this world, nothing but what is corruptible, as silver and gold be, and such treasure as moth and rust corrupt."
+3. "But he that soweth to the Spirit... that lays out his worldly substance in promoting spiritual things, in encouraging the spiritual ministers of the word, in supporting the interest of spiritual religion, in relieving the poor of Christ's churches, in contributing to the spread of the Gospel... shall of the Spirit reap life everlasting."
 
 ### John Wesley:
-1. "He that now soweth to the flesh... Shall hereafter of the flesh reap corruption." - This quote emphasizes the consequences of indulging in worldly desires and following the corrupt nature. It highlights the inevitability of reaping destruction and eternal death as a result.
-
-2. "But he that soweth to the Spirit... Shall of the Spirit reap life everlasting." - This quote highlights the alternative path of sowing to the Spirit, which involves following God's guidance and living a life aligned with His will. It emphasizes the promise of reaping eternal life through the grace and power of God.
-
-3. "That follows his guidance in all his tempers and conversation." - This quote emphasizes the importance of aligning one's actions, attitudes, and speech with the guidance of the Holy Spirit. It suggests that a life lived in accordance with the Spirit involves a holistic transformation of character and behavior.
+1. "Sowing to the flesh means indulging in the desires and cravings of our sinful nature, which leads to corruption and ultimately, eternal death."
+2. "On the other hand, sowing to the Spirit involves submitting to God's guidance in every aspect of our lives, resulting in the harvest of eternal life."
+3. "The consequences of our actions are determined by the seed we sow - either the corrupt seed of the flesh or the life-giving seed of the Spirit."
 
 
 ## Generation Details

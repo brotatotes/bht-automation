@@ -1,7 +1,7 @@
 # Romans 8:36 Commentary Help Text
 
 ## BHT:
-In this verse, the commentator draws upon the sufferings of God's people throughout history, emphasizing that the challenges faced by the psalmist are not unique. The commentary emphasizes the relentless nature of the struggles, as they are faced "every day," and that the psalmist is constantly subjected to scrutiny and judgment both from their enemies and from within themselves. By referencing Psalm 44:22, the commentator indicates that this verse is part of a larger context that delves further into the experiences of God's people in the face of persecution.
+Throughout history, God's faithful people have endured trials and sufferings similar to those faced by the saints of old. The verse in question describes the treatment believers can expect from their enemies, emphasizing that their adversaries will stop at nothing in their animosity towards righteousness. This unwavering hatred may even lead to the perception that believers deserve to be treated as sheep for slaughter. Despite facing continuous martyrdom, the verse reminds us that we are not alone in our struggles, as it reflects the universal experience of feeling misunderstood and judged by others.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,19 +10,31 @@ In this verse, the commentator draws upon the sufferings of God's people through
 3. "What, if we verify the ancient description?"
 
 ### Jamieson Fausset Brown:
-1. "For thy sake, &c." - This quote highlights the reference to Psalms 44:22, indicating that the commentary is drawing from the Old Testament to provide insight into the verse.
-2. "Descriptive of what God's faithful people may expect from their enemies" - This quote emphasizes the commentary's focus on the experiences and challenges faced by believers when confronted by adversaries.
-3. "There is nothing to restrain it" - This quote suggests that the commentary acknowledges the potential intensity and unrestrained nature of the hatred that enemies may have towards those who uphold righteousness.
+1. "For thy sake, &c." - This quote from Psalms 44:22 is used to illustrate the kind of treatment God's faithful people can expect from their enemies when their hatred of righteousness is stirred. 
+
+2. "Descriptive of what God's faithful people may expect from their enemies." - This quote emphasizes that the verse serves as a description of the treatment believers can anticipate from their adversaries.
+
+3. "There is nothing to restrain it." - This quote highlights the idea that when the enemies' animosity towards righteousness is unleashed, there are no limits or restraints to their actions.
+
+### Albert Barnes:
+1. "The condition of saints in the time of the psalmist was similar to that of Christians in the time of Paul."
+2. "We endure sufferings equivalent to dying."
+3. "Our enemies judge that we ought to die, and deem us the appropriate subjects of slaughter, with as little concern or remorse as the lives of sheep are taken."
 
 ### John Calvin:
-1. "He intimates, that the dread of death is so far from being a reason to us for falling away, that it has been almost ever the lot of God's servants to have death as it were present before their eyes."
+1. "The dread of death is so far from being a reason to us for falling away, that it has been almost ever the lot of God’s servants to have death as it were present before their eyes."
 2. "It is no new thing for the Lord to permit his saints to be undeservedly exposed to the cruelty of the ungodly."
 3. "By saying that they died daily, they intimated that death was so suspended over them, that their life differed but little from death."
 
 ### Philip Schaff:
-1. "The whole Psalm refers to the sufferings of God's people, and the verse, even if not directly prophetic, is typical of the treatment the world bestows on God's children."
-2. "The special point proven by the quotation is the danger of the 'sword,' since to this extremity persecution had gone in the case of the saints of old."
+1. "The whole Psalm refers to the sufferings of God’s people, and the verse, even if not directly prophetic, is typical of the treatment the world bestows on God’s children."
+2. "The special point proven by the quotation is the danger of the ‘sword,’ since to this extremity persecution had gone in the case of the saints of old."
 3. "Because thus reckoned as sheep destined for slaughter, they were killed all the day long."
+
+### Archibald T Robertson:
+1. "He quotes Psalms 44:23."
+2. "Same idea of continuous martyrdom in 1 Corinthians 15:31."
+3. "Objective genitive (σφαγης)."
 
 ### John Gill:
 1. "For the sake of God, and his pure worship, Old Testament saints were frequently put to death, or exposed to the persecutions of men, which often issued in death."
@@ -30,11 +42,9 @@ In this verse, the commentator draws upon the sufferings of God's people through
 3. "They were reckoned as fit for nothing else, and were continually exposed unto it; were used as sheep are, as if they were made for no other use and service, but to be slaughtered."
 
 ### John Wesley:
-1. "All the day — That is, every day, continually." This quote emphasizes the enduring nature of the struggles faced by the psalmist, suggesting that their hardships are not temporary but rather a constant presence in their lives.
-
-2. "We are accounted — By our enemies; by ourselves." This quote highlights the dual perspective from which the psalmist is being judged. They are not only being scrutinized and judged by their enemies but also by themselves, indicating a deep sense of self-reflection and self-criticism.
-
-3. "Psalm 44:22." This quote simply references the specific verse being commented on, allowing readers to easily locate and explore the verse in its entirety for a more comprehensive understanding.
+1. "All the day" signifies a continuous and unceasing state of being. It implies that the struggles and challenges faced by the psalmist are not temporary, but rather a constant presence in their life.
+2. The phrase "we are accounted" highlights the perception of the psalmist by both their enemies and themselves. It suggests that they are seen as weak, vulnerable, and perhaps even deserving of their hardships.
+3. Psalm 44:22 captures the universal experience of feeling misunderstood and judged by others. It reminds us that even in our darkest moments, we are not alone in our struggles.
 
 
 ## Generation Details

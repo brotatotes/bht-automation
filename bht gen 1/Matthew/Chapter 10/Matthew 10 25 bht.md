@@ -1,15 +1,18 @@
 # Matthew 10:25 Commentary Help Text
 
 ## BHT:
-In this verse, Jesus encourages his disciples to expect to face the same treatment that he himself faces. The disciples are to imitate their master while servants are to imitate their lord. Jesus is referred to as "Beelzebul," a term of reproach associated with Satan and demonic worship. The verse highlights the close bond between Jesus and his followers, with Jesus being the teacher, lord, and master of his people. It also emphasizes the certainty and inevitability of reproach and persecution for those who follow Christ.
+In this verse, the commentators shed light on the meaning behind the phrases used. They explain that Beelzebub was a derogatory term used to insult and discredit, highlighting the contemptuous nature of the accusations against Jesus. The commentators also emphasize the certainty of reproach and persecution that disciples of Christ will face, emphasizing the need for perseverance and not being surprised or discouraged when encountering hardships. Overall, the verse highlights the parallel between the treatment of Jesus and His followers, reminding believers of the challenges they may encounter in their journey of discipleship.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Beelzebub, a name by which the prince of the devils was called by the Jews." 
+2. "In those places they had not literally called Him Beelzebub, but He speaks of their mind and intention in those charges." 
+3. "They may however have literally done so on other unrecorded occasions."
+
 ### Jamieson Fausset Brown:
-1. "It is enough for the disciple that he be as his master, and the servant as his lord." - This quote emphasizes the expectation that disciples should strive to be like their master and servants should be like their lord. It highlights the importance of following the example set by Jesus.
-
-2. "As all idolatry was regarded as devil worship, so there seems to have been something peculiarly satanic about the worship of this hateful god, which caused his name to be a synonym of Satan." - This quote provides insight into the significance of the name "Beelzebul" and its association with Satan. It suggests that the worship of this god was particularly demonic and explains why it was used as an insult against Jesus.
-
-3. "Three relations in which Christ stands to His people are here mentioned: He is their Teacher, He is their Lord, He is the Master of the household." - This quote highlights the different roles that Jesus plays in relation to his followers. It emphasizes the close bond between Jesus and his disciples, servants, and household members, suggesting that they should expect to face similar treatment.
+1. "It is enough for the disciple that he be as his master, and the servant as his lord." 
+2. "As all idolatry was regarded as devil worship, so there seems to have been something peculiarly satanic about the worship of this hateful god, which caused his name to be a synonym of Satan."
+3. "Three relations in which Christ stands to His people are here mentioned: He is their Teacher—they His disciples; He is their Lord—they His servants; He is the Master of the household—they its inmates."
 
 ### Marvin Vincent:
 1. "Jesus calls himself 'the Master of the house,' and the Jews apply to him the corresponding title of the Devil, Heb., Beelzebul, Master of dwelling."
@@ -19,24 +22,33 @@ In this verse, Jesus encourages his disciples to expect to face the same treatme
 ### John Calvin:
 1. "Though he bestows on them the honor of calling them brethren, yet he is the first-born and head of the whole church; and, in short, he possesses supreme government and power."
 2. "Nothing, therefore, can be more unreasonable than to wish to be accounted believers, and yet to murmur against God when he conforms us to the image of his Son."
-3. "We carry our delicacy and tenderness to excess, if we account it a hardship to endure reproaches to which our Prince willingly submitted."
+3. "We carry our delicacy and tenderness to excess if we account it a hardship to endure reproaches to which our Prince willingly submitted."
 
-Note: The provided commentary is quite long, so I have selected three quotes that I believe provide valuable insights into the verse.
+(Note: These quotes have been edited for length and clarity)
 
 ### Philip Schaff:
-1. "Beelzebul means either, (1) 'lord of dung,' the word being changed from Beelzebub to Beelzebul to admit of this contemptuous sense; or (2) 'lord of the habitation.' The latter corresponds better with the expression, 'master of the house.'"
+1. "Beelzebul means either, (1) 'lord of dung,' the word being changed from Beelzebub to Beelzebul to admit of this contemptuous sense."
 2. "Satan is referred to, but with a special reference to the indwelling of evil spirits in man; Satan being their lord."
 3. "This view agrees with the allusions to a 'house' in connection with the casting out of devils."
 
 ### Archibald T Robertson:
-1. "Beelzebub, an opprobrious epithet, is a term of reproach with an exact form and meaning that has given more trouble to commentators than it is all worth." 
-2. "The etymology of Beelzebub is unknown, with various interpretations including 'lord of a dwelling,' 'lord of flies,' 'lord of dung,' or 'lord of idolatrous sacrifices.'"
-3. "Beelzebub is mentioned in Matthew 12:24 as a term used to accuse Jesus of casting out demons by the power of the prince of demons."
+1. "Beelzebub, whether it means 'lord of a dwelling' or 'lord of flies' or 'lord of dung' or 'lord of idolatrous sacrifices,' is undoubtedly a term of reproach." 
+
+2. "The exact form of the word and meaning of the name have given more trouble to commentators than it is all worth." 
+
+3. "Beelzebub is an opprobrious epithet, a term used to insult and discredit."
+
+### John Gill:
+1. "A disciple should think himself very well off, be entirely satisfied, yea, abundantly thankful, if he meets with no worse treatment than his master."
+2. "If they have called the master of the house Beelzebub, how much more shall they call them of the household?"
+3. "If Christians are called by ever such hard names, even devils, they should not be disturbed at it; since their lord and master was called the prince of them."
 
 ### John Wesley:
-1. "How much more" refers to the certainty of reproach and persecution, rather than the quantity of it.
-2. The servant cannot be above his lord in terms of reproach and persecution.
-3. The verse emphasizes the inevitability of facing reproach and persecution as a follower of Christ.
+1. "How much more" - This phrase emphasizes the certainty of reproach and persecution that the servant of the Lord will face. It highlights the inevitability of facing challenges and opposition in following Christ.
+
+2. "Cannot refer to the quantity" - The phrase "how much more" does not imply an increase in the amount of reproach and persecution, but rather underscores the absolute certainty of encountering them. It reminds believers that they should not be surprised or discouraged when facing hardships.
+
+3. "The servant cannot be above his lord" - This statement reminds us that as followers of Christ, we should not expect to be exempt from the same trials and tribulations that Jesus Himself endured. It serves as a reminder of our need to persevere and remain faithful in the face of opposition.
 
 
 ## Generation Details

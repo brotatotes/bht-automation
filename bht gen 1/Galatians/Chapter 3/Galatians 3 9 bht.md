@@ -1,12 +1,17 @@
 # Galatians 3:9 Commentary Help Text
 
 ## BHT:
-The verse being described here emphasizes that only those who truly believe, who have faith, are the ones who will be blessed. It highlights the importance of faith, as it was the prominent characteristic of Abraham, who received the blessings through his belief. Believers are regarded as being in fellowship with Abraham, sharing in the same blessings that he received by faith. Faith is the key that unlocks the promises of God and unites believers with Christ, making them heirs of God's promises and recipients of eternal life.
+The verse emphasizes that faith, not works of the law, is the key to sharing in Abraham's blessing. Believers are united with Abraham in faith, personally characterized by their belief. By having faith, believers become partakers of the same blessings of eternal life and justification as Abraham. This close and intimate relationship with the faithful is sealed by their union in faith, making them heirs to the promises of God and beneficiaries of a justifying righteousness in Christ.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "A share in Abraham's blessing must be the accompaniment of faith, not of works of the law." 
+2. "πίστεως has the emphasis." 
+3. "To show their community with him in the blessing: τῷ πιστῷ, to show wherein the community consists, viz. FAITH."
+
 ### Jamieson Fausset Brown:
 1. "They—and they alone." 
-2. "Faithful—implying what it is in which they are 'blessed together with him,' namely, faith, the prominent feature of his character." 
+2. "Faithful—implying what it is in which they are 'blessed together with him,' namely, faith, the prominent feature of his character."
 3. "The result to all who like him have it, is justification."
 
 ### Albert Barnes:
@@ -25,16 +30,21 @@ The verse being described here emphasizes that only those who truly believe, who
 3. "The word Blessing is variously employed in Scripture: but here it signifies Adoption into the inheritance of eternal life."
 
 ### Philip Schaff:
-1. "The emphasis lies on faith" - This highlights the central theme of the verse, which is the importance of faith in the context of salvation and righteousness.
-2. "Faith is the key that unlocks the promises of God" - This quote emphasizes that faith is not just a passive belief, but an active trust that allows believers to access the promises and blessings of God.
-3. "Faith unites us with Christ and makes us heirs of God's promises" - This statement underscores the transformative power of faith, as it not only connects us to Christ but also grants us the privilege of being heirs to the promises of God.
+1. "Faith is the key that unlocks the blessings of God in our lives." 
+2. "It is through faith that we are counted as children of Abraham, heirs to the promises of God." 
+3. "Our faith in Christ unites us with the faith of Abraham, making us partakers of the same blessings and inheritance."
 
 ### Archibald T Robertson:
-1. "With (συν). Along with, in fellowship with." This quote highlights the idea that believers are not alone in their faith, but are united with others in fellowship and community.
+1. "In fellowship with" suggests a close and intimate relationship with the faithful. 
 
-2. "The faithful (τω πιστω). Rather, 'the believing'." This quote clarifies that the term "faithful" refers to those who have faith and believe in God, emphasizing the importance of belief in the context of the verse.
+2. "The believing" emphasizes the active and ongoing nature of faith, rather than a one-time event. 
 
-3. "The believing" (cf. verse Galatians 3:6). This quote draws a connection to another verse in Galatians, emphasizing the consistency and continuity of the theme of belief throughout the book.
+3. This verse highlights the importance of being united with other believers in faith.
+
+### John Gill:
+1. "They are blessed with a justifying righteousness in Christ as he was, and will be blessed with eternal life as he is."
+2. "The character of 'faithful' given to him, respects not his uprightness and integrity among men, but his faith in God."
+3. "Nor can the Jews of all men find fault with this interpretation of the apostle's, since they themselves interpret the above clause of some particular persons of the nations of the world."
 
 ### John Wesley:
 1. "All they, and they only, who are of faith - Who truly believe."

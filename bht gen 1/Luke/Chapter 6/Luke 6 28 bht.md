@@ -1,15 +1,20 @@
 # Luke 6:28 Commentary Help Text
 
 ## BHT:
-This verse urges us to respond to those who speak ill of us with kindness and blessings, rising above negativity as we extend love and grace to even those who may not deserve it. It also teaches us to pray for those who mistreat us, responding to hatred with love and seeking the transformation of those who harm us. This reminder is rooted in the example set by Jesus himself, who responded to persecution and betrayal with love and forgiveness, showing us the way to navigate adversity with grace and compassion.
+In this verse, there is an emphasis on responding to mistreatment and negative words with kindness and blessings. It challenges us to rise above the negativity and extend love even to our enemies. Additionally, the importance of praying for those who mistreat us is highlighted, as prayer has the power to transform hearts and bring about reconciliation. This teaching is reinforced by Christ's example, as he not only taught these principles but also lived them out in his own life, serving as a model for us to emulate.
 
 ## Choicest Commentary Quotes:
+### Archibald T Robertson:
+1. "Despitefully use you" refers to those who mistreat or harm others intentionally and with ill will.
+2. The verb "despitefully use" is not found in the Gospel of Matthew but is used in this verse and in 1 Peter 3:16.
+3. The phrase "despitefully use you" implies that the mistreatment is deliberate and done with malicious intent.
+
 ### John Gill:
-1. "Bless them that curse you" - This verse encourages us to respond to those who speak ill of us with kindness and blessings. It reminds us to rise above the negativity and extend love and grace even to those who may not deserve it.
+1. "Bless them that curse you..." - This verse encourages us to respond to those who speak ill of us with kindness and blessings. It challenges us to rise above the negativity and extend love even to our enemies.
 
-2. "Pray for them which despitefully use you" - This phrase reminds us to pray for those who mistreat us or treat us with hostility. It teaches us to respond to hatred with love and to seek the well-being and transformation of those who harm us.
+2. "...pray for them which despitefully use you..." - The commentary highlights the importance of praying for those who mistreat us. It reminds us that prayer has the power to transform hearts and bring about reconciliation, even in the face of hostility.
 
-3. "Christ himself did" - This statement highlights the example set by Jesus himself. It reminds us that even in the face of persecution and betrayal, Jesus responded with love and forgiveness. It encourages us to follow his example and respond to adversity with grace and compassion.
+3. "Christ himself did..." - This reference to Christ's example emphasizes the significance of following His teachings. It reminds us that Jesus not only taught these principles but also lived them out in His own life, serving as a model for us to emulate.
 
 
 ## Generation Details

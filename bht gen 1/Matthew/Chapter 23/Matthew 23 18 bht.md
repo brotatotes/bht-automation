@@ -1,11 +1,16 @@
 # Matthew 23:18 Commentary Help Text
 
 ## BHT:
-In this Bible verse, commentators shed light on the significance of swearing by the altar. Marvin Vincent explains that the rendering of the word "guilt" relates to the sense of payment or recompense. John Calvin emphasizes that the oath emphasizes the value of the temple and the honor due to God. Philip Schaff notes that the order of hallowed things is reversed, while John Gill highlights the common practice of swearing by the altar and the obligation to fulfill such an oath. This verse highlights the weight and consequences of swearing by the altar in the temple.
+In this Bible verse, there is a mention of an altar, specifically the altar of burnt-offerings located in the court of the priests. This altar is significant because it is where all the animals and offerings of the temple are sacrificed. It is a sacred and valuable place, as it is the authorized altar in the temple. Not only does God allow Himself to be called as a witness and judge through the symbols of His presence, but swearing by the altar is also a serious matter that carries weight and obligation.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "The altar of burnt-offerings, in the court of the priests."
+2. "On this altar were offered all the beasts and bloody oblations of the temple."
+3. "The gift or offering made to God, so called because it was devoted or 'given' to him."
+
 ### Marvin Vincent:
-1. "In the rendering of this word the A. V. seems to have been shaped by the earlier and now obsolete sense of guilt, which was probably a fine or payment."
+1. "The A. V. seems to have been shaped by the earlier and now obsolete sense of guilt, which was probably a fine or payment."
 2. "There is a hint of this sense in Shakspeare, Henry Xiv (Second Part), Acts 4:0 Sc. 4 'England shall double gild his treble guilt,' where the play upon the words hovers between the sense of bedeck and recompense."
 3. "Wyc. renders oweth, and Tynd., he is debtor. Rev., he is a debtor."
 

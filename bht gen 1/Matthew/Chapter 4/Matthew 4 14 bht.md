@@ -1,18 +1,23 @@
 # Matthew 4:14 Commentary Help Text
 
 ## BHT:
-This prophecy highlights the divine authority and sovereignty of Jesus, emphasizing His role as the long-awaited Messiah who brings light and salvation to a troubled world. It symbolizes the spiritual darkness and distress of humanity, from which Jesus, as the light of the world, offers hope and deliverance. The mention of a despised region signifies Jesus' willingness to reach out to the lowly, exemplifying His redemption for all. Fulfilling this prophecy not only demonstrates Jesus' mission but also reveals God's higher plan.
+This verse highlights the divine plan and purpose behind Jesus' ministry on earth, serving as a reminder that he is the light that shines in the darkness, bringing hope and salvation to all who believe in him. It also emphasizes the significance of Jesus' ministry in the region of Galilee, where he would begin his work of preaching, teaching, and performing miracles. The fulfillment of this prophecy reveals God's higher purpose and brings honor and glory to the land of Israel through the Messiah's presence and conversation.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The fulfillment of this prophecy highlights the divine authority and sovereignty of Jesus. It demonstrates that He is the long-awaited Messiah, the one who brings light and salvation to a dark and troubled world."
-2. "The darkness mentioned in the prophecy symbolizes the spiritual darkness and distress that humanity experiences. Jesus, as the light of the world, brings hope, guidance, and deliverance from this darkness."
-3. "The mention of Galilee in the prophecy is significant because it was a region considered to be despised and insignificant. Jesus choosing to begin His ministry there shows His willingness to reach out to the lowly and marginalized, bringing redemption to all."
+1. "The fulfillment of this prophecy highlights the divine plan and purpose behind Jesus' ministry on earth."
+2. "Isaiah's words serve as a reminder that Jesus is the light that shines in the darkness, bringing hope and salvation to all who believe in him."
+3. "This prophecy also emphasizes the significance of Jesus' ministry in the region of Galilee, where he would begin his work of preaching, teaching, and performing miracles."
 
 ### Philip Schaff:
-1. "The purpose of fulfilling prophecy ever involves the higher purpose of carrying out God's plan thus revealed."
-2. "An independent and free translation."
-3. "The Septuagint is quite incorrect here."
+1. "The purpose of fulfilling prophecy ever involves the higher purpose of carrying out God’s plan thus revealed."
+2. "An independent and free translation. The Septuagint is quite incorrect here."
+3. "Isaiah the prophet (Isaiah 9:1-2)."
+
+### John Gill:
+1. "Christ's dwelling in Capernaum accomplished a prophecy of the prophet Isaiah 9:1"
+2. "The meaning of which prophecy is that as those parts of the land of Israel had suffered much, they should be honored and made very glorious by the presence and conversation of the Messiah among them."
+3. "The ancient Jews expected the Messiah to make his first appearance in Galilee, which must be grounded on this prophecy."
 
 
 ## Generation Details

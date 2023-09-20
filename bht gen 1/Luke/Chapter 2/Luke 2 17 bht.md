@@ -1,32 +1,47 @@
 # Luke 2:17 Commentary Help Text
 
 ## BHT:
-The shepherds, having witnessed the birth of Jesus, were not content to keep the news to themselves. With eagerness and urgency, they made known the angelic message about the child's birth and his divine purpose. Their immediate proclamation of the Messiah's arrival highlights their significant role as the first evangelists, entrusted by God to spread the good news. Their testimony, shared before returning to their flocks, emphasized the miraculous events surrounding Jesus' birth and the fulfillment of prophecies.
+The shepherds wasted no time in becoming the first evangelists, eagerly spreading the news of Jesus' birth and proclaiming the Messiah in the temple. They provided evidence to satisfy others and confirmed the fulfillment of prophecies. As messengers sent by God, they shared what they had seen and heard, becoming a sort of secondary angels in confirming our faith. Their urgency and sincerity in proclaiming the good news sets an example for all who are newly converted to God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Made known abroad" - The shepherds were not content to keep the news of the birth of Jesus to themselves. They eagerly shared the good news with others, becoming the first evangelists. This highlights their excitement and sense of urgency to spread the message.
+1. "Made known abroad" - The shepherds wasted no time in spreading the news of Jesus' birth. They became the first evangelists, eagerly sharing the good news with others.
 
-2. "Before their return" - The shepherds did not delay in sharing the news. They immediately went out and proclaimed what they had seen and heard, not waiting until they had returned to their flocks. This shows their eagerness to share the incredible experience they had witnessed.
+2. "Before their return" - The shepherds did not keep this incredible experience to themselves. They shared it with others before going back to their daily lives. Their urgency and enthusiasm in spreading the news is commendable.
 
-3. "The first evangelists" - The shepherds played a significant role in the early proclamation of the gospel. They were chosen by God to be the first messengers of the good news of Jesus' birth. This emphasizes the importance of their testimony and the divine plan to use ordinary people to spread the message of salvation.
+3. "The first evangelists" - The shepherds were chosen by God to be the first messengers of the Gospel. Their role in proclaiming the birth of Jesus highlights the importance of sharing the good news and the responsibility that comes with being a witness for Christ.
+
+### Albert Barnes:
+1. "There was evidence enough to satisfy 'them' that what the angels said was true, or they would not have gone to Bethlehem."
+2. "Having seen the child themselves, they had now evidence that would satisfy others; and accordingly they became the first preachers of the 'gospel,' and went and proclaimed to others that the Messiah had come."
+3. "One of the first duties of those who are newly converted to God, and a duty in which they delight, is to proclaim to others what they have seen and felt."
 
 ### Marvin Vincent:
-1. "These shepherds, having charge of flocks devoted to sacrifice, would presently be in the temple." 
-2. "They would meet those who came to worship and to sacrifice, and so proclaim the Messiah in the temple."
-3. "They made known...and would meet those who came to worship and to sacrifice, and so proclaim the Messiah in the temple."
+1. "They made known." - The shepherds immediately shared the news of the Messiah's birth, spreading the message of hope and salvation. 
+
+2. "Having charge of flocks devoted to sacrifice." - These shepherds were responsible for caring for the sacrificial lambs, symbolizing the ultimate sacrifice of Jesus. 
+
+3. "Proclaim the Messiah in the temple." - By sharing the news in the temple, the shepherds affirmed the fulfillment of prophecies and announced the arrival of the long-awaited Messiah.
+
+### John Calvin:
+1. "They honestly delivered to others what they had received from the Lord; and it was advantageous to all of us that they should attest this, and should be a sort of secondary angels in confirming our faith."
+2. "The Lord gave efficacy to what they said, that it might not be ridiculed or despised; for the low rank of the men diminished their credit, and the occurrence itself might be regarded as fabulous."
+3. "The design of publishing this report was not so much for their salvation, as to render the ignorance of the whole people inexcusable."
 
 ### Philip Schaff:
-1. "They made known abroad. This indicates that they narrated the matter to others than Mary and Joseph, perhaps before their return to their flocks."
+1. "They made known abroad...perhaps before their return to their flocks." 
 2. "The saying, or, 'concerning the saying,' i.e., of the angels."
 3. "This was the first gospel message told by men."
+
+### Archibald T Robertson:
+1. "Made known (εγνωρισαν). To others (verse Luke 2:18) besides Joseph and Mary." 
+2. "The verb is common from Aeschylus on, from the root of γινωσκω (to know)." 
+3. "It is both transitive and intransitive in the N.T."
 
 ### John Gill:
 1. "They made known abroad... the saying which was told them concerning this child." 
 2. "Both what the angel had told them concerning his birth, and what he was, and where he lay."
-3. "What Mary had told them concerning the notice she had from an angel of the conception of him, and the manner of it, and of what he should be."
-
-These quotes highlight the actions of Joseph and Mary in sharing the miraculous events surrounding Jesus' birth with others. They spread the word about the angelic messages and the significance of Jesus' birth, emphasizing the divine nature of his conception and his role as the Savior.
+3. "They could not fail of relating to them, what they had seen and heard that night in the fields."
 
 
 ## Generation Details

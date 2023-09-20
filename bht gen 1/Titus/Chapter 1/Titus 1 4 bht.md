@@ -1,35 +1,34 @@
 # Titus 1:4 Commentary Help Text
 
 ## BHT:
-The verse being described is one that depicts a close relationship between the author and the recipient, emphasizing their shared faith and spiritual connection. The author refers to the recipient as their own son, signifying a deep bond of mentorship and discipleship. The verse also underscores the unity and shared belief among believers, highlighting the inherent worth and dignity of all individuals created in the image of God.
+In this verse, there is a profound relationship between the author and Titus, described as a genuine father-son bond. They share a common faith, emphasizing the unity and collective belief system of all believers. The author earnestly prays for God's grace and peace to be upon Titus, expressing a deep desire for his spiritual well-being and growth. The verse highlights the power of the gospel message, as the author played a significant role in Titus' conversion, illustrating the transformative impact of faith.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "my true (genuine, see on 1Ti 1:2) child" - This emphasizes the close relationship between the author and Titus, highlighting the genuine love and care that exists between them.
+1. "my true (genuine, see on 1Ti 1:2) child" - This highlights the deep and genuine relationship between the author and Titus, emphasizing the strong bond they share as spiritual father and son.
 
-2. "according to the common faith" - This phrase suggests that the faith they share is not only personal but also communal, connecting them to a larger community of believers.
+2. "according to the common faith" - This phrase emphasizes the unity and shared belief system among believers, highlighting the importance of a collective faith that binds them together.
 
-3. "grace and peace from God the Father, and Christ Jesus our Savior" - This blessing highlights the source of their spiritual strength and the ultimate provider of grace and peace in their lives. It reminds readers of the importance of relying on God and Jesus for their well-being.
+3. "grace and peace from God the Father and Christ Jesus our Savior" - This closing statement expresses the author's desire for God's grace and peace to be upon Titus, indicating a heartfelt prayer for his well-being and spiritual growth.
 
 ### Jamieson Fausset Brown:
-1. "Titus, mine own son" - Paul refers to Titus as his own son, indicating a close relationship and spiritual connection between them. This suggests that Paul played a significant role in Titus' conversion and growth in faith.
+1. "Titus, mine own son—Greek, 'my genuine child'...converted by my instrumentality." 
+2. "after the common faith—a genuine son in respect to (in virtue of) the faith common to all the people of God, comprising in a common brotherhood Gentiles as well as Jews."
+3. "Grace, mercy, and peace—'mercy' is omitted in some of the oldest manuscripts. But one of the best and oldest manuscripts supports it."
+4. "the Lord Jesus Christ—The oldest manuscripts read only 'Christ Jesus.'"
+5. "our Saviour—found thus added to 'Christ' only in Paul's Pastoral Epistles, and in 2 Peter 1:1; 2 Peter 1:11; 2 Peter 2:20; 2 Peter 3:18."
 
-2. "after the common faith" - Titus is described as a genuine son in respect to the faith that is common to all believers. This highlights the unity and brotherhood of all people of God, regardless of their background or ethnicity.
+### Albert Barnes:
+1. "After the common faith - The faith of all Christians; - equivalent to saying 'my son in the gospel.'" This quote highlights the close relationship between Paul and Titus, emphasizing the shared faith they have as Christians.
 
-3. "Grace, mercy, and peace" - This phrase, though some manuscripts omit "mercy," is a common greeting in the Pastoral Epistles. It emphasizes the importance of God's grace, mercy, and peace in the life of believers.
+2. "Grace, mercy, and peace..." This quote refers to the greeting Paul extends to Titus, emphasizing the importance of God's grace, mercy, and peace in their lives and ministry.
 
-4. "the Lord Jesus Christ" - The oldest manuscripts read "Christ Jesus," highlighting the centrality of Jesus in the Christian faith. This emphasizes the divinity and lordship of Jesus as the Savior of believers.
-
-5. "our Saviour" - The addition of "our Saviour" to "Christ" is unique to Paul's Pastoral Epistles and a few other passages. It further emphasizes the role of Jesus as the one who saves and delivers believers from sin and death.
+3. "That is, Paul had been the means of converting him by preaching that gospel which was received by all who were Christians." This quote explains how Paul played a significant role in Titus' conversion, underscoring the power of the gospel message and its impact on individuals.
 
 ### Marvin Vincent:
-1. "Own [γνησιω]." - This phrase refers to the idea of possessing or having a personal connection to something. In the context of 1 Timothy 1:2, it implies a close and intimate relationship with the common faith.
-
-2. "The phrase N. T. o. Koinov common, usually in contrast with kaqarov pure or agiov holy." - The term "common" is often used in contrast to purity or holiness. It suggests that the common faith is not exclusive or limited to a select few, but rather accessible to all.
-
-3. "The 'catholic' faith." - The word "catholic" here does not refer to the Roman Catholic Church, but rather to the universal nature of the faith. It emphasizes that the common faith is not confined to a particular group or denomination, but encompasses all believers.
-
-(Note: The commentary provided is not very clear or comprehensive, but these quotes highlight some key points about the phrase "common faith" in 1 Timothy 1:2.)
+1. "Own [γνησιω] . See on 1 Timothy 1:2." 
+2. "The phrase N. T. o. Koinov common, usually in contrast with kaqarov pure or agiov holy, as Acts 10:14; Acts 11:8; Revelation 21:27." 
+3. "In the sense of general as here, Acts 2:44; Acts 4:32; Jude 1:3. Comp. 2 Peter 1:1."
 
 ### John Calvin:
 1. "Hence it is evident in what sense a minister of the word is said to beget spiritually those whom he brings to the obedience of Christ, that is, so that he himself is also begotten." 
@@ -38,27 +37,23 @@ The verse being described is one that depicts a close relationship between the a
 
 ### Philip Schaff:
 1. "Titus, called Paul's brother in 2 Corinthians 11:12, is here his 'legitimate son,' as converted by him and sharing the same faith." 
-2. "This verse highlights the close relationship between Paul and Titus, emphasizing their shared faith and spiritual connection." 
-3. "The term 'legitimate son' suggests a deep bond of mentorship and discipleship between Paul and Titus, indicating the significant role Paul played in Titus' spiritual journey."
+2. "This verse highlights the close relationship between Paul and Titus, emphasizing their shared faith and the spiritual bond they have as teacher and disciple." 
+3. "The term 'legitimate son' implies a deep sense of trust and responsibility, suggesting that Paul sees Titus as a trusted companion and partner in spreading the gospel."
 
 ### Archibald T Robertson:
-1. "Titus is not mentioned in Acts, possibly because he is Luke's brother." 
-2. "He had succeeded in Corinth where Timothy had failed." 
+1. "Titus is not mentioned in Acts, possibly because he is Luke's brother."
+2. "He had succeeded in Corinth where Timothy had failed."
 3. "Here κατα does mean standard, not aim, but it is a faith (πιστιν) common to a Gentile (a Greek) like Titus as well as to a Jew like Paul and so common to all races and classes."
 
 ### John Gill:
 1. "Titus was, in this sense, his 'own son', or a true son, a legitimate one; a true convert; one really born again; a sincere believer, an Israelite indeed."
-2. "The phrase 'after the common faith' is used to show in what sense Titus was son to the apostle; as he was a believer, and no otherwise."
+2. "And this he was 'after the common faith'; either the doctrine of faith, which is but one, and is common to all the saints; or the grace of faith, which though different in degrees, yet is alike precious faith in all."
 3. "Grace, mercy, and peace, c. which is the apostle's usual salutation."
 
-Note: The commentary provided is incomplete and lacks clarity, making it difficult to extract more quotes.
-
 ### John Wesley:
-1. "My own son — Begot in the same image of God, and repaying a paternal with a filial affection." This quote highlights the deep bond between the author and the recipient of the letter, emphasizing their shared divine nature and the reciprocal love between them.
-
-2. "The common faith — Common to me and all my spiritual children." This quote emphasizes the unity and shared belief among the author and their spiritual children, suggesting that they are all part of a larger community bound together by their faith.
-
-3. "Begot in the same image of God." This quote underscores the belief that all humans are created in the image of God, highlighting the inherent worth and dignity of every individual.
+1. "Begot in the same image of God" - This quote highlights the belief that children are created in the image of God, emphasizing their inherent worth and value.
+2. "Repaying a paternal with a filial affection" - This quote speaks to the reciprocal love and affection between a parent and child, illustrating the deep bond and connection that exists within a family.
+3. "Common faith" - This quote emphasizes the shared belief system and spiritual connection that unites a community of believers, highlighting the importance of faith in fostering a sense of belonging and unity.
 
 
 ## Generation Details

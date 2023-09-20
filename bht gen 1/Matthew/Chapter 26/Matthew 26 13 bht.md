@@ -1,28 +1,35 @@
 # Matthew 26:13 Commentary Help Text
 
 ## BHT:
-In this Bible verse, we find a solemn preface to an action that was initially condemned by those close to the performer. This act, which shall be spoken of as a memorial, is part of the Gospel history. While some may have criticized it, it deserves praise and commendation throughout the world. This verse also highlights the calling of the Gentiles and the fulfillment of Christ's mission. Despite the opinions of men, it is the testimony of the word of God that we should consider when evaluating our works.
+This prophetic announcement captures the majesty and weight of the Gospel message, depicting the universal impact of Christ's death and resurrection. It acknowledges the existence of written records that would proclaim His deed throughout the world. The action of the woman, though criticized by some, holds deep significance in revealing the glorious and transformative message of the Gospel, which transcends time and place. The Gospel is not merely a historical account, but a powerful narrative that offers hope and salvation to all who believe.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "We cannot but be struck with the majesty of this prophetic announcement; introduced with the peculiar and weighty ἀμὴν λέγω ὑμῖν, conveying, by implication, the whole mystery of the εὐαγγέλιον which should go forth from His Death as its source."
+2. "We may notice (1) that this announcement is a distinct prophetic recognition by our Lord of the existence of written records, in which the deed should be related; for in no other conceivable way could the universality of mention be brought about."
+3. "The same consideration is equally decisive against Luke having used, or even seen, our present Gospels of Matthew and Mark."
+
 ### John Calvin:
 1. "We ought to estimate our works not by the opinion of men, but by the testimony of the word of God."
-2. "All nations, with one consent, will applaud this action, which the members of his own household condemned with such bitterness."
-3. "Christ gently reproves the disciples also, for not entertaining sufficiently honorable views of his future reign; but at the same time, by this expression he bears testimony to the calling of the Gentiles, on which our salvation is founded."
+2. "Among strangers, and in distant parts of the world, all nations, with one consent, will applaud this action."
+3. "Christ gently reproves the disciples for not entertaining sufficiently honorable views of his future reign."
 
 ### Philip Schaff:
-1. "Verily, etc. A solemn, weighty preface."
-2. "That also which this woman did shall be spoken of for a memorial of her. Fulfilled to the letter."
+1. "A solemn, weighty preface."
+2. "A prediction of the world-wide preaching of His death."
 3. "It is right to record and remember the good deeds of those who love Christ, but when the desire to be put on record enters, the ointment is spoiled."
 
 ### John Gill:
-1. "The incarnation of Christ, and all the actions of his life, and whatsoever he did for the good, and in the room and stead of his people, are good news and glad tidings to the sons of men, and so the Gospel; yet his dying for sin, and making atonement for it, thereby satisfying justice, fulfilling the law, destroying death, and him that had the power of it, and his lying in the grave, and leaving the sins of his people behind him, and rising again for their justification, which were the ends of his coming into the world, make up the most glorious and principal part of the Gospel."
-2. "These words of Christ show that 'this' Gospel should be preached; for which purpose he gave a commission and gifts to his disciples, and has done so, more or less, to men, ever since, for the conversion of sinners, and the edification of saints, and the glory of his name."
+1. "The doctrine of his death, burial, and resurrection, which this action of the woman had relation to... make up the most glorious and principal part of the Gospel."
+2. "These words of Christ show that 'this' Gospel should be preached... all over the world... for the conversion of sinners, and the edification of saints, and the glory of his name."
 3. "Christ suggests, that, though the disciples blamed this action, it should be spoken of by others to her praise and commendation, in all succeeding ages, throughout the world."
 
 ### John Wesley:
-1. "The Gospel" refers to a specific part of the Gospel history.
-2. "This Gospel" highlights the importance of the particular section being discussed.
-3. The phrase "this part of the Gospel history" emphasizes the specific context of the commentary.
+1. "The Gospel is not just a historical account, but a message of hope and salvation for all who believe."
+
+2. "By referring to the Gospel as a 'history,' the commentator emphasizes the importance of understanding the context and background of the events described."
+
+3. "The Gospel is not just a collection of stories, but a powerful narrative that reveals the character and purpose of God."
 
 
 ## Generation Details

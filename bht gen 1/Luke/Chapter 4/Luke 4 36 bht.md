@@ -1,29 +1,34 @@
 # Luke 4:36 Commentary Help Text
 
 ## BHT:
-When witnessing the profound impact of the word spoken by the Lord of spirits, astonishment and amazement take hold of all who are present. The power of this word goes beyond that of ordinary man, compelling even demons to obey. It is a transformative word, accompanied by miracles and extraordinary authority, leaving all who hear it in awe and recognition of its divine origin. This word is more than just a message; it is a force that brings healing, commands spirits, and reveals the glory and power of the one who speaks it.
+In this Bible verse, the divine authority and power behind the word is emphasized, as the people are astonished at the doctrine and miracles performed by Jesus. The transformative nature of Jesus' ministry is showcased through the healing and deliverance witnessed. The astonishment experienced by the people reveals their recognition of Jesus as having something more than human power and authority. The verse invites readers to explore the deeper meaning and significance of Jesus' teachings and works.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "What a word—a word from the Lord of spirits." This quote highlights the significance and authority of the message being conveyed. It emphasizes that the word is not just any ordinary word, but one that comes directly from the Lord of spirits.
+1. "What a word—a word from the Lord of spirits." This quote emphasizes the divine authority and power behind the word being spoken. It highlights the significance and impact of the message being conveyed.
 
-2. "Peter's mother-in-law and many others, healed." This quote suggests that the power of the word from the Lord of spirits has the ability to bring about healing. It implies that the word has a transformative and miraculous effect on those who receive it.
+2. "Peter's mother-in-law and many others, healed." This quote highlights the miraculous healing that took place, showcasing the compassion and healing power of Jesus. It emphasizes the transformative nature of his ministry and the tangible evidence of his divine authority.
 
-3. "(See on :-.)" This quote serves as a reference to further explore the commentary on the specific verse mentioned. It indicates that there is additional information available to provide a deeper understanding of the context and implications of the verse.
+3. "See on :-." This quote refers to a previous reference or commentary that provides further insight or context to the verse. It encourages readers to explore additional resources to deepen their understanding of the passage.
 
 ### Marvin Vincent:
-1. "They were all amazed." - This phrase highlights the universal astonishment that occurred, emphasizing the impact of the event on everyone present.
-2. "Amazement came upon all." - The use of the word "came" suggests that the amazement was sudden and unexpected, further emphasizing the profound nature of the event.
-3. "The kindred verb, to be amazed, occurs only once in Luke (Acts 9:6), and three times in Mark." - This statement provides a comparison between Luke and Mark, indicating that both authors recognized the significance of amazement in conveying the impact of extraordinary events.
+1. "Amazement came upon all." - This phrase highlights the universal astonishment experienced by everyone present, emphasizing the magnitude of the event or action that caused it.
+2. "The kindred verb, qambeomai, to be amazed." - The use of this verb suggests a state of wonder and astonishment, indicating that the people were deeply affected by what they witnessed.
+3. "The strong compound ejkqambew, to be greatly amazed." - This compound verb signifies an even more intense level of astonishment, indicating that the people were not just amazed but greatly amazed by what they saw or heard.
 
 ### John Calvin:
 1. "They are compelled to acknowledge that there is in Christ something more than man." 
 2. "Justly trace the glory and power of the miracle to his doctrine." 
 3. "What speech is this, which even the devils themselves are forced to obey?"
 
+### Archibald T Robertson:
+1. "Amazement came." 
+2. "They spake together one with another." 
+3. "Either makes good sense."
+
 ### John Gill:
-1. "They were astonished at his doctrine before, and now at his miracles."
-2. "What sort of doctrine is this which is attended with such power and miracles?"
+1. "The people in the synagogue; they were astonished at his doctrine before, and now at his miracles."
+2. "What a word is this? Meaning, either what sort of doctrine is this which is attended with such power and miracles."
 3. "What is this word that with authority and power it commands the unclean spirits, and they come out?"
 
 

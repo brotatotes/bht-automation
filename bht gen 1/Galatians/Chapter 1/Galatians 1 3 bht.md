@@ -1,13 +1,15 @@
 # Galatians 1:3 Commentary Help Text
 
 ## BHT:
-The verse being described is a salutation that expresses a desire for the readers to receive the unmerited favor and blessings of God. It signifies the importance of God's grace and emphasizes the writer's deep concern for the spiritual well-being of the readers. The salutation combines the concepts of grace and peace, infusing them with a deep Christian meaning and highlighting their significance as divine blessings. It also emphasizes that grace comes from both God the Father and Jesus Christ, reinforcing the power and importance of this gift.
+In this Bible verse, the author expresses a heartfelt desire for God's grace and peace to be upon the readers. The salutation signifies a sincere request for the outpouring of God's favor, mercy, and blessings. It reflects the apostle's deep concern for the spiritual well-being and growth of the recipients. The phrase "Grace to you and peace" highlights the unmerited favor and inner tranquility that come from a relationship with God, emphasizing the transformative power of His grace and the unity among believers.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The righteousness of God is not only a gift to be received, but also a power to be lived out. It is not just a legal declaration, but a transformative reality that enables believers to live in obedience to God's will."
-2. "The gospel reveals the righteousness of God, which is the perfect standard of justice and holiness. It shows that God is both just and the justifier of those who have faith in Jesus Christ."
-3. "The gospel is the power of God for salvation because it reveals the righteousness of God that is received by faith. It is through faith in Jesus Christ that we are justified and made right with God."
+1. "The gospel is the power of God for salvation to everyone who believes, both Jew and Gentile. This power is not found in human wisdom or strength, but in the message of Christ crucified and resurrected." 
+
+2. "The righteousness of God is revealed in the gospel, which is received by faith. This righteousness is not earned through works, but is a gift freely given by God to those who trust in Him." 
+
+3. "The gospel reveals the wrath of God against all ungodliness and unrighteousness. It exposes the sinfulness of humanity and the need for salvation. Yet, it also reveals the grace and mercy of God, who offers forgiveness and reconciliation through Jesus Christ."
 
 ### Jamieson Fausset Brown:
 1. "The Greek joins God the Father and our Lord Jesus Christ in closet union."
@@ -15,33 +17,38 @@ The verse being described is a salutation that expresses a desire for the reader
 3. "The Greek joins God the Father and our Lord Jesus Christ in closet union."
 
 ### Albert Barnes:
-1. "Grace be unto you" - The apostolic salutation expresses a desire for the readers to receive the unmerited favor and blessing of God. It signifies the importance of God's grace in the lives of believers.
+1. "Grace be unto you" - The apostolic salutation is a heartfelt plea for the blessing of God to be upon the recipients. It signifies a desire for God's favor, mercy, and empowerment to be present in their lives.
 
-2. "Imploring for them the blessing of God" - The commentary highlights the intention behind the salutation, emphasizing the writer's earnest plea for God's blessings to be bestowed upon the readers. It reflects the writer's deep concern for their well-being.
+2. "Imploring for them the blessing of God" - The salutation is not a mere formality, but a sincere request for the outpouring of God's favor and goodness upon the readers. It reflects the apostle's deep concern for their well-being and spiritual growth.
 
-3. "See it fully explained in the notes at Romans 1:7" - The commentary directs readers to further study the salutation in the book of Romans, indicating that there is more depth and significance to be discovered in understanding the concept of grace and its implications.
+3. "See it fully explained in the notes at Romans 1:7" - For a more comprehensive understanding of the significance of this salutation, one can refer to the detailed explanation provided in the notes on Romans 1:7. This additional context can shed further light on the depth and meaning behind the apostolic greeting.
 
 ### Marvin Vincent:
 1. "He will not withhold the wish for the divine grace and peace even from those whom he is about to upbraid." 
-
-2. "Grace and peace are not just empty words, but divine blessings that Paul desires for his readers." 
-
-3. "This shows Paul's deep concern for the spiritual well-being of his audience, even if he has to address their shortcomings."
+2. "Grace and peace are not earned or deserved, but freely given by God." 
+3. "This verse reminds us that God's grace and peace are available to all, regardless of their faults or mistakes."
 
 ### John Calvin:
-1. "Paul wishes for the Galatians a state of friendship with God, and, along with it, all good things; for the favor of God is the source from which we derive every kind of prosperity."
-2. "He presents both petitions to Christ, as well as to the Father; because without Christ neither grace, nor any real prosperity, can be obtained."
-3. "Grace and peace are not empty words, but a powerful declaration of the blessings that come from being in a right relationship with God through Christ."
+1. "Paul wishes for the Galatians a state of friendship with God, and, along with it, all good things."
+2. "The favor of God is the source from which we derive every kind of prosperity."
+3. "Without Christ, neither grace, nor any real prosperity, can be obtained."
 
 ### Philip Schaff:
-1. "The apostolic salutation combines the Greek charis ('grace') and the Hebrew shalom ('peace'), and infuses into both a deep Christian meaning."
-2. "'Grace' comprehends the fulness of the gospel blessing, 'peace' the fulness of our personal enjoyment of it and happiness resulting from it."
-3. "The Father is the direct giver, the Son the mediator, of saving grace and inward peace; but both are here (as in Galatians 1:1) so immediately associated that we have a right to infer from this the divinity of our Lord."
+1. "‘Grace’ comprehends the fulness of the gospel blessing, ‘peace’ the fulness of our personal enjoyment of it and happiness resulting from it."
+2. "The Father is the direct giver, the Son the mediator, of saving grace and inward peace; but both are here (as in Galatians 1:1) so immediately associated that we have a right to infer from this the divinity of our Lord."
+3. "No mere man could, without blasphemy, be put into such juxtaposition with the infinite Jehovah as a giver of grace and peace."
+
+### Archibald T Robertson:
+1. "Grace to you and peace." - This salutation is not a mere formality for Paul. He genuinely desires God's grace and peace for the recipients of his letters, even when he has criticisms or faults to address.
+
+2. "He uses it here even when he has so much fault to find." - Paul's use of the salutation shows his ability to balance correction and encouragement. He doesn't withhold grace and peace even when addressing issues or faults.
+
+3. "This customary salutation is not a perfunctory thing with Paul." - Paul's use of this salutation is intentional and meaningful. It reflects his desire for the recipients to experience the transformative power of God's grace and the inner peace that comes from a relationship with Him.
 
 ### John Gill:
-1. "Grace to be you" - This phrase emphasizes the concept of grace being bestowed upon the readers. It highlights the idea that grace is not earned but given freely by God.
-2. "The salutation in these words" - This phrase refers to the greeting or salutation that follows the inscription. It suggests that the salutation is a common feature in the apostle's letters and serves as a way to establish a connection with the readers.
-3. "From God our Father, and the Lord Jesus Christ" - This phrase highlights the divine source of grace. It emphasizes that grace comes from both God the Father and Jesus Christ, further emphasizing the significance and power of this gift.
+1. "Grace to be you" - This phrase emphasizes the concept of grace being bestowed upon the readers, highlighting the unmerited favor and blessings they receive from God.
+2. "The salutation in these words, and which is common to all the epistles of this apostle" - This statement highlights the consistent greeting used by the apostle in his letters, indicating a sense of familiarity and unity among the recipients of the epistle.
+3. "The Alexandrian copy reads, 'from God our Father, and the Lord Jesus Christ'" - This variant reading suggests a close relationship between God the Father and the Lord Jesus Christ, emphasizing their divine connection and reinforcing the Trinitarian nature of God.
 
 
 ## Generation Details

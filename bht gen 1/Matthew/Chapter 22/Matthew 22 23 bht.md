@@ -1,29 +1,39 @@
 # Matthew 22:23 Commentary Help Text
 
 ## BHT:
-The passage, which involves a hypothetical question posed by the Sadducees to Jesus, illuminates the significance of grasping the underlying motives behind inquiries. Jesus not only addresses their question but also imparts a profound lesson on the resurrection and the transformation of relationships in eternity. Through this response, Jesus emphasizes God's power and affirms the reality of the resurrection, comforting believers with the assurance of eternal life. Furthermore, this passage urges us to approach challenges with discernment, relying on wisdom and a deep knowledge of Scripture to uncover truth amidst the influence of others.
+In this Bible verse, the Sadducees, who denied the resurrection, confront Jesus with a hypothetical scenario to challenge His teachings. Jesus responds with wisdom and deep understanding of Scripture, reminding us of the importance of studying God's Word. He clarifies that while marriage as we know it won't exist in heaven, relationships and love will remain. This encounter emphasizes the vastness of God's power and encourages us to approach Scripture with humility, trusting in the promise of eternal life.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "In Luke, οἱ ἀντιλέγ . = οἵτινες λέγουσιν Mark." 
 2. "Here, the art. being absent, we must understand that they came, saying that there was no resurrection."
-3. "i.e. either, in pursuance of their well-known denial of that doctrine, or, which is more probable, actually saying, maintaining it against our Lord: viz., in shape and manner following."
+3. "Either, in pursuance of their well-known denial of that doctrine, or, which is more probable, actually saying, maintaining it against our Lord: viz., in shape and manner following."
+
+### John Calvin:
+1. "We see here how Satan brings together all the ungodly, who in other respects differ widely from each other, to attack the truth of God."
+2. "In short, we see that they come out of various camps to make an attack on Christ; and that this was done, because all of them alike hated the light of sound doctrine."
+3. "But how disgraceful and monstrous was it that while, among the profane and blind idolaters of all nations, some notion, at least, of a future life still lingered, among the Jews, the peculiar people of God, this seed of piety was destroyed."
 
 ### Philip Schaff:
-1. "There is no resurrection." - The Sadducees' denial of the resurrection and immortality of the soul aligns them with the Skeptics and Epicureans among the Greek philosophers.
+1. "There is no resurrection. Comp. Acts 23:8, where their views are shown to include a denial of the immortality of the soul as well as of the resurrection of the body." 
+2. "This sneering spirit is prominent in Sadducees of every age. Afterwards they became earnest enough. It is possible they hoped for an answer that might show sympathy with them." 
+3. "Errorists often think that opposition to their opponents is agreement with them. But truth must always oppose two contrary errors."
 
-2. "This sneering spirit is prominent in Sadducees of every age." - The Sadducees' scoffing question reflects their mocking attitude towards the doctrine and Christ Himself.
-
-3. "Errorists often think that opposition to their opponents is agreement with them." - The Sadducees may have hoped for an answer that would show sympathy with their views, but truth always opposes two contrary errors.
+### John Gill:
+1. "The Sadducees were a distinct sect, both from the Pharisees and the Herodians."
+2. "They denied that there were angels and spirits, and the immortality of the soul."
+3. "The Sadducees asked him; put the following question to him, in order to expose the weakness and absurdity of such a doctrine."
 
 ### John Wesley:
-1. "The Sadducees, who did not believe in the resurrection, were trying to trap Jesus with a hypothetical question about marriage in the afterlife. This verse highlights the importance of understanding the context in which a question is asked, as it reveals the motives behind it." 
+1. "The Sadducees, who did not believe in the resurrection, approached Jesus with a hypothetical scenario to challenge His teachings. This verse highlights the importance of understanding the context and motives behind questions asked by skeptics."
 
-2. "Jesus' response to the Sadducees not only addresses their question but also teaches a profound truth about the resurrection. He explains that in the resurrection, people will be like angels and will not marry or be given in marriage. This challenges our limited understanding of eternity and reminds us that our earthly relationships will be transformed in the presence of God."
+2. "Jesus' response to the Sadducees reveals His deep understanding of Scripture and His ability to provide insightful answers. It reminds us of the importance of studying and knowing the Word of God to effectively respond to doubts and challenges."
 
-3. "Through his response, Jesus also emphasizes the power and authority of God. He reminds the Sadducees that God is the God of the living, not the dead, affirming the reality of the resurrection. This reassures believers that death is not the end, but a transition into eternal life with God."
+3. "The phrase 'neither marry nor are given in marriage' in Jesus' response does not imply that there will be no relationships or love in heaven. Rather, it emphasizes that the institution of marriage, as we know it on earth, will not exist in the same way in the eternal kingdom."
 
-4. "This passage encourages us to approach questions and challenges with wisdom and discernment. Jesus' response demonstrates the importance of understanding Scripture and having a deep knowledge of God's character. It reminds us to seek truth and not be swayed by the opinions or agendas of others."
+4. "This verse serves as a reminder that God's power and authority surpasses human understanding. It encourages us to approach Scripture with humility, recognizing that there may be aspects of God's plan and kingdom that are beyond our comprehension."
+
+5. "Jesus' response to the Sadducees also highlights the importance of faith in the resurrection. It reminds us that our hope is not in this earthly life alone, but in the promise of eternal life with God."
 
 
 ## Generation Details

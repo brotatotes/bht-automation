@@ -1,15 +1,28 @@
 # Luke 6:18 Commentary Help Text
 
 ## BHT:
-From the commentaries, we gather that this particular Bible verse describes individuals who were afflicted by unclean spirits, experiencing torment and suffering. Jesus is shown to possess the power to heal both physical ailments and those who were under the influence of demonic possession. The verse captures the dual nature of their afflictions and the subsequent healing they received.
+In this verse, individuals were afflicted and tormented by the presence of unclean spirits, causing deep and heavy trials and bringing about both physical and spiritual suffering. These unclean spirits, possessing and tormenting the afflicted, demonstrated their desire to destroy and inflict pain on them. However, Jesus exhibited His healing power by repeatedly curing those who were vexed, providing relief from both physical diseases and demonic oppression. His miracles encompassed both bodily and spiritual healing, demonstrating His authority over both afflictions.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "Vexed - The word 'vex' with us means to provoke, or irritate by petty provocations. Here it means, however, to 'afflict,' to 'torment' - denoting deep and heavy trials."
+2. "Unclean spirits - Demons that were impure and unholy, having a delight in tormenting, and in inflicting painful and loathsome diseases."
+3. "These unclean spirits, by possessing the bodies of men, showed their power over them, and their desire to torment and destroy them."
+
+### Marvin Vincent:
+1. "Vexed [οχλουμενοι]. From oclov, a crowd or mob, with the idea of want of arrangement and discipline, and therefore of confusion and tumult."
+2. "Hence it is applied to the noise and tumult of a crowd, and so passes into the sense of the trouble and annoyance caused by these, and of trouble generally."
+3. "Frequent in medical language. Thus Hippocrates, 'troubled [ενοχλουμενω] with a spasm or tetanus.'"
+
+### Archibald T Robertson:
+1. "The healings were repeated as often as they came."
+2. "Note here both verbs, ιαομα and θεραπευω, used of the miraculous cures of Jesus."
+3. "Θεραπευω is the verb more commonly employed of regular professional cures, but no such distinction is made here."
+
 ### John Gill:
-1. "They that were vexed with unclean spirits... possessed with devils, and sadly tormented and afflicted by them." This quote highlights the intense suffering and torment experienced by those who were possessed by unclean spirits. 
-
-2. "They were healed: both such that had bodily diseases, and were under diabolical possessions." This quote emphasizes that the healing power of Jesus extended not only to physical ailments but also to those who were under the influence of demonic possession. 
-
-3. "Were possessed with devils... and were healed." This quote succinctly summarizes the dual nature of the afflictions faced by those who were possessed by unclean spirits and the subsequent healing they received from Jesus.
+1. "Those who were vexed with unclean spirits... were possessed with devils, and sadly tormented and afflicted by them." 
+2. "And they were healed: both such that had bodily diseases, and were under diabolical possessions." 
+3. "The healing power of Jesus extended not only to physical ailments but also to the spiritual oppression caused by demonic forces."
 
 
 ## Generation Details

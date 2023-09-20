@@ -1,13 +1,18 @@
 # Matthew 13:13 Commentary Help Text
 
 ## BHT:
-In this Bible verse, Jesus speaks in parables to a people who have the capability to see, hear, and understand, but fail to utilize these faculties effectively. He refrains from imparting further knowledge because they have not made use of what they already possess. The people are unable to truly see, hear, or understand anything, demonstrating a lack of engagement and comprehension. Jesus employs parables to convey his message to this audience, who are seers but not seers, hearers but not hearers in a true sense.
+In this particular Bible verse, the commentators shed light on the reason why Jesus speaks to the people in parables. They point out that the paradoxical form of the parables serves to reveal the true state of the people, who have the ability to see and hear but fail to truly perceive and understand. Jesus speaks in this abstruse and figurative manner to emphasize the contrast between those who are "seers and not seers" and "hearers and not hearers," highlighting the importance of utilizing the knowledge and understanding that one already possesses.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "In the deeper view of the purpose of the parable, both of these run into one."
+2. "Taking the saying of Mat 13:12 for our guide we have ὅστις οὐκ ἔχει = ὅτι βλέπ . οὐ βλέπουσιν."
+3. "The difficulties raised on these variations, and on the prophecy quoted in Matthew 13:14-15, have arisen entirely from not keeping this in view."
+
 ### Jamieson Fausset Brown:
 1. "They 'saw,' for the light shone on them as never light shone before; but they 'saw not,' for they closed their eyes."
 2. "They 'heard,' for He taught them who 'spake as never man spake'; but they 'heard not,' for they took nothing in, apprehending not the soul-penetrating, life-giving words addressed to them."
-3. "By a fixed law of the divine administration, the duty men voluntarily refuse to do, and in point of fact do not do, they at length become morally incapable of doing."
+3. "The duty men voluntarily refuse to do, and in point of fact do not do, they at length become morally incapable of doing."
 
 ### John Calvin:
 1. "He says that he speaks to the multitude in an obscure manner, because they are not partakers of the true light."
@@ -26,15 +31,15 @@ In this Bible verse, Jesus speaks in parables to a people who have the capabilit
 
 ### John Gill:
 1. "Because it was the will and pleasure of his Father to give the knowledge of divine mysteries to some, and not to others."
-2. "They saw Christ with their bodily eyes, but not with an eye of faith; they saw the miracles he did, but did not discern, at least did not acknowledge the evidence of them, proving him to be the true Messiah."
+2. "They saw Christ with their bodily eyes, but not with an eye of faith."
 3. "He spoke to them in this abstruse and parabolical way, that they might be what they really were, seers and not seers, hearers and not hearers, at least not understanding ones."
 
 ### John Wesley:
-1. "I speak to them in parables, because seeing, they see not." - This quote highlights the reason why Jesus chose to speak in parables. It emphasizes that the people had the means to see, hear, and understand, but they chose not to utilize them effectively.
+1. "I speak to them in parables, because seeing, they see not." - Jesus uses parables to teach the people because they have the means to see, hear, and understand, but they choose not to utilize them. 
 
-2. "I do not give more knowledge to this people because they use not that which they have already." - This quote emphasizes the lack of effort on the part of the people to make use of the knowledge they already possess. It suggests that Jesus refrains from providing more knowledge because they have not made use of what they already have.
+2. "They do not effectually see, or hear, or understand anything." - The people fail to truly comprehend the teachings of Jesus, despite having the ability to perceive and comprehend.
 
-3. "They do not effectually see, or hear, or understand anything." - This quote emphasizes the inability of the people to truly see, hear, or understand anything. It suggests a lack of engagement and comprehension on their part, further justifying Jesus' use of parables to convey his message.
+3. "I do not give more knowledge to this people because they use not that which they have already." - Jesus refrains from imparting further knowledge to the people because they have not made use of the knowledge they already possess.
 
 
 ## Generation Details

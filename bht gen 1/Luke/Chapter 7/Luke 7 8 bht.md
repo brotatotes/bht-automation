@@ -1,15 +1,18 @@
 # Luke 7:8 Commentary Help Text
 
 ## BHT:
-A determined and resolute centurion, filled with deep conviction, approaches Jesus with a vivid and authentic expression of faith. His deliberate action highlights his unwavering belief in Jesus' authority and healing power. The centurion's words are both memorable and characteristic of his understanding that Jesus could command obedience from illness, just as he did from his soldiers and servants. This passage showcases the centurion's recognition of Jesus as a superior authority who could easily overcome any obstacle or disease with a single command.
+In this Bible verse, we encounter a centurion who demonstrates profound faith and belief in Jesus' authority. Just like the centurion, who understands the concept of superior authority and submits to it, we are reminded of our duty to follow the appointed course of life and to obey those in authority. The centurion's speech vividly showcases his unwavering trust in Jesus' power to command and control, acknowledging that even diseases would obediently serve Him. The centurion's faith becomes a powerful reminder of Jesus' unparalleled ability to command and bring about obedience, both in the physical and spiritual realms.
 
 ## Choicest Commentary Quotes:
+### Marvin Vincent:
+1. "I am a man whose daily course of life and duty is appointed and arranged by superior authority."
+2. "I know how to obey, being myself under authority; and I know how others obey, having soldiers under me."
+3. "If then I, in my subordinate station of command, am obeyed, how much more thou, who art over all, and whom diseases serve as their Master."
+
 ### Archibald T Robertson:
-1. "Set" (τασσομενος). This word emphasizes the deliberate and intentional action of the centurion. It shows his determination and resolve to have his servant healed.
-
-2. Genuine here, though doubtful in Matthew 8:9. This comment highlights the consistency and authenticity of the use of the word "set" in this particular verse. It contrasts with its potential ambiguity in another passage, emphasizing the importance of understanding the context.
-
-3. Vivid and characteristic speech of the centurion. This phrase emphasizes the unique and memorable way in which the centurion expresses his faith. It suggests that his words reflect his deep conviction and understanding of Jesus' authority and power.
+1. "Set" (τασσομενος). Genuine here, though doubtful in Matthew 8:9 where see discussion of this vivid and characteristic speech of the centurion.
+2. The word "set" implies a deliberate and intentional action, indicating the centurion's firm resolve to submit himself to Jesus' authority.
+3. This speech of the centurion is vivid and characteristic, revealing his deep faith and understanding of Jesus' power and authority.
 
 ### John Gill:
 1. "Even he who was but an inferior officer, yet had such power as after related."

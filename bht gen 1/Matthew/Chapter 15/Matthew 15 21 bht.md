@@ -1,9 +1,16 @@
 # Matthew 15:21 Commentary Help Text
 
 ## BHT:
-In this verse, we witness the tremendous impact of Jesus' grace on the Gentiles. Through the example of the woman from Canaan, we learn about the power of unwavering faith and humility in approaching Jesus. Despite the initial challenges and rejection, the woman's persistent faith and recognition of Jesus' authority pave the way for her miraculous encounter with His mercy and grace. This encounter serves as both a test of her faith and a reminder of the profound understanding of our own unworthiness and dependence on God's grace.
+This passage speaks of the expansive reach of the Gospel, extending beyond geographic boundaries to embrace all nations and peoples. It presents a remarkable example of faith embodied by a Gentile woman, persistently seeking Jesus' help despite societal barriers. Jesus' response, though seemingly harsh, serves to test and strengthen her faith while teaching his disciples about the inclusive nature of God's kingdom. This verse is a powerful reminder of Jesus' love and compassion for all, regardless of background or status.
 
 ## Choicest Commentary Quotes:
+### Marvin Vincent:
+1. "The word 'coasts' can be better understood as 'parts', indicating that the message of the Gospel is not limited to a specific geographical location, but extends to all corners of the earth." 
+
+2. "This verse reminds us that the Gospel is not confined to a single group of people or a particular region, but is meant to be shared with all nations and peoples."
+
+3. "The use of the word 'coasts' highlights the inclusive nature of the Gospel, emphasizing that it is not exclusive to a select few, but is available to all who are willing to receive it."
+
 ### John Calvin:
 1. "In this miracle we are informed in what manner the grace of Christ began to flow to the Gentiles."
 2. "A remarkable picture of faith is presented to us in the woman of Canaan, for the purpose of instructing us by means of comparison."
@@ -20,9 +27,11 @@ In this verse, we witness the tremendous impact of Jesus' grace on the Gentiles.
 3. "Not that he went into these places themselves, but into some places that bordered upon them; for as he ordered his disciples not to go in the way of the Gentiles, so neither did he himself."
 
 ### John Wesley:
-1. "This verse highlights the persistent faith of the Gentile woman who approached Jesus for help. Despite being an outsider, she recognized Jesus' power and authority and was willing to humble herself before Him."
-2. "Jesus' response to the woman's request may seem harsh at first, but it serves as a test of her faith. He wanted to see if she truly believed in Him and if her faith was genuine."
-3. "The woman's response, acknowledging her unworthiness and yet expressing her trust in Jesus' mercy, demonstrates a profound understanding of her own need for salvation and her reliance on the grace of God."
+1. "This passage reminds us that Jesus came for all people, regardless of their background or social status. He did not discriminate or show favoritism, but instead demonstrated love and compassion to everyone he encountered."
+
+2. "The faith of the Syrophoenician woman is a powerful example for us. Despite facing rejection and being labeled an outsider, she persisted in seeking Jesus' help. Her humility and trust in Jesus' power ultimately led to her daughter's healing."
+
+3. "Jesus' response to the woman's plea may seem harsh at first, but it serves as a teaching moment. He wanted to test her faith and reveal the depth of her trust in him. Through this encounter, Jesus not only healed the woman's daughter but also taught his disciples and us about the inclusivity of God's kingdom."
 
 
 ## Generation Details

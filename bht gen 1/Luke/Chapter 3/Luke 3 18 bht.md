@@ -1,20 +1,28 @@
 # Luke 3:18 Commentary Help Text
 
 ## BHT:
-This verse is connected to other passages in the Gospel of John, providing further insights into its significance. These references emphasize the authority and role of John the Baptist as a witness to Jesus, highlighting his humble position and the greatness of Christ. The exhortation given by John the Baptist was diverse, yet consistently preached glad tidings of the coming Messiah. By pointing out Christ to the people and encouraging them to believe in Him, John the Baptist played a pivotal role in publishing the Gospel, spreading the good news of salvation through Christ.
+In these verses, a commentator emphasizes the vastness of Jesus' ministry, suggesting there is much more to learn beyond what is recorded. Another commentator highlights the significance of John the Baptist's testimony and his role as the forerunner of the Messiah. The commentators invite readers to explore the broader context of John's Gospel, connecting it to Old Testament prophecies and the importance of repentance and belief in the Gospel. They describe John's preaching as varied, powerful, and filled with joy and pleasure, as he pointed people towards Jesus and proclaimed the good news of salvation through him.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The verse is connected to other passages in the Gospel of John, such as John 1:29, 33, 34, and John 3:27-36, which provide further insights into the significance of this statement." 
+1. "The phrase 'many other things' implies that there is much more to be said about Jesus and his ministry than what is recorded in the Gospel of John alone." 
+2. "The references to John 1:29, 33, 34, and John 3:27-36 highlight the importance of John the Baptist's testimony about Jesus and his role as the forerunner of the Messiah." 
+3. "These verses invite readers to explore the broader context of John's Gospel and the significance of Jesus' ministry in light of the Old Testament prophecies and the testimony of John the Baptist."
 
-2. "These references highlight the authority and role of John the Baptist as a witness to Jesus, emphasizing his humble position and the greatness of Christ." 
-
-3. "By mentioning these other passages, the author suggests that there is a wealth of additional information and teachings that can be explored to deepen our understanding of the verse."
+### Marvin Vincent:
+1. "Other [ετερα] . Rather, various, different."
+2. "Preached [ευηγγελιζετο] . Rev., preserves the fuller meaning of the word according to its etymology: preached good tidings."
+3. "See on Gospel, Superscription of Matthew. 19, 20. Compare Matthew 14:3-5; Mark 6:17-20."
 
 ### Philip Schaff:
 1. "The exhorting was varied, different in character as well as repeated." 
 2. "Yet thus he preached glad tidings, i.e., of the coming Messiah." 
 3. "This description of his ministry is peculiarly apt, hinting at the close connection between repentance and belief in the Gospel, and at the relation between John the Baptist and Christ."
+
+### Archibald T Robertson:
+1. "Many and different things did John εςανγελιζε, ευαγγελιζετο, to the people."
+2. "Luke has given a bare sample of the wonderful messages of the Baptist."
+3. "Few as his words preserved are they give a definite and powerful conception of his preaching."
 
 ### John Gill:
 1. "He pointed him out to the people, and exhorted them to believe in him." 

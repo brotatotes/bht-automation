@@ -1,7 +1,7 @@
 # Romans 9:16 Commentary Help Text
 
 ## BHT:
-The verse being described emphasizes that the blessing mentioned is not dependent on human will or effort, but rather on the grace and power of God. It contrasts human will with God's grace and highlights how human striving is not what brings about the blessing, but rather it is the divine operation or work of God. This commentary emphasizes the divine nature of the blessing and underscores that it is not achieved through human desires or intentions.
+This verse reminds us that the mercy, salvation, and blessings we receive are not based on our own willpower or efforts. They are solely dependent on the grace and sovereignty of God. Our participation and election in God's mercy are not achieved through our own desires or deeds, but are freely given by His goodness and will. This passage also underscores the importance of recognizing that salvation is a divine work, not a result of any human accomplishment or merit.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -12,37 +12,48 @@ The verse being described emphasizes that the blessing mentioned is not dependen
 ### Jamieson Fausset Brown:
 1. "Both these are indispensable to salvation, yet salvation is owing to neither, but is purely 'of God that showeth mercy.'"
 2. "Work out your own salvation with fear and trembling: for it is God which, out of His own good pleasure, worketh in you both to will and to do."
-3. "Salvation is not achieved solely by human will or effort, but is ultimately a result of God's mercy and grace."
+3. "Salvation is not a result of our own efforts or desires, but it is solely dependent on God's mercy and grace."
+
+### Albert Barnes:
+1. "The meaning here is evidently, that eternal life is not bestowed because man had any original willingness or disposition to be saved; it is not because he commences the work, and is himself disposed to it; but it is because God inclines him to it, and disposes him to seek for mercy, and then confers it in his own way."
+2. "The sinner, however anxious he may be, and however much or long he may strive, does not bring God under an obligation to pardon him any more than the condemned criminal, trembling with the fear of execution, and the consciousness of crime, lays the judge or the jury under an obligation to acquit him."
+3. "Salvation in its beginning, its progress, and its close, is of him. He has a right, therefore, to bestow it when and where he pleases. All our mercies flow from his mere love and compassion, and not from our deserts."
 
 ### Marvin Vincent:
-1. "It is not of him that willeth nor of him that runneth." - This verse emphasizes that our participation in God's mercy is not based on our own will or efforts. It highlights the idea that our salvation is not earned through our own works or striving.
+1. "It is not of him that willeth nor of him that runneth." - This verse emphasizes that our participation in God's mercy is not dependent on our own efforts or willpower. 
 
-2. "The metaphor from the foot-race is a favorite one with Paul." - This comment reveals that Paul frequently uses the metaphor of a race to illustrate spiritual concepts. It suggests that Paul often draws parallels between the discipline and perseverance required in a race and the Christian journey.
+2. "The metaphor from the foot-race is a favorite one with Paul." - Paul often uses the metaphor of a race to illustrate spiritual concepts, highlighting the importance of perseverance and endurance in the Christian journey. 
 
-3. "God is laid under no obligation by a human will or a human work." - This statement reminds us that God's mercy and grace are not dependent on anything we can do. It emphasizes that our salvation is solely a result of God's love and mercy, not our own efforts or merits.
+3. "God is laid under no obligation by a human will or a human work." - This quote reminds us that God's mercy and salvation are not earned or deserved through our own works or will, but are freely given by His grace.
+
+### John Calvin:
+1. "Our election is not to be ascribed to our diligence, nor to our striving, nor to our efforts, but that it is wholly to be referred to the counsel of God."
+2. "It is neither by our will nor efforts...that we are counted among the elect, but that it wholly depends on the divine goodness."
+3. "Everything we have is from him, and we may hence learn to ask all things of him, to hope for all things from him, and to ascribe all things to him, while we are prosecuting the work of our salvation with fear and trembling."
 
 ### Philip Schaff:
-1. "It is in parts of Scripture like this that we must be especially careful not to fall short of what is written - not to allow of any compromise of the plain and awful words of God's Spirit, for the sake of a caution which He Himself does not teach us." (Alford)
+1. "It is in parts of Scripture like this that we must be especially careful not to fall short of what is written - not to allow of any compromise of the plain and awful words of God’s Spirit, for the sake of a caution which He Himself does not teach us." (Alford)
+2. "The participation in any and all of the effects of God’s mercy and compassion, does not depend on human will, nor on human effort, but on the will of God, who thus spoke to Moses." 
+3. "The reference of ‘him that willeth’ to Abraham’s wish respecting Ishmael, and of ‘him that runneth’ to Esau’s running home from hunting, is worth mentioning as a specimen of farfetched interpretation."
 
-2. "The participation in any and all of the effects of God's mercy and compassion does not depend on human will, nor on human effort, but on the will of God, who thus spoke to Moses." 
-
-3. "The reference of 'him that willeth' to Abraham's wish respecting Ishmael, and of 'him that runneth' to Esau's running home from hunting, is worth mentioning as a specimen of farfetched interpretation."
+### Archibald T Robertson:
+1. "Mercy is not of."
+2. "The articular participles can be understood as in the genitive with mercy understood."
+3. "Paul is fond of the metaphor of running."
 
 ### John Gill:
 1. "Election, which is what he is discoursing of, is 'not of him that willeth', nor of him that runneth: that is, is not owing to the will or works of men, to the desires, inclinations, and affections of their minds, or to the actions of their lives; these are not the motives, conditions, or causes of this act." 
 
-2. "He is at full liberty, notwithstanding whatever they will or do, to give his grace and mercy, when, where, and to whom he pleases; and therefore to give it to some, and deny it to others, can never be accounted an act of injustice, since he is not bound to give it to any." 
+2. "God is at full liberty, notwithstanding whatever they will or do, to give his grace and mercy, when, where, and to whom he pleases; and therefore to give it to some, and deny it to others, can never be accounted an act of injustice, since he is not bound to give it to any." 
 
 3. "The true sense is, that as election, which is the leading step to salvation, is not owing at all to the will of men, but to the good pleasure and will of God; and not at all to the works of men, that being done before them, and they being the fruits and effects of that, but to the free love, grace, and good will of God."
 
 ### John Wesley:
-1. "The blessing...is not of him that willeth, nor of him that runneth." - The commentary emphasizes that the blessing mentioned in the verse is not dependent on human will or effort, but rather on the grace and power of God.
+1. "The blessing... is not of him that willeth, nor of him that runneth." - This emphasizes that the blessing is not dependent on human effort or works, but rather on the grace and power of God.
 
-2. "The will of man is here opposed to the grace of God." - This quote highlights the contrast between human will and God's grace, emphasizing that the blessing is not achieved through human desires or intentions.
+2. "The will of man is here opposed to the grace of God." - This highlights the contrast between human will and God's grace, indicating that the blessing is not something that can be earned or achieved through personal desires or efforts.
 
-3. "Man's running, to the divine operation." - The commentary points out that human effort or striving is not what brings about the blessing, but rather it is the divine operation or work of God.
-
-Overall, the commentary emphasizes the divine nature of the blessing mentioned in the verse and highlights that it is not something that can be earned or achieved through human will or effort.
+3. "This general declaration... likewise all the spiritual children of Abraham, even to the end of the world." - This shows that the statement applies not only to the specific individuals mentioned, but also to all believers who are considered spiritual children of Abraham, extending throughout history.
 
 
 ## Generation Details

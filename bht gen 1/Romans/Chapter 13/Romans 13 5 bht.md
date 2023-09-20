@@ -1,39 +1,52 @@
 # Romans 13:5 Commentary Help Text
 
 ## BHT:
-The command to be subject to authority is not merely driven by fear of punishment, but also by a recognition of God's ordained ordinance and a moral duty to uphold principles of justice. The urgency and obligation of this command are emphasized, leaving no other option but to fulfill it. Obedience is not solely based on external rules, but also on an internal moral compass and a sense of what is right. It is motivated by a desire to keep one's conscience clear, align with God's will, and exercise obedience out of a genuine faith and reverence for God.
+In this verse, the commentator quotes highlight the necessity and reasons for obedience to civil authority. The commentators stress that obedience is not only driven by fear of punishment or the power of the magistrates, but also by a sense of moral duty and conscience. They emphasize that obedience to civil authority is not merely a legal obligation, but a religious duty and a reflection of one's obedience to God. The verse encourages believers to submit to authority out of a deep-rooted understanding of God's will and a sincere desire to do what is right.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Because of the divine appointment and mission of the civil officer."
+2. "There is a moral necessity for subjection: one not only of terror, but of conscience."
+3. "Compare with 'because of the Lord' in 1 Peter 2:13."
+
 ### Jamieson Fausset Brown:
-1. "Wherefore ye must needs be subject, not only for wrath—for fear of the magistrate's vengeance." - This quote highlights the importance of being subject to authority, not just out of fear of punishment, but also out of respect for God's authority.
+1. "Wherefore ye must needs be subject, not only for wrath—for fear of the magistrate's vengeance." 
+2. "It is of Magistracy in general, considered as a divine ordinance, that this is spoken: and the statement applies equally to all forms of government."
+3. "The inalienable right of all subjects to endeavor to alter or improve the form of government under which they live is left untouched here."
 
-2. "It is of Magistracy in general, considered as a divine ordinance, that this is spoken: and the statement applies equally to all forms of government." - This quote emphasizes that the principle of submission to authority applies to all forms of government, regardless of their specific structure or ideology.
+### Albert Barnes:
+1. "Ye must needs be - It is 'necessary' to be. It means that it is a matter of high obligation and of 'necessity' to be subject to the civil ruler."
+2. "Not only for wrath - Not only on account of the 'fear of punishment;' or the fact that wrath will be executed on evil doers."
+3. "For conscience' sake - As a matter of conscience, or of 'duty to God,' because 'he' has appointed it, and made it necessary and proper."
 
-3. "The inalienable right of all subjects to endeavor to alter or improve the form of government under which they live is left untouched here." - This quote acknowledges that while Christians are called to submit to authority, they also have the right to work towards improving or changing the government they live under, as long as it is done within the bounds of legality and morality.
+### John Calvin:
+1. "We must not only obey, because we cannot with impunity resist the powerful and those armed with authority, as injuries are wont to be borne with which cannot be repelled; but we ought to obey willingly, as conscience through God’s word thus binds us."
+2. "Though then the magistrate were disarmed, so that we could with impunity provoke and despise him, yet such a thing ought to be no more attempted than if we were to see punishment suspended over us; for it belongs not to a private individual to take away authority from him whom the Lord has in power set over us."
+3. "This whole discourse is concerning civil government; it is therefore to no purpose that they who would exercise dominion over consciences do hence attempt to establish their sacrilegious tyranny."
 
 ### Philip Schaff:
 1. "The necessity of obedience rests, not only on grounds of prudence, because of the wrath, but on moral grounds." 
 2. "Obedience is a religious duty."
-3. "Obedience is not just about avoiding punishment, but also about living according to moral principles."
+3. "Obedience is required for conscience' sake."
 
 ### Archibald T Robertson:
-1. "Ye must needs" - There is a sense of urgency and obligation in this phrase, highlighting the necessity of the action. It implies that there is no other option or alternative but to fulfill the command.
+1. "Ye must needs" - There is a sense of urgency and obligation in this phrase, highlighting the necessity of the action being discussed. It emphasizes that it is not simply a suggestion or recommendation, but something that must be done.
 
-2. "Because of the law and because of conscience" - This phrase emphasizes that the command is not only based on external rules and regulations (the law) but also on an internal moral compass (conscience). It suggests that the action is not merely a legal requirement but a moral duty.
+2. "Both because of the law and because of conscience" - This quote highlights the dual reasons for the necessity of the action. It suggests that it is not only a matter of following the law, but also a matter of personal conviction and moral responsibility.
 
-3. "Because it is right" - This statement underscores the inherent righteousness and correctness of the action. It implies that the command aligns with moral principles and is the morally upright thing to do. It appeals to a sense of justice and goodness in carrying out the command.
+3. "Because it is right" - This phrase emphasizes the moral correctness of the action. It suggests that it is not just a matter of fulfilling a legal requirement, but also a matter of doing what is morally and ethically right.
 
 ### John Gill:
-1. "There is a necessity of [being subject to the higher powers], because magistracy is God's ordinance, it is for the good of men."
-2. "Subjection to [the higher powers] from Christians should be, not only for wrath; through fear of punishment, and for the sake of escaping it; either the wrath of men or of God, in this or the other world."
+1. "There is a necessity of it, because magistracy is God's ordinance, it is for the good of men."
+2. "Subjection to it from Christians should be, not only for wrath; through fear of punishment, and for the sake of escaping it."
 3. "But also for conscience sake: to keep conscience clear, to exercise a good one void of offence towards God and men."
 
 ### John Wesley:
-1. "Not only for fear of wrath" - This quote highlights that the motivation for obedience should not solely be driven by the fear of punishment from others. It emphasizes the importance of a deeper understanding and reverence for God's authority.
+1. "Not only for fear of wrath" - This quote highlights that the motivation for obedience should not solely be driven by the fear of punishment from others. It emphasizes the importance of a deeper understanding and obedience to God's will.
 
-2. "But for conscience' sake" - This quote emphasizes the significance of obeying God out of a genuine desire to align with one's own conscience. It suggests that true obedience stems from an internal conviction and moral compass.
+2. "But for conscience' sake" - This quote emphasizes the significance of acting in accordance with one's conscience. It suggests that obedience to God's commands should stem from a genuine desire to do what is right and align with one's moral compass.
 
-3. "Out of obedience to God" - This quote underscores the ultimate reason for obedience, emphasizing the importance of honoring and submitting to God's authority. It implies that obedience should be rooted in a genuine desire to please and follow God's will.
+3. "Out of obedience to God" - This quote underscores the ultimate authority and importance of God's commands. It emphasizes that obedience should be rooted in a genuine desire to please and honor God, rather than simply following rules out of fear or obligation.
 
 
 ## Generation Details

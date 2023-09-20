@@ -1,15 +1,30 @@
 # Matthew 24:11 Commentary Help Text
 
 ## BHT:
-In this verse, false prophets and teachers are condemned for spreading heretical teachings and claiming to have special revelations and understandings of Scripture. These individuals, including Simon Magus and the Gnostics, denied essential aspects of Christ's deity and humanity. Their deceptive ways led astray many followers, who were deceived by their persuasive words and immoral practices. This serves as a timeless reminder of the dangers of false teachings and the importance of discerning true doctrine.
+Throughout history, there have been many false prophets and teachers who claim to speak for God but are actually deceivers with heretical principles. They use persuasive words and charismatic personalities to lead people astray from the true path of righteousness. With the presence of these false prophets, it is crucial for believers to remain vigilant, testing their teachings against the truth of God's Word and staying rooted in Christ to avoid being swayed by their deceptive tactics.
 
 ## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "Many false prophets - Many men pretending to be prophets or foretellers of future events."
+2. "This refers not to the false 'Messiahs' of which he had spoken Matthew 24:5, but to prophets who should appear during the siege of the city."
+3. "The tyrannical zealots who ruled the city suborned 'many false prophets' to declare that aid would be given to the people from heaven."
+
+### John Calvin:
+1. "There is therefore no reason why error, and certain impostures of the devil and corruptions of piety, should strike pious minds with dismay; since no man is properly founded on Christ, who has not learned that we must stand firm against such attacks."
+2. "No ordinary caution is necessary here; for the multitude of those who are going astray is like a violent tempest, which compels us to leave the course, if we are not firmly fixed on God."
+3. "He does not only say that false prophets will come, but likewise that they will be so crafty as to deceive and draw away sects after them."
+
 ### Philip Schaff:
-1. "Many false prophets." - This verse highlights the presence of deceptive teachers in the early Christian era, who promoted various false doctrines. It serves as a warning against being led astray by those who claim to speak on behalf of God.
+1. "Many false prophets. In the Apostolic times such teachers appeared." 
+2. "Judaizing first proclaiming strict adherence to the law, and afterwards a kind of antinomianism, or ‘lawlessness.’" 
+3. "The same moral phenomena will mark an analogous period."
 
-2. "Judaizing first proclaiming strict adherence to the law." - This quote points out that one of the false teachings prevalent during that time was the insistence on following Jewish laws and customs. It emphasizes the need to discern between true and false teachings.
+### Archibald T Robertson:
+1. "False prophets are individuals who claim to speak on behalf of God but are actually deceivers. Jesus warned about them in the Sermon on the Mount, emphasizing the need for discernment." 
 
-3. "The same moral phenomena will mark an analogous period." - This statement suggests that similar deceptive teachings and moral challenges will arise in the future, serving as a reminder that false prophets and misleading doctrines are not limited to a specific time period.
+2. "The presence of false prophets throughout history serves as a reminder that we must be vigilant and cautious in our spiritual journey, always testing the spirits and comparing their teachings with the truth of God's Word." 
+
+3. "While false prophets may come with persuasive words and charismatic personalities, their ultimate goal is to lead people astray from the true path of righteousness and faith in God."
 
 ### John Gill:
 1. "False teachers are here meant, men of heretical principles, pretending to a spirit of prophecy, and to new revelations, and a better understanding of the Scriptures."

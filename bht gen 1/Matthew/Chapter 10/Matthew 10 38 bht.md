@@ -1,13 +1,30 @@
 # Matthew 10:38 Commentary Help Text
 
 ## BHT:
-Taking up one's cross involves accepting and enduring the challenges of following Christ, even at the expense of personal comfort. It means making choices that align with God's will and avoiding actions that go against His commandments. The concept of taking up one's cross is emphasized in multiple passages of the Bible, highlighting its significance in the teachings of Jesus. This entails embracing the difficulties and sacrifices that come with being a disciple of Christ and faithfully following His example.
+To be a disciple of Christ, we must be prepared to endure trials and burdens for His sake. The cross, a symbol of suffering and shame, is an important concept in this verse. It signifies the challenges and afflictions we face when following Christ. Just as Jesus carried His own cross to the place of execution, we too must be willing to bear our own crosses and face the difficulties that come with being His disciples. These crosses may vary for each person but are necessary to conform to His example and follow in His footsteps.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "It was no Jewish proverb (for crucifixion was not a Jewish punishment), no common saying, which our Lord here and so often utters."
+2. "He does not here plainly mention His Cross; but leaves it to be understood."
+3. "Seeing then that we do thus understand it, his inference has no value for us."
+
 ### Jamieson Fausset Brown:
-1. "And he that taketh not his cross, and followeth after me, is not worthy of me." 
-2. "We have become so accustomed to this expression 'taking up one's cross' in the sense of 'being prepared for trials in general for Christ's sake,' that we are apt to lose sight of its primary and proper sense here." 
-3. "A preparedness to go forth even to crucifixion, as when our Lord had to bear His own cross on His way to Calvary."
+1. "taking up one's cross"—in the sense of "being prepared for trials in general for Christ's sake"
+2. "a preparedness to go forth even to crucifixion"
+3. "a saying the more remarkable as our Lord had not as yet given a hint that He would die this death"
+
+### Albert Barnes:
+1. "The cross was usually composed of two rough beams of wood, united in the form of this figure of a cross. It was an instrument of death." 
+
+2. "To carry it was burdensome, was disgraceful, was trying to the feelings, was an addition to the punishment."
+
+3. "So 'to carry the cross' is a figurative expression, denoting that we must endure whatever is burdensome, or is trying, or is considered disgraceful, in following Christ."
+
+### Marvin Vincent:
+1. "His cross: his own. All are not alike. There are different crosses for different disciples."
+2. "The figure itself was borrowed from the practice which compelled criminals to bear their own cross to the place of execution."
+3. "The English proverb runs: 'Every cross hath its inscription' - the name of him for whom it is shaped."
 
 ### John Calvin:
 1. "We cannot be reckoned his disciples unless we are prepared to endure many afflictions."
@@ -19,17 +36,22 @@ Taking up one's cross involves accepting and enduring the challenges of followin
 2. "The culprit bore his own cross to the place of crucifixion." 
 3. "The first allusion to the mode of the death, which must have startled the Apostles, even after what had been said."
 
+### Archibald T Robertson:
+1. "The first mention of cross in Matthew."
+2. "The Jews had become familiar with crucifixion since the days of Antiochus Epiphanes and one of the Maccabean rulers (Alexander Jannaeus) had crucified 800 Pharisees."
+3. "It is not certain whether Jesus was thinking of his own coming crucifixion when he used this figure, though possible, perhaps probable."
+
 ### John Gill:
 1. "By the 'cross'... are meant all sorts of afflictions, reproaches, persecutions, and death itself."
-2. "Every minister of Christ, or professor of his name, has 'his' own cross, his own particular afflictions, appointed by God, and laid on him by Christ."
-3. "If a man... complies with his friends, conforms to the world, and turns his back on Christ; of such an one he may well say, he is not worthy of me."
+2. "Every minister of Christ... has 'his' own cross, his own particular afflictions, appointed by God, and laid on him by Christ."
+3. "If a man... is not willing to... cheerfully suffer for the sake of [the Gospel], when called to it... he is not worthy of me."
 
 ### John Wesley:
-1. "He that taketh not his cross...whatever pain or inconvenience cannot be avoided": This quote emphasizes the idea that taking up one's cross means accepting and enduring the difficulties and challenges that come with following Christ, even if it means sacrificing personal comfort or convenience.
+1. "He that taketh not his cross...whatever pain or inconvenience cannot be avoided." 
 
-2. "But by doing some evil, or omitting some good": This quote highlights the importance of making choices that align with God's will and avoiding actions that go against His commandments. Taking up the cross involves making sacrifices and living a life of righteousness.
+2. "By doing some evil, or omitting some good." 
 
-3. "Matthew 16:24; Luke 14:27": These references indicate that the concept of taking up one's cross is found in multiple passages of the Bible, emphasizing its significance and relevance in the teachings of Jesus.
+3. "Matthew 16:24; Luke 14:27."
 
 
 ## Generation Details

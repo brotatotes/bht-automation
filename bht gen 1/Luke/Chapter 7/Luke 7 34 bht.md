@@ -1,9 +1,14 @@
 # Luke 7:34 Commentary Help Text
 
 ## BHT:
-These quotes from John Wesley emphasize the importance of recognizing and embracing the wisdom of God, particularly in the context of salvation. They suggest that true wisdom is not limited to intellectual knowledge, but rather encompasses a deep understanding of God's redemptive plan and the transformative power of His grace. The emphasis is on acknowledging and approving the various ways in which God reaches out to sinners, highlighting the inclusive and all-encompassing nature of His wisdom.
+In this Bible verse, Jesus is being falsely accused of being a gluttonous man and a wine bibber, associated with sinners and indulging in sensual pleasures. However, commentators highlight that Jesus simply lived in the customary way, associating with sinners to bring them the wisdom of God and to call them to repentance. Despite the accusations, the true children of wisdom recognize and appreciate the divine plan and wisdom behind Jesus' actions, seeing him as the embodiment of salvation and God's wisdom.
 
 ## Choicest Commentary Quotes:
+### John Calvin:
+1. "To eat and drink means here nothing more than to live in the customary way."
+2. "Those who think that the highest perfection consists in outward austerity of life... ought to attend to this passage."
+3. "While Christ accommodated himself to the usages of ordinary life, he maintained a sobriety truly divine."
+
 ### John Gill:
 1. "The son of man is come eating and drinking,.... That is, eating bread and drinking wine, as other people do; and shuns no man's company, goes to a wedding, dines with a Pharisee, and eats with publicans and sinners, and carries it freely and courteously to all men."
 
@@ -11,14 +16,14 @@ These quotes from John Wesley emphasize the importance of recognizing and embrac
 
 3. "A friend of publicans and sinners; a good fellow, a boon companion, that sits with them, and encourages them in their revellings and drunkenness."
 
-These quotes highlight the misconceptions and false accusations made by the Jews regarding Jesus' behavior and associations, emphasizing his inclusive and compassionate nature.
+These quotes highlight the misconceptions and false accusations made by the Jews towards Jesus, portraying him as a gluttonous and immoral person due to his association with sinners.
 
 ### John Wesley:
-1. "But wisdom is justified by all her children" - This verse highlights that true wisdom is recognized and embraced by those who are wise unto salvation. It emphasizes that the wisdom of God, manifested through different methods of calling sinners to repentance, is acknowledged and approved by those who experience its transformative power.
+1. "But wisdom is justified by all her children" - This verse highlights that the true children of wisdom are those who embrace God's wisdom and are wise unto salvation. They recognize and appreciate the various ways in which God calls sinners to repentance, acknowledging the wisdom behind His methods.
 
-2. "The children of wisdom are those who are truly wise unto salvation" - This phrase emphasizes that true wisdom is not merely intellectual knowledge or worldly intelligence, but rather the understanding and acceptance of God's salvation. It suggests that those who possess this wisdom are the ones who recognize the value and importance of salvation.
+2. "The children of wisdom are those who are truly wise unto salvation" - This quote emphasizes that true wisdom lies in understanding and accepting God's plan for salvation. It implies that those who are wise in the eyes of God are the ones who seek and embrace His offer of redemption.
 
-3. "The wisdom of God in all these dispensations, these various methods of calling sinners to repentance, is owned and heartily approved by all these" - This statement highlights that God's wisdom is evident in the different ways He reaches out to sinners and calls them to repentance. It suggests that those who truly understand and embrace this wisdom recognize and appreciate the diverse ways in which God works to bring people to Himself.
+3. "The wisdom of God in all these dispensations...is owned and heartily approved by all these" - This statement underscores the universal acceptance and approval of God's wisdom in His various methods of calling sinners to repentance. It suggests that those who truly understand the wisdom of God recognize and affirm His divine plan for salvation.
 
 
 ## Generation Details

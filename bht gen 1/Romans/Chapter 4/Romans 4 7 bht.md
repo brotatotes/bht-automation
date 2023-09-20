@@ -1,23 +1,40 @@
 # Romans 4:7 Commentary Help Text
 
 ## BHT:
-In this verse, the psalmist joyfully sings of the forgiveness and covering of transgressions, sins, and iniquities. The commentators emphasize that this forgiveness is not a distant hope but a present reality, a tangible experience. The sins are not only forgiven but also hidden by God Himself, encompassed by the veil of divine mercy. It is the ultimate happiness, a blessed state, where one can endure afflictions with cheerfulness and face death with comfort, knowing that their sins are forgiven and covered by God's grace.
+The verse being described speaks of the happiness of those whose sins are forgiven and covered by the veil of divine mercy. It signifies the true joy and contentment that comes from experiencing the manifestation of God's pardon. With this forgiveness, one can endure life's challenges with cheerfulness and approach death with comfort, knowing that their iniquities have been wiped away.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "David here sings in express terms only of 'transgression forgiven, sin covered, iniquity not imputed'." 
-2. "The negative blessing necessarily includes the positive." 
-3. "The passage is strictly in point."
+2. "As the negative blessing necessarily includes the positive, the passage is strictly in point." 
+3. "The passage highlights the comprehensive nature of God's forgiveness, covering all aspects of transgression, sin, and iniquity."
+
+### Albert Barnes:
+1. "Blessed - Happy are they: they are highly favored."
+2. "Whose sins are covered - Are concealed; or hidden from the view."
+3. "By these words...we are taught that justification with Paul is nothing else but pardon of sin."
 
 ### Marvin Vincent:
-1. "Iniquities, or lawlessnesses, are forgiven." 
-2. "The forgiveness of sins is not a future possibility, but a present reality." 
-3. "Remission of sins is not a distant hope, but a tangible experience."
+1. "Iniquities [ανομιαι] . Lit., lawlessnesses."
+2. "Are forgiven [αφεθησαν] . Lit., were forgiven."
+3. "Also on remission, Luke 3:3."
 
 ### Philip Schaff:
-1. "Blessed are they, etc. The quotation is made exactly from the LXX."
-2. "Whoso sins are covered. The idea of the first clause is repeated under another figure, according to the parallelism of Hebrew poetry."
-3. "Their sins are hid by God Himself, which is the same as 'forgiven,' 'not reckoned.'"
+1. "Whoso sins are covered. The idea of the first clause is repeated under another figure, according to the parallelism of Hebrew poetry."
+2. "Their sins are hid by God Himself, which is the same as ‘forgiven,’ ‘not reckoned.’"
+3. "The quotation is made exactly from the LXX."
+
+### Archibald T Robertson:
+1. "Blessed (μακαριο). See on Matthew 5:3." 
+2. "Paul quotes Psalms 32:1 and as from David. Paul thus confirms his interpretation of Genesis 15:6." 
+3. "Iniquities (ανομια). Violations of law whereas αμαρτια (sins) include all kinds."
+
+### John Gill:
+1. "Blessed are they...whose iniquities are forgiven, and whose sins are covered." 
+2. "He removes their iniquities from them...casts them behind his back...into the depths of the sea."
+3. "The mercy of God covering the sins of his people, through the purple blood of his Son."
+
+These quotes highlight the happiness and blessedness of those whose sins are forgiven and covered by God. It emphasizes the complete removal and hiding of their sins, never to be seen or brought against them again. The imagery of God's mercy as a purple garment, symbolizing the covering of sins through the blood of Christ, further enriches the understanding of the verse.
 
 ### John Wesley:
 1. "Happy are they whose sins are covered — With the veil of divine mercy." 

@@ -1,33 +1,43 @@
 # Luke 4:33 Commentary Help Text
 
 ## BHT:
-In this passage, a man is described as being possessed by an unclean devil. This highlights the impurity and evil nature of the spirit, emphasizing the spiritual battle between good and evil. The demon's presence not only harms the man physically, but also influences his mind and imposes upon the people. The mention of the Sabbath day adds to the significance of this encounter, as the demon is defying the holiness associated with it. The man's loud cry in the presence of Jesus demonstrates his power and authority over the forces of darkness.
+In a synagogue, a man was tormented physically and spiritually, possessed by a spirit of an unclean devil. This showcases the dominance of evil and the necessity of divine intervention. The incident, happening on the Sabbath, challenges Jewish customs and affirms Jesus' authority over the spiritual realm. The man's desperate cry reveals the severity of his suffering, prompting a compassionate and authoritative response from Jesus.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The influence, the personality, of the possessing dæmon."
+2. "The true account of the use of ἀκάθαρτον here seems to be, that this evil spirit was of a kind, in its effects on its victim, especially answering to the epithet."
+3. "So much for the accuracy of the data, on which inferences of this kind are founded."
+
 ### Jamieson Fausset Brown:
 1. "The frequency with which this character of impurity is applied to evil spirits is worthy of notice."
-2. "Cried out" (See Matthew 8:29 Mark 3:11).
+2. "(See Matthew 8:29 Mark 3:11)."
+
+Note: The commentary provided is incomplete and does not contain enough information to provide additional quotes.
 
 ### Marvin Vincent:
-1. "A spirit of an unclean devil" - Luke's use of the term "unclean devil" emphasizes the impurity and evil nature of the spirit possessing the man. It highlights the spiritual battle between good and evil that is at play in this passage.
+1. "A spirit of an unclean devil" - Luke's choice of words, specifically adding the epithet "unclean" to the term "devil," emphasizes the impurity and malevolence of the spirit. 
 
-2. "Where the rendering should be demon" - The commentary suggests that the term "demon" is a more accurate translation than "devil" in this context. This distinction helps to clarify the nature of the spirit as a malevolent supernatural being rather than the ultimate embodiment of evil.
+2. "Where the rendering should be demon" - The commentary suggests that the term "demon" is a more accurate translation for the Greek word used here, highlighting the spiritual nature of the entity possessing the person. 
 
-3. "This is the only case in which Luke adds... the epithet unclean" - Luke's specific choice to describe the demon as "unclean" further underscores its impurity and defilement. It suggests that the presence of this spirit is not only harmful but also spiritually contaminating.
+3. "This is the only case in which Luke adds...the epithet unclean" - Luke's deliberate inclusion of the word "unclean" implies that not all demons are necessarily unclean, suggesting a distinction between different types of evil spirits.
 
 ### John Calvin:
 1. "This mode of expression, which Luke employs, conveys the idea, that the man was driven by the impulse of the devil."
 2. "By the permission of God, Satan had seized the faculties of his soul in such a manner, as to drive him not only to speak, but to perform other movements, at his pleasure."
 3. "The title, Holy One of God, was probably taken from a manner of speaking, which was, at that time, in ordinary and general use."
 
+### Archibald T Robertson:
+1. "Luke's Gospel uses δαιμονιον twenty-two times and ακαθαρτον as an epithet, once of δαιμονιον as here and once of πνευμα."
+2. "In Mark the man is in (εν) the power of the unclean spirit, while here the man 'has' a spirit of an unclean demon."
+3. "With a loud voice (φωνη μεγαλη). Not in Mark. Really a scream caused by the sudden contact of the demon with Jesus."
+
 ### John Gill:
-1. "There was a certain man, which had a spirit of an unclean devil: who was possessed with the devil, who is by nature and practice unclean; and was filled with the spirit of the devil, with a spirit of divination, and was acted by him, to impose upon the people; he influenced his mind as an enthusiast, as well as possessed his body."
+1. "The man in the synagogue was not only physically afflicted but also spiritually oppressed, as he had a spirit of an unclean devil. This emphasizes the power of evil and the need for divine intervention." 
 
-2. "And this was on the sabbath day; whereas the Jews say that 'Satan and the evil demon flee on the sabbath day to the mountains of darkness, and do not appear all the sabbath day, because that day is holy, and they are unclean.'"
+2. "The fact that this incident occurred on the Sabbath day adds to the significance of Jesus' actions. It challenges the traditional beliefs and practices of the Jews, highlighting Jesus' authority over the spiritual realm even on this holy day." 
 
-3. "And cried out with a loud voice."
-
-4. "The man's loud cry demonstrated the power and authority of Jesus, as it was the presence of Jesus that provoked such a reaction from the possessed man."
+3. "The man cried out with a loud voice, indicating the intensity of his torment and the desperate need for deliverance. It demonstrates the urgency and seriousness of the situation, prompting Jesus to respond with compassion and authority."
 
 
 ## Generation Details

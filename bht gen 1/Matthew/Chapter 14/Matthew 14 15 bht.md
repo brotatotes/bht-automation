@@ -1,9 +1,19 @@
 # Matthew 14:15 Commentary Help Text
 
 ## BHT:
-Amidst Jesus' teaching, the disciples grew concerned for the physical needs of the multitude and suggested sending them away to find food in nearby villages. Their request reflected a limited perspective, anchored in conventional meal times, and a lack of faith in Jesus' ability to provide. Yet, Jesus purposely delayed performing the miraculous feeding, allowing His disciples to glean important lessons from it and affirming His constant care for His people.
+The disciples, aware of the practical constraints of time and resources, expressed their concern for the physical needs of the crowd, indicating that it was getting late. Their reliance on customary meal times suggested a belief that people would need to eat at the usual hour. This commentary draws from multiple Gospel accounts, emphasizing the importance of considering different perspectives and sources when interpreting biblical passages.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "This ὀψία was the first evening, the decline of the day, about 3 p.m."
+2. "The ὀψία in Matthew 14:23, after the miracle, was late in the night."
+3. "The time of the day is now late."
+
+### Marvin Vincent:
+1. "The dominant thought of the disciples is remoteness from supplies of food."
+2. "The first meaning of the word is solitary; from which develops the idea of void, bereft, barren."
+3. "Christ answers, No need have they to go away. Give ye."
+
 ### John Calvin:
 1. "The disciples had now lost their object, and they see that Christ is again absorbed in teaching, while the multitudes are so eager to receive instruction that they do not think of retiring."
 2. "They therefore advise that for the sake of attending to their bodily wants, Christ should send them away into the neighboring villages."
@@ -14,17 +24,22 @@ Amidst Jesus' teaching, the disciples grew concerned for the physical needs of t
 2. "Our Lord had continued His work of teaching and healing, until He had an opportunity to show how He could supply other wants."
 3. "Those who wait on Him shall be fed!"
 
+### Archibald T Robertson:
+1. "Not sunset about 6 P.M. as in Matthew 8:16 and as in Matthew 14:23, but the first of the two 'evenings' beginning at 3 P.M." 
+2. "Not a desolate region, simply lonely, comparatively uninhabited with no large towns near." 
+3. "They must hurry."
+
 ### John Gill:
 1. "The Jews, as Grotius rightly observes, had two evenings; the one began when the sun declined at noon, and the other at sun setting: now it was the former of these, and not the latter, that was now come."
 2. "The disciples reason for the dismission of the multitude, that might go into the neighbouring villages, and buy provisions, shows that it could not be the last, but the first of these evenings, that is here meant."
 3. "The disciples move that he would break off his discourse, and dismiss them; in the synagogue the manner of dismissing the people was, by reading the הפטרה, or 'dismission', which was some passage out of the prophetic writings."
 
 ### John Wesley:
-1. "The time is now past" - This phrase indicates that the disciples were aware of the practical limitations of providing food for the large crowd. It highlights their concern for the physical needs of the people and their recognition of the time constraints they were facing.
+1. "The time is now past" - This phrase indicates that the disciples were aware of the practical limitations of time and resources. It highlights their concern for the physical needs of the crowd and their recognition that it was getting late. 
 
-2. "The usual meal time" - This phrase suggests that the disciples were thinking in terms of conventional meal times and expected the people to have their own provisions. It reveals their limited perspective and lack of faith in Jesus' ability to provide for the multitude.
+2. "The usual meal time" - This phrase suggests that the disciples were referring to the customary time for meals. It emphasizes the disciples' reliance on familiar routines and their expectation that people would need to eat at the usual hour. 
 
-3. "Mark 6:35; Luke 9:12" - These references indicate that the commentary is based on the accounts of the feeding of the five thousand found in the Gospels of Mark and Luke. It establishes the context for the discussion and emphasizes the significance of the disciples' response to the situation.
+3. "Mark 6:35; Luke 9:12" - These references indicate that the commentary is drawing from multiple Gospel accounts to provide a comprehensive understanding of the verse. It shows the importance of considering different perspectives and sources when interpreting biblical passages.
 
 
 ## Generation Details

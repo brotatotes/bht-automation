@@ -1,36 +1,53 @@
 # Romans 14:22 Commentary Help Text
 
 ## BHT:
-The verse being described emphasizes the importance of personal conviction and faith before God. It urges individuals to hold onto their beliefs and convictions, though not necessarily publicly, in order to avoid causing offense or distress to others. It also highlights the significance of self-examination, discernment, and proper use of one's beliefs and actions to prevent self-condemnation. Ultimately, those who have a clear conscience and firm faith are considered blessed.
+In this Bible verse, the author encourages individuals to hold onto their faith convictions privately, without forcing them upon others. The emphasis is on maintaining peace of conscience before God and avoiding causing offense or disturbance within the community. It is explained that those who act according to their sincere beliefs, without condemning themselves or others, will experience true happiness. The verse also encourages individuals to avoid excessive introspection and scruples, focusing instead on a clear conscience in their actions.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The faith which thou hast...have (it) to thyself before God." 
+2. "Before God, because He is the object of faith."
+3. "It is a blessed thing to have no scruples about things in which we allow ourselves."
+
 ### Jamieson Fausset Brown:
 1. "It is not mere sincerity, or a private opinion, of which the apostle speaks; it is conviction as to what is the truth and will of God."
 2. "If thou hast formed this conviction in the sight of God, keep thyself in this frame before Him."
-3. "All that is here condemned is such a zeal for small points as endangers Christian love."
+3. "Happy is he that condemneth not himself in that which he alloweth—allows himself to do nothing, about the lawfulness of which he has scruples; does only what he neither knows nor fears to be sinful."
+
+### Albert Barnes:
+1. "Do not obtrude your faith or opinion on others. Be satisfied with cherishing the opinion, and acting on it in private, without bringing it forward to produce disturbance in the church."
+2. "God sees your sincerity, and will approve your opinion. That opinion cherish and act on, yet so as not to give offence, and to produce disturbance in the church."
+3. "The way to be happy is to have a 'clear conscience' in what we do; or in other words, if we have 'doubts' about a course of conduct, it is not safe to indulge in that course, but it should be at once abandoned."
+
+### Marvin Vincent:
+1. "The faith which thou hast have thou to thyself," etc.
+2. Who, in settled conviction of the rightness of his action, subjects himself to no self-judgment after it.
+3. "Christian practice ought to be out of the sphere of morbid introspection."
+
+### John Calvin:
+1. "He then says, that liberty really understood, as it is that of faith, has properly a regard to God; so that he who is endued with a conviction of this kind, ought to be satisfied with peace of conscience before God; nor is it needful for him to show before men that he possesses it."
+2. "But he lays down a general truth, which extends to all actions, — 'Happy,' he says, 'is he who is not conscious of doing wrong, when he rightly examines his own deeds.'"
+3. "Thus is removed that vain excuse which many allege on the ground of ignorance; inasmuch as their error is connected with insensibility and sloth: for if what they call good intention is sufficient, their examination, according to which the Spirit of God estimates the deeds of men, is superfluous."
 
 ### Philip Schaff:
 1. "Have it to thyself before God; it is not necessary to parade it before men." 
 2. "Keep this faith because it is well founded, but keep it to thyself, when it might injure the weak brother."
 3. "Blessed is he that judgeth not himself in that which he approveth; tests and then chooses to do."
-4. "Christian practice ought to be out of the sphere of morbid introspection."
 
 ### Archibald T Robertson:
-1. "Have thou to thyself before God." - This emphasizes the personal responsibility of each individual before God, highlighting the importance of one's actions and decisions being in alignment with God's will.
-
-2. "He is within his rights to act 'according to thyself,' but it must be 'before God' and with due regard to the rights of the other brethren." - This quote emphasizes the balance between personal freedom and consideration for others, reminding believers to act in a way that is both pleasing to God and respectful of the rights and needs of fellow believers.
-
-3. "After testing and then approving...one takes his stand which very act may condemn himself by what he says or does." - This quote highlights the importance of discernment and self-reflection before endorsing or participating in certain actions or beliefs. It serves as a reminder that one's approval or endorsement can have consequences and should be done with careful consideration.
+1. "Thou there." The old MSS. put ην (relative "which") after πιστιν and before εχεις.
+2. This principle applies to both the "strong" and the "weak." He is within his rights to act "according to thyself," but it must be "before God" and with due regard to the rights of the other brethren.
+3. After testing and then approving (Romans 1:28; Romans 2:18) one takes his stand which very act may condemn himself by what he says or does. "It is a rare felicity to have a conscience untroubled by scruples" (Denney).
 
 ### John Gill:
-1. "He does not advise such to alter their minds, change their sentiments, or cast away their faith, which was right and agreeable to his own, but to have it, hold and keep it, though, within themselves."
-2. "He would not have them openly declare it, and publicly make use of it, since it might be grieving and distressing to weak minds; but in private, and where there was no danger of giving offence, they might both speak of it, and use it."
-3. "Happy is he that condemneth not himself in that thing which he alloweth or 'approves of'; that is, it is well for that man who observes no difference of meats, if either he does not act contrary to his own conscience, and so condemns himself in what he allows himself in; or exposes himself to the censure, judgment, and condemnation of others, in doing that which he approves of as lawful, and is so, but unlawful when done to the offence of others."
+1. "A man that has such faith given him, ought not to keep it in his own breast, but to declare it to others; he ought to make a public visible profession of it, before many witnesses."
+2. "His advice on this head is, to keep this faith and persuasion in a man's own breast, and not divulge it to others, where there is danger of scandal and offence."
+3. "Happy is he that condemneth not himself in that thing which he alloweth or 'approves of'; that is, it is well for that man who observes no difference of meats, if either he does not act contrary to his own conscience, and so condemns himself in what he allows himself in; or exposes himself to the censure, judgment, and condemnation of others."
 
 ### John Wesley:
-1. "Have it to thyself before God" - In situations where your faith allows you to see all things as pure, keep it to yourself and avoid offending others.
-2. "Happy is he that condemneth not himself" - It is important to use even innocent things properly to avoid self-condemnation.
-3. "Happy he who is free from a doubting conscience" - Those who have a clear conscience and do not doubt themselves are truly blessed.
+1. "In circumstances like these, keep it to thyself, and do not offend others by it."
+2. "Happy is he that condemneth not himself — By an improper use of even innocent things!"
+3. "He that has this may allow the thing, yet condemn himself for it."
 
 
 ## Generation Details

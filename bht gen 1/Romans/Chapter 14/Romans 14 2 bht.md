@@ -1,18 +1,35 @@
 # Romans 14:2 Commentary Help Text
 
 ## BHT:
-In this verse, there is a contrast between believers who have the freedom to eat all types of food without restriction, and those who are more cautious and choose to eat only vegetables. The distinction is made between those who have a strong faith and those who are weaker in their faith, highlighting the diversity among believers. The verse addresses the issue of food restrictions in relation to faith and encourages believers to focus on what truly matters - the transformation of the heart and living a life that honors God.
+Description:
+
+In this verse, the commentator discussions focus on the contrast between those who have strong faith and those who are weak in faith. The verse addresses the belief and confidence of the strong in faith to eat all things, surpassing the limitations that were once imposed by the law. It acknowledges the existence of differing levels of faith and demonstrates how the expansive understanding of what is permissible extends to all sorts of food. This verse signifies a broader perspective that transcends the previous restrictions and represents the transformative nature of faith.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The strong in faith is opposed to the weak, indicating a contrast between the two. This contrasts with the one who is weak, mentioned earlier in Romans 14:1."
+2. "The phrase 'believes that he may eat' can be understood as either believing that he is allowed to eat or daring to eat. The latter interpretation is supported by a reference in Acts where it says 'we trust to be saved.'"
+3. "The phrase 'λάχ  .   ἐσθ .,' refers to the discussion in the previous chapter, indicating that the topic of eating is being continued in this chapter."
+
 ### Jamieson Fausset Brown:
-1. "One believeth that he may eat all things" - This quote highlights the freedom of some believers to eat any type of food without any restrictions or concerns.
-2. "Another, who is weak, eateth herbs" - This quote emphasizes the caution and limitation of certain believers who choose to only eat vegetables, possibly due to their fear of consuming food that may have been offered to idols.
-3. "Restricting himself probably to a vegetable diet, for fear of eating what might have been offered to idols, and so would be unclean" - This quote provides further explanation for why some believers choose to eat only herbs, linking it to the concern of avoiding food that may have been involved in idol worship.
+1. "One believeth that he may eat all things—See Acts 10:16." 
+2. "Another, who is weak, eateth herbs—restricting himself probably to a vegetable diet, for fear of eating what might have been offered to idols, and so would be unclean."
+3. "See 1 Corinthians 8:1-13."
+
+### Albert Barnes:
+1. "Many of the converts who had been Jews might also have had the same view as the apostle Paul evidently had while the great mass of Jewish converts might have cherished these scruples."
+2. "The question with the Jew doubtless was, whether it was lawful to eat the meat which was offered in sacrifice to idols."
+3. "To avoid the possibility of partaking of it, even 'ignorantly,' they chose to eat no meat at all."
 
 ### Marvin Vincent:
-1. "The point is the strength or weakness of the man's faith as it affects his eating." 
-2. "Hence Rev., correctly, hath faith to eat." 
+1. "The point is the strength or weakness of the man's faith as it affects his eating."
+2. "Hence Rev., correctly, hath faith to eat."
 3. "Herbs grown on land cultivated by digging: garden-herbs, vegetables."
+
+### John Calvin:
+1. "He then calls those believers who were endued with a conscience fully satisfied; to these he allowed the use of all things without any difference."
+2. "If the common version be more approved, the meaning then will be, — that it is not right that he who freely eats all things, as he believes them to be lawful, should require those, who are yet tender and weak in faith, to walk by the same rule."
+3. "Both sentences are declarative, announcing a fact respecting two parties: the one believed he might eat everything; the other did eat only herbs."
 
 ### Philip Schaff:
 1. "One has a confidence resulting from faith which permits him to eat every kind of food."
@@ -20,25 +37,23 @@ In this verse, there is a contrast between believers who have the freedom to eat
 3. "Such believers are apt to differ among themselves, as well as with their stronger brethren."
 
 ### Archibald T Robertson:
-1. "One man (ος μεν). 'This one,' demonstrative pronoun ος with μεν." 
-2. "Hath faith (πιστευε). Like εχε πιστιν (Acts 14:9)." 
-3. "But he that is weak (ο δε ασθενων). One would expect ος δε (but that one) in contrast with ος μεν. Hο is demonstrative with δε sometimes, but here is probably just the article with ασθενων."
+1. "One man hath faith." - This quote highlights the emphasis on individual belief and faith in the commentary. It suggests that faith is a personal and individual experience.
+
+2. "But he that is weak." - This quote introduces the concept of weakness in contrast to faith. It implies that there are different levels of spiritual strength and understanding among believers.
+
+3. "Paul has in mind a party of vegetarians in Rome." - This quote provides insight into the historical context of the commentary. It suggests that Paul may be addressing a specific group of believers who follow a vegetarian lifestyle.
 
 ### John Gill:
-1. "He is fully persuaded in his mind, that there is nothing in itself common, or unclean; that the difference between clean and unclean meats, commanded to be observed by the law of Moses, is taken away."
-2. "Every creature of God being good, and none to be refused, because of the ceremonial law which is abrogated, provided it be received with thanksgiving, and used to the glory of God."
-3. "One that is weak in the faith, and who thinks that the laws concerning the observance of meats and drinks are still in force; and therefore, rather than break any of them, and that he may be sure he does not, will eat nothing but herbs."
+1. "He is fully persuaded in his mind, that there is nothing in itself common, or unclean."
+2. "Every creature of God being good, and none to be refused, because of the ceremonial law which is abrogated."
+3. "One that is weak in the faith, and who thinks that the laws concerning the observance of meats and drinks are still in force."
 
 ### John Wesley:
-1. "All things" refers to all types of food, including those that were previously forbidden by the law. This suggests a shift in perspective and a broader understanding of what is permissible to consume.
+1. "All things" - This phrase refers to a wide range of things, including food that was previously considered forbidden by the law. It suggests a shift in perspective and a broader understanding of what is permissible.
 
-2. The inclusion of "all things" implies a sense of freedom and liberation from the restrictions of the law. It highlights the idea that what truly matters is not external regulations, but the inner transformation of the heart.
+2. "All sorts of food" - This emphasizes the inclusivity of the statement, indicating that there are no limitations or restrictions on the types of food that can be consumed. It highlights the freedom and openness that comes with the new understanding.
 
-3. This verse challenges the notion that certain foods are inherently unclean or impure. It emphasizes that it is not what goes into a person's mouth that defiles them, but rather what comes out of their heart and actions.
-
-4. The phrase "all things" also extends beyond the realm of food, encompassing all aspects of life. It encourages believers to approach everything with gratitude and a discerning spirit, seeking to honor God in all they do.
-
-5. Ultimately, this verse reminds us that our focus should not be on legalistic rules and regulations, but on cultivating a heart that is aligned with God's will and guided by love and grace.
+3. "Though forbidden by the law" - This phrase acknowledges the previous restrictions imposed by the law. It recognizes that there was a time when certain foods were considered off-limits, but now there is a new understanding that transcends those limitations. It underscores the transformative nature of this new perspective.
 
 
 ## Generation Details

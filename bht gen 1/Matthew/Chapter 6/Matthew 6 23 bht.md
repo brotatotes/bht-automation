@@ -1,18 +1,23 @@
 # Matthew 6:23 Commentary Help Text
 
 ## BHT:
-In this verse, we are warned about the perils of a divided heart and a distorted mindset. The commentators describe the consequences of being consumed by earthly desires, emphasizing the darkness that engulfs one's whole being. They caution that such a condition hinders our ability to see truth and discern what is right. Ultimately, they paint a grim picture of a heart devoid of dedication and the dire outcome it may lead to.
+In this Bible verse, the commentators paint a vivid picture of a divided heart and mind, engulfed in darkness and blind to the light. The verse describes the consequences of straying from a single and supreme dedication to God. It warns that a heart consumed by worldly desires and sinful temptations will be filled with darkness, obscuring one's ability to discern what is right and just. The commentators emphasize the importance of maintaining spiritual clarity amidst the darkness of earthly distractions, or else one risks being lost in a state of eternal darkness.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
 1. "As a vitiated eye, or an eye that looks not straight and full at its object, sees nothing as it is, so a mind and heart divided between heaven and earth is all dark."
-2. "If these [inward purpose, scope, aim in life] be not simple and heavenward, but distorted and double, what must all the other faculties and principles of our nature be which take their direction and character from these, and what must the whole man and the whole life be but a mass of darkness?"
+2. "If these be not simple and heavenward, but distorted and double, what must all the other faculties and principles of our nature be which take their direction and character from these, and what must the whole man and the whole life be but a mass of darkness?"
 3. "If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light."
 
 ### Marvin Vincent:
-1. "No one understands that he is avaricious or covetous. The blind seek for a guide; we wander about without a guide."
-2. "Seeing falsely is worse than blindness."
+1. "Now, incredible as the story seems, it is really true that she is unconscious of her blindness, and consequently begs her attendant to go elsewhere because the house is dark."
+2. "No one understands that he is avaricious or covetous. The blind seek for a guide; we wander about without a guide."
 3. "False seeing is unseeing, on the negative side of blindness."
+
+### John Calvin:
+1. "We ought not to wonder, if men wallow so disgracefully, like beasts, in the filth of vices, for they have no reason which might restrain the blind and dark lusts of the flesh."
+2. "The light is said to be turned into darkness, not only when men permit the wicked lusts of the flesh to overwhelm the judgment of their reason, but also when they give up their minds to wicked thoughts, and thus degenerate into beasts."
+3. "Christ has good grounds for declaring, that thick and appalling darkness must of necessity reign in the life of men, when they choose to be blind."
 
 ### Philip Schaff:
 1. "The evil result of a divided state of heart, where what God designed to be the means of showing Himself to us as the supreme object of love, fails to perform its office."

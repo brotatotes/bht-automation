@@ -1,20 +1,28 @@
 # Matthew 9:36 Commentary Help Text
 
 ## BHT:
-In this verse, we see Jesus' deep empathy for the weary and exhausted multitudes, showing compassion towards their physical and emotional struggles. The people were depicted as disorganized, exhausted, and burdened by religious rites and traditions, in need of guidance and care. They were like sheep without a shepherd, their souls uncared for and longing for spiritual guidance, highlighting the neglect they experienced from the religious leaders. Jesus, as the ultimate Shepherd, understood their needs and offered solace and deliverance.
+The verse described portrays a scene where Jesus, filled with compassion, looks upon the crowds in different cities who are burdened, wearied, and scattered. These people, reminiscent of sheep without a shepherd, are oppressed by the religious leaders' heavy burdens and traditions. Jesus, seeing their distressed and neglected state, yearns for their well-being and longs to gather and shepherd them, providing the care and spiritual nourishment they lack. In their wandering, they find themselves lacking competent spiritual leaders and teachers, and are in danger of losing their souls.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Wherever He went, in all the cities."
+2. "Vexati, harassed, plagued, viz. literally, with weariness in following Him; or spiritually, with the tyranny of the Scribes and Pharisees, their φορτία βαρέα."
+3. "Temere projecti, abjecti, neglecti, as sheep would be who had wandered from their pasture. The context shews that our Lord’s compassion was excited by their being without competent spiritual leaders and teachers."
+
 ### Jamieson Fausset Brown:
-1. "He was moved with compassion on them, because they fainted" - The verse highlights Jesus' deep empathy for the weary and exhausted multitudes, emphasizing his compassion towards their physical and emotional struggles.
-
-2. "Their pitiable condition as wearied under bodily fatigue, a vast disorganized mass" - The commentary underscores the desperate state of the people, depicting them as a disorganized and exhausted crowd, further emphasizing their need for guidance and care.
-
-3. "Their souls uncared for, yet drawn after and hanging upon Him" - This quote highlights the spiritual neglect experienced by the people, contrasting their longing for spiritual guidance with the lack of care they received from the religious leaders. It emphasizes Jesus as the answer to their unmet spiritual needs.
+1. "He was moved with compassion on them, because they fainted—This reading, however, has hardly any authority at all. The true reading doubtless is, 'were harassed.'" 
+2. "Their pitiable condition as wearied under bodily fatigue, a vast disorganized mass, being but a faint picture of their wretchedness as the victims of pharisaic guidance; their souls uncared for, yet drawn after and hanging upon Him."
+3. "This moved the Redeemer's compassion."
 
 ### Albert Barnes:
 1. "He was moved with compassion on them - He pitied them." 
-2. "He saw the people burdened with the rites of religion and the doctrines of the Pharisees; sinking down under their ignorance and the weight of their traditions; neglected by those who ought to have been enlightened teachers; and scattered and driven out without care and attention."
+2. "He saw the people burdened with the rites of religion and the doctrines of the Pharisees; sinking down under their ignorance and the weight of their traditions; neglected by those who ought to have been enlightened teachers; and scattered and driven out without care and attention." 
 3. "With great beauty he compares them to sheep wandering without a shepherd."
+
+### Marvin Vincent:
+1. "The word originally means to flay, rend, or mangle."
+2. "As appropriate to the figure of sheep, it might be rendered here fleeced."
+3. "It is not the dispersion one from another, but their prostration in themselves that is meant."
 
 ### John Calvin:
 1. "True, they boasted that they were superintendents of the people; and the number of those who gloried in that title was not small. Yet not one of them does Christ own to be a pastor."
@@ -22,18 +30,23 @@ In this verse, we see Jesus' deep empathy for the weary and exhausted multitudes
 3. "But we must listen to the voice of Christ, who declares, that where there are no laborers there are no shepherds, and that those sheep are wandering and scattered which are not collected into the fold of God by the doctrine of the gospel."
 
 ### Philip Schaff:
-1. "Popularity called forth pity. Our Lord's sympathy, like ours, was called forth by particular, passing events."
-2. "A figure, showing the spiritual condition of the people. They were suffering from the burdens put on them by those who pretended to be their shepherds...uncared for by these, they wandered as sheep left to stray from the pasture."
+1. "Popularity called forth pity. Our Lord’s sympathy, like ours, was called forth by particular, passing events."
+2. "A figure, showing the spiritual condition of the people. They were suffering (‘distressed’) from the burdens put on them by those who pretended to be their shepherds, the scribes and Pharisees, and uncared for by these, they wandered (‘scattered’) as sheep left to stray from the pasture."
 3. "All who are without the good Shepherd are thus Spiritually vexed and abandoned."
 
+### Archibald T Robertson:
+1. "A sad and pitiful state the crowds were in."
+2. "Used here of the common people, it describes their religious condition."
+3. "The masses were in a state of mental dejection."
+
 ### John Gill:
-1. "He was moved with compassion on them: his bowels yearned for them, he was touched with a feeling of their infirmities." 
-2. "Being burdened and wearied with the various traditions and doctrines of the Scribes and Pharisees." 
-3. "Being as sheep without a shepherd; that was good for anything, or did the office and duty of a shepherd to them."
+1. "He was moved with compassion on them: his bowels yearned for them, he was touched with a feeling of their infirmities, as the merciful high priest, the good shepherd, and faithful prophet."
+2. "Being burdened and wearied with the various traditions and doctrines of the Scribes and Pharisees."
+3. "No due care was taken of them, to gather and keep them together, and feed them with wholesome doctrine; but were as abjects, outcasts, that no man regarded, and in great danger of the loss and ruin of their immortal souls."
 
 ### John Wesley:
-1. "Because they were faint - In soul rather than in body."
-2. "As sheep having no shepherd - And yet they had many teachers; they had scribes in every city."
+1. "Because they were faint — In soul rather than in body." 
+2. "As sheep having no shepherd — And yet they had many teachers; they had scribes in every city." 
 3. "But they had none who cared for their souls, and none that were able, if they had been willing, to have wrought any deliverance."
 
 

@@ -1,13 +1,43 @@
 # Romans 2:13 Commentary Help Text
 
 ## BHT:
-The verse being described speaks of the justification of those who actively follow and live out God's law. It emphasizes the need for action and genuine faith, rather than mere knowledge. This truth holds significance for both Jews and Gentiles, highlighting the universality of God's justice. The commentary also provides insights into the structure of the passage, clarifying the connection between verses and aiding in the understanding of the overall argument.
+The verse being described emphasizes the importance of action and obedience, rather than mere knowledge or hearing, for justification before God. It applies not only to the Jews but also to the Gentiles, making it a significant and relevant truth for all believers. The structure of the passage further supports the idea that there is a direct connection between living out the teachings of the law and being justified before God.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Not his mere hearing of the law read in the synagogue will justify him before God, but the doing of the law."
+2. "The correct English for οἱ ἀκροαταὶ νόμου is hearers of the law, and for οἱ ποιηταὶ νόμου, doers of the law."
+3. "His dictum, that such an expression as οἱ ἀκροαταὶ νόμου is inadmissible, will hardly in our day be considered as deciding the matter."
+
 ### Jamieson Fausset Brown:
 1. "The condemnation of as many of them as are found sinners at the last involves no difficulty." 
 2. "The heathen...show how deeply [the law] is engraven on their moral nature."
 3. "Their condemnation also for all the sin in which they live and die will carry its dreadful echo in their own breasts."
+
+### Albert Barnes:
+1. "This was the plain and obvious demand, not only of common sense, but of the Jewish Law itself; Deuteronomy 4:1; Leviticus 18:5; compare Romans 10:9." 
+2. "The meaning is, that it is a maxim or principle of the Law of God, that if a creature will keep it, and obey it entirely, he shall not be condemned, but shall be approved and live forever." 
+3. "If the Jews, therefore, expected to be saved by their Law, it must be, not by hearing the Law, nor by being called a Jew, but by perfect and unqualified obedience to all its requirements."
+
+### Marvin Vincent:
+1. "Hearers [ακροαται]...brings out, better than the participle oiJ ajkouontev those that hear, the characteristic feature; those whose business is hearing."
+2. "Like the Jews, who heard it regularly in the synagogues."
+3. "Only here in Paul. Three times in James."
+
+### John Calvin:
+1. "The import then of this verse is the following, — 'That if righteousness be sought from the law, the law must be fulfilled; for the righteousness of the law consists in the perfection of works.'"
+2. "They who pervert this passage for the purpose of building up justification by works, deserve most fully to be laughed at even by children."
+3. "Now we do not deny but that perfect righteousness is prescribed in the law: but as all are convicted of transgression, we say that another righteousness must be sought."
+
+### Philip Schaff:
+1. "The Jewish mistake was that the possession of the law of itself gave them an advantage in the judgment."
+2. "The hearers of the law...are righteous before God."
+3. "This form of the general principle of Romans 2:6 opposes the Jewish error, and it is not at all in opposition to the principle of justification by faith."
+
+### Archibald T Robertson:
+1. "The virtue is in doing."
+2. "The law was read in the synagogue, but there was no actual virtue in listening."
+3. "Shall be declared righteous."
 
 ### John Gill:
 1. "Hearing without doing it, will never denominate persons righteous in the sight of God, however it might recommend them in the sight of men."
@@ -15,11 +45,11 @@ The verse being described speaks of the justification of those who actively foll
 3. "The best of men, even believers in Christ, are not without sin in themselves; and when any of the saints are said to be perfect, it must be understood in a comparative sense, or as they are considered in Christ."
 
 ### John Wesley:
-1. "The doers of the law shall be justified" - This verse emphasizes the importance of action and obedience to God's law, rather than simply hearing or knowing it. It highlights the need for a genuine and active faith that is demonstrated through righteous deeds.
+1. "The doers of the law shall be justified" - This verse emphasizes the importance of action and obedience, rather than mere knowledge or hearing. It highlights the need for individuals to live out the teachings of the law in order to be justified before God.
 
-2. "A most sure and important truth" - The commentator recognizes the significance of this truth, not only for the Jews but also for the Gentiles. It implies that both groups are accountable to God's law and will be judged accordingly, emphasizing the universal nature of God's justice.
+2. "A most sure and important truth" - The commentary underscores the significance of this truth, which applies not only to the Jews but also to the Gentiles. It suggests that this verse has broader implications and relevance for all believers.
 
-3. "Here is therefore no parenthesis" - The commentator clarifies the structure of the passage, emphasizing that the sixteenth verse is connected to the fifteenth, not the twelfth. This helps to understand the flow of the argument and the logical progression of thought in the passage.
+3. "Here is therefore no parenthesis" - The commentary clarifies the structure of the passage, emphasizing that the sixteenth verse is connected to the fifteenth, not the twelfth. This helps to provide a clearer understanding of the flow and coherence of the passage.
 
 
 ## Generation Details

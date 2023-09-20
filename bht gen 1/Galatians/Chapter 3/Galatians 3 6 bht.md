@@ -1,15 +1,18 @@
 # Galatians 3:6 Commentary Help Text
 
 ## BHT:
-This description explores the commentary of various biblical scholars. It highlights the importance of faith as the means of justification, not works or rituals. The role of Abraham as an example of faith is emphasized, along with the connection between his faith and the promises of God. The commentary also touches on the significance of Abraham's example in shaping theological arguments and discussions.
+This passage speaks of the significance of Abraham's faith and justification by faith alone. It highlights how Abraham, the father of the faithful, believed in God's promises and his faith was reckoned as righteousness. The verse emphasizes that faith is the means by which one is justified, not by works or adherence to the law. Abraham's example serves as a pattern for all believers, demonstrating that righteousness comes solely through faith in God. Both Paul and James reference Abraham's faith as evidence of justification, showing different aspects of his life while affirming the same truth.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The fact of justification being now introduced, whereas before the ἐπιχορηγεῖν τὸ πνεῦμα was the matter enquired of, is no real departure from the subject." 
+2. "Both these belong to the ἐνάρξασθαι of Galatians 3:3, are concomitant, and inseparable."
+3. "On the verse, see note, Romans 4:3."
+
 ### Jamieson Fausset Brown:
-1. "It was by the hearing of faith: following this up, he says, 'Even as Abraham believed'... God supplies unto you the Spirit as the result of faith, not works." 
-
-2. "Abraham obtained justification by faith, not by works... Where justification is, there the Spirit is, so that if the former comes by faith, the latter must also." 
-
-3. "If the former comes by faith, the latter must also."
+1. "It was by the hearing of faith: following this up, he says, 'Even as Abraham believed.'"
+2. "God supplies unto you the Spirit as the result of faith, not works, just as Abraham obtained justification by faith, not by works."
+3. "Where justification is, there the Spirit is, so that if the former comes by faith, the latter must also."
 
 ### Albert Barnes:
 1. "The most eminent of the patriarchs was not saved by the deeds of the Law. He was saved by faith, and this fact showed that it was possible to be saved in that way, and that it was the design of God to save people in this manner."
@@ -21,22 +24,25 @@ This description explores the commentary of various biblical scholars. It highli
 2. "Believed God's promise that he should become the father of many nations."
 3. "His faith was reckoned as righteousness - as something which it really was since all possibilities of righteousness are included in faith."
 
+### John Calvin:
+1. "There is no variety of roads to righteousness, and so Abraham is called 'the father of all them that believe,' because he is a pattern adapted to all; nay, in his person has been laid down to us the universal rule for obtaining righteousness."
+2. "Faith does not mean any kind of conviction which men may have of the truth of God; for though Cain had a hundred times exercised faith in God when denouncing punishment against him, this had nothing to do with obtaining righteousness. Abraham was justified by believing, because, when he received from God a promise of fatherly kindness, he embraced it as certain."
+3. "For faith, — so far as it embraces the undeserved goodness of God, Christ with all his benefits, the testimony of our adoption which is contained in the gospel, — is universally contrasted with the law, with the merit of works, and with human excellence."
+
 ### Philip Schaff:
-1. "The only reply the Galatians could make to the foregoing question was: 'By the preaching of faith.'" 
-2. "Taxing this for granted, Paul proceeds to give the historical and scriptural proof from the example of Abraham, the father of the faithful." 
+1. "The only reply the Galatians could make to the foregoing question was: ‘By the preaching of faith.’" 
+2. "Paul proceeds to give the historical and scriptural proof from the example of Abraham, the father of the faithful." 
 3. "The emphasis lies on believed, i.e., trusted in God."
 
 ### Archibald T Robertson:
-1. "He quotes Genesis 15:6 and uses it at length in Romans 4:3 to prove that the faith of Abraham was reckoned 'for' righteousness before he was circumcised." 
-2. "James (James 2:23) quotes the same passage as proof of Abraham's obedience to God in offering up Isaac (beginning to offer him)." 
+1. "He quotes Genesis 15:6 and uses it at length in Romans 4:3 to prove that the faith of Abraham was reckoned 'for' righteousness before he was circumcised."
+2. "James (James 2:23) quotes the same passage as proof of Abraham's obedience to God in offering up Isaac (beginning to offer him)."
 3. "Paul and James are discussing different episodes in the life of Abraham. Both are correct."
 
 ### John Gill:
 1. "Abraham was justified by faith, and not by any works whatever, much less by circumcision."
 2. "The object of faith is God, Father, Son, and Spirit; here Jehovah the Son seems principally intended."
-3. "The righteousness of Christ, whom he believed in, was accounted to him as his justifying righteousness."
-
-These quotes highlight the central theme of the commentary, emphasizing that Abraham's justification was based on faith in God, not on any works or rituals. It also emphasizes the role of Christ as the object of faith and the source of righteousness.
+3. "Him he believed, not only that he was God, but he believed his word of promise, and in his power and faithfulness to fulfill it."
 
 ### John Wesley:
 1. "Doubtless in confirmation of that grand doctrine, that we are justified by faith, even as Abraham was."

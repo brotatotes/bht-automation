@@ -1,19 +1,29 @@
 # Romans 6:15 Commentary Help Text
 
 ## BHT:
-This verse addresses the misconception that freedom from the law gives believers a license to sin. It emphasizes that grace does not give permission to indulge in sin, but rather empowers believers to live a life of holiness. It reminds us of the importance of our choices and actions, as we become servants to whatever we obey. Gratitude is expressed for the transformative power of God's grace, acknowledging that believers were once slaves to sin but have now embraced the teachings of the Gospel.
+In this passage, commentators raise the question of whether believers are allowed to sin freely under the grace of God. They assert that this objection is grounded in misguided thinking, emphasizing the importance of understanding that believers are still bound to God's moral law. The commentators caution against using grace as an excuse for licentiousness, pointing out that God's grace does not abolish the need for obedience and holiness. The passage underscores the continuity of the argument, connecting it with previous discussions on sanctification and the implications of being under grace.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Must we imagine that we may sin?" - This quote highlights the question posed by the commentary, emphasizing the disbelief that one could think it is permissible to sin.
+
+2. "The aor. because he is speaking of committing acts of sin" - This quote explains the use of the aorist tense in reference to committing specific acts of sin, rather than a continuous state of sin.
+
+3. "This question is not... put into the mouth of an objector" - This quote clarifies that the question is not a hypothetical objection, but rather a genuine inquiry from the Apostle himself, arising from the previous discussion.
+
 ### Jamieson Fausset Brown:
-1. "What then? Shall we sin because we are not under law but under grace? Certainly not! This question is posed to address the potential misunderstanding that because believers are no longer under the law, they can freely indulge in sin. The answer is a resounding 'certainly not,' emphasizing that grace does not give license to sin, but rather empowers believers to live a life of holiness."
+1. "What then?" - This phrase signifies a transition in thought, indicating that the author is about to address a specific question or issue.
+2. "Know ye not" - This phrase emphasizes the importance of understanding a particular concept or truth, suggesting that the readers should already be aware of it.
+3. "It is a dictate of common sense" - This statement implies that the concept being discussed is logical and reasonable, appealing to the readers' rationality.
 
-2. "Know ye not that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness. This verse highlights the importance of our choices and actions. It reminds us that we become slaves to whatever we obey. Whether we choose to serve sin, which leads to death, or obedience, which leads to righteousness, our actions have consequences."
-
-3. "But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you. This verse expresses gratitude to God for the transformation that has taken place in the believers' lives. It acknowledges that they were once slaves to sin but have now embraced the teachings of the Gospel and have become obedient to the truth. It is a reminder of the power of God's grace to bring about change and deliverance."
+### Albert Barnes:
+1. "If Christians are not under the law, which forbids all sin, but are under grace, which pardons sin, will it not follow that they will feel themselves released from obligation to be holy?"
+2. "Will they not commit sin freely, since the system of grace is one which contemplates pardon, and which will lead them to believe that they may be forgiven to any extent?"
+3. "This Consequence has been drawn by many professing Christians; and it was well therefore, for the apostle to guard against it."
 
 ### John Calvin:
 1. "As the wisdom of the flesh is ever clamorous against the mysteries of God..."
-2. "...we think that when [the law] is removed all discipline immediately falls to the ground..."
+2. "...we think that when it is removed all discipline immediately falls to the ground, that restraints are taken away..."
 3. "...the abrogation is by no means to be applied to the precepts which teach the right way of living..."
 
 ### Philip Schaff:
@@ -21,10 +31,15 @@ This verse addresses the misconception that freedom from the law gives believers
 2. "The connection with chap. 7, as well as the entire argument of chaps. 6-8, points to sanctification by grace."
 3. "The legal heart makes the objection; but the loyal heart makes this indignant denial."
 
+### Archibald T Robertson:
+1. "Shall we commit sin" - addressing the question of whether occasional acts of sin are permissible under the excess of grace.
+2. "The same reason as in verse Romans 6:1" - highlighting the continuity of the argument and the objection being raised.
+3. "Surely, the objector says, we may take a night off now and then and sin a little bit 'since we are under grace'" - capturing the objection that suggests occasional sin is acceptable due to being under grace.
+
 ### John Gill:
 1. "Believers, though they are not under the law as the ministry of Moses, yet they are under it, as it is in the hands of Christ."
-2. "To argue from the unchangeableness of God's grace, or the doctrines of it, as encouraging licentiousness, is greatly to abuse the grace of God."
-3. "Nothing more powerfully engages to a love of holiness, and hatred of sin; wherefore the apostle, answers to this objection in his usual way, God forbid; signifying his abhorrence of everything of this kind."
+2. "A transgression of it is sin in them, as in others; and which is taken notice of by God, and visited with stripes in a fatherly way, though his loving kindness is not removed."
+3. "To argue from the unchangeableness of God's grace, or the doctrines of it, as encouraging licentiousness, is greatly to abuse the grace of God, and manifestly betrays such persons to be ignorant of it and its influence."
 
 
 ## Generation Details

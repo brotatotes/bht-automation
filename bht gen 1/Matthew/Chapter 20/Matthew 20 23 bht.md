@@ -1,13 +1,18 @@
 # Matthew 20:23 Commentary Help Text
 
 ## BHT:
-In this verse, one of the disciples is mentioned as being the first to experience suffering and martyrdom, while another disciple has faced a life filled with hardships and persecution. The commentators acknowledge the martyrdom of James, the first among the Twelve to face such a fate, and the endurance of John in his long spiritual martyrdom. It is emphasized that the granting of eternal life, symbolized as a kingdom, is determined by the sovereign will and purpose of God, not for everyone, but for those who persevere in faith and love until the end.
+In the Bible verse being described, one of the Apostles was the first to experience suffering and martyrdom, while the other faced a lifelong journey of trials and persecution. Despite their misled desires for earthly glory, Jesus redirects their focus to the eternal kingdom and heavenly rewards that await those who remain steadfast in faith. These rewards are not handed out indiscriminately, but are given by the sovereign will of God to those who endure in their devotion and love for Him.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "The one of these brethren was the first of the Apostles to drink the cup of suffering, and be baptized with the baptism of blood." 
 2. "The other had the longest experience among them of a life of trouble and persecution."
-3. "If however we understand after ἀλλά ‘it shall be given by Me,' we may say with Bengel, ‘res eodem recidit, sive oppositione, sive exceptione.'"
+3. "If however we understand after ἀλλά ‘it shall be given by Me,’ we may say with Bengel, ‘res eodem recidit, sive oppositione, sive exceptione.’"
+
+### John Calvin:
+1. "Christ warns them of what will take place, that they may be prepared to endure it with patience."
+2. "During their whole life, they are sheep appointed to the slaughter."
+3. "We ought to reckon it enough that the inheritance obtained by his blood awaits us."
 
 ### Philip Schaff:
 1. "James was the first martyr among the Twelve; John died a natural death at an advanced age, but in a spiritual sense his was the longest martyrdom."

@@ -1,34 +1,39 @@
 # Romans 11:10 Commentary Help Text
 
 ## BHT:
-In this verse, the apostle refers to the condition and prospects of his nation, emphasizing that God has not abandoned them completely. The verse speaks of the importance of humility and obedience, as well as the consequences of spiritual blindness and obstinacy. It portrays a people who are blinded to the beauty and teachings of Christ, infatuated in their earthly pursuits. Despite their hardened hearts, the verse reveals a glimmer of hope for their eventual redemption.
+The verse described portrays a condition of spiritual blindness and servitude, where the eyes are darkened and the back is bowed down, signifying a weakened and humbled state. This darkness of the eyes reflects both great terror and a weakened, humbled, and servile condition, while the bowing down represents a posture of humility, submission, and defeat. The purpose behind this spiritual blindness is to emphasize the consequences of obstinacy and rejection, leading to a lack of recognition and reverence for God's authority and power. Despite this judgment, there remains hope that God has not ultimately cast away His people.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The darkening of the eyes betokens in the Psalm, a weakened, humbled, servile condition." 
+2. "This elsewhere is a sign of great terror." 
+3. "The Apostle might well apply such a description to the servile condition of the bondmen of the law."
+
 ### Jamieson Fausset Brown:
-1. "The apostle's object in making these quotations is to show that what he had been compelled to say of the then condition and prospects of his nation was more than borne out by their own Scriptures."
-2. "God has not cast away His people finally."
-3. "The illustration of this point extends."
+1. "Let their eyes be darkened . . . and bow down their back alway—expressive either of the decrepitude, or of the servile condition, to come on the nation through the just judgment of God." 
+
+2. "The apostle's object in making these quotations is to show that what he had been compelled to say of the then condition and prospects of his nation was more than borne out by their own Scriptures." 
+
+3. "God has not cast away His people finally."
 
 ### Marvin Vincent:
-1. "Bow down [συγκαμψον] . Lit., bend together." This phrase suggests a posture of humility and submission, emphasizing the need to surrender to a higher power.
-
-2. "Hebrew, shake the loins." This phrase refers to the physical act of trembling or shaking, symbolizing a deep reverence and awe in the presence of God.
-
-3. "The act of bowing down not only expresses reverence, but also signifies a willingness to yield and obey." This highlights the importance of humility and obedience in one's relationship with God.
+1. "The phrase 'bow down' implies a posture of humility and submission before God, acknowledging His authority and power over our lives."
+2. "The Hebrew phrase 'shake the loins' is a vivid expression that conveys the idea of trembling or quaking in fear and reverence before the Lord."
+3. "In this verse, we are reminded of the importance of recognizing our own limitations and weaknesses in the presence of God, and the need to approach Him with a humble and contrite heart."
 
 ### Philip Schaff:
-1. "This verse explains the 'recompense' of Romans 11:9. Spiritual blindness is one form of the punishment."
+1. "This verse explains the ‘recompense’ of Romans 11:9. Spiritual blindness is one form of the punishment."
 2. "Present loss of strength is meant, representing spiritual servitude, under the yoke of legalism, rather than that of Roman conquerors."
 3. "The rejection of Jesus by the Jews was the effect, not the cause of the hardening. The cause Paul has said clearly enough was the obstinacy of their own righteousness."
 
 ### Archibald T Robertson:
-1. "Let their eyes be darkened" - A terrible imprecation. (Commentary on Romans 11:10)
-2. "That they may not see" - Repeated from verse Romans 11:8. (Commentary on Romans 11:10)
-3. "Bow down" - To bend together as of captives whose backs were bent under burdens. (Commentary on Romans 11:10)
+1. "Let their eyes be darkened" - This imprecation expresses a strong desire for their spiritual blindness, emphasizing the severity of their condition.
+2. "That they may not see" - This repetition highlights the intention behind the darkening of their eyes, emphasizing the purpose of their spiritual blindness.
+3. "Bow down" - The imperative to bow down conveys a sense of submission and defeat, illustrating the consequences of their spiritual blindness on their posture and condition.
 
 ### John Gill:
 1. "Their eyes were so blinded, that they could see no beauty nor comeliness in him; no excellency in his person, nothing wonderful in his works, nor amiable in his doctrine."
-2. "Never did a people act more imprudently for their temporal safety and welfare, or appear so infatuated in all their conduct, as they did."
+2. "Never did a people act more imprudently for their temporal safety and welfare, or appear so infatuated in all their conduct."
 3. "They mind nothing but earth and earthly things; the acquiring of which they are bent upon at any rate, and are infamous for their earthly mindedness, covetousness, extortion, usury, tricking, and overreaching."
 
 

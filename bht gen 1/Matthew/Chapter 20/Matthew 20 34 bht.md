@@ -1,24 +1,29 @@
 # Matthew 20:34 Commentary Help Text
 
 ## BHT:
-With deep compassion, Jesus touched their eyes, revealing not only his power but also his genuine concern for their suffering. His healing was immediate, a testament to his divine authority. As their physical sight was restored, they also became disciples, following Jesus' teachings and embodying his grace and righteousness, forever transformed by his miraculous touch.
+In this Bible verse, Jesus demonstrates his compassion and power by touching the eyes of two blind men, a unique detail mentioned only in Matthew's account. Their faith is highlighted as Jesus tells them, "Your faith has saved you." This story resonates with readers, as thousands have seen it as a true reflection of their own spiritual blindness and the grace of Jesus Christ that brings restoration. The touch of Christ's hand brings both physical and spiritual healing, revealing his tender heart and confirming his divine power.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "In both we have the addition of the Lord's saying, 'I tell you the truth, this generation will certainly not pass away until all these things have happened.'" 
-2. "The question preceding was to elicit their faith."
-3. "The phrase 'I tell you the truth' emphasizes the certainty and importance of what Jesus is about to say."
+1. "ἥψ . τῶν ὀμμ ., not mentioned in the other Gospels." 
+2. "In both we have the addition of the Lord’s saying, ἡ πίστις σου σέσωκέν σε." 
+3. "The question preceding was to elicit their faith."
+
+### John Calvin:
+1. "This was an expression of gratitude when the blind men became followers of Christ."
+2. "It showed a grateful mind that they presented themselves to many, in that journey, as mirrors of the grace of Christ."
+3. "The people gave praise to God, which tends to prove the certainty of the miracle."
 
 ### Philip Schaff:
-1. "Touched their eyes." - This action by Jesus is unique to the Gospel of Matthew, emphasizing the physical healing aspect of the miracle. 
-
-2. "Thy faith hath saved thee." - While this phrase is not found in Matthew's account, it is included in the other Gospels. It highlights the importance of faith in receiving salvation and suggests that the question posed in Matthew 20:32 was meant to elicit a demonstration of faith.
-
-3. "Thousands have read this simple and touching story as a truthful history of their own spiritual blindness, and its removal through the abounding grace of Jesus Christ." - J. J. Owen's commentary highlights the universal appeal of this story, as many readers can relate to their own spiritual blindness and find hope in the transformative power of Jesus' grace.
+1. "Touched their eyes." - This action by Jesus is unique to Matthew's account and highlights his compassion and power to heal. It demonstrates his willingness to personally intervene and bring about restoration.
+2. "Thy faith hath saved thee." - While the other Gospels do not include this phrase, it emphasizes the role of faith in receiving healing from Jesus. It shows that the blind men's faith played a crucial part in their restoration.
+3. "Thousands have read this simple and touching story as a truthful history of their own spiritual blindness, and its removal through the abounding grace of Jesus Christ." - This quote by J. J. Owen highlights the universal appeal of this story, as it resonates with people who have experienced spiritual blindness and found deliverance through the abundant grace of Jesus Christ.
 
 ### Archibald T Robertson:
-1. "Touched their eyes (ηψατο των ομματων). A synonym for οφθαλμων in Mark 8:23 and here alone in the N.T."
-2. "In modern Greek ματια μου (abbreviation) means 'light of my eye,' 'my darling.'"
+1. "Touched their eyes (ηψατο των ομματων). A synonym for οφθαλμων in Mark 8:23 and here alone in the N.T." 
+
+2. "In modern Greek ματια μου (abbreviation) means 'light of my eye,' 'my darling.'" 
+
 3. "The touch of Christ's hand would soothe the eyes as they were healed."
 
 ### John Gill:

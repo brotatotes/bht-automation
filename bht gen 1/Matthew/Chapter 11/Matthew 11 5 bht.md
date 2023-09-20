@@ -1,15 +1,20 @@
 # Matthew 11:5 Commentary Help Text
 
 ## BHT:
-"The lame walk, the halt go, the blind see again, the dead are raised up, the poor have the Gospel preached to them" - This verse portrays Jesus' transformative power, restoring physical impairments and offering hope to the marginalized. It emphasizes that the Gospel extends not only to the physically poor, but also to those who are spiritually impoverished. The fulfillment of Old Testament prophecies further confirms the profound significance of this message for humanity. Ultimately, this verse encapsulates the depth of God's mercy and love in reaching out to the broken and needy.
+The verse describes the miraculous power of Jesus, as he heals the lame, gives sight to the blind, raises the dead, and preaches the Gospel to the poor. These miracles not only demonstrate Jesus' divine authority and ability to bring physical restoration and transformation, but also symbolize the deeper spiritual meaning of encountering Jesus. His desire for wholeness and restoration extends to every aspect of our lives, both physically and spiritually. This fulfillment of prophecies and provision of the Gospel to the poor highlight the compassionate and merciful nature of God's love and grace.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "These miracles might be referred to by our Lord under the words νεκ. ἐγ.; for it is to be observed that He bade them tell John not only what things they saw, but what things they had heard." 
+2. "It must not be forgotten that the words here used by our Lord have an inner and spiritual sense, as betokening the blessings and miracles of divine grace on the souls of men, of which His outward and visible miracles were symbolical."
+3. "The words are mostly cited from Isaiah 35:5, where the same spiritual meaning is conveyed by them."
+
 ### Marvin Vincent:
-1. "The lame walk." This phrase from the commentary highlights the miraculous healing power of Jesus. It emphasizes the transformative nature of his actions, bringing hope and restoration to those who were physically impaired.
+1. "This verse highlights the miraculous power of Jesus, as he is able to heal the lame and make them walk again. It demonstrates his divine authority and ability to bring about physical restoration."
 
-2. "Tynd." This abbreviation refers to William Tyndale, a prominent biblical scholar and translator. Including this reference in the commentary acknowledges the historical context and credibility of the interpretation, adding depth to the understanding of the verse.
+2. "The phrase 'the lame walk' also symbolizes a deeper spiritual meaning. It signifies the transformation and renewal that occurs when one encounters Jesus. Just as the lame are given the ability to walk, those who believe in Jesus are given new life and the ability to walk in righteousness."
 
-3. "The halt go." This concise statement further emphasizes the transformative power of Jesus' healing. It suggests that not only do the lame walk, but those who were previously unable to move at all are now able to go, signifying a complete restoration of mobility and freedom.
+3. "Furthermore, this verse reminds us that Jesus is not only concerned with physical healing, but also with the healing of our souls. He desires to bring wholeness and restoration to every aspect of our lives, both physically and spiritually."
 
 ### John Calvin:
 1. "By the poor are undoubtedly meant those whose condition is wretched and despicable, and who are held in no estimation."
@@ -19,21 +24,26 @@
 ### Philip Schaff:
 1. "The blind receive their sight, or 'see again.' The word means this when applied to the blind. In other cases, 'to look up.'" 
 2. "The dead are raised up. The raising of the daughter of Jairus probably took place afterwards, but the miracle in Nain certainly preceded." 
-3. "The 'poor' in spirit are included. This is the climax. Spiritual deliverance was the greatest miracle. The answer means: 'I do great things in physical healing, but my greatest work is the spiritual healing I bring: do not then expect some wonderful temporal victory, but be content with the thought that I as Messiah am doing my appropriate and most glorious work.'"
+3. "The 'poor' in spirit are included. This is the climax. Spiritual deliverance was the greatest miracle."
+
+### Archibald T Robertson:
+1. "And the dead are raised up (κα νεκρο εγειροντα). Like that of the son of the widow of Nain." - This quote highlights the connection between the raising of the dead in the Bible and the miracle performed by Jesus in raising the son of the widow of Nain. 
+
+2. "Tell John your story over again and remind him of these prophetic texts, Isaiah 35:5; Isaiah 61:1" (Bruce). - This quote suggests that the raising of the dead is a fulfillment of the prophecies found in Isaiah 35:5 and Isaiah 61:1, providing a deeper understanding of the significance of this miracle. 
+
+3. "The items were convincing enough and clearer than mere eschatological symbolism. 'The poor' in particular have the gospel, a climax." - This quote emphasizes that the miracles performed by Jesus, including the raising of the dead, serve as evidence of his divine power and fulfill the promise of the gospel, especially for the poor.
 
 ### John Gill:
-1. "The blind receive their sight,.... Our Lord here, has reference to several prophecies concerning the Messiah, in Isaiah 35:6 and which having their accomplishment in him, John and his disciples might easily and strongly conclude, that he was he that was to come, and that they should not look for another."
-
-2. "Or else, the hearers of it are designed; who were also the poor of this world, made a very low figure in life, and had but a small share of knowledge and understanding, and so were despised, and reckoned as cursed by the Scribes and Pharisees: or they were such, who were poor in spirit, or spiritually poor; who saw their spiritual poverty, bewailed and acknowledged it, and sought after the true riches of grace, and glory in Christ."
-
-3. "Now these, as they had the Gospel preached to them more fully and clearly, with more power and authority, and so as it never was before or since, so they 'received' it, as Tremellius from the Syriac reads the text, readily and willingly, joyfully and gladly, with faith and love; and were, as it may be also rendered, 'evangelized' by it, or thrown into a gospel mould and frame."
+1. "The blind receive their sight... the several things here mentioned, were not all done at this time, but were what these disciples had sufficient and authentic evidence of." 
+2. "The poor have the Gospel preached to them... they were poor in spirit, or spiritually poor; who saw their spiritual poverty, bewailed and acknowledged it, and sought after the true riches of grace, and glory in Christ." 
+3. "Now these, as they had the Gospel preached to them more fully and clearly, with more power and authority, and so as it never was before or since, so they 'received' it, readily and willingly, joyfully and gladly, with faith and love."
 
 ### John Wesley:
-1. "The poor have the Gospel preached to them" - This highlights the profound significance of the Gospel reaching the impoverished. It emphasizes that the message of hope and salvation is not limited to the privileged, but extends to those who are often overlooked and marginalized in society.
+1. "The poor have the Gospel preached to them." - This highlights the immense value and significance of the Gospel being shared with the poor. It emphasizes that the message of salvation is not reserved for the wealthy or privileged, but is accessible to all, regardless of their social or economic status.
 
-2. "The greatest mercy of all" - This phrase underscores the unparalleled compassion and grace of God in extending the Gospel to the poor. It emphasizes that this act of mercy surpasses all others, demonstrating God's deep love and concern for those who are in need.
+2. "The greatest mercy of all." - This phrase underscores the profound compassion and love of God in extending His Gospel to the poor. It emphasizes that the act of preaching the Gospel to the poor is not just an act of kindness, but the ultimate expression of mercy, as it offers them hope, redemption, and eternal life.
 
-3. "Isaiah 29:18; 35:5" - These references indicate that the idea of the poor receiving the Gospel is not a new concept but has its roots in the Old Testament. It suggests that God's heart for the poor has been consistent throughout history, reinforcing the significance and importance of this message.
+3. "Isaiah 29:18; 35:5." - These references indicate that the statement is rooted in biblical passages, specifically Isaiah 29:18 and 35:5. By mentioning these verses, the commentary establishes the scriptural basis for the assertion that the preaching of the Gospel to the poor is a significant and merciful act.
 
 
 ## Generation Details

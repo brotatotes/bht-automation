@@ -1,9 +1,19 @@
 # Luke 7:26 Commentary Help Text
 
 ## BHT:
-In the wilderness, a figure emerged, drawing countless people to witness and listen. He wasn't seeking earthly treasures, power, or fame; it was something greater that led them there. This figure was John, a prophet who surpassed all the prophets that came before him. With his deep connection to the one who would follow him, the wilderness became a place where anticipation and truth intertwined.
+The Bible verse depicted is about a prophet who serves as a mediator, forming a connection between God and the audience. The prophet has the privilege of immediate communication with God, being the one to whom God reveals Himself and speaks through. Their primary function is to deliver God's message, regardless of the cost to themselves. This specific prophet, highly recognized and drawing a large crowd, was not only a forerunner but also had a personal encounter with and baptized the figure he preceded.
 
 ## Choicest Commentary Quotes:
+### Marvin Vincent:
+1. "The prophet is, therefore, primarily, one who speaks standing before another, and thus forming a medium between him and the hearer."
+2. "The central idea of the word is, one to whom God reveals himself and through whom he speaks."
+3. "The essence of the prophetic character is immediate intercourse with God."
+
+### Archibald T Robertson:
+1. "A real prophet will always get a hearing if he has a message from God."
+2. "He is a for-speaker, forth-teller (προ-φητης). He may or may not be a fore-teller."
+3. "The main thing is for the prophet to have a message from God which he is willing to tell at whatever cost to himself."
+
 ### John Gill:
 1. "What led your curiosity to go into the wilderness after him, since it could not be any of the above things?"
 2. "John was a prophet, and was known to be one; and the fame of him, as such, drew vast numbers to see and hear him."

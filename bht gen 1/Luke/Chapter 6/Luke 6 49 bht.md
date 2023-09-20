@@ -1,11 +1,27 @@
 # Luke 6:49 Commentary Help Text
 
 ## BHT:
-In this verse, the commentator describes a person who hears and understands something, but fails to act upon it. It is likened to someone who builds a house without taking the time to dig a proper foundation, constructing it on the surface of the earth. However, when the inevitable storm comes, the house is unable to withstand the strong currents, leading to its complete destruction. This verse serves as a cautionary reminder of the importance of not just hearing, but also applying wisdom in our actions.
+Some commentators describe a situation where a person who hears but does not act upon the teachings of Jesus is like someone building a house without a secure foundation, vulnerable to collapse. This imagery of a collapsing structure, whether it be a roof, city, or house, emphasizes the consequences of not building one's life on a solid and secure base. Without a strong foundation, the destructive force of external pressures can cause great ruin. The verse warns against the importance of following the teachings of Jesus, echoing the idea that actions speak louder than words.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-I'm sorry, but the text you provided does not seem to be a commentary on a Bible verse. Could you please provide the commentary on a Bible verse so that I can extract the best parts for you?
+1. "συνέπεσεν" - The word used here, συνέπεσεν, is also found in other Greek literature to describe the falling or collapsing of a structure, such as a roof or a city. (Eur. Herc. Fur. 905, Thuc. viii. 41)
+
+2. "συμπίπτει στέγη" - This phrase, συμπίπτει στέγη, refers to the roof of a building collapsing. (Eur. Herc. Fur. 905)
+
+3. "ὑπὸ σεισμοῦ … ξυμπεπτωκυῖαν" - In another context, this phrase describes a city that has fallen or collapsed due to an earthquake. (Thuc. viii. 41)
+
+### Marvin Vincent:
+1. "The one builds directly upon the sand, the other digs through and down into the rock." 
+2. "It fell together, collapsed." 
+3. "Ruin, a medical term for a laceration or rupture."
+
+### Archibald T Robertson:
+1. "Like a man upon the earth." - This phrase emphasizes the vulnerability and instability of someone who hears but does not act upon the teachings of Jesus. 
+
+2. "Without a foundation." - This phrase highlights the lack of a solid and secure base for one's faith and actions. 
+
+3. "The ruin." - This word conveys the destructive and catastrophic consequences of not building one's life on the teachings of Jesus.
 
 ### John Gill:
 1. "He that heareth, and doth not... is like a man that without a foundation built upon the earth." 

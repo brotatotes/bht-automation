@@ -1,19 +1,17 @@
 # Matthew 3:8 Commentary Help Text
 
 ## BHT:
-Given the quotes from commentators, the Bible verse emphasizes the importance of genuine repentance and its transformative power. The verse calls for individuals to produce fruits worthy of repentance, indicating that true repentance should lead to a visible change in behavior. The commentators stress the significance of sincere repentance, which involves an acknowledgment of sin and a desire for a complete transformation, both in heart and in actions. The verse also highlights the necessity of good works as proof of genuine repentance and the subsequent admittance to baptism.
+The commentators provide insight into a Bible verse about repentance and the fruits it produces. They emphasize that genuine repentance involves more than just words or emotions; it requires a sincere turning away from sin and a commitment to live according to God's will. True repentance is evidenced through tangible acts of righteousness, which serve as proof of a transformed heart and a life dedicated to holiness. It is not enough to merely profess repentance; one must bear fruits in accordance with repentance, displaying a change of character and a commitment to righteousness.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "If you are really so minded" - This quote suggests that the commentator is highlighting the conditional nature of the statement, emphasizing that the intention to flee from the wrath to come is not certain or guaranteed.
-
-2. "An inference from their apparent intention" - This quote indicates that the commentator is making an observation about the implied meaning behind the actions of the individuals mentioned in the verse. It suggests that their intention to flee is based on their perception of the impending wrath.
-
-3. "Fleeing from the wrath to come" - This quote emphasizes the reason behind the individuals' desire to flee. It suggests that they are motivated by the fear of impending punishment or judgment.
+1. "If you are really so minded, if you truly desire to escape the impending judgment, then you must bear fruits worthy of repentance." 
+2. "The call to bear fruits worthy of repentance is a reminder that true repentance involves a change of heart and a transformation of one's actions." 
+3. "Repentance is not merely a verbal confession or a momentary feeling of remorse, but a genuine turning away from sin and a commitment to live in accordance with God's will."
 
 ### Jamieson Fausset Brown:
 1. "Bring forth therefore fruits—the true reading clearly is 'fruit'; meet for repentance." 
-2. "John now being gifted with a knowledge of the human heart, like a true minister of righteousness and lover of souls here directs them how to evidence and carry out their repentance, supposing it genuine."
+2. "John now being gifted with a knowledge of the human heart, like a true minister of righteousness and lover of souls here directs them how to evidence and carry out their repentance, supposing it genuine." 
 3. "In the following verses warns them of their danger in case it were not."
 
 ### Albert Barnes:
@@ -21,15 +19,27 @@ Given the quotes from commentators, the Bible verse emphasizes the importance of
 2. "Fruits - Conduct. See Matthew 7:16-19."
 3. "Meet for repentance - Fit for repentance; appropriate to it the proper expression of repentance."
 
+### John Calvin:
+1. "He confirms what I have already said, that the repentance, which is attested by words, is of no value, unless it be proved by the conduct." (266)
+2. "It ought to be observed, that good works are here called fruits of repentance: for repentance is an inward matter, which has its seat in the heart and soul, but afterwards yields its fruits in a change of life." (267)
+3. "But as the whole of this part of doctrine has been grievously corrupted by Popery, we must attend to this distinction, that repentance is an inward renewal of the man, which manifests itself in the outward life, as a tree produces its fruit." (266)
+
 ### Philip Schaff:
-1. "Bring forth fruit worthy of repentance." - This phrase emphasizes the need for genuine transformation and a visible change in behavior as evidence of true repentance.
-2. "The fruit or result, worthy of repentance, implies a good tree to produce the fruit." - This quote highlights the connection between the quality of the fruit and the nature of the tree, suggesting that true repentance should lead to righteous actions.
-3. "The germ of the great gospel truth: 'Ye must be born again,' since natural birth, or descent from Abraham, did not insure the worthy fruit." - This statement points to the deeper spiritual truth that being born again is necessary for producing the kind of fruit that is pleasing to God. It emphasizes the need for a personal, transformative encounter with God.
+1. "Bring forth therefore...fruit worthy of repentance." - This quote emphasizes the importance of producing tangible evidence of genuine repentance, rather than mere words or empty promises.
+
+2. "The fruit or result, worthy of repentance, implies a good tree to produce the fruit." - This quote suggests that true repentance should lead to a transformation of character and actions, indicating a genuine change of heart.
+
+3. "The germ of the great gospel truth: 'Ye must be born again,' since natural birth...did not insure the worthy fruit." - This quote highlights the idea that true repentance and spiritual transformation are necessary for a fruitful life, surpassing the significance of one's physical lineage or heritage.
+
+### Archibald T Robertson:
+1. "The fruit is not the change of heart, but the acts which result from it" (McNeile).
+2. "Any one can do acts externally good but only a good man can grow a crop of right acts and habits" (Bruce).
+3. John demands proof from these men of the new life before he administers baptism to them.
 
 ### John Gill:
-1. "Fruits meet for repentance are the same as 'works meet for repentance'... and as a tree is known by its fruit, so repentance is known by good works." 
-2. "These [good works] are the fruits and effects of repentance, and which are proofs with men of the sincerity of it." 
-3. "None but truly repenting sinners, and such who have given proofs that they are so, are to be admitted to this ordinance [baptism]."
+1. "Fruits meet for repentance are the same as 'works meet for repentance'... these are the fruits and effects of repentance, and which are proofs with men of the sincerity of it."
+2. "Repentance is known by good works; these are the fruits and effects of repentance."
+3. "None but truly repenting sinners, and such who have given proofs that they are so, are to be admitted to this ordinance."
 
 ### John Wesley:
 1. "Repentance is of two sorts; that which is termed legal, and that which is styled evangelical repentance."

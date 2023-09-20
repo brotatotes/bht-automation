@@ -1,7 +1,7 @@
 # Matthew 19:30 Commentary Help Text
 
 ## BHT:
-In this verse, the Bible warns against complacency and urges believers to persevere, as the initially privileged may find themselves last and vice versa. The verse also conveys that appearances can be deceiving, as those who seem strong may be weak and vice versa. Furthermore, it emphasizes that salvation is accessible to all, regardless of when they come to faith, and that each person's reward in the kingdom of heaven will be based on their faithfulness and perseverance.
+In this Bible verse, commentators emphasize the concept of priorities being flipped and the potential for unexpected outcomes. The verse challenges our understanding of hierarchy and the importance we assign to worldly status. It cautions against complacency and encourages perseverance in our faith. The passage also highlights the inclusive nature of God's kingdom, where even the last can become first and all have the opportunity for salvation.
 
 ## Choicest Commentary Quotes:
 ### John Calvin:
@@ -12,14 +12,21 @@ In this verse, the Bible warns against complacency and urges believers to persev
 ### Philip Schaff:
 1. "A caution against trusting to appearances or to the permanence of present circumstances and conditions."
 2. "The promise must be accompanied by a caution, especially in view of the coming apostasy of Judas."
-3. "The Twelve also were liable to mistake priority in time of calling for priority in position, a frequent mistake in every human society, but doubly a mistake where God's free grace is concerned."
+3. "The Twelve also were liable to mistake priority in time of calling for priority in position, a frequent mistake in every human society, but doubly a mistake where God’s free grace is concerned."
+
+### Archibald T Robertson:
+1. "The last first and the first last" is a paradoxical enigma that serves as a rebuke to Peter and speaks to the concept of ranks in the kingdom. It challenges our understanding of hierarchy and reminds us that God's ways are not always our ways.
+
+2. This phrase can have multiple applications beyond Peter's situation. It invites us to reconsider our preconceived notions of importance and reminds us that God's kingdom operates on different principles than the world.
+
+3. The parable that follows this statement further illustrates the idea of the last being first and the first being last. It serves as a tangible example of how God's kingdom turns our expectations upside down and challenges us to reevaluate our understanding of status and significance.
 
 ### John Gill:
-1. "The first shall be last, and the last shall be first" signifies that those who are esteemed and honored in this world may find themselves at the bottom in the world to come, while those who are despised and marginalized may find themselves at the top in the kingdom of heaven.
+1. "The young ruler, who was superior in riches and honor, would be last in the world to come, while the poor and humble apostles would be first in the kingdom of heaven."
+2. "The Scribes and Pharisees, who were in the highest esteem in the Jewish church, would be least in the kingdom of heaven, while the publicans and sinners, who were in the lowest class, would go first into it."
+3. "The Jews, who were first in outward privileges, would be rejected by God for their unbelief, while the Gentiles, who were last called, would be first in embracing the Messiah and supporting his Gospel."
 
-2. This verse can also be understood in the context of persecution, where those who appear brave from a distance may be the most fearful when faced with it, while those who seem weak and fearful may actually bear it with great courage.
-
-3. It also highlights the reversal of fortunes between Jews and Gentiles, indicating that the Jews, who were first in outward privileges, would be rejected for their unbelief, while the Gentiles, who were last called, would be the first to embrace the Messiah and support his cause.
+(Note: The quotes have been modified slightly to fit the word limit.)
 
 ### John Wesley:
 1. "Many of those who were first called, shall be last - Shall have the lowest reward." 

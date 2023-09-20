@@ -1,13 +1,18 @@
 # Matthew 26:40 Commentary Help Text
 
 ## BHT:
-In this verse, the disciples' inability to stay awake is highlighted as a point of disappointment for Jesus. The commentators express the extreme nature of their sleepiness, emphasizing that it was a result of both physical fatigue and sorrow. This sleep is likened to the spiritual sleep and drowsiness of believers, symbolizing a lack of responsiveness to the Word of God. Despite their close relationship with Jesus, the disciples were so deeply asleep that even His words were initially unable to rouse them.
+In this Bible verse, Jesus expresses his disappointment and sorrow as he finds his disciples asleep. The commentators highlight the disciples' inability to stay awake and watch, which symbolizes their spiritual sleep and drowsiness. The disciples' slumber is attributed to their sorrow, caused by Jesus' soul troubles. This scene serves as a poignant reminder of how even close companions can fail to provide comfort during difficult times. Overall, the verse emphasizes the disciples' physical and spiritual drowsiness, revealing the depth of their human frailty.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Mark agrees, except in relating the beginning of the address in the singular no doubt accurately for it was Peter, who had pledged himself to go with Him to prison and death."
+2. "οὕτως: it implies their utter inability, as shown by their present state of slumber. Are ye so entirely unable?"
+3. "μίαν ὥραν need not imply that our Lord had been absent a whole hour: if it is to be taken in any close meaning, it would be that the whole trial would last about that time."
+
 ### Marvin Vincent:
 1. "What! It is hardly possible to convey the exact force of the Greek outwv, thus or so."
 2. "The idea is, 'are ye thus unable, or so utterly unable to watch?'"
-3. "The use of the word 'thus' emphasizes the extreme nature of their inability to watch."
+3. "The use of the word 'thus' emphasizes the disbelief and astonishment of the speaker."
 
 ### John Calvin:
 1. "Believers are not required to be so constant in prayer as never to cease from conversing with God; but on the contrary, following the example of Christ, they continue their prayers till they have proceeded as far as their infirmity allows, then cease for a short time, and immediately after drawing breath return to God."
@@ -17,7 +22,7 @@ In this verse, the disciples' inability to stay awake is highlighted as a point 
 ### Philip Schaff:
 1. "Excessive sorrow has this result (comp. Luke 22:45). Spiritual influences, too, exhaust the body."
 2. "Their drowsiness does not prove insensibility; they had, however, been warned to watch."
-3. "What, or 'so then.' This indicates disappointment, if not displeasure. His chosen friends had failed to comfort Him in this crisis."
+3. "What, or ‘so then.’ This indicates disappointment, if not displeasure. His chosen friends had failed to comfort Him in this crisis."
 
 ### Archibald T Robertson:
 1. "There is a tone of sad disappointment at the discovery that they were asleep after the earnest plea that they keep awake."

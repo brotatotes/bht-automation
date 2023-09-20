@@ -1,7 +1,7 @@
 # Luke 4:5 Commentary Help Text
 
 ## BHT:
-In this verse, Jesus is faced with a series of temptations. According to Henry Alford, the order of the temptations as presented in Matthew should be followed in our interpretation. Philip Schaff suggests that this particular temptation was likely the third one. John Gill adds that when Satan showed Jesus all the kingdoms of the world, it was not with a physical representation but rather a deceptive illusion. These insights help us see that the temptations Jesus faced were not only real but also involved both physical and supernatural elements.
+In this Bible verse, the temptation of Jesus is described. The order in Matthew is adhered to, with this temptation placed last. The verse portrays a moment of time in which Jesus is shown all the kingdoms of the world, possibly through a supernatural extension of vision. This panoramic view is not a physical representation, but rather a mental feat of imagination. The verse also highlights the inversion of the order of being taken to the mountain and then to Jerusalem, as it is considered more natural.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -9,17 +9,29 @@ In this verse, Jesus is faced with a series of temptations. According to Henry A
 2. "No definite notes of succession are given in our text, but they are by Matthew."
 3. "The inversion has been made as suiting better the requirements of probability: it seeming more natural that our Lord should be first taken to the mountain and then to Jerusalem, than the converse."
 
+### Marvin Vincent:
+1. "In a moment of time [εν στιγμη χρονου]. Peculiar to Luke. Stigmh is literally a mark made by a pointed instrument, a dot: hence a point of time." 
+
+2. "Stigmh is literally a mark made by a pointed instrument, a dot: hence a point of time." 
+
+3. "Tynd., in the twinkling of an eye."
+
 ### Philip Schaff:
 1. "No definite mark of time, hence we think this temptation was the third (as in Matthew)."
 2. "The words: 'into' a high mountain, are to be omitted."
 3. "A supernatural extension of vision is possibly implied."
 
+### Archibald T Robertson:
+1. "The inhabited world. In Matthew 4:8 it is του κοσμου." 
+2. "This panorama of all the kingdoms of the world and the glory of them in a moment of time was mental, a great feat of the imagination." 
+3. "This second temptation in Luke is the third in Matthew's order. Luke's order is geographical (wilderness, mountain, Jerusalem). Matthew's is climacteric (hunger, nervous dread, ambition)."
+
 ### John Gill:
 1. "The devil showed unto him all the kingdoms of the world...which he represented to Christ, not in a map, since the glory of them could not be described in that way." 
 
-2. "For this a mountain was no more a proper place, than any other; nor was it any real object he presented to his bodily sight, or any real prospect he gave him of the kingdoms of the world."
+2. "This was a mere phantasm, a deception of the sight, with which he endeavored to impose on Christ, but could not." 
 
-3. "But this was a mere phantasm, a deception of the sight, with which he endeavored to impose on Christ, but could not; nor did Christ, who is the maker of the world, and the governor among the nations, need any representation of the kingdoms of the world from him."
+3. "Nor did Christ...need any representation of the kingdoms of the world from him."
 
 
 ## Generation Details

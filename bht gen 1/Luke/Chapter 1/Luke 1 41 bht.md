@@ -1,7 +1,7 @@
 # Luke 1:41 Commentary Help Text
 
 ## BHT:
-The encounter between Mary and Elisabeth was a profound and supernatural experience, filled with joy and the presence of the Holy Spirit. The unborn baby within Elisabeth's womb, John the Baptist, stirred and leaped with recognition of the unborn Messiah. This extraordinary event, guided by the Holy Spirit, brought about a deep connection and understanding between the two expectant mothers. The encounter was a significant moment that celebrated the coming of the Lord, even before his birth.
+The encounter between Mary and Elisabeth was a moment filled with the presence of the Holy Spirit. Elisabeth was filled with joy and a prophetic spirit, while the babe in her womb leaped with recognition of the unborn Messiah. The movement of the baby was extraordinary, surpassing the natural and indicating a divine response. Elisabeth's understanding of the situation was further deepened by her being filled with the Holy Ghost, enabling her to perceive the significance of Mary's visit. The encounter was marked by supernatural events that conveyed the humble humanity of Jesus and foreshadowed the coming of the Messiah.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,36 +10,50 @@ The encounter between Mary and Elisabeth was a profound and supernatural experie
 3. "The known mysterious effects of sympathy in such cases, at least lead us to believe that there may be corresponding effects where the causes are of a kind beyond our common experience."
 
 ### Jamieson Fausset Brown:
-1. "babe leaped" - This verse shows the extraordinary nature of the maternal sensation, as the unborn baby reacts to the presence of the mother of his Lord.
-2. "something extraordinary" - The commentary highlights that this maternal sensation was not a normal reaction, but rather a unique and exceptional experience.
-3. "sympathetic emotion" - The unborn baby's reaction is described as a sympathetic emotion, indicating a deep connection and understanding between the mother and child.
+1. "It is plain that this maternal sensation was something extraordinary." 
+2. "A sympathetic emotion of the unconscious babe, at the presence of the mother of his Lord." 
+3. "The babe leaped, signifying a recognition and response to the presence of the Messiah, even in the womb."
 
 ### Albert Barnes:
-1. "Elizabeth was filled with the Holy Ghost" - This signifies that she was filled with joy and a disposition to praise God, reflecting the transformative power of the Holy Spirit.
-2. "With a prophetic spirit" - Elizabeth's knowledge of the character of the child that would be born to her indicates a divine revelation, highlighting the role of the Holy Spirit in granting prophetic insight.
-3. "All these were produced by the Holy Spirit" - The Holy Spirit is the source of Elizabeth's joy, praise, and prophetic spirit, emphasizing the Spirit's active role in bringing about spiritual experiences and understanding.
+1. "Elizabeth was filled with the Holy Ghost - The meaning of this seems to be that she was filled with joy."
+2. "with a disposition to praise God"
+3. "with a prophetic spirit, or a knowledge of the character of the child that should be born of her."
+
+### Marvin Vincent:
+1. "The babe" refers to the newborn baby Jesus, emphasizing his vulnerability and innocence.
+
+2. This phrase highlights the humanity of Jesus, who entered the world as a helpless infant, dependent on others for care and protection.
+
+3. By using the term "babe," the commentary draws attention to the humility and meekness of Jesus, who willingly took on human form to save humanity.
 
 ### John Calvin:
-1. "No good purpose would be served by involving ourselves in intricate questions, if the child was aware of the presence of Christ, or felt an emotion of piety: it is enough for us that the babe started by a secret movement of the Spirit."
-2. "Luke does not say that the feeling belonged to the child, but rather intimates that this part of the Divine operation took place in the mother herself, that the babe started in her womb."
-3. "The expression, she was filled with the Holy Ghost, means that she was suddenly endued with the gift of prophecy to an unusual extent: for the gifts of the Spirit had not formerly been wanting in her, but their power then appeared more abundant and extraordinary."
+1. "Luke intended to express an extraordinary occurrence."
+2. "It is enough for us that the babe started by a secret movement of the Spirit."
+3. "The expression, she was filled with the Holy Ghost, means that she was suddenly endued with the gift of prophecy to an unusual extent."
 
 ### Philip Schaff:
 1. "The babe leaped in her womb. Possibly for the first time. This movement of the babe was evidently regarded by the Evangelist and by Elisabeth, as something extraordinary, as a recognition of the unborn Messiah on the part of the unborn babe." 
 
-2. "Filled with the Holy Ghost. The order suggests that the movement of the babe came first, and that this influence of the Holy Spirit coming upon Elisabeth enabled her to recognize its meaning."
+2. "Filled with the Holy Ghost. The order suggests that the movement of the babe came first, and that this influence of the Holy Spirit coming upon Elisabeth enabled her to recognize its meaning." 
 
 3. "The promise respecting John (Luke 1:15) implies that the unborn infant would be the first to recognize the Lord (even before His birth)."
 
+### Archibald T Robertson:
+1. "Elisabeth was filled with the Holy Spirit to understand what had happened to Mary."
+2. "A common enough incident with unborn children (Genesis 25:22)."
+3. "Leaped."
+
 ### John Gill:
 1. "The babe leaped in her womb: which motion was not natural, but supernatural; being made at hearing the voice of Mary, who had now conceived the Messiah, whose forerunner this babe, John the Baptist, was to be."
-2. "By this motion, [John the Baptist] gave the first notice of his conception, which his mother Elisabeth took from hence; as he afterwards pointed him out by his finger, and by his baptism made him manifest to Israel."
+2. "By this motion, [John the Baptist] gave the first notice of his conception, which his mother Elisabeth took from hence."
 3. "Elisabeth was filled with the Holy Ghost not with the ordinary graces of the Spirit, but with extraordinary gifts, with a spirit of prophecy; by which she knew that the Messiah was conceived, and that Mary was the mother of her Lord."
 
 ### John Wesley:
-1. "The joy of her soul so affected her body, that the very child in her womb was moved in an uncommon manner, as if it leaped for joy."
-2. "The salutation of Mary had a profound impact on Elisabeth, causing her unborn child to move with joy."
-3. "This encounter between Mary and Elisabeth was a powerful moment, where the presence of God was felt and celebrated even by the unborn child."
+1. "The joy of her soul so affected her body" - This quote highlights the deep emotional impact of Mary's salutation on Elisabeth, emphasizing the profound connection between the spiritual and physical aspects of their encounter.
+
+2. "The very child in her womb was moved in an uncommon manner" - This quote emphasizes the extraordinary nature of the baby's movement, suggesting that it was not a typical fetal movement but a response to the divine presence in Mary.
+
+3. "As if it leaped for joy" - This quote vividly describes the movement of the baby in Elisabeth's womb, portraying it as an expression of joy in response to the presence of Mary and the message she brought.
 
 
 ## Generation Details

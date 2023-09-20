@@ -1,9 +1,19 @@
 # Matthew 26:22 Commentary Help Text
 
 ## BHT:
-In this Bible verse, the disciples are gathered with Jesus during the Last Supper. They are questioned about who among them will betray Jesus, causing them concern and confusion. Despite their fear, the disciples do not react angrily and honestly express their disbelief that any of them could commit such a betrayal. The question posed reflects the humility and self-examination that should accompany their participation in the Lord's Supper, as even the most devoted followers are capable of questioning their own loyalty.
+This passage from the Bible encompasses a moment of tension and questioning among the disciples. It begins with John seeking confirmation from Jesus, and is followed by a series of questions where each disciple wonders if they could be the one to betray him. Although the disciples are concerned and seek reassurance, their genuine denial of guilt and their loyalty to Jesus shines through. This scene sets the stage for the revelation of Judas as the betrayer.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The real enquiry from the Lord was made by John himself, owing to a sign from Peter."
+2. "This part of John's narrative stands in the highest position for accuracy of detail."
+3. "The facts related in it are evidently the ground of the other accounts."
+
+### Marvin Vincent:
+1. "Began to say [ηρξαντο]. Denoting the commencement of a series of questions."
+2. "One after the other (every one) saying, Is it I? Is it I? [μητι εγω ειμι]."
+3. "The form of the negative expects a negative answer. 'Surely I am not the one.'"
+
 ### John Calvin:
 1. "I do not think that the disciples were alarmed, as persons struck with terror are wont to give themselves uneasiness without any reason."
 2. "It is, indeed, a mark of reverence, that when indirectly blamed, they do not reply angrily to their Master."
@@ -11,8 +21,13 @@ In this Bible verse, the disciples are gathered with Jesus during the Last Suppe
 
 ### Philip Schaff:
 1. "The Greek form of this question implies a denial; hence the hypocrisy of Judas in asking the question by himself, after the others."
-2. "Yet every Christian may ask such a question at the Lord's table."
-3. "The question 'Is it I, Lord?' reflects the humility and self-examination that should accompany the partaking of the Lord's Supper."
+2. "Yet every Christian may ask such a question at the Lord’s table."
+3. "Comp, the fuller details in John 13:18-30."
+
+### Archibald T Robertson:
+1. "The negative expects the answer No and was natural for all save Judas."
+2. "But he had to bluff it out by the same form of question."
+3. "The answer of Jesus, Thou hast said, means Yes."
 
 ### John Gill:
 1. "Partly that Christ should be betrayed at all, into the hands of his enemies, by whom they knew he would be ill used."

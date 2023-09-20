@@ -1,25 +1,35 @@
 # Matthew 20:15 Commentary Help Text
 
 ## BHT:
-In this verse, various commentators highlight the destructive nature of envy and the negative emotions that arise from desiring what others have. They emphasize the wisdom found in the Bible and challenge the fairness of God's distribution of rewards, questioning predestination and highlighting the importance of God's mercy. The commentators also caution against harboring a jealous heart and instead urge readers to embrace gratitude and contentment. Overall, this verse serves as a reminder of the consequences of envy and the need to trust in God's sovereignty and goodness.
+In this Bible verse, envy is at play as the emotions of envy and wickedness show themselves in the eye. The verse highlights the contrast between the goodness of the householder and the evil motive of envy. God has the right to bestow blessings as He sees fit, and His grace and glory are disposed of according to His sovereign will. This passage challenges the notion of predestination to eternal damnation, emphasizing God's mercy and fairness. It also warns against being envious and selfish, as it clouds one's perception of God's goodness and grace.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Envy is a destructive force that can poison relationships and lead to harmful actions." 
+1. "ὀφθ . πον .": The phrase "ὀφθ . πον ." refers to being envious or jealous. This sheds light on the meaning of the verse, indicating that envy is at play in the context.
 
-2. "The use of the word 'envious' in this verse highlights the negative emotions and attitudes that can arise when one person desires what another person has." 
+2. "so רַע is used Proverbs 28:22": The commentary draws a parallel with Proverbs 28:22, where the Hebrew word רַע (ra) is used to convey a similar idea of envy or wickedness. This comparison helps to deepen our understanding of the verse.
 
-3. "The reference to Proverbs 28:22 further emphasizes the timeless nature of envy and its consequences, reminding readers of the wisdom found in the Bible."
+3. "here envious": The commentary explicitly states that the word used in the verse signifies envy. This clarification helps to clarify the specific emotion or attitude being described in the passage.
 
 ### Jamieson Fausset Brown:
 1. "You appeal to justice, and by that your mouth is shut; for the sum you agreed for is paid you."
 2. "Your case being disposed of, with the terms I make with other laborers you have nothing to do."
 3. "To grudge the benevolence shown to others, when by your own admission you have been honorably dealt with, is both unworthy envy of your neighbor, and discontent with the goodness that engaged and rewarded you in his service at all."
 
+### Albert Barnes:
+1. "The Hebrews used the word evil, when applied to the eye, to denote one envious and malicious." 
+2. "The eye is called evil in such cases, because envy and malice show themselves directly in the eye." 
+3. "No passions are so fully expressed by the eye as these."
+
 ### Philip Schaff:
 1. "Envy was the real motive, and the envy was occasioned by the kindness of the householder."
-2. "The kindness of the householder was seen as a threat, provoking envy in those who felt overshadowed."
-3. "The householder's goodness and generosity became a source of resentment for those who were unable to match it."
+2. "The householder's goodness or kindness was the cause of the envy."
+3. "This verse highlights the contrast between the goodness of the householder and the evil motive of envy."
+
+### Archibald T Robertson:
+1. "The complainer had a grudging eye while the householder has a liberal or generous eye." 
+2. "The evil eye represents a mindset of envy, jealousy, and selfishness, while the good eye represents a mindset of generosity, kindness, and selflessness." 
+3. "The distinction between δικαιος and αγαθος in Romans 5:7 highlights the difference between merely doing what is right and going above and beyond to do what is good and beneficial for others."
 
 ### John Gill:
 1. "External gifts and outward privileges, such as enjoying the word and ordinances, are God's own; and he may, as he does, bestow them on whom he will, and when and where he pleases."
@@ -27,11 +37,9 @@ In this verse, various commentators highlight the destructive nature of envy and
 3. "Heaven and glory is his own, of his own preparing and giving; and both grace and glory are disposed of, and that very rightly and lawfully, according to his sovereign good will and pleasure."
 
 ### John Wesley:
-1. "Is it not lawful for me to do what I will with my own?" - This quote highlights the divine authority and sovereignty of God, emphasizing that He has the right to distribute rewards as He sees fit, even if it seems unfair to human understanding.
-
-2. "Can it be inferred from hence, that it is lawful, or possible, for the merciful Father of spirits to 'Consign an unborn soul to hell? Or damn him from his mother's womb?'" - This quote questions the notion that God would condemn someone to eternal damnation from birth, challenging the idea of predestination and emphasizing God's mercy and fairness.
-
-3. "Is thine eye evil because I am good - Art thou envious, because I am gracious?" - This quote points out the tendency of a selfish and envious heart to resent God's generosity towards others. It highlights the need to guard against jealousy and embrace a spirit of gratitude and contentment.
+1. "Is it not lawful for me to do what I will with my own?" - This quote highlights the idea that God has the right to bestow blessings and rewards as He sees fit, regardless of what humans may think or understand.
+2. "Can it be inferred from hence, that it is lawful, or possible, for the merciful Father of spirits to 'Consign an unborn soul to hell? Or damn him from his mother's womb?'" - This quote challenges the notion that God would condemn someone to eternal damnation before they are even born, emphasizing the mercy and fairness of God.
+3. "Is thine eye evil because I am good - Art thou envious, because I am gracious?" - This quote points out the tendency for envy and selfishness to cloud one's perception of God's goodness and grace, reminding readers to guard against such negative attitudes.
 
 
 ## Generation Details

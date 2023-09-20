@@ -1,34 +1,39 @@
 # Matthew 25:35 Commentary Help Text
 
 ## BHT:
-This verse highlights the act of welcoming and accepting someone into one's community or circle. It emphasizes the idea of being embraced and included by others. It conveys the sense of being recognized and valued as a part of a group or community. The verse challenges us to examine our attitudes and actions towards those who are marginalized or vulnerable, reminding us that our response to the needs of others reflects our relationship with Christ and our understanding of his teachings.
+In this Bible verse, commentators highlight the significance of welcoming and caring for others. They express the idea of being received with hospitality, embraced into a close relationship, and counted as part of a community. The verse emphasizes the importance of compassion, empathy, and practical acts of love. It also calls for a focus on the needs of others, particularly the marginalized and vulnerable. The verse encourages believers to demonstrate their faith through both physical and spiritual acts of mercy, and to be attentive to those who may feel isolated or abandoned.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "received me with hospitality" - This phrase highlights the act of welcoming and accepting someone into one's community or circle.
-2. "took me in" - This emphasizes the idea of being embraced and included by others.
-3. "numbered me among your own circle" - This conveys the sense of being recognized and valued as a part of a group or community.
+1. "received me with hospitality" - The commentary suggests that the phrase "συνηγάγετε" can be understood as being received with hospitality, indicating a warm welcome and acceptance into one's own circle.
+
+2. "took me in" - The commentary further explains that this phrase implies being included and embraced, emphasizing the idea of being brought into a close and intimate relationship.
+
+3. "numbered me among your own circle" - The commentary concludes by stating that the phrase can be interpreted as being counted as part of one's own community, highlighting the sense of belonging and acceptance.
 
 ### Jamieson Fausset Brown:
-1. "This verse highlights the compassionate nature of Jesus, who identifies himself with the hungry, the thirsty, the stranger, the naked, the sick, and the imprisoned. It reminds us of the importance of showing love and kindness to those in need, as we have the opportunity to serve Christ himself through our actions." 
-
-2. "By including himself in the list of those in need, Jesus emphasizes the unity and interconnectedness of all people. He invites us to see beyond superficial differences and recognize the shared humanity in each individual, urging us to extend our love and care to all, regardless of their circumstances or background." 
-
-3. "This verse challenges us to examine our attitudes and actions towards those who are marginalized or vulnerable. It reminds us that our response to the needs of others reflects our relationship with Christ and our understanding of his teachings. It calls us to be proactive in seeking out opportunities to serve and support those who are in need, just as Jesus did during his earthly ministry."
+1. "This verse highlights the importance of compassion and empathy towards those in need. It reminds us that we should not only focus on our own needs but also be mindful of the needs of others."
+2. "By using the phrase 'I was,' Jesus emphasizes his identification with the marginalized and vulnerable. It challenges us to see the face of Christ in those who are hungry, thirsty, strangers, and in need."
+3. "This verse serves as a call to action, urging us to actively seek out opportunities to help and serve others. It reminds us that our faith is not just about beliefs and rituals, but also about practical acts of love and kindness."
 
 ### Marvin Vincent:
-1. "Ye took me in. Tynd." - This quote highlights the act of hospitality and inclusion, emphasizing that the individuals in question welcomed the speaker into their midst.
-2. "I was harbourless and ye lodged me." - This quote emphasizes the vulnerability and need for shelter that the speaker had, and how the individuals provided lodging and refuge.
-3. "Ye took me with you into the household circle." - This quote emphasizes the sense of belonging and acceptance, as the individuals not only provided shelter but also included the speaker as part of their family or community.
+1. "Ye took me in...Ye took me with you into the household circle." 
+2. "Tynd. I was harbourless and ye lodged me." 
+3. "The preposition sun implies along with."
+
+### John Calvin:
+1. "We do not deny that a reward is promised to good works, but maintain that it is a reward of grace, because it depends on adoption."
+2. "Christ does not here specify everything that belongs to a pious and holy life, but only, by way of example, refers to some of the duties of charity, by which we give evidence that we fear God."
+3. "If we desire to have our life approved by the Supreme Judge, we must not go astray after our own inventions, but must rather consider what it is that He chiefly requires from us."
 
 ### Philip Schaff:
 1. "The real ground lies deeper than the good deeds themselves."
-2. "Such works are the fruit of Divine grace."
+2. "Charity is the daughter of faith, and faith is wrought by the Holy Spirit."
 3. "The acts of love here named... involve also the sacrifice of time, strength, rest, comfort."
 
 ### John Gill:
-1. "These gracious souls supplied them with food; which to do, especially in a time of persecution, showed not only love to Christ, but great faith in him, and that they were not ashamed of him, and their profession of him, nor of his poor ministers and members."
-2. "This is taken notice of with acceptance by him; and such shall not lose the reward of grace."
+1. "What is here, and in the following instances, said to be done to Christ, is not to be understood of him personally, but mystically, of the members of his body."
+2. "This was done by them, not as the effect of mere humanity to the poor in general, but as an instance of affection to Christ's poor."
 3. "Such servants of Christ as were obliged to quit their habitations through the violence of persecution, and were scattered abroad, or went about preaching the Gospel; such were by these righteous ones taken into their houses, and provided for with food and lodging, and every convenience of life."
 
 ### John Wesley:

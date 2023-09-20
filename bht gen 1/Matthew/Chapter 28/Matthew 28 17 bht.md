@@ -1,25 +1,44 @@
 # Matthew 28:17 Commentary Help Text
 
 ## BHT:
-After Jesus' resurrection, there were individuals who initially hesitated to worship Him, highlighting the complexity of human faith. The disciples underwent a transformation as their doubts were resolved through encounters with the risen Christ. Faith is a journey, and not everyone reaches the same destination at the same time. Although some doubted, others worshiped Jesus, recognizing Him as the eternal Son of God who had risen from the dead.
+In the presence of Jesus, doubts and uncertainties can still exist. Faith is a journey of questioning and seeking understanding. The disciples' worship of Jesus and their prostration before him demonstrate profound reverence and humility. Despite their previous experiences, some disciples still harbored doubts, highlighting their caution and the wide range of responses to Jesus. The disciples' worship and doubts reveal the profound significance of Jesus' resurrection and the transformative power of personal encounters with him.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "But some doubted" - This phrase suggests that not everyone who saw Jesus worshiped him immediately. It highlights the complexity of human faith and the different responses people can have to encountering the divine.
+1. "Some doubted" - This phrase suggests that even in the presence of Jesus, doubts and uncertainties can still exist. It reminds us that faith is not always a certainty, but a journey of questioning and seeking understanding.
 
-2. "None of 'the Eleven,' after what took place at previous interviews in Jerusalem" - This statement emphasizes the transformation that the disciples underwent after witnessing Jesus' resurrection. It implies that their doubts and uncertainties were resolved through their encounters with the risen Christ.
+2. "None of 'the Eleven'" - This statement highlights the transformation that occurred in the disciples' faith after witnessing the resurrection. It emphasizes the power of personal encounters with Jesus in dispelling doubts and solidifying belief.
 
-3. "We may well believe this of some of them" - This phrase acknowledges the possibility that even among the five hundred witnesses, there may have been individuals who still harbored doubts. It reminds us that faith is a journey, and not everyone arrives at the same destination at the same time.
+3. "We may well believe this of some of them" - This phrase acknowledges the possibility that among the five hundred witnesses, there may have been individuals who still harbored doubts. It emphasizes the diversity of responses to Jesus and the importance of personal experiences in shaping one's faith.
+
+### Albert Barnes:
+1. "They worshipped him - Paid him honour as the Messiah."
+2. "The mention of their doubting shows that they were honest men, that they were not easily imposed on."
+3. "Their caution in examining the evidence; their slowness to believe; their firm conviction after all their doubts; and their willingness to show their conviction even by their 'death,' is most conclusive proof that they were 'not' deceived in regard to the fact of his resurrection."
+
+### Marvin Vincent:
+1. "Worshipped [προσεκυνησαν] . As in ver. 9." - This quote highlights the significance of the disciples' action, as it is the same word used to describe their worship of Jesus in a previous verse. It suggests that their act of worship towards Jesus in this instance is equally profound and reverential.
+
+2. "Prostrated themselves." - This phrase emphasizes the physical posture of the disciples as they worship Jesus. It conveys a sense of humility, submission, and deep reverence towards him.
+
+3. "The first time that the disciples are described as doing so." - This statement indicates that this particular act of worship by the disciples is unique and noteworthy. It implies that their worship of Jesus in this moment holds a special significance or marks a significant milestone in their relationship with him.
 
 ### John Calvin:
 1. "It is wonderful that, after they had twice seen Christ, still some doubted."
 2. "The meaning, therefore, appears to me to be, that some at first hesitated, until Christ made a nearer and more familiar approach to them."
-3. "And perhaps it was the same reason that suddenly caused them to doubt, and afterwards led them to worship him; namely, that he had laid aside the form of a servant, and had nothing in his appearance but what was heavenly."
+3. "They worshipped, because the splendor of his divine glory was manifest."
+
+Note: The commentary provided is longer than the required length. Please select the best quotes that fit within the word limit.
 
 ### Philip Schaff:
 1. "The word might mean something less than religious worship, but it does mean that in many cases; the matter could scarcely be mentioned, if it meant less here."
-2. "The doubt was probably whether it was proper to worship Him, especially as the following words of our Lord apply so directly to such a doubt."
-3. "When it becomes a positive denial of the power He claims in the next verse, genuine faith in Him is scarcely possible."
+2. "A few, probably of the five hundred, not of the ‘eleven.’ Some say the doubt was respecting the identity of our Lord, and find in it an evidence of their caution in examining the evidence, which gives their subsequent conviction and testimony the greater weight."
+3. "The doubt was probably whether it was proper to worship Him, especially as the following words of our Lord apply so directly to such a doubt."
+
+### Archibald T Robertson:
+1. "Their very doubt makes it easier for us to believe."
+2. "This fact explains the large number present."
+3. "He is now their Risen Lord and Saviour."
 
 ### John Gill:
 1. "With divine adoration, as the eternal Son of God; for so he was now declared to be by his resurrection from the dead."

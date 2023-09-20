@@ -1,7 +1,7 @@
 # Matthew 25:11 Commentary Help Text
 
 ## BHT:
-In this verse, we witness a scene of urgency and desperation as those who were unprepared and lacking in wisdom come knocking at the door of the bridegroom. Their cries and pleas reveal their late realization of the consequences of their foolishness. The request to be opened unto serves as a symbolic element within the parable, highlighting the authority and supremacy of the bridegroom. Although persistently pursuing admission, they lacked true obedience and were ultimately left outside, unable to partake in the festivities.
+In this passage, we encounter individuals who arrive at the door of the bridegroom's house, pleading for entry. The exclamations of "Lord, Lord" express both the recognition of the bridegroom's authority and their desperation to be allowed into the festivities. Unfortunately, their lack of preparation and foolishness prevent them from gaining access. Their appeals are met with disappointment as they come to the realization of the consequences of their unpreparedness and lack of obedience.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
@@ -10,23 +10,34 @@ In this verse, we witness a scene of urgency and desperation as those who were u
 3. "Ah! now at length their eyes are wide open, and they realize all the consequences of their past folly."
 
 ### Albert Barnes:
-1. "Open unto us" - This phrase does not suggest that anyone will be allowed into the kingdom after the righteous have been admitted. It serves to illustrate a broader truth and maintain the narrative consistency of the parable.
+1. "Open unto us" - This phrase does not suggest that anyone will come after the righteous are admitted into the kingdom and claim admission then. It serves to illustrate the overall truth being taught and to maintain the consistency of the narrative.
 
-2. "It is a part of the parable" - The request to be opened unto is not meant to be taken literally, but rather as a symbolic element within the parable.
+2. "It is a part of the parable" - The request to "open unto us" is a deliberate element of the parable, designed to convey a deeper meaning and emphasize the lesson being taught.
 
-3. "To prepare the way for what is afterwards said" - The request for admission sets the stage for the subsequent teachings and lessons that will be presented in the parable.
+3. "To prepare the way for what is afterwards said" - The plea to be let in serves as a setup for the subsequent teachings and developments in the parable, ensuring a smooth flow of the narrative.
 
 ### Marvin Vincent:
-1. "Lord, Lord." - This phrase emphasizes the authority and supremacy of the bridegroom, highlighting his role as the one in control and with the final say in the wedding proceedings.
+1. "Lord, Lord." - This phrase emphasizes the authority and supremacy of the bridegroom, highlighting his position as the one in control and with the final say.
 
-2. "Applying directly to the bridegroom." - This statement underscores the focus on the bridegroom's actions and decisions, emphasizing his central role in the wedding ceremony.
+2. "Applying directly to the bridegroom." - This statement clarifies that the verse is specifically referring to the bridegroom, emphasizing his role and importance in the context of the passage.
 
-3. "Whose will was supreme." - This phrase highlights the bridegroom's ultimate authority and power, suggesting that his will and desires take precedence over all others involved in the wedding, including the bride.
+3. "Whose will was supreme." - This phrase underscores the bridegroom's ultimate authority and power, suggesting that his will and decisions are of utmost significance and cannot be questioned or challenged.
+
+4. "Not that he had arrived at the bride's residence." - This remark indicates that the focus is not on the bridegroom physically reaching the bride's location, but rather on his authority and control over the situation, regardless of his physical presence.
+
+5. "The bride's residence." - This phrase highlights the significance of the bride's location and the bridegroom's role in determining the outcome or course of events at that place.
 
 ### Philip Schaff:
-1. "The story is carried to its conclusion; the foolish virgins did not lack persistent effort." 
-2. "We may understand the verse as a mere carrying out of the story, or as showing the persistent appeals of the self-deceived, without regard to time." 
+1. "The foolish virgins did not lack persistent effort."
+2. "The verse...showing the persistent appeals of the self-deceived, without regard to time."
 3. "The more literal application is given below."
+
+### Archibald T Robertson:
+1. "And find the door shut in their faces." - This quote highlights the disappointment and shock of those who are denied entry. It emphasizes the finality and consequences of their actions.
+
+2. "Lord, Lord, open to us." - This plea reflects the desperation and urgency of those seeking entry. It shows their recognition of the authority and power of the bridegroom.
+
+3. "They appeal to the bridegroom who is now master whether he is at the bride's house or his own." - This quote emphasizes the shift in authority from the bride's house to the bridegroom's house. It signifies the change in roles and responsibilities within the marriage relationship.
 
 ### John Gill:
 1. "They were different from the wise, they were foolish ones; they were other than those that were ready, they were unprepared ones."

@@ -1,12 +1,17 @@
 # Matthew 9:33 Commentary Help Text
 
 ## BHT:
-In this verse, the instantaneous restoration of natural faculties is portrayed after the removal of a malignant oppression. The popular astonishment and varied effects of it are highlighted, demonstrating the incredible power of God's miraculous displays of healing. The restoration is not only physical but also spiritual, as the man's speech is restored and the devil is cast out through Christ's power. The verse alludes to a succession of wonders, uncommon even in Israel's history, emphasizing that even those who have witnessed God's miracles can still struggle with doubt and unbelief.
+The verse being described highlights the instantaneous and complete restoration of someone's natural faculties, which was a result that had never been seen before. This miraculous healing power displayed by Christ evoked awe and astonishment among the people. Despite witnessing such extraordinary wonders, the people of Israel, known for their familiarity with God's works, still wrestled with doubt and unbelief. This serves as a sobering reminder that even when we have experienced God's faithfulness in the past, we must continually cultivate a heart of trust and reliance on Him.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Never was seen to be followed by such results as those now manifested."
+2. "Οὕτως is not for τοῦτο or τοιοῦτό τι."
+3. "Approaches much more nearly to the Constantinopolitan, or generally received text."
+
 ### Jamieson Fausset Brown:
 1. "The object being simply to record the instantaneous restoration of the natural faculties on the removal of the malignant oppression of them." 
-2. "The form which the popular astonishment took, and the very different effect of it upon another class." 
+2. "The very different effect of it upon another class." 
 3. "Referring, probably, not to this case only, but to all those miraculous displays of healing power which seemed to promise a new era in the history of Israel."
 
 ### Albert Barnes:
@@ -22,14 +27,14 @@ In this verse, the instantaneous restoration of natural faculties is portrayed a
 ### John Gill:
 1. "The cause of his dumbness being removed, the effect ceased, and the man spake as he did before, and as other men do."
 2. "The devil not being able to bear his presence, much less withstand his power: but as soon as Christ had set his eyes upon the man possessed by him, and had given him orders to be gone, he immediately went out."
-3. "The multitude marvelled, saying, it was never so seen in Israel...referring not to this miracle only, but to all the rest he had just wrought."
+3. "The vast crowds of people... were surprised; and declared very frankly, that though many wonderful things had been done in Israel, in times past, by Moses, Elijah, Elisha, and others, yet never were such things seen, or heard, or known of, as were done by Christ."
 
 ### John Wesley:
-1. "The phrase 'even in Israel' suggests that despite the abundance of miracles and divine interventions witnessed by the Israelites, they still struggled with doubt and unbelief. It serves as a reminder that even those who have experienced God's power firsthand can still falter in their faith."
+1. "The phrase 'even in Israel' suggests that despite witnessing numerous miracles and wonders, the people of Israel still struggled with doubt and unbelief." 
 
-2. "The mention of 'so many wonders' highlights the extraordinary acts of God that the Israelites had witnessed throughout their history. It emphasizes the magnitude of God's power and the extent to which He had revealed Himself to His chosen people."
+2. "This verse reminds us that even when we have experienced God's faithfulness in the past, we can still find ourselves questioning His power and provision in the present." 
 
-3. "This verse serves as a cautionary reminder that familiarity with God's miracles does not guarantee unwavering faith. It challenges us to examine our own hearts and recognize the tendency to doubt, even in the midst of witnessing God's miraculous works."
+3. "It serves as a sobering reminder that familiarity with God's works does not guarantee unwavering faith, and that we must continually seek to cultivate a heart of trust and reliance on Him."
 
 
 ## Generation Details

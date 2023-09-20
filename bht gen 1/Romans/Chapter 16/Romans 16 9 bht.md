@@ -1,37 +1,44 @@
 # Romans 16:9 Commentary Help Text
 
 ## BHT:
-In this verse, we are introduced to a person named Urbanus, who played an active role as a helper and fellow laborer in spreading the message of Christ. Urbanus, whose name signifies being city-bred, may have brought a level of worldly knowledge and sophistication to the early Christian community. This diversity of backgrounds and occupations within the community highlights the inclusive nature of the Gospel, which is meant for people from all walks of life. The use of the term "fellowlabourer" emphasizes the importance of unity, collaboration, and mutual support in the mission of sharing the Gospel.
+In this verse, we encounter the names of Urbanus and Stachys, individuals who played significant roles in the early Christian community. Urbanus, known as a fellow laborer in Christ, symbolizes the essence of collaboration and support within the body of believers. Stachys, described as beloved, signifies the deep affection and close bond between this individual and the apostle. Together, these names serve as a reminder of the unity and diversity within the early Christian movement, highlighting the importance of teamwork, love, and the shared responsibility of spreading the gospel message.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Urbane—rather, 'Urbanus.' It is a man's name." This quote highlights the correction of the name mentioned in the verse, emphasizing that it refers to a specific person named Urbanus.
+1. "Urbane—rather, 'Urbanus.' It is a man's name." This quote clarifies that the word "Urbane" should actually be "Urbanus," which is a specific man's name. This adds specificity and accuracy to our understanding of the verse.
 
-2. "our helper—'fellow labourer'." This quote emphasizes the role of Urbanus as a helper and fellow laborer in the work of spreading the message of Christ. It suggests that Urbanus played an active and significant role in supporting and assisting the Apostle Paul.
+2. "Our helper—'fellow labourer' in Christ." This quote highlights the role of Urbanus as a helper and fellow laborer in the context of their shared faith in Christ. It emphasizes the importance of collaboration and support within the Christian community.
 
-3. "in Christ." This short phrase signifies that Urbanus was not just a helper or laborer in general, but specifically in the context of their shared faith in Christ. It implies that Urbanus's work was grounded in his relationship with Christ and aligned with the teachings and mission of Jesus.
+3. "in Christ." This short phrase signifies the foundation and motivation behind Urbanus' labor and assistance. It indicates that his actions and service are rooted in his relationship with Christ, further emphasizing the significance of faith in the context of their work.
 
 ### Marvin Vincent:
-1. "The name Urbanus, meaning 'city-bred,' suggests that this individual was familiar with the ways of urban life and may have had a certain level of sophistication or worldly knowledge."
-
-2. "Stachys, derived from the Greek word for 'ear of corn,' could symbolize fertility, abundance, and growth. This imagery may suggest that Stachys had a fruitful and productive life, both spiritually and materially."
-
-3. "The inclusion of these names in Paul's letter highlights the diversity and varied backgrounds of the early Christian community. It reminds us that the Gospel message is not limited to a specific group or social class, but is meant for all people, regardless of their upbringing or occupation."
+1. "The name Urbanus, meaning city-bred, suggests that this individual was likely familiar with the culture and lifestyle of urban areas, which could have influenced his perspective and approach to ministry."
+2. "Stachys, meaning an ear of corn, symbolizes growth, abundance, and nourishment. This could imply that Stachys had a fruitful and enriching ministry, bringing spiritual nourishment to those he served."
+3. "The combination of Urbanus and Stachys in this verse highlights the diversity and unity within the body of Christ, as individuals from different backgrounds and with different gifts work together for the advancement of the Kingdom."
 
 ### Philip Schaff:
-1. "Urbanus, our fellow worker in Christ." - This verse highlights the unity and collaboration among believers in their work for Christ. It emphasizes the importance of working together as a community of faith.
-2. "'Our' refers not to Paul alone, but to the Roman Christians also." - This statement reminds us that the Christian faith is not an individualistic endeavor but a communal one. It emphasizes the shared responsibility and participation of all believers in the work of Christ.
-3. "The variety in these commendatory phrases was probably due to specific reasons." - This suggests that the specific commendations given to individuals in the verse were not arbitrary but were likely based on their unique contributions or qualities. It shows that each person's role and character were recognized and appreciated in the early Christian community.
+1. "Urbanus, our fellow worker in Christ" - This verse suggests that Urbanus was not just a coworker of Paul, but also of the Roman Christians, highlighting the unity and collaboration among believers.
+2. "The variety in these commendatory phrases was probably due to specific reasons" - The different ways in which Paul commends individuals in this passage may indicate that each person had unique qualities or contributions that deserved recognition.
+3. "Stachys my beloved" - This term of endearment used by Paul towards Stachys shows the close bond and affection between them, emphasizing the importance of love and relationships within the Christian community.
+
+### Archibald T Robertson:
+1. "Urbanus, a common Roman slave name found among members of the household."
+2. "Stachys, a Greek name, rare, but among members of the imperial household."
+3. "Stachys means a head or ear of grain."
 
 ### John Gill:
-1. "He is said to be one of the seventy disciples, and to be a bishop in Macedonia; which is not very probable."
-2. "If he was, but few of his successors have deserved the character given of him, an 'helper in Christ'; in spreading the Gospel, and enlarging the kingdom and interest of Christ."
-3. "He was, however, because of his faith in Christ, and love to him, or on such like spiritual accounts, very dear to the apostle."
+1. "Salute Urbane, our helper in Christ... if he was, but few of his successors have deserved the character given of him, an 'helper in Christ'; in spreading the Gospel, and enlarging the kingdom and interest of Christ." 
+
+2. "Stachys my beloved... he was, however, because of his faith in Christ, and love to him, or on such like spiritual accounts, very dear to the apostle." 
+
+3. "He is said to be one of the seventy disciples, and to be a bishop in Macedonia... others have conjectured him to be one of the pastors of the church of Rome, which is more likely."
 
 ### John Wesley:
-1. "The term 'fellowlabourer' implies a shared mission and purpose, highlighting the importance of teamwork and collaboration in spreading the message of the Gospel."
-2. "This verse reminds us that the work of spreading the Gospel is not meant to be done alone, but rather in partnership with others who share the same passion and calling."
-3. "The use of the term 'fellowlabourer' also suggests a sense of equality and mutual support among believers, emphasizing the need for unity and cooperation in fulfilling God's mission."
+1. "The term 'fellowlabourer' implies a sense of unity and partnership in the work of the gospel. It highlights the importance of collaboration and teamwork in spreading the message of Christ." 
+
+2. "This verse reminds us that we are not alone in our efforts to serve God. We have fellow believers who are working alongside us, supporting us, and sharing in the labor of advancing the kingdom of God."
+
+3. "The use of the term 'fellowlabourer' also suggests that the work of the gospel is not an individual endeavor, but a collective responsibility. It emphasizes the need for believers to come together, unite their efforts, and work hand in hand to fulfill the mission of Christ."
 
 
 ## Generation Details

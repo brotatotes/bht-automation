@@ -1,34 +1,42 @@
 # Matthew 13:38 Commentary Help Text
 
 ## BHT:
-The parable described in these commentaries focuses on the distinction between the children of the kingdom and the children of the wicked one. It highlights that the world is the field in which both believers and non-believers exist, emphasizing the need to spread the gospel throughout all of creation. The parable also acknowledges the presence of false believers within the Church who imitate the works of the evil one. It encourages the children of the kingdom to live according to God's righteousness, bearing fruit in their actions and growing in their faith.
+In this verse, the commentators highlight that the field represents the world, emphasizing the universal significance of the events described. The parable conveys the coexistence of good and evil in the world and even within the Church. The imagery of sowing good seed and the growth of tares indicates the presence of both righteous individuals and those under the influence of the wicked one. The separation between the two groups will occur at the end of time, emphasizing the importance of perseverance and living in accordance with God's principles.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The field is the world; if understood of the Church, then the Church only as commensurate with the world." 
+2. "The parable sets forth to us the universal sowing of GOOD SEED by the Gospel: it sows no bad seed: all this is done by the enemy." 
+3. "It is not the office, however much it may be the desire, of the servants of the householder, the labourers in His field, to collect or root up these tares, to put them out of the world literally, or of the Church spiritually...this is reserved for another time and for other hands, for the harvest, the end; for the reapers, the angels."
+
 ### Jamieson Fausset Brown:
-1. "The tares are the children of the wicked one" - This phrase highlights that the tares, or weeds, represent those who are aligned with evil. It emphasizes the presence of evil in the world and the distinction between the children of God and the children of the wicked one.
+1. "The tares are the children of the wicked one" - This phrase emphasizes that the presence of evil in the world is not accidental or random, but rather a result of the influence of the wicked one. It highlights the spiritual battle between good and evil that exists in the world.
 
-2. "No blame seems intended, and certainly none is charged upon 'the servants'" - This statement clarifies that the parable does not assign blame to the servants for the presence of the tares. It suggests that the sowing of the tares while men slept was simply a part of the parable's narrative and not meant to criticize the actions of the servants.
+2. "No blame seems intended, and certainly none is charged upon 'the servants'" - This statement clarifies that the parable is not meant to assign blame to the servants for the presence of the tares. It suggests that the focus of the parable is not on human responsibility, but on the reality of evil coexisting with good.
 
-3. "It is probably just the dress of the parable" - This phrase suggests that the inclusion of the detail about the servants' sleep is likely a literary device to enhance the storytelling aspect of the parable. It implies that the focus should be on the deeper meaning of the parable rather than the literal interpretation of the servants' actions.
+3. "It is probably just the dress of the parable" - This phrase suggests that the details of the parable, such as the sowing of the tares while men slept, may not have a specific symbolic meaning. It encourages readers to focus on the broader message of the parable rather than getting caught up in the specifics of the story.
 
 ### Philip Schaff:
-1. "The field is the world." - This phrase indicates that the parable of the wheat and the tares extends beyond just the Church. It signifies that the gospel is meant to be spread throughout the entire world, and both believers and non-believers exist in this world.
+1. "The field is the world... the Church is seeking to occupy the whole world." 
+2. "The gospel is good seed to be scattered everywhere; the intertwining of the roots suggests that the tares are in the Church also." 
+3. "In the world, and in the Church... there exist side by side two such classes; those made heirs of Christ’s kingdom by Divine sowing and those who are of the seed of the serpent."
 
-2. "The intertwining of the roots suggests that the tares are in the Church also." - This observation highlights the presence of false believers or hypocrites within the Church. Just as the roots of the wheat and the tares intertwine, there are individuals who may outwardly appear to be part of the Church but do not truly belong to Christ.
+### Archibald T Robertson:
+1. "The field is the world" - This emphasizes that the events described in the verse take place in the world, not in the Kingdom or the church. 
 
-3. "In the world, and in the Church... there exist side by side two such classes." - This statement emphasizes the coexistence of two opposing groups within both the world and the Church. It acknowledges that there are those who are heirs of Christ's kingdom and those who align themselves with the evil one, and this duality exists in both spheres.
+2. "Both the good seed and the darnel (tares) are sown in the world" - This highlights that both good and evil exist in the world, and they coexist until the consummation of the age. 
+
+3. "The separation comes at the consummation of the age" - This suggests that the final separation between the good and the evil will occur at the end of time, emphasizing the importance of patience and perseverance in the face of evil.
 
 ### John Gill:
-1. "That which is represented by 'the field', in which the good seed is sown, is not only the land of Judea, but the whole world."
-2. "The good seed are the children of the kingdom, who are possessed of the kingdom of grace here, and are heirs of the kingdom of glory."
-3. "The tares are the children of the wicked one, who resemble and imitate him, and do his works, declaring that they were never born of God."
-
-These quotes highlight the expansive nature of the field, the distinction between the good seed and the tares, and the characteristics of each group.
+1. "The field is the world...the whole world, into which the apostles were afterwards sent."
+2. "The good seed are the children of the kingdom...possessed of the kingdom of grace here, and are heirs of the kingdom of glory."
+3. "The tares are the children of the wicked one...manifestly show that they are of their father the devil...more hurtful and scandalous to the interest of Christ."
 
 ### John Wesley:
-1. "The good seed represents the children of the kingdom, symbolizing those who belong to God and live according to His righteousness."
-2. "These children of God are like seeds that are sown in the world, spreading the message of the kingdom and bearing fruit in their actions and lives."
-3. "Just as seeds grow and produce a harvest, the children of the kingdom are called to grow in their faith and produce the fruits of the Spirit, such as love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control."
+1. "The good seed represents the children of the kingdom, symbolizing those who belong to God and live righteous lives."
+2. "This verse emphasizes that being a child of the kingdom is not determined by physical lineage, but by one's relationship with God and their commitment to living according to His principles."
+3. "It reminds us that being a child of the kingdom is not just a title, but a responsibility to bear good fruit and reflect the character of God in our lives."
 
 
 ## Generation Details

@@ -1,25 +1,30 @@
 # Luke 6:3 Commentary Help Text
 
 ## BHT:
-In this verse, Jesus questions the people's knowledge of the Scriptures, emphasizing the importance of reading and understanding them. He addresses their ignorance and lack of comprehension, urging them to delve deeper into the Word for a more accurate understanding. Jesus highlights examples from the Old Testament, specifically referencing the actions of David and the priests, to bring clarity and justification to his disciples' actions. He demonstrates their rightful rationale and the precedence of certain actions in the face of pressing needs and circumstances.
+In this verse, Jesus rebukes the ignorance of his listeners by reminding them of two instances from the Scriptures. He draws attention to how David, in a time of need, entered the tabernacle and ate the showbread reserved for the priests, demonstrating the priority of meeting human needs over adherence to legalistic rules. He also mentions the priests who carried out their duties on the Sabbath without being condemned for breaking the law. Jesus uses these examples to challenge the rigidity and shallow understanding of the Scriptures held by his audience.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Are ye so utterly ignorant of the spirit of Scripture?"
+2. "Its form and contents speak for its originality and, I am disposed to believe, its authenticity."
+3. "The text of the Codex Bezæ is a very peculiar one, deviating more from the received readings and from the principal manuscript authorities than any other."
+
 ### Marvin Vincent:
-1. "Have ye not read?" - This phrase emphasizes the importance of reading and understanding the Scriptures. It implies that the answer to their question can be found in the written Word of God.
-
-2. "The A. V. misses the force of ouJude" - This comment highlights a limitation in the translation of the verse, suggesting that the original Greek phrase carries a stronger meaning. It encourages readers to dig deeper into the original language for a more accurate understanding.
-
-3. "Rev., 'have ye not read even this?'" - This alternative translation provided by the commentator suggests that the question is not just about reading in general, but specifically about reading and comprehending the particular passage being referred to. It emphasizes the need for careful and attentive reading of the Scriptures.
+1. "The A. V. misses the force of ouJude: 'have ye not so much as read?'"
+2. "Rev., 'have ye not read even this?'"
+3. "The question implies that the answer must be in the affirmative."
 
 ### Philip Schaff:
-1. "Have ye not read even this?" - This phrase emphasizes the ignorance of the people, highlighting their lack of understanding of the Scriptures.
-2. "A strong expression implying their utter ignorance" - The commentary highlights the strong language used by Jesus to convey the people's complete lack of knowledge about the Scriptures.
-3. "Their utter ignorance of what the Scriptures meant" - This quote emphasizes that the people not only lacked knowledge but also failed to comprehend the true meaning and significance of the Scriptures.
+1. "Have ye not read even this?" - This phrase emphasizes the ignorance of the listeners regarding the Scriptures, highlighting their lack of understanding.
+2. "A strong expression implying their utter ignorance" - The commentary points out the strong language used by Jesus to emphasize the complete lack of knowledge the listeners had about the Scriptures.
+3. "Their utter ignorance of what the Scriptures meant" - This quote highlights the commentary's focus on the listeners' lack of understanding of the deeper meaning and significance of the Scriptures.
 
 ### Archibald T Robertson:
-1. "Not even this" emphasizes the significance of the point being made in Luke's account.
-2. "What" can be understood as "which," highlighting the specific detail being referred to.
-3. The use of "what" in Mark 2:25 and Matthew 12:3 differs from Luke's use of "which," indicating a slight variation in the wording of the verse.
+1. "Not even this" - The commentary highlights that the significance of the verse lies in the fact that even this small detail is not overlooked. It emphasizes the attention to detail and thoroughness of the biblical account.
+
+2. "What" - The commentary points out that the word "what" is used in other versions of the verse, but in Luke, the word "which" is used instead. This distinction may have implications for the interpretation of the verse and its context.
+
+3. "Mark 2:25; Matthew 12:3" - The commentary refers to other parallel passages in Mark and Matthew, suggesting that comparing these accounts can provide further insights and a more comprehensive understanding of the verse in question.
 
 ### John Gill:
 1. "Jesus took up the cause of his disciples, vindicating them by observing what David did when he and his men were hungry." 

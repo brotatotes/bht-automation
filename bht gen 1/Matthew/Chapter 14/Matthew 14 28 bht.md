@@ -1,29 +1,34 @@
 # Matthew 14:28 Commentary Help Text
 
 ## BHT:
-In this particular Bible verse, we are presented with a unique and notable narrative concerning Peter's interaction with Jesus. The passage showcases Peter's impulsive character and his desire to have a closer connection with Jesus. It demonstrates the power of faith, as Peter successfully walks on water when his focus remains on Jesus, but begins to sink when doubt creeps in. This account reveals the willingness of Jesus to empower His disciples and the importance of fully trusting in Him, even in the face of danger and uncertainty.
+In this remarkable narrative, Matthew sheds light on Peter's bold faith and impulsive character. Peter's request to walk on water displays his unwavering trust in Jesus, acknowledging that only through the Lord's invitation and authority can he accomplish the impossible. However, as John Calvin explains, Peter's hasty wish combined with his small and weak faith resulted in a valuable lesson for believers to approach God's will with caution. Despite the risks, Peter's willingness to come to Jesus amidst storms and tempests exemplifies his great love and affection for Christ, a poignant demonstration of the power of faith over earthly limitations.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "This narrative respecting Peter is peculiar to Matthew."
 2. "It contains one of the most pointed and striking revelations which we have of the nature and analogy of faith."
-3. "A notable example of the power of the higher spiritual state of man over the inferior laws of matter."
+3. "A notable example of the power of the higher spiritual state of man over the inferior laws of matter, so often brought forward by our Lord."
 
 ### Jamieson Fausset Brown:
-1. "Peter's request to walk on water was not simply a desire to perform a miraculous feat, but rather a demonstration of his faith in Jesus. He wanted to be where Jesus was, even if it meant stepping out of his comfort zone and facing the unknown." 
+1. "Peter's request to walk on water is a bold expression of his faith and trust in Jesus. It shows his willingness to step out of his comfort zone and fully rely on the power and presence of the Lord." 
 
-2. "Jesus' response to Peter's request shows his willingness to empower and enable his disciples to do the impossible. He invites Peter to come, knowing that it is through this experience that Peter will learn to trust in him more deeply." 
+2. "By asking Jesus to bid him come, Peter acknowledges that it is only through the invitation and authority of Christ that he can accomplish the impossible. It is a reminder that our actions and abilities are dependent on our connection to Jesus."
 
-3. "Peter's initial success in walking on water is a testament to the power of faith. As long as he kept his eyes fixed on Jesus, he was able to defy the laws of nature. However, when he allowed fear and doubt to creep in, he began to sink."
+3. "This passage highlights the importance of keeping our eyes fixed on Jesus. As long as Peter focused on Jesus, he was able to walk on water. But when he allowed fear and doubt to enter his mind, he began to sink. It serves as a reminder to us to keep our gaze on Jesus, even in the midst of life's storms."
+
+### John Calvin:
+1. "While his faith is so small and weak, a wish not well considered bursts into a flame."
+2. "Let believers, therefore, instructed by his example, beware of excessive haste."
+3. "In many cases God promotes our interests better by refusing our requests; but at times he yields to us, that by experience we may be the more fully convinced of our own folly."
 
 ### Philip Schaff:
-1. "The silence of the other Evangelists is remarkable, but casts no doubt upon the truthfulness of Matthew's account."
-2. "The occurrence is strikingly in accordance with Peter's impulsive character, 'almost a rehearsal' of the subsequent denial."
-3. "Peter's fault lay in the words: bid me, etc., which betray a desire to outdare the other disciples."
+1. "The silence of the other Evangelists is remarkable, but casts no doubt upon the truthfulness of Matthew’s account."
+2. "The occurrence is strikingly in accordance with Peter’s impulsive character, ‘almost a rehearsal’ of the subsequent denial."
+3. "Peter’s fault lay in the words: bid me, etc., which betray a desire to outdare the other disciples."
 
 ### Archibald T Robertson:
-1. "The impulsiveness of Peter appears as usual." 
-2. "Matthew alone gives this Peter episode." 
+1. "The impulsiveness of Peter appears as usual."
+2. "Matthew alone gives this Peter episode."
 3. "Upon the waters."
 
 ### John Gill:

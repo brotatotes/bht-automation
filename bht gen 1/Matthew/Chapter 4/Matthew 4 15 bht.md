@@ -1,32 +1,35 @@
 # Matthew 4:15 Commentary Help Text
 
 ## BHT:
-The verse describes a region called "Galilee of the Gentiles," highlighting its significance as a frontier between the Jewish community and the external world. This region was a direct highway for invaders, making it vulnerable to outside influences. The Galileans had an uncouth pronunciation, which further accentuated their separation from mainstream society. With Jesus' ministry in this diverse and multicultural area, he fulfills prophecies and reaches out to the marginalized, emphasizing his inclusive and compassionate nature. Through faith in Him, all people have access to God's unconditional love and salvation, warning against the consequences of rejecting His offer.
+This verse describes Galilee as a region with a diverse population, inhabited by both Jews and Gentiles. It emphasizes the fulfillment of prophecy in Jesus' ministry, bringing light to a people in darkness. It also highlights Jesus' inclusive and compassionate nature, as He intentionally starts His ministry in Galilee of the Gentiles, showing His desire to bring salvation to all, regardless of their background or faith.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "This prophecy is spoken with direct reference to the days of the Messiah."
+2. "The later meaning of מֵעֵבֶר לַיַּרְדֵּן, as signifying the tract to the west of the Jordan, and which naturally sprung up during the captivity, is not to be thought of in Isaiah, who wrote before that event."
+3. "Galilee superior, near to Tyre and Sidon, which was inhabited by a variety of nations."
+
 ### Jamieson Fausset Brown:
 1. "Galilee of the Gentiles—so called from its position, which made it the frontier between the Holy Land and the external world."
 2. "While Ephraim and Judah, as STANLEY says, were separated from the world by the Jordan valley on one side and the hostile Philistines on another, the northern tribes were in the direct highway of all the invaders from the north."
-3. "In the time of the Christian era this original disadvantage of their position was still felt; the speech of the Galileans 'bewrayed them' by its uncouth pronunciation."
+3. "Their distance from the seats of government and civilization at Jerusalem and Cæsarea gave them their character for turbulence or independence, according as it was viewed by their friends or their enemies."
 
 ### Philip Schaff:
 1. "Either an apostrophe to these regions or equivalent to: as to the land of Zebulun, etc. The sense is the same."
 2. "The sea (or lake) of Galilee, not the Mediterranean. The latter view would indicate that the region was profane, being the way of the sea for all the world. But this seems forced."
-3. "Galilee of the Gentiles. Upper Galilee, already spoken of by other names. It was near Gentile territory and probably had a large Gentile population."
+3. "Either the country on the west side already spoken of, or Perea on the east side. (Both senses are sustained by Old Testament usage.) The former is preferable, since the various terms of the verse seem to be in apposition."
 
 ### John Gill:
-1. "This verse reminds us that God's love is not limited to a select few, but is available to all who believe in Him. It is a powerful reminder of God's inclusive and unconditional love for humanity."
-
-2. "The phrase 'whosoever believes in Him' emphasizes the importance of faith in receiving God's love and salvation. It is not based on our own merit or worthiness, but on our willingness to trust in Him."
-
-3. "The word 'perish' in this verse signifies the consequence of rejecting God's love and choosing to live apart from Him. It serves as a warning of the eternal separation from God that awaits those who do not accept His offer of salvation."
+1. "This verse reminds us that God's love is not limited to a select few, but extends to all people, regardless of their background or circumstances."
+2. "The phrase 'whosoever believes in Him' emphasizes the importance of personal faith and trust in Jesus as the means of receiving God's love and salvation."
+3. "God's love is not based on our own merit or worthiness, but on His grace and mercy. It is a gift freely given to all who are willing to receive it."
 
 ### John Wesley:
-1. "Galilee of the Gentiles" refers to the region of Galilee that was predominantly inhabited by Gentiles, or non-Jews. This highlights the diverse and multicultural nature of the area, setting the stage for Jesus' ministry to reach beyond the Jewish community.
+1. "Galilee of the Gentiles" refers to the region of Galilee that was predominantly inhabited by Gentiles, or non-Jews. This highlights the diverse cultural and religious landscape of the area, setting the stage for Jesus' ministry to reach beyond the Jewish community.
 
-2. The reference to Isaiah 9:1-2 emphasizes the fulfillment of prophecy in Jesus' ministry. It suggests that Jesus' presence and teachings in Galilee were a fulfillment of the prophetic promise of a great light shining in the darkness.
+2. The mention of Isaiah 9:1-2 emphasizes the fulfillment of prophecy in Jesus' ministry. This verse speaks of the light shining in the darkness, symbolizing the hope and salvation that Jesus brings to all people, including the Gentiles.
 
-3. By choosing to begin his ministry in Galilee, Jesus intentionally reaches out to those who were considered outsiders or marginalized by the religious establishment. This demonstrates his inclusive and compassionate nature, as he seeks to bring the message of salvation to all people, regardless of their background.
+3. By starting His ministry in Galilee of the Gentiles, Jesus demonstrates His intention to reach out to those who are outside of the Jewish faith. This reveals His inclusive and compassionate nature, as He seeks to bring salvation and healing to all people, regardless of their background or religious affiliation.
 
 
 ## Generation Details

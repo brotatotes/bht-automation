@@ -1,37 +1,44 @@
 # Matthew 11:4 Commentary Help Text
 
 ## BHT:
-In this verse, Jesus sends a message to John the Baptist, while providing tangible evidence of his identity and mission. He instructs his disciples to share the miracles and teachings they have witnessed, emphasizing the importance of personal experience in understanding and believing in him as the Messiah. This message serves as a symbolic and interpretive lesson on humility, while demonstrating the power and authority of Jesus through the healing of various ailments. It reminds us that faith is not solely based on words, but on the tangible works and evidence of Christ.
+In that hour, Jesus healed many from diseases, plagues, and evil spirits. He granted sight to many blind people. This act of healing was accompanied by signs and miracles, meant to be seen and heard by the people, providing tangible evidence of Jesus' divinity. Jesus instructed his disciples to go and tell John the Baptist about the things they had witnessed, emphasizing the importance of personal experience and firsthand witness in recognizing the truth. These miracles served as a powerful and convincing testimony of Jesus' identity as the Messiah, surpassing mere assertions or claims.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "ἐν ἐκείνῃ τῇ ὥρᾳ ἐθεράπευσεν πολλοὺς ἀπὸ νόσων καὶ μαστίγων καὶ πνευμάτων πονηρῶν" - In that hour, he healed many from diseases, plagues, and evil spirits. 
+
+2. "καὶ τυφλοῖς πολλοῖς ἐχαρίσατο βλέπειν" - And he granted sight to many blind people. 
+
+3. "From καὶ ἀποκριθεὶς … ἐν ἐμοί, is nearly verbatim in the two Gospels." - The response of Jesus, "Go and tell John what you have seen and heard: the blind receive their sight, the lame walk, lepers are cleansed, and the deaf hear, the dead are raised up, the poor have good news preached to them," is almost identical in both Gospels.
+
 ### John Calvin:
 1. "He gives an indirect reply, and for two reasons: first, because it was better that the thing should speak for itself; and, secondly, because he thus afforded to his herald a larger subject of instruction."
-2. "The former passage contains a description of Christ's reign, under which God promises that he will be so kind and gracious as to grant relief and assistance for every kind of disease."
-3. "This passage is purposely quoted by Christ, partly to teach all his followers the first lesson of humility, and partly to remove the offense which the flesh and sense might be apt to raise against his despicable flock."
+2. "Christ shows from the very nature of the Gospel, since it was designed only for the poor and despised."
+3. "As Christ here guards his Gospel against contempt, he likewise reminds us who they are that are qualified to appreciate the grace of salvation which it offers to them; and in this manner, kindly inviting wretched sinners to the hope of salvation, raises them to full confidence."
 
 ### Philip Schaff:
-1. "Our Lord sends a message to John, but does not instruct his disciples." This highlights the unique relationship between Jesus and John the Baptist, as well as the trust and respect Jesus had for John's understanding of his mission.
-2. "Go and tell John" emphasizes the importance of sharing the good news and testifying to the works of Jesus, even to those who may doubt or question.
-3. This verse reminds us that Jesus' actions and miracles speak for themselves, serving as evidence of his identity and purpose. It encourages us to look beyond words and seek the truth in the works of Christ.
+1. "Go and tell John" - Jesus instructs his disciples to deliver a message to John the Baptist, highlighting the importance of communication and sharing the truth with others.
+2. "Our Lord sends a message to John" - This act demonstrates Jesus' care and concern for John, even though he is imprisoned. It shows the power of reaching out to those who are suffering or in need of encouragement.
+3. "Does not instruct his disciples" - Jesus trusts his disciples to deliver the message faithfully, allowing them to take on responsibility and participate in the work of spreading the good news. This highlights the importance of discipleship and empowering others to carry out God's work.
 
 ### Archibald T Robertson:
-1. "The things which ye do hear and see" - This phrase emphasizes the importance of experiencing and witnessing the message firsthand. It suggests that faith is not solely based on abstract concepts, but on tangible evidence and personal encounters.
+1. "The things which ye do hear and see" - This phrase refers to the signs and miracles that Jesus performed, which were meant to be seen and heard by the people. It emphasizes the tangible evidence of Jesus' power and divinity.
 
-2. "This symbolical message was for John to interpret" - This highlights the role of interpretation in understanding the deeper meaning of the message. It implies that there may be hidden symbolism or metaphorical elements that require a discerning eye to fully comprehend.
+2. "This symbolical message was for John to interpret" - John, as the one who would later write the Gospel of John, was given the task of interpreting the deeper meaning behind the signs and miracles. He was to understand and communicate the spiritual significance of what the people were witnessing.
 
-3. "Not for them" - This phrase indicates that the message was not meant for the immediate audience, but for someone else. It suggests that there may be layers of meaning that are not immediately apparent and that the message may have a broader application beyond the present moment.
+3. "Not for them" - The message of the signs and miracles was not meant to be understood by the people at that moment. It was a foreshadowing of the greater truths that would be revealed later through John's Gospel. The people were witnesses to the physical manifestations of Jesus' power, but the full understanding would come later through the teachings of John.
 
 ### John Gill:
 1. "Christ would have them go back to John in prison, and relate to him the doctrines which they had heard preached by him to the poor."
-2. "The miracles which they had seen with their own eyes, then wrought by him; as well as many others, which were attested to them by credible witnesses."
+2. "The miracles which they had seen with their own eyes, then wrought by him."
 3. "There were at that time about Christ, that had infirmities, plagues, and evil spirits, and that were blind, and he instantly cured them in their presence."
 
 ### John Wesley:
-1. "The things that ye hear and see" - This emphasizes the importance of personal experience and observation in understanding and believing in Jesus as the Messiah.
+1. "Go and tell John the things that ye hear and see" - This instruction from Jesus emphasizes the importance of personal experience and firsthand witness in understanding and recognizing the truth. It highlights the power of tangible evidence over mere words or claims.
 
-2. "Stronger proof of my being the Messiah" - This highlights the significance of tangible evidence and miracles in validating Jesus' identity as the Messiah.
+2. "Which are a stronger proof of my being the Messiah" - This statement acknowledges that actions speak louder than words. Jesus is emphasizing that his deeds and miracles provide a more convincing testimony of his identity as the Messiah than any verbal declaration could.
 
-3. "Than any bare assertion can be" - This suggests that mere words or claims alone are insufficient to convince others of Jesus' messianic role, emphasizing the need for concrete demonstrations of his power and authority.
+3. "Than any bare assertion can be" - This phrase emphasizes the inadequacy of mere assertions or claims without substantial evidence. It suggests that true understanding and conviction come from tangible experiences and observations, rather than relying solely on verbal statements or beliefs.
 
 
 ## Generation Details

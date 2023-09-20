@@ -1,41 +1,53 @@
 # Romans 4:5 Commentary Help Text
 
 ## BHT:
-This passage captures the contrast between relying on one's own efforts for acceptance with God versus placing faith in His mercy. It emphasizes surrendering oneself to God's justification regardless of being ungodly or deserving of condemnation. Furthermore, it highlights the radical nature of God's grace and the central message of Paul's gospel regarding the declaration of the ungodly as righteous. It clarifies that God justifies the ungodly, not their ungodliness, by counting their faith as righteousness.
+In this verse, the commentator describes a powerful truth about faith and justification. The need for works to earn acceptance with God is rejected, and instead, faith in Him who justifies the ungodly is highlighted. The commentator emphasizes the radical nature of God's justification, stating that it is not based on human righteousness or goodness, but on God's mercy and grace. They also stress the importance of personal faith in receiving and appropriating God's gift of righteousness. Overall, this verse reveals the transformative power of faith, as it brings righteousness to the ungodly and showcases God's justifying grace.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "But to him who works not, but believes on Him who justifies the ungodly, his faith is reckoned as righteousness." 
+2. "casts himself in simple trust and humility on Him who justifies the ungodly." 
+3. "ἀσέβεια is the state of all men by nature."
+
 ### Jamieson Fausset Brown:
-1. "To him that worketh not... but believeth on him that justifieth the ungodly" - This quote highlights the contrast between relying on one's own works for acceptance with God and instead placing faith in God's mercy and justification of the ungodly.
+1. "To him that worketh not" - This phrase refers to those who realize that their own efforts and works cannot earn them acceptance with God. It highlights the futility of relying on our own righteousness and emphasizes the need for faith in God's mercy and grace.
 
-2. "Casts himself upon the mercy of Him that justifieth those who deserve only condemnation" - This quote emphasizes the act of surrendering oneself to God's mercy and recognizing that justification comes from Him alone, even for those who are ungodly and deserving of condemnation.
+2. "Believeth on him that justifieth the ungodly" - This phrase emphasizes the radical nature of God's justification. It is not based on our own righteousness or goodness, but on God's willingness to justify the ungodly. It calls us to trust in God's character and His ability to declare us righteous despite our unworthiness.
 
-3. "David sings of the same justification" - This quote suggests that the concept of justification by faith is not a new idea, but rather something that has been acknowledged and celebrated by individuals like David in the past.
+3. "His faith" - This phrase points to the importance of personal faith in the process of justification. It is through faith that we receive and appropriate God's gift of righteousness. Our faith is not a work that earns us justification, but a response to God's grace and a means of receiving His gift.
+
+4. "David sings of the same justification" - This statement highlights the continuity between the Old Testament and the New Testament regarding justification. It shows that even David, an Old Testament figure, experienced and celebrated the same kind of justification that is available to us through faith in Christ. It underscores the timeless and universal nature of God's justifying grace.
 
 ### Albert Barnes:
 1. "But to him that worketh not...who seeks to be justified in some other way." 
-2. "That justifieth the ungodly...He does not justify them because he sees them to be, or regards them to be righteous; but knowing that they are in fact polluted."
-3. "God judges things as they are; and sinners who are justified, he judges not as if they were pure, or as if they had a claim; but he regards them as united by faith to the Lord Jesus; and in this relation he judges that they should be treated as his friends."
+2. "That justifieth the ungodly...God regards them as such when they are justified."
+3. "He regards them as united by faith to the Lord Jesus; and in this relation he judges that they should be treated as his friends, though they have been, are, and always will be, personally undeserving."
 
 ### Marvin Vincent:
 1. "Faith is not a substitute for righteousness, since righteousness is involved in faith."
-2. "When a man is reckoned righteous through faith, it is not a legal fiction. He is not indeed a perfect man, but God does not reckon something which has no real existence."
-3. "God accepts the germ, not in place of the fruit, but as containing the fruit."
+2. "God recognizes no true life apart from holiness, and 'he that believeth on the Son hath life.'"
+3. "Where there is faith there is, logically, righteousness, and the righteousness is from faith unto faith."
+
+### John Calvin:
+1. "He indeed clearly shews that faith brings us righteousness, not because it is a meritorious act, but because it obtains for us the favor of God."
+2. "No one will seek the righteousness of faith except he who feels that he is ungodly."
+3. "Faith adorns us with the righteousness of another, which it seeks as a gift from God."
+4. "His faith means, no doubt, his faith in the Promise, or in God who promises, or in him who justifies the ungodly: hence what is believed, or the object of faith, is what is counted for righteousness."
+5. "Beware of having any such view of faith as will lead you to annex to it the kind of merit, or of claim, or of glorying under the gospel, which are annexed to works under the law."
 
 ### Philip Schaff:
-1. "But to him that worketh not; to one who does not work for hire. The statement is general, including Abraham, but not specifically applied to him."
-2. "Believeth on him. The idea of trustfully resting on is suggested by the original."
-3. "The ungodly; the ungodly individual, the original is in the singular. The word is chosen to present a strong contrast of 'justifying,' one who is alienated from God is yet accounted righteous by God."
+1. "The idea of trustfully resting on is suggested by the original."
+2. "The ungodly individual, the original is in the singular. The word is chosen to present a strong contrast of 'justifying,' one who is alienated from God is yet accounted righteous by God."
+3. "The next verse speaks of God's reckoning righteousness to a man, and the profound discussion at the close of chap. 5 points more directly to the imputation of Christ's righteousness."
 
 ### Archibald T Robertson:
-1. "That justifieth the ungodly" - The phrase highlights the radical nature of God's grace, as He declares righteous those who are inherently sinful and ungodly. 
-
-2. "A forensic figure" - This term suggests that God's act of justification is a legal declaration, where He declares the guilty to be righteous based on the work of Christ.
-
-3. "The whole Pauline gospel could be summed up in this one word-- God who justifies the ungodly" - This quote emphasizes the central message of Paul's gospel, which is the incredible truth that God justifies those who are completely undeserving and ungodly.
+1. "The impious, irreverent man."
+2. "The man is taken as he is and pardoned."
+3. "The whole Pauline gospel could be summed up in this one word-- God who justifies the ungodly."
 
 ### John Gill:
-1. "Not that the believer does not work at all, but not from such principles, and with such views as the other; he does not work in order to obtain life and salvation; he does not seek for justification by his doings."
-2. "Though he justifies the ungodly, he does not justify their ungodliness, but them from it; nor will he, nor does he leave them to live and die in it."
+1. "Not that the believer does not work at all, but not from such principles, and with such views as the other."
+2. "He does not work in order to obtain life and salvation; he does not seek for justification by his doings."
 3. "His faith is counted for righteousness; not the act, but the object of it; which was Abraham's case, and therefore was not justified by works."
 
 ### John Wesley:

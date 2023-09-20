@@ -1,18 +1,23 @@
 # Matthew 27:58 Commentary Help Text
 
 ## BHT:
-A respected and wealthy man, Joseph, sought the body of Jesus from Pilate, despite it being unlawful to remove a crucified body so soon. He showed no shame or fear in boldly entering Pilate's palace. By doing so, he prevented the body from being abused and buried in an ignominious manner, thus honoring Christ even in his death. Joseph's reputation and Pilate's favorable view of Jesus may have contributed to Pilate readily granting Joseph's request.
+In this verse, there is a remarkable repetition and change of subject. The courageous Joseph approaches Pilate, seeking permission to bury the body, highlighting his determination to honor and respect Jesus. This act was significant since the customary practice was to bury the crucified before sunset, yet Pilate's consent was required. His readiness to grant permission may have been influenced by Joseph's reputation and the high regard Pilate had for Jesus. Joseph's boldness in approaching Pilate and his desire to prevent the abuse of Jesus' body show his unwavering dedication to Jesus even in death.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The repetition of τὸ σῶμα is remarkable, and indicates a common origin."
+2. "After ἐδωρήσατο expresses τὸ πτῶμα on account of the expression of Pilate’s surprise."
+3. "The change of subject between the two phrases adds to the significance of the repetition."
+
 ### Albert Barnes:
-1. "Because no one had a right to remove the body but by authority of the magistrate."
+1. "No one had a right to remove the body but by authority of the magistrate."
 2. "Jesus was condemned to be crucified, usually a long and most bitter death."
 3. "In common cases it would have been unlawful to have removed the body so soon."
 
 ### Philip Schaff:
-1. "This man went to Pilate. To the palace. 'He went in boldly' (Mark 15:43)." 
-2. "Although it was the Jewish custom to bury the bodies of the crucified before sunset, Pilate's consent was necessary."
-3. "The ready consent may have been owing to the station and character of Joseph."
+1. "He went in boldly" - This shows Joseph's courage and determination in approaching Pilate to request permission to bury Jesus. (Mark 15:43)
+2. "Although it was the Jewish custom to bury the bodies of the crucified before sunset, Pilate's consent was necessary" - This highlights the significance of Pilate's role in allowing Joseph to bury Jesus, despite the customary practice. 
+3. "The ready consent may have been owing to the station and character of Joseph" - This suggests that Pilate may have granted permission due to Joseph's social standing and reputation, recognizing him as a respected and influential figure.
 
 ### John Gill:
 1. "He went in, as Mark says, boldly; not being ashamed of Christ crucified, or afraid to own him, and show his respect to him as dead." 

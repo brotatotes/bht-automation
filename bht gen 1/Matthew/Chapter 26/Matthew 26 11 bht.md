@@ -1,7 +1,7 @@
 # Matthew 26:11 Commentary Help Text
 
 ## BHT:
-In this verse, we are reminded by John Calvin that the worship of God should not be costly, emphasizing the importance of spiritual worship. Philip Schaff adds to this by stating that, although the act of care for the poor in this passage was a special occasion, it serves as a daily duty to humanity. Lastly, John Wesley highlights the constant presence of the poor and the opportunity for us to respond, implying that caring for others is a continuous and rewarding act.
+In this verse, it is emphasized that true worship of God does not require extravagant and costly displays, as John Calvin points out. Instead, the focus should be on serving the poor and needy, who will always be among us, as Philip Schaff and John Gill assert. The passage reminds us of the eternal presence of God and the importance of extending compassion to those less fortunate, as John Wesley highlights. Ultimately, it is through acts of love and care for others that we store up treasures in heaven.
 
 ## Choicest Commentary Quotes:
 ### John Calvin:
@@ -10,14 +10,19 @@ In this verse, we are reminded by John Calvin that the worship of God should not
 3. "In short, this passage teaches us that, though the Lord commands us to dedicate to him ourselves and all our property, yet, with respect to himself, lie demands no worship but that which is spiritual, and which is attended by no expense, but rather desires us to bestow on the poor what superstition foolishly expends on the worship of God."
 
 ### Philip Schaff:
-1. "His speedy death is foretold; but the main point is, that this opportunity could never return; while the care of the poor would be a daily 'duty to humanity down to the end of time.'" 
+1. "His speedy death is foretold; but the main point is, that this opportunity could never return; while the care of the poor would be a daily ‘duty to humanity down to the end of time."
 2. "The act was justified by the special occasion. It ought not to be cited to defend expensive modes of worship at the cost of neglecting the poor."
-3. "This verse suggests that no reorganization of society will ever banish poverty from the earth. There is but one way of doing this, namely, by Christ's people recognizing the poor as 'with them' and under the impulse of love like that of Mary, making the care of them the usual expression of that love."
+3. "This verse suggests that no reorganization of society will ever banish poverty from the earth. There is but one way of doing this, namely, by Christ’s people recognizing the poor as ‘with them ‘and under the impulse of love like that of Mary, making the care of them the usual expression of that love."
+
+### John Gill:
+1. "Christ seems to have respect to Deuteronomy 15:11, and which, agreeably to the sense of the Jews, refers to the times of the Messiah."
+2. "Our Lord's words also show, that there will be always poor persons in the world; that there will be always such with his people, and in his churches."
+3. "But me ye have not always; referring not to his divine and spiritual presence, which he has promised to his people, churches, and ministers, to the end of the world, but to his corporeal presence."
 
 ### John Wesley:
-1. "Such is the wise and gracious providence of God, that we may have always opportunities of relieving their wants."
-2. "We may have always opportunities of... laying up for ourselves treasures in heaven."
-3. "Ye have the poor always with you."
+1. "Such is the wise and gracious providence of God."
+2. "We may have always opportunities of relieving their wants."
+3. "Laying up for ourselves treasures in heaven."
 
 
 ## Generation Details

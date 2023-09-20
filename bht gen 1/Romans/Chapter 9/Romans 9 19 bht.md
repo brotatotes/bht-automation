@@ -1,18 +1,33 @@
 # Romans 9:19 Commentary Help Text
 
 ## BHT:
-The verse being described is a controversial one, addressing the concept of God's election and non-election to eternal salvation prior to any difference in personal character. The commentators highlight the objection to this doctrine, questioning why God would blame individuals if they cannot help sinning and perishing. They emphasize the resistance and helplessness of the objector, acknowledging God's almightiness but implying cruelty and unmercifulness. The objection suggests that God's will cannot be resisted, making some blame God for their hardened hearts. Overall, the commentators reflect on the objector's bitterness, rebellion, and surliness towards God.
+In this verse, commentators highlight objections to God's sovereignty and the responsibility of individuals. One commentator emphasizes that the objection applies universally, questioning God's right to choose. Another commentator focuses on the objection to God's decision-making in salvation. The ungodly argue against God's anger, seeing His actions as punishment for His own creation. Ultimately, the objections are met with the acknowledgment of God's power and the inability to resist His will.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The objection is a general one, applying to all mankind, and likely to arise in the mind of any reader."
+2. "The answer to the objector’s question does not lie in these verses, but in the following."
+3. "The Apostle in asking this question rather aims at striking dumb the objector by a statement of God’s undoubted right, against which it does not become us men to murmur."
+
 ### Jamieson Fausset Brown:
-1. "This objection shows quite as conclusively as the former the real nature of the doctrine objected to - that it is Election and Non-election to eternal salvation prior to any difference of personal character."
-2. "If God chooses and rejects, pardons and punishes, whom He pleases, why are those blamed who, if rejected by Him, cannot help sinning and perishing?"
-3. "First: 'It is irreverence and presumption in the creature to arraign the Creator.'"
+1. "This objection shows quite as conclusively as the former the real nature of the doctrine objected to—that it is Election and Non-election to eternal salvation prior to any difference of personal character; this is the only doctrine that could suggest the objection here stated, and to this doctrine the objection is plausible."
+2. "What now is the apostle's answer? It is twofold. First: 'It is irreverence and presumption in the creature to arraign the Creator.'"
+3. "If God chooses and rejects, pardons and punishes, whom He pleases, why are those blamed who, if rejected by Him, cannot help sinning and perishing?"
+
+### Albert Barnes:
+1. "If the position which he had been endeavoring to establish were true; if God had a purpose in all his dealings with people; if all the revolutions among people happened according to his decree, so that he was not disappointed, or his plan frustrated; and if his own glory was secured in all this, why could he blame people?"
+2. "These objections are met by the apostle in the following argument."
+3. "God had accomplished his purposes 'in spite of' their opposition."
 
 ### Marvin Vincent:
 1. "A man may resist God's will, but cannot maintain his resistance."
 2. "The idea is the result rather than the process of resistance."
-3. "The question means, who can resist him?"
+3. "Who can resist him?"
+
+### John Calvin:
+1. "Here indeed the flesh especially storms, that is, when it hears that they who perish have been destined by the will of God to destruction."
+2. "They are indeed constrained to yield; but they storm, because they cannot resist; and ascribing dominion to him, they in a manner charge him with tyranny."
+3. "Thus then speak the ungodly in this passage, — 'What cause has he to be angry with us? Since he has formed us such as we are, since he leads us at his will where he pleases, what else does he in destroying us but punish his own work in us?'"
 
 ### Philip Schaff:
 1. "For it will arise, wherever there is any such notion of God, however derived, as admits the possibility of His being the author of evil in man, or what amounts to the same thing, denies His righteousness." 
@@ -25,14 +40,14 @@ The verse being described is a controversial one, addressing the concept of God'
 3. "Many have attempted to resist God's will (βουλημα, deliberate purpose, in N.T. only here and Acts 27:43; 1 Peter 4:3)."
 
 ### John Gill:
-1. "The objector does not think fit to name the name of 'God', or 'the Lord', but calls him 'he'; and a considerable emphasis lies upon the word 'yet': what as if he should say, is he not content with the injustice he has already exercised, in passing by some, when he chose others; in leaving them to themselves, and hardening their hearts against him, and to go on in their own ways, which must unavoidably end in destruction; but after all this, is angry with them, finds fault with them, blames, accuses, and condemns them, for that which they cannot help; nay, for that which he himself wills? this is downright cruelty and tyranny."
-2. "The objector seems to have a particular regard to the case of Pharaoh, the apostle had instanced in, when after God had declared that he had raised him up for this very purpose, to make known his power, and show forth his glory in all the world, still finds fault with him and says, 'as yet exaltest thou thyself against my people, that thou wilt not let them go?' Exodus 9:17; and yet he himself had hardened his heart, and continued to harden his heart, that he might not let them go as yet; and when he had let them go, hardened his heart again to pursue after them, when he drowned him and his host in the Red sea; all which in this objection, is represented as unparalleled cruelty and unmercifulness."
-3. "This is said in support of the former, and means not God's will of command, which is always resisted more or less, by wicked men and devils; but his will of purpose, his counsels and decrees, which stand firm and sure, and can never be resisted, so as to be frustrated and made void. This the objector takes up, and improves against God; that since he hardens whom he will, and there is no resisting his will, the fault then can never lie in them who are hardened, and who act as such, but in God; and therefore it must be unreasonable in him to be angry with, blame, accuse, and condemn persons for being and doing that, which he himself wills them to be and do."
+1. "It is with a witness a stretching out of the hand against God, and strengthening a man's self against the Almighty."
+2. "This is downright cruelty and tyranny."
+3. "The fault then can never lie in them who are hardened, and who act as such, but in God; and therefore it must be unreasonable in him to be angry with, blame, accuse, and condemn persons for being and doing that, which he himself wills them to be and do."
 
 ### John Wesley:
 1. "The particle still is strongly expressive of the objector's sour, morose murmuring."
 2. "The word his likewise expresses his surliness and aversion to God, whom he does not even deign to name."
-3. "The objector's questioning of God's fault-finding and resistance to His will reveals a deep sense of bitterness and rebellion."
+3. "For who hath resisted his will."
 
 
 ## Generation Details

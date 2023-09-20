@@ -1,32 +1,37 @@
 # Luke 7:17 Commentary Help Text
 
 ## BHT:
-In a remarkable event, a prophet has emerged, performing miracles that have astonished and captivated the people. The news of a dead man being raised to life has circulated throughout the land, leaving a profound impact not only in Judea but also in surrounding regions. The divine intervention behind the prophet's calling is evidenced by this extraordinary display of power, validating the significance of their message. The magnitude of this event has garnered attention not only locally but also beyond the immediate vicinity, reinforcing the prophet's authority and inspiring awe in those who hear of these remarkable deeds.
+The verse being described focuses on the impact of a miraculous event, where a dead man was raised to life, spreading throughout Judea and the surrounding region. This report of the miracle garnered widespread attention, reaching beyond the borders of Judea to encompass various towns, villages, and even extending to Galilee. The credibility of the account is emphasized, suggesting that the news of this remarkable event was well-known and widely circulated, further highlighting the significance of the prophet's divine calling and the power of God at work.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "ὁ λόγος οὗτος" refers to the account of the miracle, not the saying just cited.
+2. The construction "ἐξῆλθεν ἐν" is similar to Thuc. iv. 42, "ἐν Λευκαδίᾳ ἀπῄεσαν."
+3. Meyer's interpretation of the phrase is not as natural as interpreting it as the account of the miracle.
+
 ### Marvin Vincent:
-1. "The rumor of a great prophet who had vindicated his claims by raising the dead." This quote highlights the significance of the prophet's actions and the impact it had on people's perception of him.
+1. "The rumor of a great prophet who had vindicated his claims by raising the dead." This quote highlights the significance of the rumor surrounding Jesus, emphasizing the miraculous nature of his actions and the impact it had on people's perception of him.
 
-2. "Compare Matthew 11:2-19." This quote suggests that there is a parallel account in the book of Matthew, encouraging readers to explore and compare the different perspectives and details provided in both passages.
+2. "Compare Matthew 11:2-19." This quote suggests that the reader should refer to the parallel passage in Matthew's Gospel to gain a deeper understanding of the events and teachings surrounding this particular verse in Revelation.
 
-3. "18 - 35." This quote indicates the specific verses in the book of Revelation where the story or mention of the prophet can be found, allowing readers to easily locate and study the relevant passage.
+3. "18 - 35." This quote provides the specific range of verses that the commentary is referring to, indicating that the analysis and interpretation of the verse will cover this particular section of the text.
 
 ### Philip Schaff:
-1. "This report concerning him. Literally, 'this saying.' It can scarcely refer to the saying of the last verse, but rather to the whole account of the miracle." 
+1. "This report concerning him. Literally, ‘this saying.’ It can scarcely refer to the saying of the last verse, but rather to the whole account of the miracle." 
 2. "In the whole of Judea. Probably meaning all Palestine, and not Judea as opposed to Galilee." 
 3. "Region round about, i.e., about Judea, not merely in the district about Nain."
 
 ### Archibald T Robertson:
-1. "God had raised up a great prophet" - This quote highlights the divine intervention in raising up a prophet, emphasizing the significance and authority of the chosen individual.
-2. "Shown his call by raising the dead" - This quote emphasizes the miraculous nature of the prophet's calling, demonstrating the power and validation of their message through the ability to perform extraordinary acts like raising the dead.
-3. "A great prophet who had shown his call" - This quote emphasizes the prophet's role as a messenger of God, chosen to deliver a divine message to the people. It underscores the importance of recognizing and heeding the words of this prophet.
+1. "God had raised up a great prophet" - This highlights the divine intervention in raising up a chosen individual to fulfill a specific purpose. 
+
+2. "Shown his call by raising the dead" - This emphasizes the miraculous nature of the prophet's actions, which serve as evidence of his divine calling and authority.
+
+3. "The report" - This suggests that the information being conveyed is based on reliable testimony or accounts, adding credibility to the significance of the prophet's message and mission.
 
 ### John Gill:
-1. "The report of this surprising miracle in raising a dead man to life, that was carrying to his grave, went forth throughout all Judea, and throughout all the region round about." This quote highlights the magnitude of the miracle and its widespread impact, reaching not only Judea but also the surrounding regions.
-
-2. "Not only Judea, and the several cities, towns, and villages in it, but all the country round about it, especially Galilee." This quote emphasizes that the news of the miracle spread beyond the immediate vicinity, encompassing the entire region and even reaching Galilee.
-
-3. "The Persic version reads, 'all countries which are round about Jordan'; see Matthew 3:5." This quote draws attention to the specific reference to the Jordan region, connecting it to the broader context of other biblical passages and reinforcing the significance of the miracle.
+1. "The report of this surprising miracle in raising a dead man to life, that was carrying to his grave, went forth throughout all Judea, and throughout all the region round about." 
+2. "Not only Judea, and the several cities, towns, and villages in it, but all the country round about it, especially Galilee."
+3. "The Persic version reads, 'all countries which are round about Jordan'; see Matthew 3:5."
 
 
 ## Generation Details

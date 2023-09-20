@@ -1,20 +1,20 @@
 # Romans 16:11 Commentary Help Text
 
 ## BHT:
-In this verse, we see the importance of familial relationships within the Christian community, transcending blood ties. It reminds us that not everyone in a family may share the same faith, but those who do have a significant impact. The verse sheds light on the power dynamics and political intrigue of the time, showing how even in households with differing beliefs, individuals can be committed to their faith. Furthermore, it emphasizes the lasting legacy of individuals and the way faith can transform even the seemingly impure.
+This verse emphasizes the significance of familial relationships within the early Christian community, highlighting the bond of faith that transcends blood ties. It reveals the diverse spiritual dynamics that existed within households during that time, with the possibility of some individuals being followers of Christ while others had not yet embraced the faith. Additionally, it sheds light on the power dynamics within the Roman Empire and the influence of prominent figures on the early Christian community.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Salute Herodion, my kinsman" - This verse highlights the importance of familial relationships within the Christian community, emphasizing the bond of faith that transcends blood ties.
-2. "Greet them that be of the household of Narcissus, which are in the Lord" - This quote suggests that even in households where not everyone is a believer, there can still be individuals who are committed to their faith and part of the community of believers.
-3. "which implies that others in his house, including probably himself, were not Christians" - This statement provides insight into the diversity of beliefs within households, reminding us that not everyone in a family may share the same faith, but it does not diminish the significance of those who do.
+1. "Salute Herodion, my kinsman" - This verse highlights the importance of familial relationships within the early Christian community, emphasizing the bond of faith that transcends blood ties.
+2. "Greet them that be of the household of Narcissus, which are in the Lord" - This phrase suggests that while some members of Narcissus' household were believers, others were not, illustrating the diverse spiritual dynamics that existed within households during that time.
+3. "which implies that others in his house, including probably himself, were not Christians" - This commentary sheds light on the possibility that even in households where some individuals were followers of Christ, there were still others who had not yet embraced the faith.
 
 ### Marvin Vincent:
-1. "Narcissus, a distinguished freedman, held great wealth and influence over Claudius, as mentioned by Juvenal. This sheds light on the power dynamics of the time and the potential for freedmen to rise to positions of authority."
+1. "Narcissus, a distinguished freedman, held significant influence over Claudius, as mentioned by Juvenal. This sheds light on the power dynamics within the Roman Empire during that time." 
 
-2. "The mention of Messalina being put to death by Narcissus' order highlights the extent of his influence and the political intrigue of the era."
+2. "The mention of Messalina's death by Narcissus' order highlights the extent of his authority and the consequences of his actions." 
 
-3. "Even after Narcissus' death, his name lived on through his household slaves, who would continue to bear his name under the ownership of the emperor or other masters. This speaks to the lasting impact and legacy of individuals in ancient Roman society."
+3. "Even after Narcissus' death, his name lived on through his household slaves, who would continue to be identified by his name under the ownership of the emperor or other masters."
 
 ### John Calvin:
 1. "It is further to be noticed, that we hear nothing here of splendid and magnificent titles, by which we might conclude that men high in rank were Christians; for all those whom Paul mentions were the obscure and the ignoble at Rome."
@@ -23,15 +23,18 @@ In this verse, we see the importance of familial relationships within the Christ
 
 ### Philip Schaff:
 1. "Narcissus. A powerful freedman of Claudius bore this name." 
-2. "Possibly the household of this person is meant." 
-3. "Died two or three years before this Epistle was written."
+2. "Possibly the household of this person is meant."
+3. "A powerful freedman of Claudius."
+
+### Archibald T Robertson:
+1. "Herodion, possibly a member of the Herod family, adds an interesting dynamic to the group of believers mentioned here." 
+2. "The term 'kinsman' suggests a sense of shared identity and common heritage among the believers." 
+3. "The mention of 'them of the household of Narcissus' raises questions about the potential influence and impact of this prominent figure on the early Christian community."
 
 ### John Gill:
-1. "Salute Herodion my kinsman,.... According to the flesh, being of the same nation, a Jew; or of the same tribe, the tribe of Benjamin; or of the same family, and nearly allied in blood to him." 
-
-2. "Greet them that be of the household of Narcissus, which are in the Lord; some have thought, that this Narcissus is the same man that Suetonius q and other writers speak of r, who was secretary to Claudius Caesar; a very great favourite of his, who amassed a great deal of wealth under him, and was raised to great honour and dignity by him."
-
-3. "Nor are all of his household saluted, not being all converted persons; it being frequently the method of divine grace to take some of a family, and not all, and bring them to Zion; only those that were 'in the Lord', on his heart, and in his hands, secretly represented by him, and united to him, and who were openly in him, being called by his grace, and brought to believe in him, and live upon him."
+1. "Salute Herodion my kinsman...this man is reckoned among the seventy disciples, and said to be bishop of Tarsus." 
+2. "Greet them that be of the household of Narcissus, which are in the Lord; some have thought, that this Narcissus is the same man that Suetonius and other writers speak of, who was secretary to Claudius Caesar."
+3. "Nor are all of his household saluted, not being all converted persons; it being frequently the method of divine grace to take some of a family, and not all, and bring them to Zion; only those that were 'in the Lord'."
 
 ### John Wesley:
 1. "It seems only part of their families were converted."

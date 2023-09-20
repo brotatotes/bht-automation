@@ -1,18 +1,25 @@
 # Matthew 15:20 Commentary Help Text
 
 ## BHT:
-In this verse, we are reminded that external actions, such as eating with unwashed hands, do not defile someone. Rather, it is the condition of the heart and inner thoughts that truly matter. The commentary explores the insignificance of ceremonial impurities compared to moral impurities, highlighting the need for Christians to prioritize moral purity. It also emphasizes that neglecting external rituals does not bring guilt or break God's laws. Ultimately, the verse teaches that the blood of Christ is necessary to cleanse us from the pollution and guilt of evil actions and secure us from punishment.
+This commentary underscores the profound impact of internal impurities compared to external actions. It highlights the consequences of harboring evil within oneself, as it corrupts both body and soul, leading to guilt and eternal punishment. The commentator also emphasizes that neglecting to perform certain rituals, like washing hands before a meal, does not carry the same weight of moral defilement. Instead, the focus is on recognizing and repenting of the inherently sinful and abominable actions that only the blood of Christ can cleanse.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "These are the things which defile a man: but to eat with unwashen hands defileth not a man." - This quote highlights the main point of the commentary, emphasizing that external actions do not defile a person, but rather the condition of their heart and inner thoughts.
-2. "Thus does our Lord sum up this whole searching discourse." - This quote emphasizes that the verse is a concise summary of a larger discussion, indicating the significance and importance of the statement.
-3. "THE WOMAN OF CANAAN AND HER DAUGHTER." - This quote refers to another story or example that is likely discussed in the commentary, suggesting that the commentary explores various biblical narratives to provide further insight into the verse.
+1. "These are the things which defile a man: but to eat with unwashen hands defileth not a man." - This quote highlights the main point of the commentary, emphasizing that external actions or rituals do not determine a person's defilement. 
+2. "Thus does our Lord sum up this whole searching discourse." - This quote suggests that the commentary provides a comprehensive analysis of the topic, leading to the conclusion stated by Jesus. 
+3. "THE WOMAN OF CANAAN AND HER DAUGHTER." - This quote indicates that the commentary includes an exposition on the story of the woman of Canaan and her daughter, likely providing further insights or interpretations related to the verse.
+
+### John Calvin:
+1. "Instead of the verb pollute, the Greek term is κοινοῖ, make common."
+2. "Everything that was inconsistent with this holiness was called common, that is, profane."
+3. "It is a mode of speaking peculiar to the Hebrews."
 
 ### Philip Schaff:
-1. "Ceremonial impurity is insignificant compared with moral impurity." This quote highlights the commentary's emphasis on the importance of moral purity over external rituals or traditions.
-2. "Yet Christians now are as slow to learn this as the disciples were." This quote suggests that the lesson of prioritizing moral purity is still relevant to Christians today, implying that there is a need for growth and understanding in this area.
-3. "These are the things which defile the man." This quote directly references the verse and serves as a reminder of the central message being discussed in the commentary.
+1. "Ceremonial impurity is insignificant compared with moral impurity." - The commentary highlights the importance of moral purity over ceremonial impurity, emphasizing that it is the inner character that truly defiles a person.
+
+2. "Yet Christians now are as slow to learn this as the disciples were." - The commentary suggests that even today, Christians may struggle to grasp the significance of moral impurity, just as the disciples did in the past.
+
+3. "These are the things which defile the man." - This quote directly refers to the verse itself, emphasizing that it is the things that come from within a person that defile them, rather than external factors.
 
 ### John Gill:
 1. "These are filthy in themselves, and must pollute all in whom they are; they bring a defilement on the whole man, both body and soul, fasten guilt upon him, and expose him to everlasting punishment."

@@ -1,37 +1,58 @@
 # Romans 13:10 Commentary Help Text
 
 ## BHT:
-Love, which is the fulfilling of the law, is an all-encompassing principle that guides our actions towards our neighbors. It not only prohibits us from doing harm but also motivates us to do good. Love serves as a powerful force that restrains us from engaging in sinful behavior and instead propels us towards acts of kindness and compassion. By embodying love, we find fulfillment in both refraining from evil and actively seeking opportunities to promote the well-being of others.
+This verse conveys the message that love serves as the ultimate fulfillment of the law. Love not only prevents us from causing harm or ill to our neighbors, but it also compels us to actively pursue their well-being and act in accordance with God's commandments. By embodying love, we are able to both refrain from wrongdoing and proactively engage in acts of kindness and compassion. Love is the guiding force that enables us to fully live out the principles of the law and make a positive impact on the lives of others.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "All the commandments of the law above cited are negative: the formal fulfilment of them is therefore attained, by working no ill to one's neighbour." 
+1. "All the commandments of the law above cited are negative: the formal fulfilment of them is therefore attained, by working no ill to one’s neighbour." 
+
 2. "What greater things Love works, he does not now say: it fulfils the law, by abstaining from that which the law forbids." 
+
 3. "Love fulfills the law by abstaining from that which the law forbids."
 
 ### Jamieson Fausset Brown:
-1. "Love worketh no ill to his neighbor" - This quote emphasizes that love is a powerful force that prevents us from intentionally harming others. It highlights the inherent nature of love to bring about positive actions and intentions towards our neighbors.
+1. "Love worketh no ill to his—or, 'one's'—neighbour." This reminds us that love is not only about doing good to others, but also about refraining from causing harm. It challenges us to consider the impact of our actions on those around us and to act with kindness and compassion.
 
-2. "Love, from its very nature, studies and delights to please its objects" - This quote highlights the essence of love, which is to actively seek ways to bring joy and happiness to those we love. It emphasizes that love is not passive but rather an active force that seeks to please and uplift others.
+2. "As love, from its very nature, studies and delights to please its objects, its very existence is an effectual security against our wilfully injuring him." This highlights the inherent nature of love to seek the well-being and happiness of others. When we truly love someone, we naturally strive to avoid causing them harm or pain.
 
-3. "Its very existence is an effectual security against our wilfully injuring him" - This quote suggests that the presence of love in our hearts acts as a safeguard against intentionally causing harm to others. It implies that when we truly love someone, we are less likely to engage in actions that would harm or hurt them.
+3. "Next follow some general motives to the faithful discharge of all these duties." This indicates that the commentary will provide additional reasons or motivations for fulfilling our responsibilities towards others. It suggests that there are deeper insights and principles that can guide us in our actions and relationships.
 
-These quotes collectively emphasize the power and nature of love to guide our actions and prevent us from causing harm to others. They highlight the importance of love in fostering positive relationships and promoting the well-being of our neighbors.
+### Albert Barnes:
+1. "Love would seek to do him good; of course it would prevent all dishonesty and crime toward others."
+2. "If all people would at once 'abandon' what is suited to 'work ill' to others, what an influence would it have on the business and commercial affairs of people."
+3. "Because love does no harm to another, it is therefore the fulfilling of the Law, implying that all that the Law requires is to 'love' others."
 
 ### John Calvin:
-1. "Under the word love are contained those things which are taught us in all the commandments; for he who is endued with true love will never entertain the thought of injuring others."
+1. "He demonstrates by the effect, that under the word love are contained those things which are taught us in all the commandments; for he who is endued with true love will never entertain the thought of injuring others."
 2. "What else does the whole law forbid, but that we do no harm to our neighbor?"
-3. "He who desires that his own right should be secured to every one, and that all may live free from wrong, ought to defend, as far as he can, the power of magistrates."
+3. "And when he repeats that the fulfilling of the law is love, understand this, as before, of that part of the law which refers to mankind; for the first table of the law, which contains what we owe to God, is not here referred to at all."
 
 ### Philip Schaff:
-1. "Love worketh no ill to his neighbor, lit, 'the neighbor.' Alford: 'All the commandments of the law above cited are negative: the formal fulfilment of them is therefore attained, by working no ill to one's neighbor."
-2. "What greater things love works he does not now say."
-3. "Love therefore is the fulfilment of the law."
+1. "Love worketh no ill to his neighbor." - This verse emphasizes the importance of love in our relationships with others. It reminds us that love should never harm or cause ill to our neighbors, but rather should promote their well-being and happiness.
+
+2. "All the commandments of the law above cited are negative: the formal fulfilment of them is therefore attained, by working no ill to one's neighbor." - The commentary highlights that the commandments of the law are primarily focused on what we should not do, and by refraining from causing harm to our neighbors, we fulfill these commandments.
+
+3. "Love therefore is the fulfilment of the law." - This statement summarizes the main message of the verse, emphasizing that love is the ultimate fulfillment of the law. When we love our neighbors, we are living in accordance with God's commandments and fulfilling our responsibilities as believers.
+
+### Archibald T Robertson:
+1. "The fulfilment of the law" refers to the idea of completing or bringing to its intended purpose the requirements of the law.
+2. The phrase "the filling up or complement of the law" suggests that Jesus' teachings and actions bring the law to its fullness and completeness.
+3. The concept of "the fulfilment of the law" is further explained in Romans 13:1, providing a deeper understanding of the verse.
+
+### John Gill:
+1. "Love worketh no ill to his neighbour... he will not injure his person, nor defile his bed, nor deprive or defraud him of his substance; or do hurt to his character, bear false testimony against him, or covet with an evil covetousness anything that is his."
+2. "Love is the fulfilling of the law: so far as a man loves his neighbour, he acts agreeably to the law, and the particular precepts of it above mentioned."
+3. "The whole law is comprehended, or fulfilled, in love."
+
+Note: The commentary is based on Romans 13:10.
 
 ### John Wesley:
-1. "Love is the fulfilling of the law" - This phrase highlights the central role of love in fulfilling the requirements of the law. Love not only restrains us from doing evil but also motivates us to do good.
-2. "The same love which restrains from all evil" - This quote emphasizes that love serves as a powerful force that prevents us from engaging in sinful behavior. Love acts as a protective barrier, guiding us away from evil.
-3. "Love incites us to all good" - This statement emphasizes that love is not passive but actively encourages and motivates us to engage in virtuous actions. Love propels us towards acts of kindness, compassion, and righteousness.
+1. "Love is the fulfilling of the law" - This statement emphasizes that love is not just a nice sentiment, but a practical and tangible way to live out the principles of the law. It is through love that we are able to fully embody and fulfill the requirements of the law.
+
+2. "The same love which restrains from all evil" - Love serves as a powerful force that keeps us from engaging in harmful or sinful actions. It acts as a guiding principle that helps us make choices that align with God's will and keeps us from straying into destructive behaviors.
+
+3. "Incites us to all good" - Love not only prevents us from doing wrong, but it also motivates and inspires us to do what is right. It is the driving force behind our actions of kindness, compassion, and selflessness. Love compels us to actively pursue opportunities to do good and make a positive impact in the world.
 
 
 ## Generation Details

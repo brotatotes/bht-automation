@@ -1,31 +1,43 @@
 # Luke 5:18 Commentary Help Text
 
 ## BHT:
-In this verse, we see the fullness of Jesus' humanity as he is born of a woman, emphasizing the miraculous nature of his birth and fulfilling Old Testament prophecies. The compassionate actions of the men who carried the paralyzed man highlight their unwavering faith and determination to bring him to Jesus for healing. Jesus' forgiveness of the man's sins and his ability to heal both spiritually and physically demonstrate his authority as the Son of God and challenge the religious leaders' understanding of the law.
+In this verse, we see the power of faith and the compassion of Jesus manifesting in the healing of a paralyzed man. The man's friends display unwavering determination, demonstrating that our journey of faith is not meant to be walked alone. Placing the paralyzed man at Jesus' feet symbolizes surrender and recognition of Jesus' authority. The religious leaders' reaction serves as a cautionary tale against self-righteousness and legalism. Ultimately, the healing of the paralyzed man is a powerful sign of Jesus' divine authority and his mission to bring forgiveness and wholeness to all who believe.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The number four is significant in the Bible, often representing completeness or wholeness. In this verse, it could symbolize the fullness of Jesus' humanity, as he was born of a woman just like any other human being." 
+1. "The number four in the Bible often symbolizes completeness or fullness, indicating that the four individuals mentioned in this verse represent a complete or comprehensive group." 
 
-2. "The use of the word 'borne' suggests a sense of carrying or bringing forth, emphasizing the miraculous nature of Jesus' birth. It highlights the divine intervention and the unique role of Mary in giving birth to the Son of God."
+2. "The mention of being 'borne' suggests a sense of carrying or supporting, indicating that these four individuals were closely connected and relied on one another in their journey."
 
-3. "By mentioning that Jesus was 'borne of a woman,' Mark emphasizes the fulfillment of Old Testament prophecies, such as Isaiah 7:14, which foretold the birth of a child from a virgin. This reference underscores Jesus' identity as the long-awaited Messiah."
+3. "This verse highlights the importance of community and the power of unity in the Christian faith, emphasizing the idea that we are not meant to walk alone but to support and carry one another in our spiritual journey."
+
+### Marvin Vincent:
+1. "Taken with a palsy [παραλελυμενος]. Rev., more neatly, palsied."
+2. "Whenever Luke mentions this disease, he uses the verb and not the adjective paralutikov, paralytic."
+3. "His usage in this respect being in strict accord with that of medical writers."
+
+### Archibald T Robertson:
+1. "Luke's phrase is the technical medical term (Hippocrates, Galen, etc.) rather than Mark's vernacular word." 
+2. "Periphrastic past perfect passive where Mark 2:3; Matthew 9:2 have παραλυτικον (our paralytic)." 
+3. "Conative imperfect."
 
 ### John Gill:
-1. "Men brought in a bed a man which was taken with a palsy." - This verse highlights the compassionate action of the men who carried the paralyzed man, demonstrating their determination to bring him to Jesus for healing.
+1. "Four men brought him...and they sought means to bring him in": This highlights the determination and persistence of the friends who carried the paralyzed man, showing their unwavering faith in Jesus' ability to heal him.
 
-2. "They sought means to bring him in." - This quote emphasizes the persistent efforts made by the men to find a way to bring the paralyzed man into the presence of Jesus, showing their unwavering faith and determination.
+2. "In hope of moving his compassion": This phrase emphasizes the belief that Jesus is not only capable of healing, but also compassionate and willing to help those in need. It reveals the trust the paralyzed man and his friends had in Jesus' character.
 
-3. "To lay him before him; at his feet, in hope of moving his compassion." - This phrase reveals the expectation and hope of the men that by placing the paralyzed man before Jesus, they would elicit His compassion and receive a miraculous healing.
-
-4. "Obtain a cure of him." - This succinct statement encapsulates the ultimate goal of the men's actions, seeking a complete healing for the paralyzed man from Jesus, recognizing His power and authority to bring about miraculous transformations.
+3. "To lay him before him; at his feet": Placing the paralyzed man at Jesus' feet symbolizes surrender and submission, acknowledging Jesus as the ultimate authority and source of healing. It reflects the humility and faith of the man and his friends in seeking Jesus' intervention.
 
 ### John Wesley:
-1. "The paralyzed man's friends were not deterred by the obstacles in their way; they were determined to bring him to Jesus. Their faith and persistence serve as a powerful example for us today." 
+1. "The paralyzed man in this story represents all of us who are spiritually paralyzed and in need of healing. We may not be physically unable to walk, but we are often unable to move forward in our faith or experience the fullness of God's love and grace."
 
-2. "Jesus not only forgave the man's sins, but also healed his physical ailment. This demonstrates the authority and power of Jesus as both the Son of God and the Son of Man."
+2. "Jesus' response to the paralyzed man's faith is a powerful reminder that our faith has the ability to bring about transformation and healing. It is not just a passive belief, but an active trust and surrender to God's power and authority."
 
-3. "The reaction of the religious leaders highlights their lack of understanding and their rigid adherence to the law. Jesus challenges their mindset by showing that he has the authority to forgive sins, which is a divine prerogative."
+3. "The reaction of the scribes and Pharisees in this story highlights the danger of religious legalism and self-righteousness. They were more concerned with upholding the law and maintaining their own status than with showing compassion and extending grace to those in need."
+
+4. "Jesus' statement, 'Your sins are forgiven,' reveals the true nature of his mission on earth. He came not only to heal physical ailments, but to bring about spiritual healing and reconciliation between God and humanity."
+
+5. "The miracle of the paralyzed man's healing serves as a sign of Jesus' authority and divinity. It is a demonstration of his power to forgive sins and restore wholeness, both physically and spiritually."
 
 
 ## Generation Details

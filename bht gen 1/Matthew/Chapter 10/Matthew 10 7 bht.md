@@ -1,7 +1,7 @@
 # Matthew 10:7 Commentary Help Text
 
 ## BHT:
-This verse describes the mission of the apostles, who were itinerant preachers, traveling to spread the Gospel and seek out the lost. They proclaimed the approach of the kingdom of heaven, emphasizing its immediacy and accessibility. Their preaching was preparatory, teaching about the already present kingdom and demonstrating its reality through miracles. This mission was to be continuous and harmonious, with the goal of spreading the message of the kingdom throughout the land.
+This passage describes a group of itinerant preachers who were sent to proclaim the arrival of the kingdom of heaven. Their message carried a sense of urgency, emphasizing that the long-awaited redemption was imminent and within reach. The announcement of the kingdom of heaven was not just a future hope, but a present reality that required immediate attention and response. Their mission was to spread the good news throughout the land, seeking out the lost sheep and bringing them into the fold of God's kingdom.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -9,23 +9,36 @@ This verse describes the mission of the apostles, who were itinerant preachers, 
 2. "Compare, shewing the difference of their ultimate message to the world, Colossians 1:26-28."
 
 ### Jamieson Fausset Brown:
-1. "The kingdom of heaven is at hand" is a powerful proclamation that emphasizes the immediacy and accessibility of God's reign. It reminds us that we are living in a time when the presence and power of God's kingdom can be experienced and witnessed in our lives and in the world around us.
+1. "The command to preach is given to all believers, not just to a select few. We are all called to share the good news of the kingdom of heaven."
+2. "The phrase 'at hand' implies that the kingdom of heaven is not a distant future event, but a present reality. It is within our reach and available to us now."
+3. "Preaching is not just about words, but about living out the kingdom of heaven in our daily lives. Our actions should reflect the love, grace, and power of God's kingdom."
 
-2. This verse also highlights the importance of preaching and sharing this message with others. It is a call to action, urging believers to go out and spread the good news of the kingdom of heaven. It reminds us that evangelism is not just a suggestion, but a commandment that we should take seriously.
+### Albert Barnes:
+1. "The kingdom of heaven is at hand" - This phrase emphasizes the imminent arrival of God's reign, suggesting that it is within reach and about to be established on earth.
 
-3. The phrase "as ye go" implies that preaching and sharing the message of the kingdom of heaven should be a natural and continuous part of our lives. It is not limited to a specific time or place, but should be integrated into our daily interactions and activities. It encourages us to be intentional and proactive in sharing the gospel with others, wherever we may be.
+2. "The reign of heaven" - This alternative translation highlights the idea that God's kingdom is not just a physical place, but a rule or authority that governs over all aspects of life.
+
+3. "The reign of heaven draws near" - This statement conveys a sense of urgency, indicating that the establishment of God's kingdom is a significant event that requires immediate attention and response.
+
+### John Calvin:
+1. "This is the preaching, I spoke of, by which Christ intended to arouse the minds of the nation to expect an approaching redemption."
+2. "It was to inform the Jews, first, that they owed their restoration to divine agency, and not to the kindness of men."
+3. "The happiness which had been promised to them was not earthly and fading, but heavenly and eternal."
 
 ### Philip Schaff:
-1. "The matter of their preaching was the approach of the kingdom of heaven."
-2. "Their mission was preparatory; the gospel tells of a kingdom already come."
+1. "The matter of their preaching was the approach of the kingdom of heaven." 
+2. "Their mission was preparatory; the gospel tells of a kingdom already come." 
 3. "To teach men its nature, and to prove it at hand by their miracles."
 
+### Archibald T Robertson:
+1. "They were itinerant preachers on a 'preaching tour,' heralds proclaiming good news."
+2. "The summary message is the same as that of the Baptist that first startled the country, 'the kingdom of heaven has drawn nigh.'"
+3. "That same amazing message is needed today."
+
 ### John Gill:
-1. "For these were itinerant preachers, who were not to abide long in any place, but to move about, that the Gospel might be spread all over the land, and the lost sheep in every corner be sought out and found."
+1. "These were itinerant preachers, who were not to abide long in any place, but to move about, that the Gospel might be spread all over the land, and the lost sheep in every corner be sought out and found."
 2. "This was to be the subject matter of their ministry, which they were to proclaim aloud in every place."
 3. "Which shows the entire harmony, and strict agreement, there were between them."
-
-Note: The commentary is not complete, but these quotes provide a good understanding of the main points.
 
 
 ## Generation Details

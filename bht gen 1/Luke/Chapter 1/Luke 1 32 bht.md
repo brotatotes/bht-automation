@@ -1,39 +1,49 @@
 # Luke 1:32 Commentary Help Text
 
 ## BHT:
-This verse reveals the profound significance and divine nature of Jesus. He is recognized as the Son of the Highest, indicating his unique relationship with God and his exalted position. Jesus is given authority over a spiritual kingdom, surpassing the earthly kingdom of David, fulfilling Messianic prophecies. This spiritual kingdom, foreshadowed by David's kingdom, underscores the fulfillment of Old Testament promises and the establishment of Jesus' reign as the ultimate King.
+In this passage, we see that the announcement of Mary being of the house of David further strengthens the connection to the prophetic words of Isaiah. The verse highlights the greatness and distinction of Jesus, both in terms of his power and his status as the Son of God. It emphasizes the fulfillment of the divine promise made to David, that his throne would be perpetual, and shows the magnificence of Jesus as the Son of the Most High. The language used in this verse combines references from Isaiah and 2 Samuel, reinforcing Jesus' royal and messianic nature.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "This announcement makes it almost certain that Mary also was of the house of David."
+2. "No astonishment is expressed by her at this part of the statement."
+3. "From the nature of her question, it is clear that she did not explain it by supposing Joseph to be the destined father of her child."
+
 ### Jamieson Fausset Brown:
 1. "This is but an echo of the sublime prediction in Isaiah 9:6." 
-2. "The prophecy in Isaiah 9:6 speaks of a child who will be born, a son who will be given, and who will have the government on his shoulders." 
-3. "Isaiah 9:7 further reveals that this child will establish and uphold his kingdom with justice and righteousness forever."
+2. "The prophecy in Isaiah 9:7 further emphasizes the significance of this verse." 
+3. "These verses highlight the fulfillment of the prophetic words spoken by Isaiah."
+
+### Albert Barnes:
+1. "By his being 'great' is meant he shall be distinguished or illustrious; great in power, in wisdom, in dominion on earth and in heaven."
+2. "Shall be called - This is the same as to say he 'shall be' the Son, etc. The Hebrews often used this form of speech."
+3. "The promise to David was, that there should 'not fail' a man to sit on his throne, or that his throne should be perpetual... and the promise was fulfilled by exalting Jesus to be a Prince and a Saviour, and the perpetual King of his people."
+
+### John Calvin:
+1. "But it is perfectly clear and certain, that God distinguishes his own Son from all the others, when he thus addresses him particularly, Thou art my Son." 
+2. "Christ is not confounded either with angels or with men, so as to be one of the multitude of the sons of God; but what is given to him no other has a right to claim." 
+3. "Certainly, in every age God has been addressed by his people as a Father, and hence it follows, that he had a Son in heaven, from whom and by whom men obtained the sonship."
 
 ### Philip Schaff:
-1. "Shall be called. Shall be, and also, shall one day be publicly recognized as what He really is: the son of the Most High, i.e., God." 
-2. "Mary would probably understand this in the light of the familiar Old Testament passages: 2 Samuel 7:14; Psalms 2:7; Psalms 89:27." 
-3. "The Messiahship is now distinctly made known. Comp, especially Psalms 132:11: 'Of the fruit of thy body will I set upon thy throne,' which foretells a physical descent from David."
+1. "Shall be called. Shall be, and also, shall one day be publicly recognized as what He really is: the son of the Most High." 
+2. "Stupendous spiritual truth is rarely comprehended at once, and had the proper divinity of her Son been definitely known by her, neither she nor Joseph would have been in a position to bring up the child." 
+3. "The Messiahship is now distinctly made known. Comp, especially Psalms 132:11: ‘Of the fruit of thy body will I set upon thy throne,’ which foretells a physical descent from David."
 
 ### Archibald T Robertson:
-1. "The Son of the Most High": This phrase emphasizes the divine nature of Jesus and his unique relationship with God. It suggests that Jesus shares in the divine attributes and authority of the Most High.
+1. "The Son of the Most High" - The use of "Most High" in Luke 1:35 clearly refers to God, emphasizing the divine nature of Jesus. (Luke 1:32)
 
-2. "Sons of the Most High": This phrase, mentioned in Luke 6:35, indicates that there are others who can be considered as children of God. It highlights the possibility of a spiritual connection and adoption into God's family.
+2. "Sons of the Most High" - The phrase "sons of the Most High" in Luke 6:35 suggests that while Jesus is the Son of the Most High, others can also be considered as sons of God, indicating the potential for a divine relationship. (Luke 6:35)
 
-3. "The language of 2 Samuel 7:14; Isaiah 9:7 is combined here": This reference to Old Testament passages suggests that the birth of Jesus fulfills the prophetic promises made in the Hebrew Scriptures. It underscores the significance of Jesus' birth in the context of God's plan for redemption.
+3. "Combined language" - The language used in Luke 1:32 combines references from 2 Samuel 7:14 and Isaiah 9:7, further emphasizing the royal and messianic nature of Jesus as the Son of the Most High. (Luke 1:32)
 
 ### John Gill:
-1. "He shall be great,.... In his person, as God-man; this child born, and Son given, being the angel of the great counsel, the mighty God, and everlasting Father; Isaiah 9:6 which is here referred to; and in his offices, in his prophetic office, being that great and famous prophet Moses spoke of, mighty in word and deed, in his doctrine and miracles; in his priestly office, being a great high priest, both in the oblation of himself, and in his prevalent intercession; and in his kingly office, being the King of kings, and Lord of Lords; and in the whole of his office, as Mediator, being a great Saviour, the author of a great salvation for great sinners; in which is greatly displayed the glory of all the divine perfections." 
-
-2. "and shall be called the Son of the Highest; that is, of God, of whose names is עליון, "the Most High"; see Genesis 14:18 not by creation, as angels and men, nor by adoption, as saints, nor by office, as magistrates, are called "the children of the Most High", Psalms 82:6 but by nature, being the eternal Son of God; of the same nature with him, and equal to him: for he was not now to begin to be the Son of God, he was so before, even from all eternity; but the sense is, that he should now be known, owned, and acknowledged to be the Son of God, being as such manifested in human nature, and should be proved to be so by the works he wrought, and declared to be the Son of God with power by his resurrection from the dead."
-
-3. "and the Lord God shall give unto him the throne of his father David. Christ, as God, is the Son of God, as man, the son of David; a name often given to the Messiah, and by which he was well known among the Jews; and as Christ descended from him as man, in a literal sense, he had a right to the throne of his father David; and the Jews themselves say, that he was קרוב למלכות, "nearly allied to the kingdom" w: but here it intends not his throne, in a literal, but in a figurative sense; for as David was a type of the Messiah in his kingly office, hence the Messiah is called "David their king", Hosea 3:5 so his throne was typical of the Messiah's throne and kingdom; which is not of this world, but is in his church, and is set up in the hearts of his people, where he reigns by his Spirit and grace; and this is a throne and kingdom "given" by the Lord God."
+1. "He shall be great,.... In his person, as God-man; this child born, and Son given, being the angel of the great counsel, the mighty God, and everlasting Father; Isaiah 9:6 which is here referred to."
+2. "great also in his works, the miracles that he wrought, as proofs of his Deity and Messiahship, the work of redemption, the resurrection of himself from the dead, and of all men at the last day."
+3. "Christ, as God, is the Son of God, as man, the son of David; a name often given to the Messiah, and by which he was well known among the Jews; and as Christ descended from him as man, in a literal sense, he had a right to the throne of his father David."
 
 ### John Wesley:
-1. "He shall be called the Son of the Highest" - In this statement, Jesus is being recognized as the Son of God in a more exalted sense than any other being. This highlights his divine nature and unique relationship with the Highest.
-
-2. "The Lord shall give him the throne of his father David" - This refers to Jesus being given authority over the spiritual kingdom, which surpasses the earthly kingdom of David. It emphasizes the fulfillment of the Messianic prophecies and the establishment of Jesus' reign as the ultimate King.
-
-3. "The spiritual kingdom, of which David's was a type" - This commentary draws a parallel between David's earthly kingdom and the spiritual kingdom that Jesus will establish. It suggests that David's kingdom was a foreshadowing of the greater kingdom that Jesus would bring, emphasizing the significance and fulfillment of Old Testament prophecies.
+1. "He shall be called the Son of the Highest — In this respect also: and that in a more eminent sense than any, either man or angel, can be called so."
+2. "The Lord shall give him the throne of his father David — That is, the spiritual kingdom, of which David's was a type."
 
 
 ## Generation Details

@@ -1,21 +1,30 @@
 # Matthew 23:24 Commentary Help Text
 
 ## BHT:
-In this verse, Jesus criticizes the religious leaders for their hypocrisy. His words, quoted by various commentators, expose their tendency to focus on minor details while neglecting more important matters. He uses the imagery of straining out a gnat while swallowing a camel to emphasize the absurdity and irony of their actions. This serves as a warning against blindly following those who do not practice what they preach, highlighting the importance of true righteousness over mere outward appearances.
+In this verse, Jesus condemns the religious leaders for their hypocrisy, calling them "blind guides" who strain out a gnat but swallow a camel. The commentators elaborate on this metaphor, explaining that the stricter Jews would strain their drinks to avoid consuming any unclean insects, while overlooking more significant transgressions. Their focus on minor matters while neglecting matters of greater importance reveals their hypocrisy. Jesus's words serve as a reminder to prioritize true righteousness and not get caught up in trivialities or show outward appearances without genuine inward transformation.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Ye blind guides, which strain out." - The stricter Jews would strain their drinks through linen or gauze to avoid accidentally consuming any unclean insects, as prescribed in Leviticus. This custom is referenced by Jesus in this verse. 
+1. "Ye blind guides, which strain out." - The stricter Jews would strain their drinks to avoid accidentally consuming any unclean insects, as it was forbidden by the law. This custom is referenced by Jesus in this verse.
 
-2. "Just as the Buddhists do now in Ceylon and Hindustan." - The practice of straining drinks to remove impurities is not unique to the Jews, as it is also observed by Buddhists in certain regions. 
+2. "Lest unawares they should drink down some little unclean insect therein and thus transgress." - The purpose of straining their drinks was to prevent any unintentional transgressions of the law by consuming unclean insects.
 
-3. "Swallow a camel." - In contrast to straining out the smallest impurity, Jesus highlights the hypocrisy of the religious leaders by pointing out that they are willing to overlook much larger transgressions, symbolized by swallowing a camel, the largest unclean animal known to the Jews.
+3. "And swallow a camel." - In contrast to straining out the smallest unclean insect, Jesus highlights the hypocrisy of the religious leaders by pointing out that they were willing to overlook and ignore much larger transgressions, symbolized by swallowing a camel.
+
+### Albert Barnes:
+1. "To strain out a gnat; and so it is printed in some of the earlier versions, and so it was undoubtedly rendered by the translators." 
+2. "The gnat has its origin in the water; not in great rivers, but in pools and marshes."
+3. "It is used here to denote a very small matter, as a camel is to denote a large object."
 
 ### Marvin Vincent:
-1. "Strain at is an old misprint perpetuated. Hence the Rev. correctly, as Tynd., strain out."
-2. "Insects were ceremonially unclean, so that the Jews strained their wine in order not to swallow any unclean animal."
-3. "Moreover, there were certain insects which bred in wine. Aristotle uses the word gnat of a worm or larva found in the sediment of sour wine."
-4. "The rendering is feeble. It is drink down; gulp. Note that the camel was also unclean."
+1. "Strain out. Insects were ceremonially unclean, so that the Jews strained their wine in order not to swallow any unclean animal."
+2. "Moreover, there were certain insects which bred in wine."
+3. "Swallow. The rendering is feeble. It is drink down; gulp."
+
+### John Calvin:
+1. "They act as absurdly as if a man were to strain out a small crumb of bread, and to swallow a whole loaf."
+2. "Nothing therefore could be more ridiculous than to strain out the wine or the water, so as not to hurt the jaws by swallowing a gnat, and yet carelessly to gulp down a camel."
+3. "While they pass by judgment, mercy, and faith, and even tear in pieces the whole Law, they are excessively rigid and severe in matters that are of no great importance; and while in this way they pretend to kiss the feet of God, they proudly spit in his face."
 
 ### Philip Schaff:
 1. "Strain out the gnat, i.e., to filter wine, so as to avoid swallowing a gnat." 
@@ -23,21 +32,21 @@ In this verse, Jesus criticizes the religious leaders for their hypocrisy. His w
 3. "And swallow the camel, i.e., indulge in the greatest impurities."
 
 ### Archibald T Robertson:
-1. "Strain out the gnat" - By filtering through, not the "straining at" in swallowing so crudely suggested by the misprint in the A.V. (Authorized Version).
+1. "Strain out the gnat" - By filtering through, not the "straining at" in swallowing so crudely suggested by the misprint in the A.V.
 2. "Swallow the camel" - Gulping or drinking down the camel. An oriental hyperbole like that in Matthew 19:24.
-3. Both insects and camels were ceremonially unclean (Leviticus 11:4; Leviticus 11:20; Leviticus 11:23; Leviticus 11:42).
+3. "Both insects and camels were ceremonially unclean" - Leviticus 11:4; Leviticus 11:20; Leviticus 11:23; Leviticus 11:42. "He that kills a flea on the Sabbath is as guilty as if he killed a camel" (Jer. Shabb. 107).
 
 ### John Gill:
-1. "To strain at a gnat, and swallow a camel, became at length a proverb, to signify much solicitude about little things, and none about greater."
-2. "These men would not, on any consideration, be guilty of such a crime, as not to pay the tithe of mint, anise, and cummin, and such like herbs and seeds; and yet made no conscience of doing justice, and showing mercy to men, or of exercising faith in God, or love to him."
+1. "The Jews had a law, which forbid them the eating of any creeping thing, and of this they were strictly observant, and would not be guilty of the breach of it for ever so much."
+2. "To strain at a gnat, and swallow a camel, became at length a proverb, to signify much solicitude about little things, and none about greater."
 3. "Just as many hypocrites, like them, make a great stir, and would appear very conscientious and scrupulous, about some little trifling things, and yet stick not, at other times, to commit the grossest enormities, and most scandalous sins in life."
 
 ### John Wesley:
-1. "Ye blind guides, who teach others to do as you do yourselves" - This quote highlights the hypocrisy of the religious leaders, emphasizing that they are blind to their own faults while instructing others. It exposes the danger of following those who do not practice what they preach.
+1. "Ye blind guides, who teach others to do as you do yourselves" - This quote highlights the hypocrisy of the religious leaders who were more concerned with outward appearances than with true righteousness. It serves as a reminder to examine our own actions and ensure they align with our teachings.
 
-2. "To strain out a gnat - From the liquor they are going to drink!" - This quote illustrates the absurdity of the religious leaders' actions. It emphasizes their meticulousness in filtering out the smallest impurities, while ignoring the greater moral issues at hand.
+2. "To strain out a gnat - From the liquor they are going to drink!" - This quote emphasizes the absurdity of focusing on minor details while neglecting more significant matters. It challenges us to prioritize what truly matters and not get caught up in trivialities.
 
-3. "Swallow a camel" - This phrase captures the irony of the situation, contrasting the leaders' attention to minor details with their willingness to overlook major transgressions. It serves as a powerful metaphor for their hypocrisy and lack of true righteousness.
+3. "Swallow a camel" - This phrase draws attention to the irony of the religious leaders' behavior. While they meticulously avoided small impurities, they were willing to overlook major moral issues. It serves as a caution against selective righteousness and encourages a more balanced and comprehensive approach to living out one's faith.
 
 
 ## Generation Details

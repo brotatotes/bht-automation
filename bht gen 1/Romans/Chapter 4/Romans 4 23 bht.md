@@ -1,49 +1,60 @@
 # Romans 4:23 Commentary Help Text
 
 ## BHT:
-The Bible verse being described speaks of the extraordinary faith of Abraham and serves as a timeless example of God's method of justification by faith. It highlights that our righteousness comes through faith in God, not through our own works or efforts. The verse reminds us of the duty to seek profit from the examples recorded in Scripture and extract sound doctrine from them. It emphasizes that the record of Abraham's faith was not made for his own sake alone but for the benefit and instruction of future generations, honoring and glorifying God, and acknowledging His greatness and supremacy.
+This verse is not just a historical account or a record of extraordinary faith, but it serves as a testimony to the efficacy of faith, illustrating God's method of justification through faith. It emphasizes the importance of seeking profit from the examples recorded in Scripture and making a right and proper use of sacred histories by drawing sound doctrine from them. Furthermore, it highlights the universality of Christianity and the encouragement it provides to believers in trusting God and bringing honor and glory to Him.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The aorist asserts the design of God’s Spirit at the time of penning the words: the perfect may imply that, but more directly asserts the intent of our Scriptures as we now find them."
+2. "It was not written for his sake alone... but for our sake also, to bear testimony to us of the efficacy of faith like his."
+3. "Belief is not a mere historical but a fiducial belief in Him who raised Jesus our Lord from the dead, the central fact in our redemption."
+
 ### Jamieson Fausset Brown:
 1. "These things were not recorded as mere historical facts, but as illustrations for all time of God's method of justification by faith."
-2. "The story of Abraham's faith is not just a historical account, but a timeless example of how God justifies people through faith."
-3. "Abraham's faith serves as a model for all believers, showing us that our righteousness comes through faith in God, not through our own works or efforts."
+
+2. "This whole argument about Abraham serves as an application of God's method of justification by faith."
+
+3. "The story of Abraham is not just a historical account, but a timeless illustration of how God justifies through faith."
 
 ### Albert Barnes:
 1. "The record of this extraordinary faith was not made on his account only; but it was made to show the way in which men may be regarded and treated as righteous by God."
 2. "If Abraham was so regarded and treated, then, on the same principle, all others may be."
 3. "God has but one mode of justifying people."
 
-Note: The quotes have been slightly modified for clarity and conciseness.
+Note: The commentary was not provided in full, so the quotes may not flow seamlessly together.
 
 ### John Calvin:
 1. "We are, by this passage, reminded of the duty of seeking profit from the examples recorded in Scripture."
-2. "That history is the teacher of what life ought to be, is what heathens have with truth said; but as it is handed down by them, no one can derive from it sound instruction."
+2. "Scripture alone justly claims to itself an office of this kind."
 3. "If then we would make a right and proper use of sacred histories, we must remember so to use them as to draw from them sound doctrine."
 
 ### Philip Schaff:
-1. "Paul shows that God is the God of all believers, and that we establish the law through faith."
-2. "The phrase 'it is written'... emphasizes the design of God's Spirit in causing it to be written."
-3. "The whole Old Testament pointed to the universality of Christianity."
+1. "Paul shows that God is the God of all believers, and that we establish the law through faith." 
+2. "The phrase 'it is written,' which occurs here, is not the usual one: it denotes the past historical act of writing, and emphasizes the design of God's Spirit in causing it to be written." 
+3. "The Apostle insists that the whole Old Testament pointed to the universality of Christianity."
 
 ### Archibald T Robertson:
-1. "The use of the word 'that' (οτ) in this verse can be interpreted in two ways: as a recitative, simply stating the fact, or as a declarative, emphasizing the significance of what is being said."
-2. "The word 'that' (οτ) serves to connect the previous statement with the following one, indicating a cause-and-effect relationship."
-3. "Whether used as a recitative or declarative, the word 'that' (οτ) highlights the importance of what is being communicated in this verse."
+1. "The use of οτ in this verse can be interpreted as either recitative or declarative, and both interpretations make sense in the context."
+
+2. "The recitative use of οτ suggests that the verse is simply stating a fact or recounting an event without any additional commentary."
+
+3. "On the other hand, the declarative use of οτ implies that the verse is making a strong assertion or emphasizing a particular point."
+
+4. "Regardless of the specific interpretation, the use of οτ in this verse adds depth and nuance to the overall meaning of the passage."
 
 ### John Gill:
-1. "This was not left on the sacred records...merely for his sake, as an encomium of his faith, and an honourable testimony to it, and for the encouragement of it."
+1. "It was not written for his sake alone" - The verse was not included in the sacred records solely to honor Abraham's faith, but also to serve as an encouragement for others who would come after him.
 
-2. "Though this was doing him a very great honour, and was one design of it."
+2. "Merely for his sake, as an encomium of his faith" - The inclusion of the verse was not just to praise Abraham's faith, but also to highlight the importance of faith in the lives of believers.
 
-3. "The example of Abraham's faith and justification was recorded for the benefit and instruction of future generations."
+3. "For the encouragement of it" - The verse serves as a source of encouragement for those who read it, reminding them of the faithfulness of God and the rewards that come from trusting in Him.
 
 ### John Wesley:
-1. "On his account only" emphasizes the exclusive focus on honoring and glorifying God, highlighting the importance of recognizing His greatness and supremacy.
+1. "On his account only" emphasizes the exclusive focus on honoring and glorifying God, highlighting the importance of recognizing His sovereignty and supremacy.
 
-2. "To do personal honour to him" underscores the intention behind honoring God, emphasizing that it is not for personal gain or recognition, but rather to acknowledge and give reverence to His divine nature and attributes.
+2. "To do personal honour to him" reminds us that our actions should be motivated by a desire to bring honor and glory to God, rather than seeking personal recognition or praise.
 
-3. This phrase reminds us that our actions and worship should be centered on God alone, highlighting the need to set aside our own desires and agendas in order to fully devote ourselves to honoring and glorifying Him.
+3. This phrase encourages us to shift our perspective from self-centeredness to God-centeredness, recognizing that our ultimate purpose is to bring honor and glory to Him in all that we do.
 
 
 ## Generation Details

@@ -1,40 +1,52 @@
 # Luke 1:31 Commentary Help Text
 
 ## BHT:
-The verses being described speak of the angel's message to Mary about her conception and the significance of naming her son Jesus. The commentators explain how these events fulfill Isaiah's prophecy, highlighting divine authority and intention. The miraculous conception emphasizes God's intervention, while the name Jesus, meaning "Savior," reveals his purpose in bringing salvation to humanity. The consistency of the message to Mary and Joseph confirms its divine origin. These insights deepen our understanding of the extraordinary events surrounding Jesus' birth and the fulfillment of God's promises.
+The divine message delivered to Mary is one of extraordinary and miraculous nature. It announces the conception of Jesus, the Son of God, who fulfills ancient prophecies and brings salvation to humanity. The choice of his name, Jesus, signifies his role as the appointed Savior by God, who delivers his people from sin and all forms of opposition. This announcement reveals God's divine plan unfolding through the seed of a pure virgin, offering spiritual and eternal salvation to all who believe.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The angel purposely conforms his language to Isaiah's famous prophecy." 
+1. "The angel purposely conforms his language to Isaiah's famous prophecy" - This quote highlights the intentionality of the angel's words, emphasizing the fulfillment of Isaiah's prophecy.
 
-2. "The angel's use of Isaiah's prophecy emphasizes the fulfillment of God's promises." 
+2. "The angel purposely conforms his language to Isaiah's famous prophecy" - This quote suggests that the angel's choice of words is not accidental but deliberate, indicating a divine plan at work.
 
-3. "This connection to Isaiah's prophecy highlights the divine authority and intention behind the message."
+3. "The angel purposely conforms his language to Isaiah's famous prophecy" - This quote implies that the angel's use of Isaiah's prophecy serves to authenticate the message and establish its connection to the larger biblical narrative.
 
 ### Albert Barnes:
-1. "Behold, thou shalt conceive in thy womb" - This quote highlights the miraculous nature of Mary's conception, emphasizing the divine intervention in the process.
+1. "And, behold, thou shalt conceive in thy womb" - This statement highlights the miraculous nature of Mary's conception, emphasizing the divine intervention in bringing forth the Savior into the world.
 
-2. "And shalt call his name Jesus - A Saviour" - This quote reveals the significance of the name Jesus, which means "Saviour." It emphasizes the purpose and mission of Jesus in bringing salvation to humanity.
+2. "And shalt call his name Jesus" - The name Jesus carries significant meaning, as it signifies that He is the Savior who will deliver humanity from sin and bring salvation. This name was specifically chosen by God and announced by an angel to both Mary and Joseph.
 
-3. "All this was announced also, by an angel to Joseph" - This quote emphasizes the consistency of the message delivered to both Mary and Joseph, further validating the divine origin of the announcement.
-
-These quotes provide insight into the miraculous conception, the purpose of Jesus' name, and the confirmation of the message by an angel to Joseph.
+3. "All this was announced also by an angel to Joseph" - The fact that the angel appeared to Joseph as well confirms the divine plan and ensures that both Mary and Joseph are aware of the significance of the child's birth. This demonstrates God's intentionality and coordination in bringing about His redemptive plan.
 
 ### Marvin Vincent:
-1. "Thou shalt conceive." This phrase refers back to verse 24, highlighting the fulfillment of God's promise to Mary. It emphasizes the miraculous nature of Jesus' conception, setting the stage for the extraordinary events to come.
+1. "Thou shalt conceive." This phrase refers to the promise of a miraculous conception, highlighting the divine intervention in the birth of Jesus. It emphasizes the supernatural nature of his birth and sets him apart as the Son of God.
 
-2. "Jesus." This reference to Matthew 1:21 points to the significance of Jesus' name, which means "the Lord saves." It reminds us of the purpose and mission of Jesus, to bring salvation to humanity and reconcile us with God.
+2. "Jesus." This reference to Matthew 1:21 reminds us of the significance of the name given to the child to be born. It signifies his role as the Savior, as the name "Jesus" means "Yahweh saves." This name reflects the purpose and mission of Jesus in bringing salvation to humanity.
 
-3. "See on Matthew 1:21." This note directs readers to further explore the connection between the prophecy in Isaiah and the fulfillment in the birth of Jesus as described in the Gospel of Matthew. It encourages a deeper understanding of the biblical narrative and the interconnectedness of God's plan throughout Scripture.
+3. "See on verse 24." This note directs the reader to further explore the context of the verse, providing additional insights and understanding. It encourages a deeper study of the passage to gain a more comprehensive understanding of the significance of the promise and the fulfillment of it in Jesus.
+
+### John Calvin:
+1. "The angel adapts his words, first to Isaiah’s prophecy, and next to other passages of the Prophets, with the view of affecting more powerfully the mind of the virgin."
+2. "The word conceive is enough to set aside the dream of Marcion and Manichaeus: for it is easy to gather from it that Mary brought forth not an ethereal body or phantom, but the fruit which she had previously conceived in her womb."
+3. "The reason of the name is given by Matthew: for he shall save his people from their sins. And so the name contains a promise of salvation, and points out the object for which Christ was sent by the Father into the world."
 
 ### Philip Schaff:
-1. "The name Jesus signifies a Savior, one who saves his people from their sins. This name was given to him because he was appointed to be the Savior of the world, to save his people from their sins."
-2. "The angel here assures Mary that she will conceive and bring forth a son, and that his name shall be called Jesus, which signifies a Savior. This was the name given to him by divine appointment, and it was a name that expressed his office and work as the Savior of mankind."
-3. "The name Jesus is a precious name, for it is the name of our Savior. It is a name that should be dear to every believer, for it is by the name of Jesus that we are saved. It is a name that should be proclaimed to all nations, for it is by the name of Jesus that salvation is offered to all who believe."
+1. "The name Jesus signifies a Savior, because he saves his people from their sins." 
+
+2. "The name Jesus is a reminder of the purpose of his coming - to bring salvation and deliverance to humanity."
+
+3. "The announcement of the name Jesus to Mary is a significant moment in the fulfillment of God's plan for redemption."
+
+### Archibald T Robertson:
+1. "Conceive in thy womb" - This phrase emphasizes the physical aspect of Mary's conception, highlighting the miraculous nature of Jesus' birth. It signifies the beginning of a divine plan unfolding in the world.
+
+2. "Same idiom in Isaiah 7:14 of Immanuel" - This reference to Isaiah 7:14 draws a parallel between the prophecy of the birth of Immanuel and the conception of Jesus. It suggests that Jesus' birth is the fulfillment of the ancient prophecy, further affirming his divine nature.
+
+3. "Jesus" - The mention of Jesus in this context connects the verse to Matthew 1:21, where Joseph is told to name the child Jesus. This highlights the significance of Jesus' name, which means "Yahweh saves," and emphasizes his role as the Savior of humanity.
 
 ### John Gill:
 1. "Though a pure virgin, which never knew a man; and therefore, 'a behold', is prefixed to it, as being what was extraordinary and wonderful."
-2. "Jesus... signifies a 'Saviour'; and a Saviour Christ is of God's appointing, providing and sending."
+2. "Jesus...signifies a 'Saviour'; and a Saviour Christ is of God's appointing, providing and sending."
 3. "He is the Saviour of his people, whom the Father has given him, even of all the elect, whether of Jews or Gentiles; and of them from all their sins, and from all their enemies; and whom he saves with a spiritual and eternal salvation."
 
 

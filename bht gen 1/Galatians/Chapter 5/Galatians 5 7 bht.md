@@ -1,32 +1,40 @@
 # Galatians 5:7 Commentary Help Text
 
 ## BHT:
-The believers were once on a commendable spiritual journey, progressing with perseverance and dedication as they ran the race of faith. However, they encountered obstacles and interference that hindered their progress and diverted them from the truth. These hindrances came from misleading individuals who disrupted their path and attempted to sway them from the right course. The believers are urged to reflect, overcome these obstacles, and return to obedience, maintaining their focus on the imperishable crown of eternal life.
+The believers mentioned in this verse were once fervently committed to their Christian journey, making great strides in their faith and striving to run the race of the Christian life with dedication. However, they have been hindered and sidetracked by external influences that have caused them to deviate from the true path. The verse serves as a call for these believers to reflect on what has led them astray and to renew their commitment to the pursuit of truth and obedience to the Gospel.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "Ye were running well" - This phrase refers to the believers' previous progress and success in their spiritual journey, likened to a race. It highlights the importance of perseverance and staying on the right path. (1 Corinthians 9:24-26; Philippians 3:13; Philippians 3:14)
+1. "Ye were running well" - This phrase refers to the Corinthians' initial progress in their Christian journey, highlighting their previous commitment and dedication to the Gospel race.
+2. "Hinder by breaking up a road" - This vivid imagery emphasizes the disruptive nature of those who oppose the true Gospel, likening them to those who obstruct a path by destroying it.
+3. "Not submit yourselves to the true Gospel way of justification" - This phrase highlights the importance of obedience to the truth of the Gospel, emphasizing the need to align one's beliefs and actions with the teachings of Jesus.
 
-2. "None whom you ought to have listened to" - The commentary suggests that the believers should not have paid attention to those who were misleading them, possibly referring to the Judaizers who were promoting a false gospel. (Philippians 3:14)
+### Albert Barnes:
+1. "The Christian life is often represented as a race...they began the Christian life with ardour and zeal." 
+2. "Paul asks, with emphasis, who it could have been that retarded them in their Christian course, implying that it could have been done only by their own consent."
+3. "That you should have turned aside, and embraced the dangerous errors in regard to the necessity of obeying the laws of Moses."
 
-3. "Hinder by breaking up a road" - This phrase describes the actions of those who were obstructing the believers' progress in their faith. It implies that these individuals were actively working to disrupt and impede the believers' spiritual journey. (1 Corinthians 9:24-26)
+### Marvin Vincent:
+1. "You were on the right road, and were making good progress when this interruption occurred."
+2. "Bravely, becomingly, honorably to yourselves and to the church."
+3. "Obey the truth."
 
 ### John Calvin:
 1. "The censure which the apostle administers for their present departure from the truth is mingled with approbation of their former course, for the express purpose that, by being brought to a sense of shame, they may return more speedily to the right path."
 2. "The astonishment conveyed in the question, who hindered you? was intended to produce a blush."
-3. "I have chosen to translate the Greek wordπείθσθαι, obey, rather than believe, because, having once embraced the purity of the gospel, they had been led away from a course of obedience."
+3. "I have chosen to translate the Greek word πείθσθαι, obey, rather than believe, because, having once embraced the purity of the gospel, they had been led away from a course of obedience."
 
 ### Philip Schaff:
 1. "The martial and heroic spirit of Paul often compares the course of Christian life with the running of a race in the stadium." 
-2. "The imagery of a race emphasizes the need for endurance, perseverance, and a focused determination to reach the finish line." 
-3. "Just as athletes train and discipline themselves to win a perishable crown, so should Christians strive for the imperishable crown of eternal life."
+2. "The imagery of running a race highlights the perseverance, endurance, and determination required in the Christian life." 
+3. "Just as athletes strive to win a prize, Christians should be focused on the ultimate prize of eternal life with God."
 
 ### Archibald T Robertson:
-1. "Who did hinder you?" - This question highlights the interference and opposition faced by the Galatians in their Christian journey. It prompts reflection on the source of hindrance and the need to identify and overcome it.
+1. "Who did hinder you?": This question highlights the interference and opposition faced by the Galatians in their Christian journey, emphasizing the presence of a ringleader who sought to trip them or divert them from their path.
 
-2. "For all the world like our use of one cutting in on us at the telephone." - This comparison vividly illustrates the disruptive nature of the hindrance. It emphasizes the abrupt interruption and interference that the Galatians experienced, akin to someone interrupting a phone conversation.
+2. "For all the world like our use of one cutting in on us at the telephone": This comparison helps readers understand the concept of someone interrupting or obstructing the Galatians' progress, drawing a parallel to the experience of being interrupted during a phone call.
 
-3. "Some one 'cut in' on the Galatians as they were running the Christian race and tried to trip them or to turn them." - This imagery of someone cutting in on a race emphasizes the intention of the hindrance, which was to trip or divert the Galatians from their Christian path. It highlights the need for vigilance and perseverance in the face of opposition.
+3. "Some one 'cut in' on the Galatians as they were running the Christian race and tried to trip them or to turn them": This statement vividly portrays the actions of the ringleader, depicting their attempts to hinder the Galatians' spiritual journey and lead them astray.
 
 ### John Gill:
 1. "They were in the lively exercise of grace on its proper object, and very diligent in the discharge of duty."
@@ -34,11 +42,9 @@ The believers were once on a commendable spiritual journey, progressing with per
 3. "It was the false apostles that hindered them, who did all they could to remove them to another Gospel, and turn them aside out of the right way."
 
 ### John Wesley:
-1. "Ye did run well" - This phrase highlights the initial enthusiasm and dedication of the believers in their journey of faith. It emphasizes their previous commitment and progress in following the truth.
-
-2. "Who hath hindered you in your course" - This question raises the issue of external influences or obstacles that have derailed the believers from their path of obedience. It prompts introspection and encourages believers to identify and overcome anything that hinders their faith.
-
-3. "That ye should not still obey the truth" - This phrase emphasizes the importance of continued obedience to the truth. It implies that the believers have deviated from the truth and need to realign themselves with it. It serves as a reminder that obedience is an ongoing process and not a one-time event.
+1. "The phrase 'Ye did run well' highlights the initial fervor and commitment of the believers in their journey of faith."
+2. "The question 'Who hath hindered you in your course?' emphasizes the presence of external influences or obstacles that have caused the believers to deviate from their path of obedience to the truth."
+3. "The commentary suggests that the purpose of this verse is to encourage believers to reflect on what may have caused them to stray from their faith and to recommit themselves to the pursuit of truth."
 
 
 ## Generation Details

@@ -1,16 +1,28 @@
 # Matthew 8:1 Commentary Help Text
 
 ## BHT:
-In this Bible verse, we witness the transition of Jesus from the heavenly realm to the earthly realm as he descends from the mountain. This clash between the spiritual and physical is emphasized, as Jesus takes on the role of ministering to the needs of the people while also embodying his divine nature. The multitudes that had been captivated by his teachings and miracles continued to follow him, bearing witness to the powerful miracle of healing a leper. Though some believe this miracle was performed more privately, its impact on the great multitudes could not be denied.
+Multitudes were drawn to Jesus, captivated by his teachings and miracles. His popularity spread, attracting people from all walks of life who sought his presence and guidance. The divine power and authority of Jesus were demonstrated through his ability to heal the leper with a mere touch and word, a miracle that left witnesses in awe. The significance of this event was not lost on the great multitudes that followed him, as it further confirmed their belief that Jesus had come from God and possessed extraordinary abilities.
 
 ## Choicest Commentary Quotes:
 ### Jamieson Fausset Brown:
-1. "The descent from the mountain symbolizes Jesus' transition from the divine realm to the earthly realm, where he encounters the multitudes. This highlights the tension between the spiritual and the physical, as Jesus is called to minister to the needs of the people while also embodying his divine nature."
+1. "The verse highlights the popularity and influence of Jesus, as great multitudes followed him. This demonstrates the magnetic power of his teachings and miracles, drawing people from all walks of life to seek his presence and guidance."
+
+### Albert Barnes:
+1. "His discourse had attracted great attention, and the fame of it drew together great multitudes, who were convinced that he had come from God."
+2. "Then follows, in this chapter and the chapter succeeding, a succession of 'miracles' not less remarkable than his teaching was; miracles that tended to confirm beyond a doubt the impression made by his sermon that he was sent from God."
+3. "Great multitudes followed him - Great numbers of those who had been with him in the mountain, and great numbers of others who were attracted by the fame of that discourse."
+
+### John Calvin:
+1. "It was a striking display of the divine power of Christ, that, by his word alone and a touch of his hand, he suddenly cleansed the man’s leprosy."
+2. "Now, though leprosy was a different kind of disease from elephantiasis, it is plain enough that it was difficult to cure."
+3. "Granting that physicians might, by their professional skill, have given some relief, it is manifest that there was nothing human about this miracle."
 
 ### John Gill:
 1. "The people which came from several parts, still continued with him, being affected with his discourses and miracles."
 2. "The following miracle, of healing the leper, was not done in a corner, but before great multitudes, who were witnesses of it."
-3. "Some think this miracle was wrought more privately."
+3. "Though some think this miracle was wrought more privately."
+
+Note: The commentary provided is quite short, so I have included all the relevant quotes.
 
 
 ## Generation Details

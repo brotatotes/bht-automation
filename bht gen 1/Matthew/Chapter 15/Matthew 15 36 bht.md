@@ -1,20 +1,23 @@
 # Matthew 15:36 Commentary Help Text
 
 ## BHT:
-In this verse, the miracle of multiplying the seven loaves and fishes is showcased in its true light, revealing to us the power and provision of God. With an emphasis on gratitude and praising God, the verse teaches us to be content with our portion, recognizing His goodness and seeking His blessing upon the provision before us. Through this act of faith and gratitude, we are reminded of God's faithfulness and the miraculous works He has done in the past.
+In this passage, Jesus takes the seven loaves and the fishes and lifts them up, showcasing the true extent of the miracle. He then gives thanks and blesses the food, recognizing God's provision and seeking His favor. This act serves as an example for us to be thankful for and content with our portion, whether it be small or large, and to acknowledge God's goodness in all aspects of our lives, not bound by human customs.
 
 ## Choicest Commentary Quotes:
+### Archibald T Robertson:
+1. "The word used for 'grace' or 'blessing' is ευλογησεν." 
+2. "The Jewish custom was for the head of the house to say the blessing only if he shared the meal unless the guests were his own household."
+3. "We need not think of Jesus as bound by the peccadilloes of Jewish customs."
+
 ### John Gill:
-1. "And he took the seven loaves and the fishes...that so the miracle might appear in its true light."
-2. "Teaching us to...be thankful for, and content with our portion, be it more or less."
-3. "As a fresh trial of their faith, to reprove their unbelief, to put them in mind of the former miracle, and that they might be witnesses of this."
+1. "And he took the seven loaves and the fishes, into his hands, and lifted them up, that it might be seen, and observed, that there were no other food than these, that so the miracle might appear in its true light."
+2. "And gave thanks; to God for the provision, though it was so small, in the name of the whole company, according to the usage of the Jewish nation."
+3. "Teaching us to do so likewise, and to be thankful for, and content with our portion, be it more or less."
 
 ### John Wesley:
-1. "He gave thanks, or blessed the food" - This highlights the act of expressing gratitude and acknowledging God's provision before partaking in a meal.
-
-2. "He praised God for it" - This emphasizes the importance of recognizing God's goodness and giving Him praise for the food that has been provided.
-
-3. "Prayed for a blessing upon it" - This reminds us of the significance of seeking God's blessing and asking for His favor to be upon the food we consume.
+1. "He gave thanks, or blessed the food — That is, he praised God for it, and prayed for a blessing upon it."
+2. "This act of giving thanks and blessing the food demonstrates a recognition of God's provision and a desire for His favor."
+3. "By giving thanks and blessing the food, Jesus sets an example for us to acknowledge God's goodness and seek His blessing in all aspects of our lives."
 
 
 ## Generation Details

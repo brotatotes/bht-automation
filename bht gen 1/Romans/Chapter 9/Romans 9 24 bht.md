@@ -1,37 +1,43 @@
 # Romans 9:24 Commentary Help Text
 
 ## BHT:
-This verse emphasizes that God's calling is not limited to a specific group but extends to both Jews and Gentiles. The mention of a "remnant" implies that while Israel's rejection was partial, God's promise to Abraham was still fulfilled through the inclusion of the Gentiles. The calling is not based on one's heritage, but rather on God's grace and election, which is known through the effect of being called. This calling is a powerful and irresistible grace that reaches the heart, demonstrating God's inclusive and purposeful plan.
+The Bible verse in question emphasizes that the calling of believers is not limited to a specific group, but encompasses both Jews and Gentiles. It highlights the universal reach of God's grace, which extends to all individuals chosen by His sovereign will. The verse also highlights that this calling is not based on merit, but solely on God's boundless mercy and grace. Additionally, it underscores that this divine calling is not a mere afterthought, but an integral part of God's eternal plan.
 
 ## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Of which kind (quales), He also called us, not only from among the Jews, but also from among the Gentiles." 
+2. "It being entirely in the power of God to preordain and have mercy on whom He will."
+3. "He has exercised this right by calling not only the remnant of His own people, but a people from among the Gentiles also."
+
 ### Jamieson Fausset Brown:
 1. "Whom he hath also called, even us," &c., in not only "afore preparing," but in due time effectually "calling us."
 2. "Not from among Jews only, but also from among Gentiles."
-3. "Had Israel's rejection been total, God's promise to Abraham would not have been fulfilled by the substitution of the Gentiles in their room; but Israel's rejection being only partial, the preservation of a 'remnant,' in which the promise was made good, was but 'according to the election of grace.'"
+3. "Along with this elect remnant of Israel, it is God's purpose to 'take out of the Gentiles a people for His name'."
+
+### Albert Barnes:
+1. "To prove that the Gentiles might be called as well as the Jews, was a leading design of the Epistle."
+2. "This proves that he did not refer to nations primarily, but to individuals chosen out of nations."
+3. "Two things are established here: (1) That the grace of God was not confined to the Jewish people, as they supposed, so that it could be conferred on no others. (2) That God was not bound to confer grace on all the descendants of Abraham, as he bestowed it on those selected from the mass, according to his own will."
 
 ### Marvin Vincent:
-1. "Called - of." This phrase highlights the concept of being chosen or selected by God. It emphasizes that those who are called have a special purpose or role in God's plan.
-
-2. "Compare ch. 8 30." This reference encourages readers to compare the current verse with another passage in chapter 8, verse 30. This comparison can provide further insights or connections to deepen the understanding of the verse at hand.
-
-3. "From among." This phrase suggests that the calling is not indiscriminate but rather specific and selective. It implies that God chooses individuals from a larger group, indicating the uniqueness and purpose behind each calling.
+1. "The word 'called' here implies a special and effectual calling, by which they were separated from the rest of mankind and brought into a state of grace and salvation."
+2. "The phrase 'from among the Gentiles' signifies that the calling of the Gentiles was not a mere afterthought or accidental, but a part of God's eternal plan and purpose."
+3. "This calling is not based on any merit or worthiness in the individuals, but is solely by the grace and mercy of God."
 
 ### John Calvin:
 1. "The grace of God is not so confined to the Jewish people that it does not also flow to other nations, and diffuse itself through the whole world."
-2. "If God's election is based on his own good pleasure alone, wherever his will turns itself, there his election exists."
-3. "The calling of God proves that there is no difference between nations made in election."
+2. "If God’s election is based on his own good pleasure alone, wherever his will turns itself, there his election exists."
+3. "He proves from the calling of God, that there is no difference between nations made in election."
 
 ### Philip Schaff:
-1. "'Also, ' (translated 'even' in the E. V.) belongs to the word 'called,' besides preparing, He also called." 
-2. "'As such' brings out the sense fully, but is a paraphrase rather than a translation. The calling is that of individuals through the gospel."
-3. "'The believing Jew is not called as such, because he is a Jew, but from among the Jews' (Bengel). There is no preference shown them."
+1. "Even as, etc. Or, ‘as such He also called us.’" 
+2. "'Also,' (translated ‘even’ in the E. V.) belongs to the word ‘called,’ besides preparing, He also called."
+3. "'The believing Jew is not called as such, because he is a Jew, but from among the Jews’ (Bengel)."
 
 ### Archibald T Robertson:
-1. "Paul had already alluded to this fact in Romans 9:6 (cf. Galatians 3:7-9)."
-
-2. "Now he proceeds to prove it from the Old Testament."
-
-3. "Paul's argument is that God's promise to Abraham was not limited to the physical descendants of Abraham, but also included the Gentiles."
+1. "Paul had already alluded to this fact in Romans 9:6 (cf. Galatians 3:7-9)." 
+2. "Now he proceeds to prove it from the Old Testament." 
+3. "Paul's argument is that God's promise of salvation extends not only to the Jews but also to the Gentiles."
 
 ### John Gill:
 1. "Election may be known by calling, as the cause by its effect, and that without an extraordinary revelation."
