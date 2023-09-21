@@ -119,7 +119,7 @@ for book in os.listdir(folder_to_check):
                     # input()
 
                     tokens_added_by_gpt = quote_tokens - commentary_tokens
-                    if len(tokens_added_by_gpt) > 0:
+                    if len(tokens_added_by_gpt) > 1:
                         output_file.write(f"## {book} {chapter_number} {verse_number} {commentator} corrupted.\n") 
                         output_file.write(f"Quote: [{quote}]\n")
                         output_file.write(f"Added words: [{tokens_added_by_gpt}]\n\n")

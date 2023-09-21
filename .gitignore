@@ -2,6 +2,7 @@
 gpt output/
 openai-api-key.txt
 scrape commentary/commentary_output
+check_choicests.md
 
 # Ignore Visual Studio Code settings
 .vscode/
