@@ -68,7 +68,7 @@
             fetch(file_path) // Specify the path to your text file
                 .then(response => {
                     if (!response.ok) {
-                        fileContentDiv.textContent = `${book} ${chapter}:${verse} could not be found.\nEither you entered something wrong or it hasn't been generated yet...`;
+                        fileContentDiv.textContent = `${book} ${chapter}:${verse} for BHT Version ${bhtVersion} could not be found.\nIt might not have been generated yet...`;
                         throw new Error('Network response was not ok');
                     }
                     return response.text();
