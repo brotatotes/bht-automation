@@ -282,11 +282,12 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 bht_tokens_set = set(bht_tokens)
                 tokens_not_from_choicests = len(bht_tokens_set - choicests_tokens)
                 proportion_from_choicests = 1 - tokens_not_from_choicests / len(bht_tokens_set)
+                proportion_from_choicests_rounded_percentage = round(proportion_from_choicests * 100, 2)
 
                 if len(bht_tokens) > 100:
-                    print(f"🔄 {verse_ref} BHT WAS OVER 100 WORDS ({len(bht_tokens)})! Regenerating.")
+                    print(f"🔄 {verse_ref} BHT WAS OVER 100 WORDS! ({len(bht_tokens)}) Regenerating.")
                 elif proportion_from_choicests < proportion_from_choicests_limit:
-                    print(f"🔄 {verse_ref} LESS THAN {proportion_from_choicests_limit * 100}% OF BHT WAS FROM QUOTES ({round(proportion_from_choicests * 100, 2)}%)! Regenerating.")
+                    print(f"🔄 {verse_ref} LESS THAN {proportion_from_choicests_limit * 100}% OF BHT WAS FROM QUOTES! ({proportion_from_choicests_rounded_percentage}%) Regenerating.")
                 else:
                     break
 
@@ -307,7 +308,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 out_file.write(f"- BHT Prompt: \"{bht_prompt}\"\n")
                 out_file.write(f"- Commentators: \"{', '.join(commentators)}\"\n")
             
-            print(f"✅ {verse_ref} {bht_prompt} Done!", flush=True)
+            print(f"✅ {verse_ref} {bht_prompt} Done! ({len(bht_tokens)} words, {proportion_from_choicests_rounded_percentage}% quotes)", flush=True)
 
             # time.sleep(0.017) # follow rate limits
 
