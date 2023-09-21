@@ -34,7 +34,8 @@ def get_commentary(commentator, book, chapter, verse):
     return file_contents
 
 
-folder = "bht gen 1"
+# folder_to_check = "bht gen 1"
+folder_to_check = "gpt output/bht/choicest prompt v2 X bht prompt v3"
 
 verse_count = 0
 missing_commentary_quotes_count = 0
@@ -44,21 +45,21 @@ corrupted_verses_count = 0
 output_file = open('check_choicests.md', 'w')
 output_file.write("# Issues Found:\n\n")
 
-for book in os.listdir(folder):
+for book in os.listdir(folder_to_check):
     if book.startswith('.'):
         continue
 
-    for chapter in os.listdir(f"{folder}/{book}"):
+    for chapter in os.listdir(f"{folder_to_check}/{book}"):
         if chapter.startswith('.'):
             continue
 
-        for verse in os.listdir(f"{folder}/{book}/{chapter}"):
+        for verse in os.listdir(f"{folder_to_check}/{book}/{chapter}"):
             verse_count += 1
             print(f"\r{verse_count} / 7957", end="", flush=True)
             if verse.startswith('.'):
                 continue
 
-            bht_content = open(f"{folder}/{book}/{chapter}/{verse}", 'r').read()
+            bht_content = open(f"{folder_to_check}/{book}/{chapter}/{verse}", 'r').read()
             pattern = r'^### .+:$'
             commentators = set([c[4:-1] for c in re.findall(pattern, bht_content, re.MULTILINE)])
             missing_commentators = COMMENTATORS - commentators

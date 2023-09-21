@@ -397,7 +397,7 @@ if __name__ == '__main__':
 
     start_time = time.time()
 
-    generate_bht_concurrently(verses, ["choicest prompt v1"], ["bht prompt v3"], COMMENTATORS)
+    generate_bht_concurrently(BibleRange("Romans 8:1-11"), ["choicest prompt v2"], ["bht prompt v3"], COMMENTATORS)
 
     elapsed_time = time.time() - start_time
     print(f"That took {elapsed_time} seconds.")
